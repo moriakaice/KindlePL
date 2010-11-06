@@ -1,0 +1,58 @@
+Z
+I
+[Ljava/awt/Rectangle;
+Ljava/lang/StringBuffer;
+Lcom/amazon/ebook/booklet/reader/sdk/Position;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+(Z)V
+toString
+()Ljava/lang/String;
+SourceFile
+java/lang/StringBuffer
+TTSReaderPluginState - reading=
+, readingPaused=
+, readingPausedAutomatically=
+, pauseBySystemCount=
+, curId=
+, endOfFile=
+, currentSessionId=
+, waitForAudioPlaying=
+, endOfPagePosition=
+java/lang/Object
+cancel
+()Z
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(Z)Ljava/lang/StringBuffer;
+(I)Ljava/lang/StringBuffer;
+(Ljava/lang/Object;)Ljava/lang/StringBuffer;
+(Ljava/lang/String;)V
+a
+A
+b
+B
+Lcom/amazon/ebook/util/e/d;
+c
+C
+d
+D
+e
+Lcom/amazon/ebook/booklet/reader/sdk/q;
+E
+f
+F
+g
+G
+h
+Lcom/amazon/ebook/booklet/reader/plugin/tts/b;
+(ILcom/amazon/ebook/booklet/reader/sdk/q;[Ljava/awt/Rectangle;I)V
+com/amazon/ebook/booklet/reader/plugin/tts/b
+ttc
+Lcom/amazon/ebook/util/b/e;
+com/amazon/ebook/util/b/e
+com/amazon/ebook/booklet/reader/plugin/tts/l
+com/amazon/ebook/util/e/d

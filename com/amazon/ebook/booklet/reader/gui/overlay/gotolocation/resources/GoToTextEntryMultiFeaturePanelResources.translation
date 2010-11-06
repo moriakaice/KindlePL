@@ -1,0 +1,22 @@
+﻿[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/overlay/gotolocation/resources/GoToTextEntryMultiFeaturePanelResources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+title
+Go to...	Перейти к...
+num.lines
+java/lang/Integer
+com/amazon/ebook/booklet/reader/gui/overlay/gotolocation/resources/GoToTextEntryMultiFeaturePanelResources
+java/util/ListResourceBundle
+(I)V
+a
+gzc

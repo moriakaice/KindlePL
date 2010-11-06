@@ -1,0 +1,32 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/HomeResources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+home.booklet.name
+Home
+home.menu.personalization.label
+My Kindle	Мой Kindle
+download.wan.off
+Your wireless is turned off, please turn it on and try again.	Связь недоступна, включите ее и попробуйте еще раз.
+exceeded.licenses.alert
+This item cannot be currently downloaded because all of its licenses are in use on your other devices.~~~~To download it to this device, you can either delete it from another one of your devices or purchase another copy from the Kindle store.~~~~	Этот элемент не может быть загружен в данное время, потому что, все доступные лицензии уже использованы вами на других устройствах.~~~~Вы должны удалить его с другого устройства или купить еще одну копию в магазине Amazon.~~~~
+home.viewdownloaditem.menuitem.label
+View Downloading Items	Загружаемые сейчас книги
+home.view.sound
+home.delete.button.sound
+delete
+home.remove.button.sound
+remove from device
+com/amazon/ebook/booklet/home/foundation/resources/HomeResources
+java/util/ListResourceBundle
+a
+god

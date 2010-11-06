@@ -1,0 +1,14 @@
+serialVersionUID
+J
+ConstantValue
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/topazreader/TopazDRMException;
+SourceFile
+com/amazon/ebook/booklet/topazreader/TopazDRMException
+com/amazon/ebook/booklet/topazreader/TopazException
+a
+xmc

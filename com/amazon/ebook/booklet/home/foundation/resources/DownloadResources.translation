@@ -1,0 +1,43 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/DownloadResources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+header.text
+Downloading Items	Загружаемые элементы
+header.right.str
+
+footer.close.button.str
+Close	Закрыть
+text.2.complete
+download complete	загрузка завершена
+text.2.pending
+pending - {0}%	осталось  - {0}%
+text.2.downloading
+downloading - {0}%	загружено - {0}%
+text.2.wireless.required
+wireless connection required - {0}%	требуется GPRS - {0}%
+text.2.insufficient.space
+insufficient space - {0}%	недостаточно места - {0}%
+text.2.wifi.required
+Wi-Fi required - {0}%	требуется Wi-Fi - {0}%
+text.2.failed
+error	ошибка
+text.2.default
+text.2.font
+view.name.sound
+com/amazon/ebook/booklet/home/foundation/resources/DownloadResources
+java/util/ListResourceBundle
+(IZZ)Ljava/awt/Font;
+a
+nod
+()Lcom/amazon/ebook/framework/c/a;
+com/amazon/ebook/framework/c/a

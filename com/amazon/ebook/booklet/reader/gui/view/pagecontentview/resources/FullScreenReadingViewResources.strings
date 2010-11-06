@@ -1,0 +1,19 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/view/pagecontentview/resources/FullScreenReadingViewResources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+gui.reader.pdf.hint.nudge
+Hold down shift and use 5-way controller to nudge
+com/amazon/ebook/booklet/reader/gui/view/pagecontentview/resources/FullScreenReadingViewResources
+java/util/ListResourceBundle
+a
+xvc

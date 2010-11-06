@@ -1,0 +1,175 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/ViewInfoResources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+vi.widget.font
+vi.widget.width
+java/lang/Integer
+vi.widget.textline.offset
+vi.title.font
+vi.title.collection.font
+vi.author.font
+vi.author.collection.font
+vi.icon.font
+vi.audio.font
+vi.cursor.height
+vi.x.margin
+vi.x.colbuffer
+vi.title.offset
+vi.title.spacing
+vi.author.offset
+vi.author.masthead.offset
+vi.filename.offset
+vi.masthead.offset
+vi.icon.offset
+vi.audio.offset
+vi.audio.spacing
+vi.narrator.format
+java/text/MessageFormat
+Narrator: {0}	Рассказчик: {0}
+vi.pubdate.format
+Date: {0}	Дата: {0}
+vi.length.format
+Length: {0}	Длина: {0}
+vi.y.offset
+vi.y.spacing
+vi.y.big.spacing
+vi.cover.x.offset
+vi.cover.y.offset
+vi.cover.x.margin
+vi.cover.y.margin
+vi.cover.max.width
+vi.cover.background.color
+vi.cover.buffer
+vi.cover.background.collection.fill.color
+vi.cover.background.collection.line.color
+vi.cover.collection.y.offset
+vi.cover.collection.x.offset
+vi.cover.collection.num.shadows
+vi.unknown.data
+Unknown	Неизвестно
+vi.goto.lastpage
+Go to Last Page Read	К месту последнего чтения
+vi.goto.firstarticle
+Go to First Article	К первой статье
+vi.goto.beginning
+Go to Beginning	В начало
+vi.goto.location
+Go to Location...	В позицию...
+vi.goto.page
+Go to Page...	На страницу...
+vi.goto.index
+Go to Index	На содержание
+vi.goto.frontpage
+Go to Front Page	На первую страницу
+vi.goto.section
+Go to Section...	Разделы...
+vi.bookdesc
+Book Description	Описание книги
+vi.searchbook
+Search This Book	Искать в этой книге
+vi.searchdoc
+Search This Document	Искать в этом документе
+vi.mynotes
+My Notes & Marks	Мои заметки
+vi.mybookmarks
+My Bookmarks	Мои закладки
+vi.remove.device
+Remove from Device	Удалить с устройства
+vi.delete.device
+Delete This Book	Удалить эту книгу
+vi.delete.mp3
+Delete This File	Удалить этот файл
+vi.delete.document
+Delete This Document	Удалить этот документ
+vi.buy.now
+Buy This Book Now	Купить эту книгу
+vi.search.sample
+Search This Sample	Искать в этом образце
+vi.delete.sample
+Delete This Sample	Удалить этот образец
+vi.search.issue
+Search This Issue	Искать в этом выпуске
+vi.search.blog
+Search This Blog	Искать в этом блоге
+vi.keep.issue
+Keep This Issue	Сохранить этот выпуск
+vi.dont.keep.issue
+Do Not Keep This Issue	Не сохранять этот выпуск
+vi.delete.issue
+Delete This Issue	Удалить этот выпуск
+vi.delete.blog
+Delete This Blog	Удалить этот блог
+vi.resume.playing
+Resume Playing
+vi.start.beginning
+Start from Beginning	Начать с начала
+vi.start.application
+Open	Открыть
+vi.description.application
+Description	Описание
+vi.delete.application
+Delete	Удалить
+vi.support.application
+Support	Поддержка
+vi.diskusage.offset
+vi.diskusage.format
+Using {0,number,integer} bytes	Использованно {0,number,integer} байт
+vi.diskusage.font
+vi.activecontent.version.format
+Version {0}	Версия {0}
+vi.activecontent.version.offset
+vi.activecontent.version.font
+vi.view.collections.template
+Assigned Collections ({0})	Присвоено коллекций ({0})
+vi.add.collections
+Add to Collection...	Добавить в коллекцию...
+vi.disabled.color
+vi.enabled.color
+vi.delete.dialog.title
+Delete Item	Удалить элемент
+vi.delete.collection.dialog.title
+Delete Collection	Удалить коллекцию
+vi.delete.dialog.text
+This item will be permanently deleted. Would you like to continue?	Удалить элемент окончательно?
+vi.delete.dialog.text.collection
+This collection will be permanently deleted, but the contents will not be affected and will remain on your Kindle. Would you like to continue?	Эта коллекция будет удалена, но ее содержимое останется на устройстве. Продолжить?
+vi.delete.dialog.text.kindleapp
+This item and its settings will be permanently deleted.  Would you like to continue?	Этот элемент и его настройки будут удалены. Продолжить?
+vi.collection.author.template
+java/text/ChoiceFormat
+0#0 Items|1#1 Item|2#{0,number,integer} Items	0#0 Элементов|1#1 Элемент|2#{0,number,integer} Элементов
+vi.open.collection
+Open Collection	Открыть коллекцию
+vi.edit.collection
+Add/Remove Items	Добавить/Удалить элемент
+vi.rename.collection
+Rename Collection	Переименовать коллекцию
+vi.delete.collection
+vi.goto.lastpage.sound
+Go to Last Page Red
+vi.view.sound.template
+info view
+com/amazon/ebook/booklet/home/foundation/resources/ViewInfoResources
+java/util/ListResourceBundle
+(IZZ)Ljava/awt/Font;
+(I)V
+(I)Ljava/awt/Font;
+(Ljava/lang/String;)V
+Ljava/awt/Color;
+a
+wnd
+B
+b
+()Lcom/amazon/ebook/framework/c/a;
+com/amazon/ebook/framework/gui/d
+com/amazon/ebook/framework/c/a

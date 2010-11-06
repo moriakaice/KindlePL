@@ -1,0 +1,27 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/resources/CheckItemsResources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+progress.checking
+Checking...	Проверка...
+wm.cant.connect.msg
+Your Kindle is unable to connect at this time. Please try again later.	Ваш Kindle не может подключится в данное время. Пожалуйста, попробуйте позже.
+item.body
+Sync & Check for Items	Синхронизация
+radio.off.body
+Your radio is switched off. Unable to check for new items	Нет подключения. Невозможно проверить новые книги
+item.date.format
+{0,date}-{0,time}
+com/amazon/ebook/framework/resources/CheckItemsResources
+java/util/ListResourceBundle
+a
+ewb

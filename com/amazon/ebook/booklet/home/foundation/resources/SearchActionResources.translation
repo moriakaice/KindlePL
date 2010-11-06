@@ -1,0 +1,23 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/SearchActionResources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+go.to.page.action.template
+click to go to page {0,number,integer}	перейти к странице {0,number,integer}
+go.to.letter.action.titles.template
+click to go to {0} titles	перейти к {0} заголовку
+go.to.letter.action.authors.template
+click to go to {0} authors	перейти к {0} автору
+com/amazon/ebook/booklet/home/foundation/resources/SearchActionResources
+java/util/ListResourceBundle
+a
+bod

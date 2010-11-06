@@ -1,0 +1,96 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/CollectionResources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+collection.filter.all.format
+java/text/ChoiceFormat
+0#Showing All {0,number,integer} Items|1#Showing All {0,number,integer} Item|2#Showing All {0,number,integer} Items
+collection.filter.books.format
+0#Showing All {0,number,integer} Books|1#Showing All {0,number,integer} Book|2#Showing All {0,number,integer} Books
+collection.filter.subs.format
+0#Showing All {0,number,integer} Periodicals|1#Showing All {0,number,integer} Periodical|2#Showing All {0,number,integer} Periodicals
+collection.filter.pdocs.format
+0#Showing All {0,number,integer} Personal Documents|1#Showing All {0,number,integer} Personal Document|2#Showing All {0,number,integer} Personal Documents
+collection.filter.all
+All My Items
+collection.filter.books
+Books
+collection.filter.subs
+Subscriptions
+collection.filter.pdocs
+Personal Docs
+collection.sort.recent.label
+By Most Recent First
+collection.sort.title.label
+By Title
+collection.sort.author.label
+By Author
+collection.sort.recent
+Most Recent First
+collection.sort.title
+Title
+collection.sort.author
+Author
+collection.menuitem.additems.name
+Add/Remove Items
+collection.menuitem.edit.collection.name
+Rename Collection
+collection.menuitem.delete.collection
+Delete Collection
+collection.menuitem.create.collection
+Create a New Collection
+collection.menuitem.default.item
+java/lang/Integer
+collection.widget.font
+collection.enter.overlay.height
+collection.enter.overlay.x.margin
+collection.enter.overlay.textbox.x.margin
+collection.enter.overlay.y.margin
+collection.enter.overlay.textbox.y.buffer
+collection.enter.overlay.title.y.margin
+collection.enter.failed.overlay.height
+collection.enter.overlay.line.spacing
+collection.enter.overlay.max.chars
+collection.enter.overlay.save.button.label
+save
+collection.enter.overlay.title
+Enter Collection Name
+collection.edit.overlay.title
+Edit Collection Name
+collection.edit.alreadyexists.overlay.title
+Collection Name Already Exists
+collection.edit.alreadyexists.overlay.msg
+The collection name that you entered already exists. Please enter a different name.
+collection.enter.overlay.title.font
+collection.enter.overlay.main.font
+collection.enter.overlay.field.font
+collection.view.sound.template
+{0} collection
+collection.remove.sound
+remove from collection
+collection.text.offset
+collection.text.line.margin
+collection.line.thickness
+collection.line.x.margin
+collection.label.left.margin
+collection.label.right.margin
+collection.label.font
+com/amazon/ebook/booklet/home/foundation/resources/CollectionResources
+java/util/ListResourceBundle
+(Ljava/lang/String;)V
+(I)V
+(IZZ)Ljava/awt/Font;
+(I)Ljava/awt/Font;
+a
+qod
+()Lcom/amazon/ebook/framework/c/a;
+com/amazon/ebook/framework/c/a

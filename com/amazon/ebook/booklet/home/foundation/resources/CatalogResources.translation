@@ -1,0 +1,77 @@
+﻿[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/CatalogResources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+apps.citem.text.1
+Applications	Программы
+apps.citem.text.2
+
+apps.filter.format
+java/text/ChoiceFormat
+0#Showing {0,number,integer} Applications|1#Showing {0,number,integer} Application|2#Showing {0,number,integer} Applications
+archiveditems.citem.text.1
+Archived Items	Документы в Архиве
+archiveditems.citem.text.2
+collectionsitem.citem.text.1
+Collections	Коллекции
+collectionsitem.citem.text.2
+backissues.citem.text.1
+Periodicals: Back Issues
+backissues.citem.text.2
+backissues.filter.format
+0#Showing {0,number,integer} Back Issues|1#Showing {0,number,integer} Back Issue|2#Showing {0,number,integer} Back Issues
+backissues.citem.date.string.none
+(none)	(нет)
+backissues.citem.date.single.format
+backissues.citem.date.long.pattern
+{0,date,medium} - {1,date,medium}
+backissues.citem.date.medium.pattern
+backissues.citem.date.short.pattern
+blogs.citem.text.1
+Blogs	Блоги
+blogs.citem.text.2
+blogs.filter.format
+0#Showing {0,number,integer} Blogs|1#Showing {0,number,integer} Blog|2#Showing {0,number,integer} Blogs
+books.citem.text.1
+Books	Книги
+books.citem.text.2
+books.filter.format
+0#Showing {0,number,integer} Books|1#Showing {0,number,integer} Book|2#Showing {0,number,integer} Books
+collections.hiw.font
+collections.citem.text.2
+currentissues.citem.text.1
+Periodicals: Current Issues
+currentissues.citem.text.2
+currentissues.filter.format
+0#Showing {0,number,integer} Current Issues|1#Showing {0,number,integer} Current Issue|2#Showing {0,number,integer} Current Issues
+pdocs.citem.text.1
+Personal Docs	Персональные документы
+pdocs.citem.text.2
+pdocs.filter.format
+0#Showing {0,number,integer} Personal Docs|1#Showing {0,number,integer} Personal Doc|2#Showing {0,number,integer} Personal Docs
+unassigneditems.citem.text.1
+Unassigned Items
+unassigneditems.citem.text.2
+backissues.monthdayyear.template
+backissues.default.timezone
+UTC
+com/amazon/ebook/booklet/home/foundation/resources/CatalogResources
+java/util/ListResourceBundle
+(Ljava/lang/String;)V
+java/text/DateFormat
+getDateInstance
+(I)Ljava/text/DateFormat;
+(IZZ)Ljava/awt/Font;
+a
+fwb
+()Lcom/amazon/ebook/framework/c/a;
+com/amazon/ebook/framework/c/a

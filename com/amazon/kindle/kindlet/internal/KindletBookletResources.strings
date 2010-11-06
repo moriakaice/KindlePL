@@ -1,0 +1,38 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/kindle/kindlet/internal/KindletBookletResources;
+getContents
+()[[Ljava/lang/Object;
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+kindlet.crash.startup.message
+An error occurred opening the title.
+kindlet.startup.invalid.drm.message
+The selected title could not be opened. If you purchased this title from Amazon, you can try redownloading the title from Archived Items in Home. For additional help, please call Kindle Customer Service at 1-866-321-8851 or 206-266-0927.
+kindlet.crash.shutdown.message
+An error occurred closing this title.
+kindlet.crash.general.message
+The requested title encountered an error.
+kindlet.remove.message
+The title that was open was removed from the Kindle while in USB mode.
+kindlet.restart.framework.message
+The title failed to close properly. Amazon recommends you to restart your Kindle. Unless you close this dialog message, your device will restart in {0} seconds.
+kindlet.restart.framework.button
+restart
+kindlet.restartnow.framework.message
+An error occured with the title. The Kindle will restart in {0} seconds.
+kindlet.upgrade.required
+The title you want to open requires a new version of the Kindle software. Please visit Manage Your Kindle web page to obtain an update.
+kindlet.crash.lowmemory.message
+The active content title is consuming a large amount of system memory, it will be closed and your device may be restarted.
+kindlet.crash.unknown
+An error occurred while running the active content title.  It will be closed by the system
+com/amazon/kindle/kindlet/internal/KindletBookletResources
+java/util/ListResourceBundle
+a
+cnb

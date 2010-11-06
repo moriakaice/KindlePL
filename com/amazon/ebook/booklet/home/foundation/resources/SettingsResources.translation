@@ -1,0 +1,445 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/SettingsResources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+settings.header.text
+Settings	Настройки
+settings.footer.buffer
+java/lang/Integer
+settings.footer.version.format
+java/text/MessageFormat
+Version: {0}	Версия: {0}
+settings.footer.page.format
+java/text/ChoiceFormat
+1#Page {0,number,integer} of {1,number,integer}	1#Страница {0,number,integer} из {1,number,integer}
+settings.footer.bar.date.format
+settings.left.x.margin
+settings.right.x.margin
+settings.widget.spacing
+settings.widget.offset
+settings.widget.header.offset
+settings.widget.footer.ext.buffer
+settings.widget.header.spacing
+settings.widget.header.desc.spacing
+settings.widget.desc.spacing
+settings.widget.desc.footer.spacing
+settings.widget.max.num.desc.lines
+settings.widget.footer.init.spacing
+settings.widget.footer.spacing
+settings.widget.link.x.spacing
+settings.widget.link.x.margin
+settings.widget.link.line.offset
+settings.widget.header.font
+settings.widget.desc.font
+settings.widget.footer.font
+settings.widget.link.font
+settings.desc.body.registered
+The following pages contain settings to personalize your Kindle experience. Press the Next and Previous page buttons to see all the settings.	Эти страницы содержат настройки Вашего Kindle. Нажмите кнопки 'Следующая страница' или 'Предыдущая страница' чтобы увидеть остальные настройки.
+settings.desc.body.not.registered
+This page contains settings to personalize your Kindle experience.	Эта страница содержит персональные настройки вашего Kindle.
+settings.wifi.header
+Wi-Fi Settings 	Настройки Wi-Fi 
+settings.wifi.subheader.not.connected
+not connected	нет подключения
+settings.wifi.body
+Join a Wi-Fi network for faster downloads.	Подключитесь к сети Wi-Fi для быстрого скачивания книг.
+settings.wifi.footer.template
+Available Wi-Fi Networks ({0})~~Network: {1}	Доступно Wi-Fi сетей ({0})~~Сеть: {1}
+settings.wifi.cursor
+view	просмотр
+settings.wifi.height
+settings.wifi.max.num.footer.lines
+settings.wifi.subheader.font
+settings.reg.height
+settings.reg.link.offset
+settings.reg.header
+Registration	Регистрация
+settings.reg.body
+This device and any content purchased in the Kindle Store are registered to the Amazon user shown below.	Это устройство и любое содержимое купленное на Amazon, зарегистрировано на имя указанное ниже.
+settings.dereg.body
+not registered	не зарегистрирован
+settings.reg.cursor
+register	регистрировать
+settings.dereg.cursor
+deregister	разрегистрировать
+settings.reg.max.num.desc.lines
+settings.reg.max.num.footer.lines
+settings.reg.footer.date.template
+Registered on {0}	Зарегистрирован на {0}
+settings.reg.footer.date.format
+settings.reg.footer.user.str
+Registered User: 	Зарегистрирован на: 
+settings.device.info.header
+Device Info	Информация об устройстве
+settings.device.info.footer.lines.template.with.wifi
+Wi-Fi MAC Address: {0}~~Serial Number: {1}~~Network Capability: {2}	Wi-Fi MAC Адрес: {0}~~Серийный номер: {1}~~Возможности сетей: {2}
+settings.device.info.footer.lines.template.without.wifi
+Serial Number: {0}~~Network Capability: {1}	Серийный номер: {0}~~Возможности сетей: {1}
+settings.device.info.sn.default
+Unavailable	Недоступен
+settings.device.info.wifi.mac.address.default
+settings.device.info.network.capability.wifi
+Wi-Fi
+settings.device.info.network.capability.3g
+3G
+settings.device.info.network.capability.wifiand3g
+Wi-Fi and 3G	Wi-Fi и 3G
+settings.device.info.max.numb.footer.lines.with.wifi
+settings.device.info.max.numb.footer.lines.without.wifi
+settings.device.header
+Device Name	Имя устройства
+settings.device.body
+Personalize your Kindle by giving it a name that appears on the Home page.	Сделайте свой Kindle уникальным, дайте ему имя!
+settings.device.footer.template
+Name: {0}	Имя: {0}
+settings.device.cursor
+edit	изменить
+settings.device.max.num.footer.lines
+settings.device.text.font
+device.name.button.submit.unsel
+Butn_Submit1.gif
+device.name.button.submit
+Butn_Submit2.gif
+settings.device.time.header
+Device Time	Время
+settings.device.time.body
+Set the local time on your Kindle.	Установите локальное время на своем Kindle.
+settings.device.time.cursor.edit
+settings.device.time.cursor.set
+set	установить
+settings.device.time.cursor.set.manually
+set manually	установить вручную
+settings.device.time.cursor.set.automatically
+set automatically	установить автоматически
+settings.device.time.max.num.footer.lines
+settings.pwd.header
+Device Password	Парольная защита
+settings.pwd.body
+Restrict access to your Kindle by creating a password.	Вы можете ограничить доступ к Вашему Kindle установив пароль.
+settings.pwd.text.on
+On	Вкл
+settings.pwd.text.off
+Off	Выкл
+settings.pwd.cursor.on
+turn on	включить
+settings.pwd.cursor.off
+turn off	отключить
+settings.pwd.cursor.edit
+settings.pwd.title.text.buffer
+settings.pwd.hint.template
+Password hint: {0}	Подсказка пароля: {0}
+settings.pwd.max.num.footer.lines
+settings.pwd.text.font
+settings.phl.header
+Popular Highlights  	Популярные заметки  
+settings.phl.body
+Display the passages that are most frequently highlighted by other Kindle users.	Отображать отрывки, которые наиболее часто выделяются другими пользователями.
+settings.phl.text.on
+Show	Показать
+settings.phl.text.off
+Hide	Скрыть
+settings.phl.cursor.on
+settings.phl.cursor.off
+settings.phl.title.text.buffer
+settings.phl.text.font
+settings.phl.highlighters.cursor.on
+show	показывать
+settings.phl.highlighters.cursor.off
+hide	скрыть
+settings.phl.highlighters.spoken.header
+Popular Highlights
+settings.accessibility.header
+Voice Guide	Голосовые подсказки
+settings.accessibility.body
+Navigate your Kindle with spoken menus, selectable items, and descriptions.	Kindle может проговаривать меню, примечания и другие элементы управления.
+settings.accessibility.cursor.enable
+settings.accessibility.cursor.disable
+settings.email.header
+Device Email	Email устройства
+settings.email.body
+You can send documents to your Kindle's e-mail address shown below. To edit the address or add additional addresses to your approved list of senders, go to: www.amazon.com/myk. For UK customers, go to: www.amazon.co.uk/myk.	Вы можете отправлять свои книги на Ваш Kindle через Email указанный ниже. Для изменения EMail'a зайдите на адрес www.amazon.com/myk.
+settings.email.cursor.text
+
+settings.email.max.num.footer.lines
+settings.email.max.num.desc.lines
+settings.pi.header
+Personal Info	Персональные данные
+settings.pi.default.font
+settings.pi.default.text
+- no personal info -	- персональной информации нет -
+settings.pi.cursor
+settings.pi.max.num.footer.lines
+settings.sharing.cursor
+manage	управление
+settings.sharing.header
+Social Networks	Социальные сети
+settings.sharing.body
+Share notes and highlights with friends using your social network accounts (like Twitter or Facebook).	Поделитесь с друзьями своими аннотациями через социальные сети (такие как Twitter или Facebook).
+settings.annotations.enable.cursor
+settings.annotations.disable.cursor
+settings.annotations.header
+Annotations Backup	Сохранение аннотаций
+settings.annotations.body
+Automatically backup your device annotations, last page read, and collections at Amazon.	Автоматически сохранять аннотации, последнюю прочитанную страницу и коллекции на сайте Amazon.
+settings.menu.default.item
+settings.menu.update
+Update Your Kindle	Обновление Kindle
+settings.menu.dictionary
+Change Primary Dictionary	Выбрать основной словарь
+settings.menu.enable.annotations
+Enable Annotations Backup	Включить сохранение аннотаций
+settings.menu.disable.annotations
+Disable Annotations Backup	Выключить сохранение аннотаций
+settings.menu.enable.accessibility
+Voice Guide: Turn on/off	Голосовые подсказки: Вкл/Выкл
+settings.menu.disable.accessibility
+Turn off Accessible Mode	
+settings.menu.enable.popular.highlights
+Enable Popular Highlights	Вкл. популярные аннотации
+settings.menu.disable.popular.highlights
+Disable Popular Highlights	Выкл. популярные аннотации
+settings.menu.restart
+Restart	Перезапуск Kindle
+settings.menu.legal
+Legal	Авторские права
+settings.legal.header
+About Kindle	О Kindle
+settings.legal.page.format
+{0} of {1}	{0} из {1}
+settings.legal.page.sound.format
+Page {0} of {1}	Страница {0} из {1}
+settings.legal.x.margin
+settings.legal.y.margin
+settings.legal.cp.line.height
+settings.legal.cp.line.spacing
+settings.legal.cp.x.margin
+settings.legal.cp.y.margin
+settings.legal.java.height
+settings.legal.java.imgheight
+settings.legal.cp.header.font
+settings.legal.cp.body.font
+settings.pwd.enter
+Enter Password: 	Введите пароль: 
+settings.pwd.confirm
+Confirm Password: 	Повторите пароль: 
+settings.pwd.set
+Set Password	Установить пароль
+settings.pwd.edit
+Edit Password	Изменить пароль
+settings.pwd.didntmatch
+Passwords did not match. Please try again.	Пароли не совпадают, попробуйте еще раз.
+settings.pwd.incorrect
+Incorrect password. Please try again.	Неправильный пароль, попробуйте еще раз.
+settings.pwd.incorrect.sound
+Incorrect password.  Please try again. Enter Password: 	Неправильные пароль, попробуйте еще раз. Введите пароль: 
+settings.pwd.x.buffer
+settings.pwd.y.buffer
+settings.pwd.line.spacing
+settings.pwd.min.chars
+settings.pwd.max.chars
+settings.pwd.overlay.height
+settings.pwd.incorrect.height
+settings.pwd.font
+settings.pwd.2.set.body
+Create a password to protect your Kindle.  If you forget your password, you can reset your Kindle, which will also remove all content to prevent other people from accessing it.	Создайте пароль, чтобы защитить ваш Kindle. Вы можете сбросить пароль сбросив настройки Kindle на заводские, но при этом, книги будут удалены.
+settings.pwd.2.y.body
+settings.pwd.2.set.title
+settings.pwd.2.edit.title
+settings.pwd.2.didnt.match
+settings.pwd.2.enter
+settings.pwd.2.confirm
+settings.pwd.2.enter.new
+Enter New Password: 	Введите новый пароль: 
+settings.pwd.2.hint
+Enter Password Hint: 	Подсказка к паролю: 
+settings.pwd.2.hint.x
+settings.pwd.2.hint.helper
+Enter a phrase that can help you remember your password	Введите фразу, которая поможет Вам вспомнить пароль
+settings.pwd.2.x.buffer
+settings.pwd.2.y.buffer
+settings.pwd.2.y.textfield.buffer
+settings.pwd.2.y.textfield.offset
+settings.pwd.2.main.y
+settings.pwd.2.enter.y
+settings.pwd.2.confirm.y
+settings.pwd.2.enter.x
+settings.pwd.2.height
+settings.pwd.2.font
+settings.pwd.2.main.font
+settings.pwd.2.hint.y
+settings.pwd.2.hint.helper.y
+settings.pwd.2.hint.max.chars
+settings.pwd.2.hint.helper.font
+settings.oobe.wifi.header
+Join a Wi-Fi Network	Подключиться к Wi-Fi сети
+settings.oobe.wifi.body
+To register your Kindle, shop or browse for content in the Kindle Store, or view Web sites, you must first connect to a Wi-Fi network.~~~~You can always set up a Wi-Fi connection later through the Settings page.	Подключитесь сперва к Wi-Fi сети, чтобы зарегистрировать Kindle, покупать книги, просматривать веб страницы.~~~~Вы сможете позже установить Wi-Fi соединение, в меню Настроек.
+settings.oobe.wifi.set.up.button
+join a network	подключиться к сети
+settings.oobe.wifi.remind.me.later.button
+remind me later	напомнить позже
+settings.oobe.wifi.overlay.width
+settings.611.x.margin
+settings.611.y.margin
+settings.611.title
+611 Page	Страница 611
+settings.611.empty.string
+settings.611.border
+settings.611.refresh.rate
+settings.611.inner.margin
+settings.611.line.spacing
+settings.611.bounds
+java/awt/Rectangle
+settings.611.data.area.x
+settings.611.data.area.y
+settings.611.data.area.line.height
+settings.611.data.area.left.margin
+settings.611.data.area.right.margin
+settings.611.data.area.top.margin
+settings.611.data.area.bottom.margin
+settings.611.label.x
+settings.611.label.y
+settings.611.label.height
+settings.611.page.number.x
+settings.611.page.number.height
+settings.611.refresh.time
+settings.611.page.number.font
+settings.611.label.font
+settings.611.data.area.font
+settings.611.content.back.ground
+settings.611.content.fore.ground
+settings.711.title
+711 Page	Страница 711
+settings.711.label.font
+settings.711.refresh.time
+settings.711.nowifi.str
+The device does not have WiFi
+settings.wirelessdatacp.data.default.str
+settings.411.server.up.string
+UP	Вкл
+settings.411.server.down.string
+DOWN	Выкл
+settings.411.title
+411 Page	Страница 411
+settings.411.msid.template
+IMSI: {0}
+settings.411.esn.template
+Radio Serial Number: {0}
+settings.411.mac.template
+MAC Address: {0}
+settings.411.prl.version.template
+Roaming Version Number: {0}
+settings.411.waveform.version.template
+Waveform Version: {0}
+settings.411.ota.current.update.version.template
+OTA Current / Update Version: {0} / {1}
+settings.411.unknown.return
+(unknown)
+settings.411.certificate.found
+Certificate: FOUND
+settings.411.certificate.missing
+Certificate: MISSING
+settings.411.data.retrieved.message
+Retrieving data...
+settings.411.serial.number.template
+Serial Number: {0}
+settings.411.server.up.template
+The {0} server is {1}
+settings.411.device.registered.yes
+Device Registered? YES
+settings.411.device.registered.no
+Device Registered? NO
+settings.411.cert.path
+certs/client.p12
+settings.411.margin
+settings.411.line.spacing
+settings.411.width
+settings.411.x.margin
+settings.411.y.margin
+settings.device.title
+Set Device Name	Установить имя Kindle
+settings.device.title.font
+settings.device.textbox.font
+settings.device.numlines
+settings.device.overlay.height
+settings.device.x.offset
+settings.device.textbox.x.offset
+settings.device.textbox.y.buffer
+settings.device.y.offset
+settings.device.title.y.offset
+settings.device.max.chars
+settings.device.save.button.label
+save	сохранить
+settings.deregistration.header
+Deregister Your Kindle	Разрегистрировать Ваш Kindle
+settings.deregistration.body
+Your Kindle will be deregistered from your Amazon account and many features will not work. After deregistering, you can register your device to another Amazon account.	Ваш Kindle будет разрегистрирован на Amzaon и многие возможности перестанут работать, после разрегистрации, Вы сможете зарегистрировать Kindle на другое имя.
+settings.deregistration.button.text
+settings.deregistration.server.error.text
+There was an error while deregistering your device. Please try again later.	Ошибка при разрегистрации. Попробуйте позже.
+switch.wireless.provider.overlay.label
+Switching Wireless Providers	Переключить GSM оператора
+switch.wireless.provider.overlay.body
+Your current provider is {0}.~~Your Kindle will lose its connection during this process. Manually switching wireless providers may take serveral minutes to complete, and your Kindle may not successfully reconnect to the Amazon Whispernet network. Do you wish to continue?	Ваш GSM оператор: {0}. Ваш Kindle потеряет связь с GSM оператором в процессе изменения оператора. Ручное переключение оператора может занять пару минут, и Kindle может не подключиться к Wispernet в итоге. Вы хотите продолжить?
+set_time_and_date.content_panel.title.text
+Set Time	Настройка времени
+set_time_and_date.content_panel.auto_sync.text
+set_time_and_date.content_panel.title.font
+set_time_and_date.content_panel.seperators.font
+set_time_and_date.content_panel.seperators.insets
+java/awt/Insets
+set_time_and_date.content_panel.content.insets
+set_time_and_date.content_panel.field.spacing
+set_time_and_date.content_panel.field.wide.spacing
+set_time_and_date.content_panel.margin.left
+set_time_and_date.content_panel.margin.right
+set_time_and_date.content_panel.margin.bottom
+set_time_and_date.content_panel.ampm.lowercase
+java/lang/Boolean
+set_time_and_date.content_panel.separator.day_and_year
+,
+set_time_and_date.content_panel.auto_sync.label.offset.y
+set_time_and_date.content_panel.auto_sync.spacing
+time.date.change.warning.overlay.message
+You are about to change the date on your Kindle by more than a day. An incorrect date may prevent your Kindle from working properly. Are you sure you want to proceed?	Вы изменили время более чем на один день. Неправильная дата может привести к некорректной работе Вашего Kindle. Продолжить?
+settings.view.sound
+settings
+settings.pause.sound
+, 
+settings.longpause.sound
+. 
+settings.space.sound
+ 
+selectdict.view.sound
+select dictionary
+settings.registration.body
+An Amazon account is required to register your Kindle. If you do not have an account, go to www.amazon.com/sign-in to create one. For UK customers, go to www.amazon.co.uk/sign-in.~~~~By registering your Kindle, you agree to the Kindle License Agreement and Terms of Use, which can be found in the Appendix of the Kindle User's Guide.~~~~Enter the e-mail address and password associated with your Amazon account. To enter "@" symbol, press the "SYM" key.	Для регистрации Kindle вам потребуется учетная запись Amazon. Если у Вас нет учетной записи, зайдите на www.amazon.com/sign-in и создайте ее.~~~~Регистрируясь, Вы соглашаетесь с Лицензией Kindle которая находится в приложении к Руководству пользователя.~~~~Введите свой e-mail адрес и пароль Вашей учетной записи Amazon. Для ввода символа '@' нажмите клавишу 'SYM'.
+com/amazon/ebook/booklet/home/foundation/resources/SettingsResources
+java/util/ListResourceBundle
+(I)V
+(Ljava/lang/String;)V
+java/text/DateFormat
+getDateInstance
+(I)Ljava/text/DateFormat;
+(IZZ)Ljava/awt/Font;
+(I)Ljava/awt/Font;
+(IIII)V
+java/awt/Color
+white
+Ljava/awt/Color;
+black
+(IZ)Ljava/awt/Font;
+(Z)V
+a
+pcb
+()Lcom/amazon/ebook/framework/c/a;
+com/amazon/ebook/framework/c/a

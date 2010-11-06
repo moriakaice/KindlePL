@@ -1,0 +1,25 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/resources/BookGUIUtilResources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+default.opening.string
+Opening...
+turing.screen.size
+java/lang/Integer
+go.to.location.hint
+Enter location number (1 - {0})
+search.result.characters.offset
+com/amazon/ebook/booklet/reader/gui/resources/BookGUIUtilResources
+java/util/ListResourceBundle
+(I)V
+a
+sxc

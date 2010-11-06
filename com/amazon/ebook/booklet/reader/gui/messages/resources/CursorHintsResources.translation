@@ -1,0 +1,51 @@
+﻿[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/messages/resources/CursorHintsResources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+annotation.disable
+Annotating is disabled	Аннотирование отключено
+annotation.disable.sample
+Annotating is disabled for sample content	Аннотирование отключено для образцов
+annotation.disable.feed
+Annotating is disabled for blogs	Аннотирование отключено для блогов
+annotation.disable.low.disk.space
+Annotating is disabled - Memory is full	Аннотирование отключено - переполнена память
+add.note
+Begin typing to create a note	Введите Вашу заметку
+usual.cursor.interaction
+Begin typing to create a note or click to start a highlight	Введите заметку или нажмите [джойстик] чтобы выделить
+create.highlight
+Move cursor to create a highlight	Переместите курсор, чтобы выделить
+end.highlight.sharing.disabled
+Click to end highlight or press Back to cancel	[Джойстик] - сохранить выделение, [Back] - отменить
+end.highlight.sharing.enabled
+Click to end highlight, {0} to tweet/share, or Back to cancel	[Джойстик]-сохранить, {0}-расшарить, [Back]-отменить
+java/lang/String
+Home_Icon_AltReturn.gif
+highlight.hover.sharing.disabled
+Begin typing to create a note or {0} to delete highlight	Введите заметку. Удалить выделение - {0}
+Home_Icon_Delete.gif
+highlight.hover.sharing.enabled
+Type to create note, {0} to delete highlight, {1} to share	Введите заметку. Удалить выделение-{0}, {1}-расшарить
+highlight.hover.annotation.view.sharing.enabled
+{0} delete   {1} share	{0} удалить   {1} расшарить
+highlight.hover.annotation.view.sharing.disabled
+{0} delete	{0} удалить
+link.hover
+Begin typing to create a note or click to follow the link	Введите заметку, либо перейдите по ссылке нажав [джойстик]
+com/amazon/ebook/booklet/reader/gui/messages/resources/CursorHintsResources
+java/util/ListResourceBundle
+(Ljava/lang/String;I)V
+(Ljava/lang/String;[Ljava/lang/String;I)V
+a
+uzc
+com/amazon/ebook/booklet/reader/gui/infobox/h

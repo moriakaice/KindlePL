@@ -1,0 +1,54 @@
+TTSServiceCallBack
+InnerClasses
+Synthetic
+<init>
+Code
+LineNumberTable
+LocalVariableTable
+
+run
+()V
+I
+Lcom/amazon/ebook/framework/service/media/event/TTSException;
+SourceFile
+TTSServiceCallBack.onDataLow runnable - begin.
+java/lang/StringBuffer
+text data has been replenished, ignoring this tts data low notification - TextToProcess=
+com/amazon/ebook/framework/service/media/event/TTSException
+Unable to get TTS text-to-process
+TTSServiceCallBack.onDataLow runnable - end.
+java/lang/Object
+java/lang/Runnable
+(Ljava/lang/String;)V
+Z
+()I
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(I)Ljava/lang/StringBuffer;
+toString
+()Ljava/lang/String;
+(Ljava/lang/String;Ljava/lang/Throwable;)V
+a
+Lcom/amazon/ebook/booklet/reader/plugin/tts/c;
+Lcom/amazon/ebook/booklet/reader/plugin/tts/e;
+(Lcom/amazon/ebook/booklet/reader/plugin/tts/c;)V
+com/amazon/ebook/booklet/reader/plugin/tts/e
+utc
+(Lcom/amazon/ebook/booklet/reader/plugin/tts/l;)V
+(Lcom/amazon/ebook/booklet/reader/plugin/tts/l;Ljava/lang/String;)V
+(Lcom/amazon/ebook/booklet/reader/plugin/tts/l;ZZZ)V
+b
+e
+D
+B
+()Lcom/amazon/ebook/framework/service/media/b;
+h
+(Lcom/amazon/ebook/booklet/reader/plugin/tts/l;)Lcom/amazon/ebook/booklet/reader/plugin/tts/b;
+(Lcom/amazon/ebook/booklet/reader/plugin/tts/c;)Lcom/amazon/ebook/booklet/reader/plugin/tts/l;
+d
+Lcom/amazon/ebook/util/b/e;
+com/amazon/ebook/framework/service/media/b
+com/amazon/ebook/booklet/reader/plugin/tts/b
+com/amazon/ebook/util/b/e
+com/amazon/ebook/booklet/reader/plugin/tts/l
+com/amazon/ebook/booklet/reader/plugin/tts/c

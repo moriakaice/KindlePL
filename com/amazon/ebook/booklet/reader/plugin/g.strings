@@ -1,0 +1,17 @@
+I
+ConstantValue
+<init>
+(I)V
+Code
+LineNumberTable
+LocalVariableTable
+SourceFile
+a
+A
+b
+B
+c
+Lcom/amazon/ebook/booklet/reader/plugin/g;
+com/amazon/ebook/booklet/reader/plugin/g
+ztc
+com/amazon/ebook/booklet/reader/plugin/f

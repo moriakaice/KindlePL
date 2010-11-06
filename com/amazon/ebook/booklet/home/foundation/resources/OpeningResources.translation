@@ -1,0 +1,31 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/OpeningResources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+opening.str.1
+Now downloading the selected item...	Загружаются выбранные элементы...
+opening.str.2
+When downloading is complete, the item will appear in Home, or, if you choose to stay on this page, the item will open automatically.	Когда загрузка завершится, элемент появится на домашнем экране автоматически. Если вы останетесь здесь, элемент откроется сразу.
+opening.side.margin
+java/lang/Integer
+opening.line.margin
+opening.font
+opening.view.sound
+opening.view.sound.latency
+com/amazon/ebook/booklet/home/foundation/resources/OpeningResources
+java/util/ListResourceBundle
+(I)V
+(I)Ljava/awt/Font;
+a
+cod
+()Lcom/amazon/ebook/framework/c/a;
+com/amazon/ebook/framework/c/a

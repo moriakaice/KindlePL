@@ -1,0 +1,23 @@
+﻿[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/resources/WidgetsResources_en;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+pub.info.date.format
+java/text/SimpleDateFormat
+MMM d, yyyy	dd/MM/yyyy
+pub.info.datetime.format
+MMM d, yyyy  hh:mm a	dd/MM/yyyy HH:mm
+com/amazon/ebook/framework/resources/WidgetsResources_en
+java/util/ListResourceBundle
+(Ljava/lang/String;)V
+a
+nvb

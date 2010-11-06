@@ -1,0 +1,48 @@
+Ljava/lang/String;
+ConstantValue
+Ljava/io/File;
+<init>
+(Ljava/io/File;Ljava/lang/String;Z)V
+Code
+LineNumberTable
+LocalVariableTable
+Z
+Exceptions
+getInputStream
+(Ljava/util/zip/ZipEntry;)Ljava/io/InputStream;
+Ljava/util/zip/ZipEntry;
+SourceFile
+KindletFile
+KINDLET.SF
+Found Kindlet meta file; constructing cipher.
+KindletFileFail
+Developer application is signed with production signature.
+com/amazon/kindle/kindlet/internal/security/KindletDRMException
+Developer application should not be signed with production signature.
+Production applications should contain the Kindlet meta file. Un-DRMed production applications are not allowed to run.
+Production application should be signed with production signature.
+.class
+java/io/IOException
+com/amazon/kindle/kindlet/internal/KindletExecutionException
+(Ljava/io/File;Ljava/lang/String;)V
+()Z
+(Ljava/lang/String;)V
+(Ljava/lang/String;Ljava/lang/String;)V
+java/util/zip/ZipEntry
+getName
+()Ljava/lang/String;
+java/lang/String
+endsWith
+(Ljava/lang/String;)Z
+a
+Lcom/amazon/kindle/kindlet/internal/d/d;
+A
+b
+Lcom/amazon/kindle/kindlet/internal/security/m;
+com/amazon/kindle/kindlet/internal/security/m
+fhb
+c
+(Ljava/lang/String;)Lcom/amazon/kindle/kindlet/internal/d/d;
+com/amazon/kindle/kindlet/internal/d/d
+com/amazon/kindle/kindlet/internal/d/b
+com/amazon/kindle/kindlet/internal/security/l

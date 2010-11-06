@@ -1,0 +1,24 @@
+﻿[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/view/resources/SearchResultsView2Resources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+format.location
+Location {0}	Позиция {0}
+clearance.between.location.label.and.snippet
+java/lang/Integer
+close.label
+Close Search Results	Закрыть результат поиска
+com/amazon/ebook/booklet/reader/gui/view/resources/SearchResultsView2Resources
+java/util/ListResourceBundle
+(I)V
+a
+vvc

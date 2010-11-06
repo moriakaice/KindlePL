@@ -1,0 +1,31 @@
+﻿[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/browser/resources/UISettingsViewResources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+clear.cache.label
+Clear Cache	Очистить кэш
+clear.history.label
+Clear History	Очистить историю
+clear.cookies.label
+Clear Cookies	Очистить cookies
+enable.js.label
+Enable Javascript	Включить Javascript
+disable.js.label
+Disable Javascript	Отключить Javascript
+enable.images.label
+Enable Images	Показывать изображения
+disable.images.label
+Disable Images	Отключить изображения
+com/amazon/ebook/booklet/browser/resources/UISettingsViewResources
+java/util/ListResourceBundle
+a
+jrd

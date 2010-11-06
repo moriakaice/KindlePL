@@ -1,0 +1,31 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/overlay/resources/ReaderNoteOverlayResources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+save.note.button.text
+save note
+save.and.share.button.text
+save & share
+delete.button.text
+delete
+button.width
+java/lang/Integer
+shortcut.text
+
+clear.text
+empty.note.error
+You cannot save an empty note.
+com/amazon/ebook/booklet/reader/gui/overlay/resources/ReaderNoteOverlayResources
+java/util/ListResourceBundle
+(I)V
+a
+ryc

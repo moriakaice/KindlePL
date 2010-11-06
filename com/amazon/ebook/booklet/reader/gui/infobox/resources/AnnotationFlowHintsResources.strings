@@ -1,0 +1,25 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/infobox/resources/AnnotationFlowHintsResources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+hint.move.to.desired.location
+Move cursor to a location and then~~begin typing to create a note or click to start a highlight
+hint.note.or.highlight
+Begin typing to create a note or click to start a highlight
+hint.start.selection
+Move cursor to highlight~~Click to end highlight
+hint.end.selection
+Click to end highlight
+com/amazon/ebook/booklet/reader/gui/infobox/resources/AnnotationFlowHintsResources
+java/util/ListResourceBundle
+a
+pad

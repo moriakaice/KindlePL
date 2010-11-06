@@ -1,0 +1,12 @@
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/state/ViewState;
+SourceFile
+com/amazon/ebook/booklet/reader/state/ViewState
+java/lang/Object
+java/io/Serializable
+a
+tuc

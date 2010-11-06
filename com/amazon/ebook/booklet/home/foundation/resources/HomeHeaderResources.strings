@@ -1,0 +1,100 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/HomeHeaderResources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+home.header.font
+home.header.h
+java/lang/Integer
+home.header.text.offset
+home.header.cursor.offset
+home.header.cursor.height
+home.header.left.arrow
+Home_LeftSmArrow.gif
+home.header.right.arrow
+Home_RightSmArrow.gif
+home.header.left.arrow.gray
+Home_LeftSmArrowGray.gif
+home.header.right.arrow.gray
+Home_RightSmArrowGray.gif
+home.header.left.margin
+home.header.right.margin
+home.header.arrow.x.offset
+home.header.arrow.y.offset
+home.header.sel.margin
+home.header.enabled.text.color
+home.header.disabled.text.color
+home.header.filter.all.format
+java/text/ChoiceFormat
+0#Showing All {0,number,integer} Items|1#Showing All {0,number,integer} Item|2#Showing All {0,number,integer} Items
+home.header.filter.items.format
+0#Showing {0,number,integer} Items|1#Showing {0,number,integer} Item|2#Showing {0,number,integer} Items
+home.header.filter.books.format
+0#Showing {0,number,integer} Books|1#Showing {0,number,integer} Book|2#Showing {0,number,integer} Books
+home.header.filter.subs.format
+0#Showing {0,number,integer} Subscriptions|1#Showing {0,number,integer} Subscription|2#Showing {0,number,integer} Subscriptions
+home.header.filter.pdocs.format
+0#Showing {0,number,integer} Personal Docs|1#Showing {0,number,integer} Personal Doc|2#Showing {0,number,integer} Personal Docs
+home.header.filter.collections.format
+0#Showing {0,number,integer} Collections|1#Showing {0,number,integer} Collection|2#Showing All {0,number,integer} Collections
+home.header.filter.addremove.format
+0#Add/Remove 0 Items|1#Add/Remove 1 Item|2#Add/Remove {0,number,integer} Items
+home.header.filter.all
+All My Items
+home.header.filter.books
+Books
+home.header.filter.subs
+Subscriptions
+home.header.filter.pdocs
+Personal Docs
+home.header.filter.collections
+Collections
+home.header.sort.recent.label
+By Most Recent First
+home.header.sort.title.label
+By Title
+home.header.sort.author.label
+By Author
+home.header.sort.collections.label
+By Collections
+home.header.sort.collectionsonly.label
+By Collections Only
+home.header.sort.relevance.label
+By Relevance
+home.header.sort.recent
+Most Recent First
+home.header.sort.title
+Title
+home.header.sort.author
+Author
+home.header.sort.collections
+home.header.sort.collectionsonly
+Collections Only
+home.header.sort.relevance
+Relevance
+home.header.sound.separator
+, 
+home.header.filter.sound
+filter by 
+home.header.sort.sound
+sort by 
+com/amazon/ebook/booklet/home/foundation/resources/HomeHeaderResources
+java/util/ListResourceBundle
+(I)Ljava/awt/Font;
+(I)V
+Ljava/awt/Color;
+(Ljava/lang/String;)V
+a
+iod
+b
+()Lcom/amazon/ebook/framework/c/a;
+com/amazon/ebook/framework/gui/d
+com/amazon/ebook/framework/c/a

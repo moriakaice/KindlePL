@@ -1,0 +1,37 @@
+﻿[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/view/pagefooter/resources/PageFooterUIResources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+secondary.indicator.size
+java/lang/Integer
+reading.indicator.side
+reading.indicator.height
+button.article.label
+Close Article List	Закрыть список
+text.article.spacer
+section.list.button.label
+View Section List	Список Разделов
+article.list.button.label
+View Article List	Список Статей
+page.section.info.font
+button.section.label
+Close Section List	Закрыть список
+close.search.result.label
+Close Search Results	Закрыть результаты
+com/amazon/ebook/booklet/reader/gui/view/pagefooter/resources/PageFooterUIResources
+java/util/ListResourceBundle
+(I)V
+(IZ)Ljava/awt/Font;
+a
+gwc
+()Lcom/amazon/ebook/framework/c/a;
+com/amazon/ebook/framework/c/a

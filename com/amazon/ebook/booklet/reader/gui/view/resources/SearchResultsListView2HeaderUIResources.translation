@@ -1,0 +1,18 @@
+﻿[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/view/resources/SearchResultsListView2HeaderUIResources;
+getContents
+()[[Ljava/lang/Object;
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+header.title
+Search Results: Showing All {0}	Результат поиска: Показано {0}
+com/amazon/ebook/booklet/reader/gui/view/resources/SearchResultsListView2HeaderUIResources
+java/util/ListResourceBundle
+a
+wvc

@@ -1,0 +1,32 @@
+I
+Ljava/lang/Object;
+<init>
+(I)V
+Code
+LineNumberTable
+LocalVariableTable
+()Ljava/lang/Object;
+(Ljava/lang/Object;)V
+()I
+toString
+()Ljava/lang/String;
+Ljava/lang/StringBuffer;
+SourceFile
+java/lang/StringBuffer
+: type = 
+, property = 
+java/lang/Object
+()V
+getClass
+()Ljava/lang/Class;
+java/lang/Class
+getName
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(I)Ljava/lang/StringBuffer;
+(Ljava/lang/Object;)Ljava/lang/StringBuffer;
+a
+A
+Lcom/amazon/ebook/booklet/reader/plugin/c;
+com/amazon/ebook/booklet/reader/plugin/c
+vtc

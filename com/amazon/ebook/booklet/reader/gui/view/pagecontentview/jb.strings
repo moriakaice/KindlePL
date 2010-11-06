@@ -1,0 +1,13 @@
+<init>
+Code
+LineNumberTable
+LocalVariableTable
+SourceFile
+(Lcom/amazon/ebook/booklet/reader/yb;Lcom/amazon/ebook/booklet/reader/gui/view/pagecontentview/f;)V
+a
+Lcom/amazon/ebook/booklet/reader/gui/view/pagecontentview/jb;
+Lcom/amazon/ebook/booklet/reader/yb;
+Lcom/amazon/ebook/booklet/reader/gui/view/pagecontentview/f;
+com/amazon/ebook/booklet/reader/gui/view/pagecontentview/jb
+dxc
+com/amazon/ebook/booklet/reader/gui/view/pagecontentview/ib

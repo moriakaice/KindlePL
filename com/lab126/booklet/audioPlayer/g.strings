@@ -1,0 +1,161 @@
+GeneratePlaylists
+InnerClasses
+ProcessingTask
+Z
+ConstantValue
+I
+Ljava/lang/String;
+Ljava/util/List;
+Ljava/io/FilenameFilter;
+<init>
+()V
+Code
+initialize
+shutdown
+pause
+executeResumeEvent
+go
+getName
+()Ljava/lang/String;
+drawPage
+pressPlayPause
+executePauseEvent
+executePlayEvent
+executeStopEvent
+pressNext
+bookletEventHandler
+getBookletEventIDs
+()[I
+onUSBConnected
+(Z)Z
+updateMusicAndPlaylists
+(Ljava/io/File;)V
+getKeyListener
+()Ljava/util/List;
+(I)V
+()I
+<clinit>
+
+java/util/ArrayList
+Cannot resume music because the player state is not PAUSE
+Cannot resume music because the playing task is not there. Reset the player state to STOP
+Audio Player
+PAUSE state, about to resume
+PLAYING state, about to pause
+STOP state, about to play
+java/lang/StringBuffer
+unknow state: 
+Cannot pause music because the player state is not PLAYING
+Cannot pause music because the playing task is not there. Reset the player state to STOP
+Cannot play music because the player state is not STOP.
+java/lang/Boolean
+Cannot play music because the audio device is in used.
+java/lang/Exception
+Failed to start the playing task
+Cannot stop music because the player is in STOP state already
+Cannot go to next song because either the playing task is not there, or the player state is not PLAYING
+AudioPlayer.bookletEventHandler 
+receive PLAY_BG_MUSIC event
+receive PAUSE_BG_MUSIC event
+receive DISABLE_AUDIO_SHORTCUT_KEYS event
+receive STOP_BG_MUSIC event
+receive REENABLE_AUDIO_SHORTCUT_KEYS event
+The song 
+ does not exist anymore.
+java/io/File
+com/amazon/ebook/framework/BookletException
+Failed to post the BG_MUSIC event
+AudioPlayer
+()Z
+(Ljava/lang/String;)V
+(Ljava/lang/Runnable;)V
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(I)Ljava/lang/StringBuffer;
+toString
+[Ljava/lang/String;
+(Ljava/lang/String;)Ljava/lang/Object;
+booleanValue
+(Ljava/lang/String;Ljava/lang/Throwable;)V
+()Ljava/io/File;
+exists
+getBookletContext
+()[Ljava/lang/String;
+java/util/List
+clear
+size
+(Z)V
+(Ljava/lang/String;Ljava/lang/Object;)V
+listFiles
+()[Ljava/io/File;
+isFile
+java/io/FilenameFilter
+accept
+(Ljava/io/File;Ljava/lang/String;)Z
+add
+(Ljava/lang/Object;)Z
+isDirectory
+LocalVariableTable
+Ljava/awt/Graphics;
+Ljava/io/File;
+a
+A
+Lcom/lab126/booklet/audioPlayer/b;
+b
+Lcom/lab126/booklet/audioPlayer/c;
+B
+Lcom/lab126/booklet/audioPlayer/a;
+c
+C
+d
+Lcom/amazon/ebook/util/b/e;
+D
+e
+Lcom/lab126/booklet/audioPlayer/d;
+E
+f
+F
+g
+Lcom/lab126/booklet/audioPlayer/g;
+(Lcom/lab126/booklet/audioPlayer/c;)V
+()Lcom/lab126/booklet/audioPlayer/c;
+()Lcom/amazon/ebook/framework/gui/event/b;
+(Lcom/amazon/ebook/framework/kos/event/d;)V
+Lcom/amazon/ebook/framework/kos/event/d;
+(Lcom/amazon/ebook/framework/gui/foundation/l;Ljava/awt/Graphics;)V
+Lcom/amazon/ebook/framework/gui/foundation/l;
+G
+h
+com/lab126/booklet/audioPlayer/g
+com/amazon/ebook/framework/device/a/b
+com/amazon/ebook/framework/kos/event/a
+(Ljava/lang/String;)Lcom/amazon/ebook/util/b/e;
+(ILjava/lang/Object;Z)Lcom/amazon/ebook/framework/kos/event/d;
+()Lcom/amazon/ebook/framework/b/a;
+(Lcom/lab126/booklet/audioPlayer/g;Lcom/lab126/booklet/audioPlayer/f;)V
+(Lcom/amazon/ebook/framework/service/media/event/b;)V
+()Lcom/amazon/ebook/framework/service/media/c;
+(Lcom/lab126/booklet/audioPlayer/g;)V
+H
+(Lcom/amazon/ebook/framework/device/a/b;)V
+(Lcom/amazon/ebook/framework/gui/event/a;)V
+()Lcom/amazon/ebook/framework/kos/event/i;
+()Lcom/amazon/ebook/framework/kos/a/e;
+(Lcom/amazon/ebook/framework/kos/event/a;)V
+()Lcom/amazon/ebook/framework/service/e;
+Lcom/amazon/ebook/framework/b/a;
+com/amazon/ebook/framework/kos/event/d
+com/amazon/ebook/framework/service/media/c
+com/amazon/ebook/framework/kos/c/e
+com/amazon/ebook/framework/kos/event/i
+com/amazon/ebook/framework/kos/a/e
+com/amazon/ebook/framework/service/e
+com/amazon/ebook/framework/b/a
+com/amazon/ebook/util/b/e
+com/amazon/ebook/framework/b/b
+com/lab126/booklet/audioPlayer/c
+com/lab126/booklet/audioPlayer/e
+com/lab126/booklet/audioPlayer/b
+com/lab126/booklet/audioPlayer/a
+com/lab126/booklet/audioPlayer/d
+com/lab126/booklet/audioPlayer/f

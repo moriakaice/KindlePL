@@ -1,0 +1,16 @@
+serialVersionUID
+J
+ConstantValue
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/topazreader/TopazException;
+(Ljava/lang/String;)V
+Ljava/lang/String;
+SourceFile
+com/amazon/ebook/booklet/topazreader/TopazException
+java/lang/Exception
+a
+fmc

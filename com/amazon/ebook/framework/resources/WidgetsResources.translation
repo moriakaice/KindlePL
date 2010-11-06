@@ -1,0 +1,103 @@
+﻿[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/resources/WidgetsResources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+textfield.symbol.hint.msg
+(press 'SYM' key for symbols)	(нажмите 'SYM' для доп. символов)
+button.ok.text
+ok
+button.close.text
+close	закрыть
+button.cancel.text
+cancel	отмена
+button.activate.text
+activate	активировать
+button.submit.text
+submit	отправить
+button.clear.text
+clear	очистить
+button.save.text
+save	сохранить
+button.join.text
+join	присоединиться
+button.close.setting.text
+Close Settings	Закрыть настройки
+button.close.bookmark.text
+Close Bookmarks	Закрыть закладки
+button.close.history.text
+Close History	Закрыть историю
+button.create_account.text
+create account	создать учетку
+button.kindle_eula.text
+kindle license agreement and terms of use	Лицензия пользователя Kindle
+label.user
+Username:	Имя пользователя:
+label.password
+Password:	Пароль:
+more.items
+More Items...	Больше...
+group.menu.beginning.label
+Go to Beginning...	К началу...
+icon.button.separation
+java/lang/Integer
+image.icon.insets
+java/awt/Insets
+image.icon.foreground.color
+ppi.border.left.margin
+ppi.border.right.margin
+ppi.border.insets
+page.props.menu.margins
+page.props.menu.cursor.width
+page.props.menu.cursor.offset
+page.props.menu.default.width
+page.props.menu.item.spacing
+pub.info.left.margin
+pub.info.bottom.margin
+pub.info.line.spacing
+pub.info.num.lines
+pub.info.width
+pub.info.date.format
+pub.info.datetime.format
+pub.info.missing.date
+(missing)
+pub.info.missing
+pub.info.unknown
+(Unknown)
+pub.info.default.font
+pub.info.pattern
+Publisher: {0}~~Publication Date: {1,date,short}~~Last Read Date: {2,date,medium} {2,time,medium}~~Last Location: {3,number,integer}~~File Type: {4}~~Location Range: 1-{5,number,integer}
+stock.object.regular.width
+stock.object.wide.width
+two.column.menu.alttext
+two.column.menu.regtext
+two.column.menu.pref.size
+java/awt/Dimension
+homeitemwidget.icon1.y.offset
+homeitemwidget.icon2.y.offset
+com/amazon/ebook/framework/resources/WidgetsResources
+java/util/ListResourceBundle
+(I)V
+(IIII)V
+java/awt/Color
+black
+Ljava/awt/Color;
+java/text/DateFormat
+getDateInstance
+(I)Ljava/text/DateFormat;
+getDateTimeInstance
+(II)Ljava/text/DateFormat;
+(I)Ljava/awt/Font;
+(II)V
+a
+ovb
+()Lcom/amazon/ebook/framework/c/a;
+com/amazon/ebook/framework/c/a

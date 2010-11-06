@@ -1,0 +1,50 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/lab126/booklet/audiblePlayer/resources/WidgetResources;
+getContents
+()[[Ljava/lang/Object;
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+now.playing.view.position.caption
+Position
+now.playing.view.section.info.template
+Section {0} of {1}
+gui.now_playing.txtstatus.y
+java/lang/Integer
+audible.metadata.unknown
+Unknown
+audible.metadata.by.author.template
+by {0}
+audible.metadata.narrator.template
+Narrator: {0}
+audible.metadata.no.narrator
+No narrator
+audible.metadata.publication.date.template
+Date: {0}
+audible.metadata.length.template
+Length: {0}
+audible.metadata.font.title
+audible.metadata.font.author
+audible.metadata.font.publication
+summary.view.font.synopsis
+summary.view.line.height
+page.number.view.page.info.template
+Page {0}
+image.viewer.font
+java/awt/Font
+SansSerif-aa
+com/lab126/booklet/audiblePlayer/resources/WidgetResources
+java/util/ListResourceBundle
+(I)V
+(IZZ)Ljava/awt/Font;
+(Ljava/lang/String;)Ljava/lang/String;
+(Ljava/lang/String;II)V
+a
+cbb
+()Lcom/amazon/ebook/framework/c/a;
+com/amazon/ebook/framework/c/a

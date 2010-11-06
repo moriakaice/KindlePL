@@ -1,0 +1,81 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+exp.label
+Experimental	Экспериментальные возможности
+exp.text
+We are working on these experimental prototypes. Do you find them useful? Should we continue working on them? We would love to hear what you think, so please send your comments to {0}	Мы работаем над усовершенствованием этих экспериментальных возможностей. Если они Вам приглянулись или у вас есть предложения по их развитию, пожалуйста напишите Нам по адресу {0}
+exp.font
+exp.text.x
+java/lang/Integer
+exp.text.margin
+exp.text.spacing
+exp.text.offset
+exp.widget.label.font
+exp.widget.desc.font
+exp.widget.link.font
+exp.widget.desc.y
+exp.widget.desc.spacing
+exp.widget.base.buffer
+exp.widget.left.margin
+exp.widget.right.margin
+exp.widget.offset
+exp.link.line.offset
+feedback.email.default
+kindle-feedback@amazon.com
+exp.cursor.disabled.color
+bw.widget.label
+Web Browser	Web браузер
+bw.widget.cursor.label
+launch browser	запустить браузер
+bw.widget.desc
+Select this item to launch Web Browser and browse, choose a bookmark, or enter a URL.	Выберите этот пункт, чтобы запустить Web браузер, затем выберите закладку или введите URL адрес.
+mp3.widget.label
+Play MP3	Воспроизведение MP3
+mp3.widget.cursor.label.play
+play music	слушать музыку
+mp3.widget.cursor.label.pause
+pause music	пауза
+mp3.widget.desc
+Select this item to listen to music or podcasts while you read. Hold down the 'ALT' key and press the spacebar to stop or play, or the 'F' key to skip to the next track. You must copy MP3 files from your computer to your Kindle's 'music' folder to use this feature.	Выберите этот пункт, если хотите слушать музыку или подкасты, в то время, пока вы читаете книги. Удерживая клавишу 'ALT', нажмите пробел для остановки или воспроизведения, 'F' - для перехода на следующую композицию. Вы должны скопировать свои MP3 файлы в папку 'music' вашего Kindle.
+mp3.not.found.alert.text
+No MP3 Files Found~~~~To play MP3 files, you must first copy them from your computer to your Kindle's "music" folder.	MP3 файлы не найдены~~~~Вы должны сперва скопировать MP3 в папку 'music' вашего Kindle.
+t2s.widget.label
+Text-to-Speech	Проговаривание текста (Text-to-Speech)
+t2s.widget.cursor.label
+
+t2s.widget.desc
+Start Text-to-Speech in the Text menu while you are reading and your Kindle will start reading to you (where allowed by the rights holder). Hold down the 'Shift' key and press the 'SYM' key to stop or play.	Вы можете включить проговаривание текста (только на английском) в меню Text в момент чтения книги. Нажмите Shift + SYM для остановки или запуска проговаривания.
+exp.view.sound
+Experimental Items
+exp.pause.sound
+, 
+feedback.email
+kindledx-feedback@amazon.com
+com/amazon/ebook/framework/device/util/DeviceResourceBundle
+(IZZ)Ljava/awt/Font;
+(I)V
+Ljava/awt/Color;
+a
+A
+b
+B
+c
+C
+d
+D
+e
+Lcom/amazon/ebook/booklet/home/foundation/resources/a;
+com/amazon/ebook/booklet/home/foundation/resources/a
+mod
+()Lcom/amazon/ebook/framework/c/a;
+com/amazon/ebook/framework/gui/d
+com/amazon/ebook/framework/c/a

@@ -1,0 +1,145 @@
+﻿[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/resources/WifiPopupResources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+dim.width
+java/lang/Integer
+dim.height
+dim.x
+dim.y
+dim.maxNetsPerPage
+dim.landscape.height
+dim.landscape.x
+dim.landscape.y
+dim.landscape.maxNetsPerPage
+dim.net.height
+dim.net.effectiveHeight
+dim.overlay.width
+margin.left
+margin.right
+margin.top
+margin.body.top
+margin.line.top
+margin.lock
+margin.name
+margin.requireWifiText
+margin.landscape.newNetworkPromptBottomMargin
+text.connect
+connect	подключиться
+text.disconnect
+forget	отключиться
+text.connecting
+connecting...	подключение...
+text.newNetwork
+enter other Wi-Fi network	Указать другую Wi-Fi сеть
+text.rescanning
+scanning...	поиск...
+text.rescanLink
+rescan	обновить
+text.secureNetwork.accessible
+secure	защищенная
+text.openNetwork.accessible
+open	открытая
+text.connectionRequired
+A Wi-Fi connection is required to complete this task. Connect to a Wi-Fi network or try again later.	Wi-Fi подключение необходимо, для завершения этой задачи. Подключитесь и попробуйте еще раз.
+text.button.advanced
+advanced	дополнительно
+message.enterPassword
+Enter password for {0}:	Введите пароль для {0}:
+message.unableToConnectHeader
+Unable to Connect to Wi-Fi Network~~~~	Невозможно подключится к Wi-Fi сети~~~~
+message.unableToConnect
+Your Kindle is unable to connect to the Wi-Fi network "{0}". 	Ваш Kindle не может подключится к Wi-Fi сети "{0}". 
+message.manuallyEnterSettingsUnsecure
+Would you like to try again or manually set up this network?	Хотите попробовать еще раз или настроить вручную?
+message.manuallyEnterSettingsSecure
+Would you like to enter the password again or manually set up this network?	Желаете ввести пароль еще раз или настроить сеть вручную?
+message.availableNetworks
+{0} Wi-Fi Networks	Wi-Fi сетей: {0}
+message.pageNumber
+Page {0} of {1}	Страница {0} из {1}
+font.title
+font.wifiRequiredText
+font.networkName
+font.action
+font.newNetworkLinkFont
+font.action.connecting
+font.pageNumber
+color.connecting
+enter.new.wifi.network.overlay.header
+Enter other Wi-Fi network	Введите имя Wi-Fi сети
+enter.new.wifi.network.overlay.ssid.label
+Network name:	Имя сети:
+enter.new.wifi.network.overlay.password.label
+Password:	Пароль:
+enter.new.wifi.network.overlay.left.margin
+enter.new.wifi.network.overlay.right.margin
+enter.new.wifi.network.overlay.top.margin
+enter.new.wifi.network.overlay.line.spacing
+enter.new.wifi.network.overlay.height
+enter.new.wifi.network.label.font
+enter.new.wifi.network.header.font
+enter.new.wifi.network.field.font
+button.enter.network.info.text
+set up network	настройки сети
+button.enter.password.again.text
+enter password again	введите пароль еще раз
+button.enter.try.again.text
+try again	еще раз
+captive.title
+Sign-in required	Аутентификация в сети
+captive.msg
+The Wi-Fi network you are connecting to requires you to sign in before accessing the Internet.~~~~Do you wish to go to Web Browser to sign in?
+Перед доступом в интернет, вам надо авторизоваться в Вашей сети.~~~~Хотите открыть браузер для аутентификации?
+captive.button.text
+go to browser	открыть браузер
+new.network.widget.action.overlay.width
+text.error.101
+The password you entered is incorrect or invalid.~~	Ваш пароль не подходит.~~
+text.error.102
+There is no Wi-Fi Profile configured for this network.~~	Для этой сети нету профиля.~~
+text.error.103
+Wi-Fi network connection failed.~~	Не удалось подключится к Wi-Fi сети.~~
+text.error.104
+Wi-Fi is not available right now. If the problem persists, please restart your device.~~	Wi-Fi недоступна сейчас. Если проблема останется, перезагрузите ваш Kindle.~~
+text.error.105
+text.error.106
+Local network connection failed.~~	Ошибка подключения к локальной сети.~~
+text.error.107
+Internet connection failed.~~	Ошибка подключения к интернету.~~
+text.error.201
+The name of the Wi-Fi network is too long.~~	Слишком длинное название Wi-Fi сети.~~
+text.error.202
+text.error.203
+Enterprise Wi-Fi networks are not supported on Kindle. Try connecting to another network.~~	Wi-Fi сети уровня предприятий недоступны для Kindle. Попробуйте подключиться к другой сети.~~
+text.error.204
+The password you entered is longer than allowed by the Wi-Fi network. Try entering the password again.~~	Слишком длинный пароль. Введите пароль еще раз.~~
+text.error.205
+The password you entered is missing one or more characters. Try entering the password again.~~	В вашем пароле не хватает несолькоих символов. Введите пароль еще раз.~~
+text.error.206
+The security type you entered does not match the security type of the Wi-Fi network you are trying to connect to.~~	Тип безопасности который вы указали, не подходит к указанной Wi-Fi сети.~~
+text.error.207
+Peer-to-peer Wi-Fi networks are not supported on Kindle. Try connecting to another network.~~	Wi-Fi сети типа точка-точка не поддерживаются Kindle. Попробуйте подключится к другой сети.~~
+text.msg.unsupportedNetwork
+Unsupported Wi-Fi network~~~~Enterprise or peer-to-peer Wi-Fi networks are not supported. Try connecting to another network.	Неподдерживаемая Wi-Fi сеть~~~~Сети преприятия или точка-точка не поддерживаются Kindle. Попробуйте подключиться к другой сети.
+com/amazon/ebook/framework/resources/WifiPopupResources
+java/util/ListResourceBundle
+(I)V
+(IZZ)Ljava/awt/Font;
+(I)Ljava/awt/Font;
+Ljava/awt/Color;
+a
+mvb
+b
+()Lcom/amazon/ebook/framework/c/a;
+com/amazon/ebook/framework/gui/d
+com/amazon/ebook/framework/c/a

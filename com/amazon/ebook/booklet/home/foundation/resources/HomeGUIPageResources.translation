@@ -1,0 +1,56 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/HomeGUIPageResources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+search.results.page.header.bar.all.template
+java/text/ChoiceFormat
+0#Search Results: All {0} Items|1#Search Results: All {0} Item|2#Search Results: All {0} Items	0#Найдено элементов: {0}|1#Найдено элементов: {0}|2#Найдено элементов: {0}
+search.results.page.header.bar.books.template
+0#Search Results: {0} Books|1#Search Results: {0} Book|2#Search Results: {0} Books	0#Найдено книг: {0}|1#Найдено книг: {0}|2#Найдено книг: {0}
+search.results.page.header.bar.pdocs.template
+0#Search Results: {0} Personal Docs|1#Search Results: {0} Personal Doc|2#Search Results: {0} Personal Docs	0#Найдено документов: {0}|1#Найдено документов: {0}|2#Найдено документов: {0}
+search.results.page.header.bar.subs.template
+0#Search Results: {0} Subscriptions|1#Search Results: {0} Subscription|2#Search Results: {0} Subscriptions	0#Найдено подписок: {0}|1#Найдено подписок: {0}|2#Найдено подписок: {0}
+search.results.page.match.count.baseline.offset
+java/lang/Integer
+search.results.page.match_count.font
+search.results.page.match.count.left.offset
+search.results.page.match.count.template
+java/text/MessageFormat
+({0})
+search.results.page.match.count.width
+search.results.page.not.enough.space.to.search
+Your search cannot be completed due to insufficient Kindle memory. Please free up space by removing content from Home.	Недостаточно памяти для завершения поиска. Пожалйста, освободите место на устройстве, удалив часть книг.
+search.results.page.not.yet.indexed.grouping.title
+Items Not Yet Indexed	Элементы еще не проиндексированы
+search.results.page.yml.shortcut.prefix
+archiv	архив
+search.results.page.back.issues.shortcut.prefix
+back	назад
+unassigned.page.multiple.items
+Items	Элеметов
+unassigned.page.one.item
+Item	Элемент
+unassigned.page.header.template
+{0} Unassigned {1}
+unindexed.items.page.header.text
+unindexed.items.page.showing.all.items.template
+Showing All {0} Items	Показано элементов: {0}
+com/amazon/ebook/booklet/home/foundation/resources/HomeGUIPageResources
+java/util/ListResourceBundle
+(Ljava/lang/String;)V
+(I)V
+(I)Ljava/awt/Font;
+a
+kod
+()Lcom/amazon/ebook/framework/c/a;
+com/amazon/ebook/framework/c/a
