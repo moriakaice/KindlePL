@@ -12,15 +12,15 @@ SourceFile
 [Ljava/lang/Object;
 java/lang/Object
 collectionstoitem.header.str
-Add to Collection	Добавление в коллекцию
+Add to Collection	Dodaj do Kolekcji
 collectionstoitem.menu.select.all.label
-Select All Items on Page	Отметить все на странице
+Select All Items on Page	Zaznacz Wszystko na Stronie
 collectionstoitem.menu.deselect.all.label
-Deselect All Items on Page	Разотметить все на странице
+Deselect All Items on Page	Odznacz Wszystko na Stronie
 collectionstoitem.add.button.str
-add to this collection	добавить в эту коллекцию
+add to this collection	dodaj do kolekcji
 collectionstoitem.remove.button.str
-remove from this collection	убрать из этой коллекции
+remove from this collection	usuń z tej kolekcji
 collectionstoitem.button.y.offset
 java/lang/Integer
 collectionstoitem.foreground.color

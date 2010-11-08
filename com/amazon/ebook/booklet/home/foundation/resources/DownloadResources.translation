@@ -12,25 +12,25 @@ SourceFile
 [Ljava/lang/Object;
 java/lang/Object
 header.text
-Downloading Items	Загружаемые элементы
+Downloading Items	Pobieranie Elementów
 header.right.str
 
 footer.close.button.str
-Close	Закрыть
+Close	Zamknij
 text.2.complete
-download complete	загрузка завершена
+download complete	pobieranie zakończone
 text.2.pending
-pending - {0}%	осталось  - {0}%
+pending - {0}%	w toku  - {0}%
 text.2.downloading
-downloading - {0}%	загружено - {0}%
+downloading - {0}%	pobieranie - {0}%
 text.2.wireless.required
-wireless connection required - {0}%	требуется GPRS - {0}%
+wireless connection required - {0}%	wymagane GPRS - {0}%
 text.2.insufficient.space
-insufficient space - {0}%	недостаточно места - {0}%
+insufficient space - {0}%	za mało pamięci - {0}%
 text.2.wifi.required
-Wi-Fi required - {0}%	требуется Wi-Fi - {0}%
+Wi-Fi required - {0}%	wymagane Wi-Fi - {0}%
 text.2.failed
-error	ошибка
+error	błąd
 text.2.default
 text.2.font
 view.name.sound

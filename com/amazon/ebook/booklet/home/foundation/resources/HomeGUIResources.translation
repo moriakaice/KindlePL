@@ -24,16 +24,16 @@ Home_Pixel_Shadow.gif
 table.row.height.default
 table.footer.buffer
 page.no.items.text.1
-No Items	Нет элементов
+No Items	Brak Elementów
 page.no.items.text.2
 
 page.no.items.text.2.clicktoadd
-Click to add items to this collection	Нажмите для добавления в эту коллекцию
+Click to add items to this collection	Kliknij aby dodać element do tej kolekcji
 page.no.items.text.2.font
 default.sort.option
 footer.bar.page.format
 java/text/ChoiceFormat
-1#Page {1} of {0}	1#Страница {1} из {0}
+1#Page {1} of {0}	1#Strona {1} из {0}
 footer.bar.x
 footer.bar.text.x
 footer.bar.text.margin.y
@@ -50,17 +50,17 @@ main.item.screen.cursor.y
 main.item.screen.cursor.margin.x
 teb.font
 teb.addcollection.button.label
-create	создать
+create	stwórz
 teb.addcollection.bar.shortcut.text
-Start typing to create a new collection	Начните набирать текст для создания коллекции
+Start typing to create a new collection	Zacznij wpisywać aby stworzyć nową kolekcję 
 teb.addcollection.already.added.alert.title
-Collection Name Already Exists	Такая коллекция уже существует
+Collection Name Already Exists	Ta Kolekcja Już Istnieje
 teb.addcollection.already.added.alert.body
-The collection name you entered already exists. Please enter a different name.	Коллекция с таким именем уже существует. Введите другое имя.
+The collection name you entered already exists. Please enter a different name.	Kolekcja którą utworzyłeś już istnieje. Wybierz inną nazwę.
 teb.editcollection.already.added.alert.title
 teb.editcollection.already.added.alert.body
 teb.editcollection.button.label
-save	сохранить
+save	zapisz
 group.item.widget.pattern
 {0} ({1,number,integer})
 collection.item.sound.collection

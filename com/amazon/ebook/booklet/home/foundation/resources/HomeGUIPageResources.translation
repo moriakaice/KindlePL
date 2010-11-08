@@ -13,13 +13,13 @@ SourceFile
 java/lang/Object
 search.results.page.header.bar.all.template
 java/text/ChoiceFormat
-0#Search Results: All {0} Items|1#Search Results: All {0} Item|2#Search Results: All {0} Items	0#Найдено элементов: {0}|1#Найдено элементов: {0}|2#Найдено элементов: {0}
+0#Search Results: All {0} Items|1#Search Results: All {0} Item|2#Search Results: All {0} Items	0#Wyniki Wyszukiwania: {0}|1#Wyniki Wyszukiwania: {0}|2#Wyniki Wyszukiwania: {0}
 search.results.page.header.bar.books.template
-0#Search Results: {0} Books|1#Search Results: {0} Book|2#Search Results: {0} Books	0#Найдено книг: {0}|1#Найдено книг: {0}|2#Найдено книг: {0}
+0#Search Results: {0} Books|1#Search Results: {0} Book|2#Search Results: {0} Books	0#Wyniki Wyszukiwania: {0}|1#Wyniki Wyszukiwania: {0}|2#Wyniki Wyszukiwania: {0}
 search.results.page.header.bar.pdocs.template
-0#Search Results: {0} Personal Docs|1#Search Results: {0} Personal Doc|2#Search Results: {0} Personal Docs	0#Найдено документов: {0}|1#Найдено документов: {0}|2#Найдено документов: {0}
+0#Search Results: {0} Personal Docs|1#Search Results: {0} Personal Doc|2#Search Results: {0} Personal Docs	0#Wyniki Wyszukiwania: {0}|1#Wyniki Wyszukiwania: {0}|2#Wyniki Wyszukiwania: {0}
 search.results.page.header.bar.subs.template
-0#Search Results: {0} Subscriptions|1#Search Results: {0} Subscription|2#Search Results: {0} Subscriptions	0#Найдено подписок: {0}|1#Найдено подписок: {0}|2#Найдено подписок: {0}
+0#Search Results: {0} Subscriptions|1#Search Results: {0} Subscription|2#Search Results: {0} Subscriptions	0#Wyniki Wyszukiwania: {0}|1#Wyniki Wyszukiwania: {0}|2#Wyniki Wyszukiwania: {0}
 search.results.page.match.count.baseline.offset
 java/lang/Integer
 search.results.page.match_count.font
@@ -29,22 +29,22 @@ java/text/MessageFormat
 ({0})
 search.results.page.match.count.width
 search.results.page.not.enough.space.to.search
-Your search cannot be completed due to insufficient Kindle memory. Please free up space by removing content from Home.	Недостаточно памяти для завершения поиска. Пожалйста, освободите место на устройстве, удалив часть книг.
+Your search cannot be completed due to insufficient Kindle memory. Please free up space by removing content from Home.	Za mało pamięci do ukończenia wyszukiwania. Zwolnij miejsce na urządzeniu poprzez usunięcię niektórych książek.
 search.results.page.not.yet.indexed.grouping.title
-Items Not Yet Indexed	Элементы еще не проиндексированы
+Items Not Yet Indexed	Elementy Nie Zostały Jeszcze Zindeksowane
 search.results.page.yml.shortcut.prefix
-archiv	архив
+archiv	archiwum
 search.results.page.back.issues.shortcut.prefix
-back	назад
+back	cofnij
 unassigned.page.multiple.items
-Items	Элеметов
+Items	Elementy
 unassigned.page.one.item
-Item	Элемент
+Item	Element
 unassigned.page.header.template
 {0} Unassigned {1}
 unindexed.items.page.header.text
 unindexed.items.page.showing.all.items.template
-Showing All {0} Items	Показано элементов: {0}
+Showing All {0} Items	Pokaż Wszystkie: {0}
 com/amazon/ebook/booklet/home/foundation/resources/HomeGUIPageResources
 java/util/ListResourceBundle
 (Ljava/lang/String;)V

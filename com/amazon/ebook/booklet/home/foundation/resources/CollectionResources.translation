@@ -13,41 +13,41 @@ SourceFile
 java/lang/Object
 collection.filter.all.format
 java/text/ChoiceFormat
-0#Showing All {0,number,integer} Items|1#Showing All {0,number,integer} Item|2#Showing All {0,number,integer} Items	0#Показано {0,number,integer} элементов|1#Показан {0,number,integer} элемент|2#Показано {0,number,integer} элементов
+0#Showing All {0,number,integer} Items|1#Showing All {0,number,integer} Item|2#Showing All {0,number,integer} Items	0#Pokaż Wszystkie {0,number,integer} Elementów|1#Pokaż Wszystkie {0,number,integer} Element|2#Pokaż Wszystkie {0,number,integer} Elementów
 collection.filter.books.format
-0#Showing All {0,number,integer} Books|1#Showing All {0,number,integer} Book|2#Showing All {0,number,integer} Books	0#Показано {0,number,integer} книг|1#Показана {0,number,integer} книга|2#Показано {0,number,integer} книг
+0#Showing All {0,number,integer} Books|1#Showing All {0,number,integer} Book|2#Showing All {0,number,integer} Books	0#Pokaż Wszystkie {0,number,integer} Książki|1#Pokaż Wszystkie {0,number,integer} Książka|2#Pokaż Wszystkie {0,number,integer} Książki
 collection.filter.subs.format
-0#Showing All {0,number,integer} Periodicals|1#Showing All {0,number,integer} Periodical|2#Showing All {0,number,integer} Periodicals	0#Показано {0,number,integer} газет|1#Показана {0,number,integer} газета|2#Показано {0,number,integer} газет
+0#Showing All {0,number,integer} Periodicals|1#Showing All {0,number,integer} Periodical|2#Showing All {0,number,integer} Periodicals	0#Pokaż Wszystkie {0,number,integer} Czasopisma|1#Pokaż Wszystkie {0,number,integer} Czasopismo|2#Pokaż Wszystkie {0,number,integer} Czasopisma
 collection.filter.pdocs.format
-0#Showing All {0,number,integer} Personal Documents|1#Showing All {0,number,integer} Personal Document|2#Showing All {0,number,integer} Personal Documents	0#Показано {0,number,integer} документов|1#Показан {0,number,integer} документов|2#Показано {0,number,integer} документов
+0#Showing All {0,number,integer} Personal Documents|1#Showing All {0,number,integer} Personal Document|2#Showing All {0,number,integer} Personal Documents	0#Pokaż Wszystkie {0,number,integer} Dokumenty|1#Pokaż Wszystkie {0,number,integer} Dokument|2#Pokaż Wszystkie {0,number,integer} Dokumenty
 collection.filter.all
-All My Items	Все элементы
+All My Items	Wszystkie Elementy
 collection.filter.books
-Books	Книги
+Books	Książki
 collection.filter.subs
-Subscriptions	Подписки
+Subscriptions	Subskrypcje
 collection.filter.pdocs
-Personal Docs	Документы
+Personal Docs	Dokumenty
 collection.sort.recent.label
-By Most Recent First	По хронологии
+By Most Recent First	Chronologicznie
 collection.sort.title.label
-By Title	По названию
+By Title	Według Nazwy
 collection.sort.author.label
-By Author	По Автору
+By Author	Według Autora
 collection.sort.recent
-Most Recent First	По хронологии
+Most Recent First	Chronologicznie
 collection.sort.title
-Title	Названию
+Title	Tytuł
 collection.sort.author
-Author	Автору
+Author	Autor
 collection.menuitem.additems.name
-Add/Remove Items	Добавить/Удалить
+Add/Remove Items	Dodaj/Usuń Elementy
 collection.menuitem.edit.collection.name
-Rename Collection	Переименовать коллекцию
+Rename Collection	Zmień Nazwę
 collection.menuitem.delete.collection
-Delete Collection	Удалить коллекцию
+Delete Collection	Usuń Kolekcję
 collection.menuitem.create.collection
-Create a New Collection	Создать коллекцию
+Create a New Collection	Stwórz Kolekcję
 collection.menuitem.default.item
 java/lang/Integer
 collection.widget.font
@@ -61,15 +61,15 @@ collection.enter.failed.overlay.height
 collection.enter.overlay.line.spacing
 collection.enter.overlay.max.chars
 collection.enter.overlay.save.button.label
-save	сохранить
+save	zapisz
 collection.enter.overlay.title
-Enter Collection Name	Введите имя коллекции
+Enter Collection Name	Wprowadź Nazwę Kolekcji
 collection.edit.overlay.title
-Edit Collection Name	Редактирование имени коллекции
+Edit Collection Name	Edytuj Nazwę Kolekcji
 collection.edit.alreadyexists.overlay.title
-Collection Name Already Exists	Такая коллекция уже существует
+Collection Name Already Exists	Nazwa Kolekcji Już Występuje
 collection.edit.alreadyexists.overlay.msg
-The collection name that you entered already exists. Please enter a different name.	Коллекция с таким именем уже существует, введите другое имя.
+The collection name that you entered already exists. Please enter a different name.	Nazwa Kolekcji którą wybrałeś już występuje. Wybierz inną.
 collection.enter.overlay.title.font
 collection.enter.overlay.main.font
 collection.enter.overlay.field.font

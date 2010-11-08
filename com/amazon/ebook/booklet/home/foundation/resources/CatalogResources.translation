@@ -12,17 +12,17 @@ SourceFile
 [Ljava/lang/Object;
 java/lang/Object
 apps.citem.text.1
-Applications	Программы
+Applications	Aplikacje
 apps.citem.text.2
 
 apps.filter.format
 java/text/ChoiceFormat
 0#Showing {0,number,integer} Applications|1#Showing {0,number,integer} Application|2#Showing {0,number,integer} Applications
 archiveditems.citem.text.1
-Archived Items	Документы в Архиве
+Archived Items	Zarchiwizowane Elementy
 archiveditems.citem.text.2
 collectionsitem.citem.text.1
-Collections	Коллекции
+Collections	Kolekcje
 collectionsitem.citem.text.2
 backissues.citem.text.1
 Periodicals: Back Issues
@@ -30,19 +30,19 @@ backissues.citem.text.2
 backissues.filter.format
 0#Showing {0,number,integer} Back Issues|1#Showing {0,number,integer} Back Issue|2#Showing {0,number,integer} Back Issues
 backissues.citem.date.string.none
-(none)	(нет)
+(none)	(żadne)
 backissues.citem.date.single.format
 backissues.citem.date.long.pattern
 {0,date,medium} - {1,date,medium}
 backissues.citem.date.medium.pattern
 backissues.citem.date.short.pattern
 blogs.citem.text.1
-Blogs	Блоги
+Blogs	Blogi
 blogs.citem.text.2
 blogs.filter.format
 0#Showing {0,number,integer} Blogs|1#Showing {0,number,integer} Blog|2#Showing {0,number,integer} Blogs
 books.citem.text.1
-Books	Книги
+Books	Książki
 books.citem.text.2
 books.filter.format
 0#Showing {0,number,integer} Books|1#Showing {0,number,integer} Book|2#Showing {0,number,integer} Books
@@ -54,7 +54,7 @@ currentissues.citem.text.2
 currentissues.filter.format
 0#Showing {0,number,integer} Current Issues|1#Showing {0,number,integer} Current Issue|2#Showing {0,number,integer} Current Issues
 pdocs.citem.text.1
-Personal Docs	Персональные документы
+Personal Docs	Własne Dokumenty
 pdocs.citem.text.2
 pdocs.filter.format
 0#Showing {0,number,integer} Personal Docs|1#Showing {0,number,integer} Personal Doc|2#Showing {0,number,integer} Personal Docs
