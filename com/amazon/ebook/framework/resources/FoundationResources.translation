@@ -17,7 +17,7 @@ text.area.remains.string
 ...
 ellipses
 page.information.pattern
-{0,number,integer} of {1,number,integer}	{0,number,integer} из {1,number,integer}
+{0,number,integer} of {1,number,integer}	{0,number,integer} z {1,number,integer}
 widget.foreground.color
 widget.background.color
 outline.selectable.drawing.thickness
