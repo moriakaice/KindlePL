@@ -12,11 +12,11 @@ SourceFile
 [Ljava/lang/Object;
 java/lang/Object
 default.opening.string
-Opening...	Открытие...
+Opening...	Otwieranie...
 turing.screen.size
 java/lang/Integer
 go.to.location.hint
-Enter location number (1 - {0})	Введите позицию (1 - {0})
+Enter location number (1 - {0})	Wprowadź numer miejsca (1 - {0})
 search.result.characters.offset
 com/amazon/ebook/booklet/reader/gui/resources/BookGUIUtilResources
 java/util/ListResourceBundle

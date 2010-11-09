@@ -12,7 +12,7 @@ SourceFile
 [Ljava/lang/Object;
 java/lang/Object
 title
-Go to...	Перейти к...
+Go to...	Idź do...
 num.lines
 java/lang/Integer
 com/amazon/ebook/booklet/reader/gui/overlay/gotolocation/resources/GoToTextEntryMultiFeaturePanelResources

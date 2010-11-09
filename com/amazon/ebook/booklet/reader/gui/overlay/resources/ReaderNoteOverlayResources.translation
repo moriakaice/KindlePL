@@ -12,18 +12,18 @@ SourceFile
 [Ljava/lang/Object;
 java/lang/Object
 save.note.button.text
-save note	сохранить заметку
+save note	zapisz notatkę
 save.and.share.button.text
-save & share	сохранить и расшарить
+save & share	zapisz i udostępnij
 delete.button.text
-delete	удалить
+delete	skasuj
 button.width
 java/lang/Integer
 shortcut.text
 
 clear.text
 empty.note.error
-You cannot save an empty note.	Вы не можете сохранить пустую заметку.
+You cannot save an empty note.	Nie możesz zapisać pustej notatki.
 com/amazon/ebook/booklet/reader/gui/overlay/resources/ReaderNoteOverlayResources
 java/util/ListResourceBundle
 (I)V
