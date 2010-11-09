@@ -14,13 +14,13 @@ java/lang/Object
 home.booklet.name
 Home
 home.menu.personalization.label
-My Kindle	Мой Kindle
+My Kindle	Мój Kindle
 download.wan.off
-Your wireless is turned off, please turn it on and try again.	Связь недоступна, включите ее и попробуйте еще раз.
+Your wireless is turned off, please turn it on and try again.	Łączność bezprzewodowa jest włączona. Włącz i spróbuj ponownie
 exceeded.licenses.alert
-This item cannot be currently downloaded because all of its licenses are in use on your other devices.~~~~To download it to this device, you can either delete it from another one of your devices or purchase another copy from the Kindle store.~~~~	Этот элемент не может быть загружен в данное время, потому что, все доступные лицензии уже использованы вами на других устройствах.~~~~Вы должны удалить его с другого устройства или купить еще одну копию в магазине Amazon.~~~~
+This item cannot be currently downloaded because all of its licenses are in use on your other devices.~~~~To download it to this device, you can either delete it from another one of your devices or purchase another copy from the Kindle store.~~~~	Ta pozycja nie może być pobrana ponieważ wszystkie jej pozycje są w użyciu na innych urządzeniach~~~~By pobrać pozycję możesz usunąć ją z innego urządzenia albo kupić kolejną kopię ze Sklepu Kindle.~~~~
 home.viewdownloaditem.menuitem.label
-View Downloading Items	Загружаемые сейчас книги
+View Downloading Items	Pokaż pobierane elementy
 home.view.sound
 home.delete.button.sound
 delete

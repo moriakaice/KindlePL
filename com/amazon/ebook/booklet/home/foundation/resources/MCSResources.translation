@@ -12,19 +12,19 @@ SourceFile
 [Ljava/lang/Object;
 java/lang/Object
 switch.wireless.provider.overlay.label
-Switching Wireless Providers	Выбор GSM оператора
+Switching Wireless Providers	Zmień operatora GSM
 switch.wireless.provider.overlay.body.without.current.provider
-Your Kindle will lose its connection during this process. Manually switching wireless providers may take several minutes to complete, and your Kindle may not successfully reconnect to the Amazon Whispernet network. Do you wish to continue?
+Your Kindle will lose its connection during this process. Manually switching wireless providers may take several minutes to complete, and your Kindle may not successfully reconnect to the Amazon Whispernet network. Do you wish to continue?	Kindle straci łączność w trakcie tego procesu. Ta zmiana może potrwać kilka minut i Kindle może się nie połączyć z siecią Amazon Whispernet. Kontynuować?
 wireless.provider.page.footer.text
 
 wireless.provider.page.header.text
-Available Wireless Providers	Доступные GSM операторы
+Available Wireless Providers	Dostępni operatorzy GSM
 wireless.provider.page.scanning.text.1
-Scanning for available wireless providers.	Поиск доступных GSM операторов.
+Scanning for available wireless providers.	Szukanie dostępnych operatorów GSM
 wireless.provider.page.scanning.text.2
-This may take several minutes...	Поиск может занять несколько минут...
+This may take several minutes...	To może potrwać kilka minut...
 wireless.provider.page.switch.automatically.text
-Switch automatically (recommended)	Выбрать автоматически (рекомендуется)
+Switch automatically (recommended)	Zmień automatycznie (zalecane)
 wireless.provider.main.item.name.with.technology.pattern
 {0} ({1})
 wireless.technology.gsm
@@ -50,7 +50,7 @@ java/lang/Long
 mcs.defer.screen.saver.timer
 mcs.item.cursor.height
 wireless.provider.populating.page.instruction.text
-Select "Switch automatically" to allow your Kindle to automatically choose the best wireless provider (default).	Режим "Выбрать автоматически" позволит Kindle выбирать подходящего GSM оператора автоматически (по умолчанию).
+Select "Switch automatically" to allow your Kindle to automatically choose the best wireless provider (default).	Wybierz "Zmień automatycznie" by Twój Kindle sam wybrał najlepszego operatora GSM (domyślnie).
 mcs.connected.sound
 connected
 mcs.not.connected.sound

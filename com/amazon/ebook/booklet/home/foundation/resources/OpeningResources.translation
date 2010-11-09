@@ -12,9 +12,9 @@ SourceFile
 [Ljava/lang/Object;
 java/lang/Object
 opening.str.1
-Now downloading the selected item...	Загружаются выбранные элементы...
+Now downloading the selected item...	Teraz pobieram wybraną pozycję...
 opening.str.2
-When downloading is complete, the item will appear in Home, or, if you choose to stay on this page, the item will open automatically.	Когда загрузка завершится, элемент появится на домашнем экране автоматически. Если вы останетесь здесь, элемент откроется сразу.
+When downloading is complete, the item will appear in Home, or, if you choose to stay on this page, the item will open automatically.	Kiedy pobieranie zakończy się, pozycja pojawi się w Katalogu Domowym albo otworzy się automatycznie.
 opening.side.margin
 java/lang/Integer
 opening.line.margin

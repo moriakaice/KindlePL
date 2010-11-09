@@ -48,39 +48,39 @@ home.header.filter.collections.format
 home.header.filter.addremove.format
 0#Add/Remove 0 Items|1#Add/Remove 1 Item|2#Add/Remove {0,number,integer} Items	0#Добавить/удалить 0 элемент|1#Добавить/удалить 1 элемент|2#Добавить/удалить {0,number,integer} элементов
 home.header.filter.all
-All My Items	Все элементы
+All My Items	Wszystkie pozycje
 home.header.filter.books
-Books	Книги
+Books	Książki
 home.header.filter.subs
-Subscriptions	Подписки
+Subscriptions	Subskrybcje
 home.header.filter.pdocs
-Personal Docs	Документы
+Personal Docs	Dokumenty
 home.header.filter.collections
-Collections	Коллекции
+Collections	Kolekcje
 home.header.sort.recent.label
-By Most Recent First	По дате
+By Most Recent First	Od najnowszego
 home.header.sort.title.label
-By Title	По названию
+By Title	Wg. tytułu
 home.header.sort.author.label
-By Author	По автору
+By Author	Wg. autora
 home.header.sort.collections.label
-By Collections	По коллекциям
+By Collections	Wg. kolecji
 home.header.sort.collectionsonly.label
-By Collections Only	Только по коллекциям
+By Collections Only	Tylko wg. kolekcji
 home.header.sort.relevance.label
-By Relevance	По релевантности
+By Relevance	Wg. trafności
 home.header.sort.recent
-Most Recent First	По дате
+Most Recent First	Najpierw najnowsze
 home.header.sort.title
-Title	Названию
+Title	Tytuł
 home.header.sort.author
-Author	Автору
+Author	Autor
 home.header.sort.collections
-By Collections	По Коллекциям
+By Collections	Wg. kolekcji
 home.header.sort.collectionsonly
-Collections Only	Только по коллекциям
+Collections Only	Tylko kolekcje
 home.header.sort.relevance
-Relevance	Релевантности
+Relevance	Trafność
 home.header.sound.separator
 , 
 home.header.filter.sound

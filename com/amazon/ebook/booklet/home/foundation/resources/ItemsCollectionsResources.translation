@@ -13,7 +13,7 @@ SourceFile
 java/lang/Object
 itemscollections.filter.format
 java/text/ChoiceFormat
-0#Showing {0,number,integer} Collections|1#Showing {0,number,integer} Collection|2#Showing {0,number,integer} Collections	0#Показано коллекций: {0,number,integer}|1#Показано коллекций: {0,number,integer}|2#Показано коллекций: {0,number,integer}
+0#Showing {0,number,integer} Collections|1#Showing {0,number,integer} Collection|2#Showing {0,number,integer} Collections	0#Wyświetlane: {0,number,integer}|1#Wyświetlane: {0,number,integer}|2#Wyświetlane: {0,number,integer}
 itemscollections.view.sound
 View Collections of a single item
 com/amazon/ebook/booklet/home/foundation/resources/ItemsCollectionsResources
