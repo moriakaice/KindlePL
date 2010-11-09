@@ -15,20 +15,20 @@ view.close.button.font
 view.close.button.inset
 java/awt/Insets
 view.history.title
-History	История
+History	Historia
 view.bookmarks.title
-Bookmarks	Закладки
+Bookmarks	Zakładki
 view.settings.title
-Settings	Настройки
+Settings	Ustawienia
 view.item.height
 java/lang/Integer
 view.settings.item.height
 view.bookmarks.edit.name.title
-Edit name:	Редактировать имя:
+Edit name:	Zmień nazwę:
 view.bookmarks.item.name.unknown
-New Bookmark	Новая закладка
+New Bookmark	Nowa zakładka
 view.history.item.title.unknown
-No Title	Без заголовка
+No Title	Bez tytułu
 view.three_action_item.cursor.height
 view.three_action_item.cursor.y
 view.three_action_item.left_action.width

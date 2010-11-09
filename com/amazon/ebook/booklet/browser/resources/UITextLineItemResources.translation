@@ -20,7 +20,7 @@ below.cursor.desc.margin.left
 title.font
 description.font
 no.title.replacement
-No Title	Без заголовка
+No Title	Bez Tytułu
 cursor.height
 com/amazon/ebook/booklet/browser/resources/UITextLineItemResources
 java/util/ListResourceBundle

@@ -12,19 +12,19 @@ SourceFile
 [Ljava/lang/Object;
 java/lang/Object
 clear.cache.label
-Clear Cache	Очистить кэш
+Clear Cache	Czyść pamięć podręczną
 clear.history.label
-Clear History	Очистить историю
+Clear History	Czyść historię
 clear.cookies.label
-Clear Cookies	Очистить cookies
+Clear Cookies	Czyść cookies
 enable.js.label
-Enable Javascript	Включить Javascript
+Enable Javascript	Włącz Javascript
 disable.js.label
-Disable Javascript	Отключить Javascript
+Disable Javascript	Wyłącz Javascript
 enable.images.label
-Enable Images	Показывать изображения
+Enable Images	Włącz obrazki
 disable.images.label
-Disable Images	Отключить изображения
+Disable Images	Wyłącz obrazyki
 com/amazon/ebook/booklet/browser/resources/UISettingsViewResources
 java/util/ListResourceBundle
 a

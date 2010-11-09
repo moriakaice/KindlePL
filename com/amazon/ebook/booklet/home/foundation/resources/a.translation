@@ -10,9 +10,9 @@ SourceFile
 [Ljava/lang/Object;
 java/lang/Object
 exp.label
-Experimental	Экспериментальные возможности
+Experimental	Eksperymentalne możliwości
 exp.text
-We are working on these experimental prototypes. Do you find them useful? Should we continue working on them? We would love to hear what you think, so please send your comments to {0}	Мы работаем над усовершенствованием этих экспериментальных возможностей. Если они Вам приглянулись или у вас есть предложения по их развитию, пожалуйста напишите Нам по адресу {0}
+We are working on these experimental prototypes. Do you find them useful? Should we continue working on them? We would love to hear what you think, so please send your comments to {0}	Pracujemy nad tym, by poprawić eksperymentalne możliwości. Jeśli Ci się podobają lub masz sugestie co do ich rozwoju, prosimy o kontakt pod {0}
 exp.font
 exp.text.x
 java/lang/Integer
@@ -33,27 +33,27 @@ feedback.email.default
 kindle-feedback@amazon.com
 exp.cursor.disabled.color
 bw.widget.label
-Web Browser	Web браузер
+Web Browser	Przeglądarka internetowa
 bw.widget.cursor.label
-launch browser	запустить браузер
+launch browser	Włącz przeglądarkę
 bw.widget.desc
-Select this item to launch Web Browser and browse, choose a bookmark, or enter a URL.	Выберите этот пункт, чтобы запустить Web браузер, затем выберите закладку или введите URL адрес.
+Select this item to launch Web Browser and browse, choose a bookmark, or enter a URL.	Wybierz tą opcję, aby uruchomić przeglądarkę internetową, a następnie wybierz zakładkę lub wpisz adres URL.
 mp3.widget.label
-Play MP3	Воспроизведение MP3
+Play MP3	Otwarzacz MP3
 mp3.widget.cursor.label.play
-play music	слушать музыку
+play music	graj muzykę
 mp3.widget.cursor.label.pause
-pause music	пауза
+pause music	pauza
 mp3.widget.desc
-Select this item to listen to music or podcasts while you read. Hold down the 'ALT' key and press the spacebar to stop or play, or the 'F' key to skip to the next track. You must copy MP3 files from your computer to your Kindle's 'music' folder to use this feature.	Выберите этот пункт, если хотите слушать музыку или подкасты, в то время, пока вы читаете книги. Удерживая клавишу 'ALT', нажмите пробел для остановки или воспроизведения, 'F' - для перехода на следующую композицию. Вы должны скопировать свои MP3 файлы в папку 'music' вашего Kindle.
+Select this item to listen to music or podcasts while you read. Hold down the 'ALT' key and press the spacebar to stop or play, or the 'F' key to skip to the next track. You must copy MP3 files from your computer to your Kindle's 'music' folder to use this feature.	Wybierz ten element, aby słuchać muzyki lub podcasty podczas czytania. Przytrzymaj 'ALT' i naciśnij spację aby odtwarzać lub zatrzymać, 'F' - aby przejść do następnego utworu. Należy skopiować pliki MP3 do folderu 'music' na Kindle.
 mp3.not.found.alert.text
-No MP3 Files Found~~~~To play MP3 files, you must first copy them from your computer to your Kindle's "music" folder.	MP3 файлы не найдены~~~~Вы должны сперва скопировать MP3 в папку 'music' вашего Kindle.
+No MP3 Files Found~~~~To play MP3 files, you must first copy them from your computer to your Kindle's "music" folder.	Pliki MP3 nie znalezione~~~~Aby odtwarzać pliki MP3, skopiuj je do folderu 'music' w Kindle.
 t2s.widget.label
-Text-to-Speech	Проговаривание текста (Text-to-Speech)
+Text-to-Speech	Wymowa tekstu (Text-to-Speech)
 t2s.widget.cursor.label
 
 t2s.widget.desc
-Start Text-to-Speech in the Text menu while you are reading and your Kindle will start reading to you (where allowed by the rights holder). Hold down the 'Shift' key and press the 'SYM' key to stop or play.	Вы можете включить проговаривание текста (только на английском) в меню Text в момент чтения книги. Нажмите Shift + SYM для остановки или запуска проговаривания.
+Start Text-to-Speech in the Text menu while you are reading and your Kindle will start reading to you (where allowed by the rights holder). Hold down the 'Shift' key and press the 'SYM' key to stop or play.	Możesz włączyć wymowę tekstu (w języku angielskim) w menu Tekst w trakcie czytania ksiżąki. Naciśnij Shift + SYM aby uruchomić lub zatrzymać wymowę.
 exp.view.sound
 Experimental Items
 exp.pause.sound

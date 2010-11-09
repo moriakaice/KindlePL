@@ -12,23 +12,23 @@ SourceFile
 [Ljava/lang/Object;
 java/lang/Object
 open.history.view.label
-History	История
+History	Historia
 open.bookmarks.view.label
-Bookmarks	Закладки
+Bookmarks	Zakładki
 open.settings.view.label
-Browser Settings	Настройки браузера
+Browser Settings	Ustawienia przeglądarki
 bookmark.this.page.label
-Bookmark This Page	Добавить сайт в закладки
+Bookmark This Page	Dodaj do zakładek
 enter.url.label
-Enter URL	Перейти по Адресу(URL)
+Enter URL	Wprowadź adres (URL)
 article_mode.set.label
-Article Mode	Одноколоночный режим
+Article Mode	Tryb pojedynczej kolumny
 article_mode.clear.label
-Web Mode	Обычный режим
+Web Mode	Tryb normalny Web
 zoom.in.label
-Zoom In	Увеличить
+Zoom In	Powiększ
 zoom.out.label
-Zoom Out	Уменьшить
+Zoom Out	Zmniejsz
 com/amazon/ebook/booklet/browser/resources/UIAppMenuResources
 java/util/ListResourceBundle
 a

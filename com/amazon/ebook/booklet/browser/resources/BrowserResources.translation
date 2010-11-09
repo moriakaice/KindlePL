@@ -12,36 +12,36 @@ SourceFile
 [Ljava/lang/Object;
 java/lang/Object
 bookmark.overwrite.prompt.msg
-Another page with the same title is already bookmarked. Do you want to overwrite it?	У вас уже есть закладка с таким названием, желаете перезаписать?
+Another page with the same title is already bookmarked. Do you want to overwrite it?	Inna strona o tym samym tytule jest już w zakładkach. Czy chcesz ją zastąpić?
 bookmark.remove_oldest.prompt.msg
-You have reached the limit of bookmarks you can create. Would you like to delete the oldest bookmark in order to save this one?	У Вас слишком много закладок. Можно удалить самые старые и добавить новую, продолжить?
+You have reached the limit of bookmarks you can create. Would you like to delete the oldest bookmark in order to save this one?	Osiągnięto limit zakładek jakie można otworzyć. Chcesz usunąć najstarsze zakładki żeby zapisać tą?
 messages.error.communication_error
-Your Kindle is unable to connect at this time. Please try again later.	Ваш Kindle не может подключится в данный момент. Пожалйста, попробуйте еще раз позже.
+Your Kindle is unable to connect at this time. Please try again later.	Twój Kindle nie może się połączyć w tej chwili. Proszę spróbuj później.
 messages.error.bad_download_type
-Web Browser cannot download this kind of file. Only files with the extension .AZW, .PRC, .MOBI, or .TXT can be downloaded to your Kindle.	Web браузер не может скачать файл данного формата. Подходят файлы с расширениями: .AZW, .PRC, .MOBI, или .TXT
+Web Browser cannot download this kind of file. Only files with the extension .AZW, .PRC, .MOBI, or .TXT can be downloaded to your Kindle.	Przeglądarka nie może pobrać tego pliku. Tylko pliki: .AZW, .PRC, .MOBI, .TXT można pobierać do Kindle.
 messages.error.bad_protocol
-Web Browser cannot download files using this protocol. Only HTTP: and HTTPS: protocols are supported.	Только HTTP и HTTPS протоколы поддерживаются.
+Web Browser cannot download files using this protocol. Only HTTP: and HTTPS: protocols are supported.	Tylko protokoły HTTP i HTTPS są obsługiwane.
 messages.error.new_window_suppressed
-Web Browser could not open this link because opening multiple windows is not supported.	Web браузер не может открыть эту ссылку, т.к. не поддерживается открытие нескольких окон одновременно.
+Web Browser could not open this link because opening multiple windows is not supported.	Przeglądarka nie może otworzyć linku, ponieważ otwieranie wielu jej okien nie jest obsługiwane.
 messages.error.ssl_failed
-Web Browser is unable to establish a secure connection with this web site.	Web браузер не может установить безопасное подключение к этому сайту.
+Web Browser is unable to establish a secure connection with this web site.	Nie można ustanowić bezpiecznego połączenia dla tej strony www.
 messages.error.out_of_memory1
-Web Browser was restarted because it ran out of memory.	Web браузер был перезапущен, т.к. ему не хватило памяти.
+Web Browser was restarted because it ran out of memory.	Przeglądarka wykona restart ponieważ jest zbyt mało wolnej pamięci.
 messages.error.out_of_memory2
 messages.error.other
-Your Kindle is unable to load the requested page.	Ваш Kindle не может загрузить запрашиваемую страницу.
+Your Kindle is unable to load the requested page.	Twój Kindle nie może załadować żądanej strony.
 messages.error.wireless_off
-Wireless is turned off. Please turn your wireless on from the menu and try again.	Беспроводное подключение отключено. Пожалуйста, включите его из меню и попробуйте снова.
+Wireless is turned off. Please turn your wireless on from the menu and try again.	Wi-Fi jest wyłączone. Proszę włącz Wi-Fi i spróbuj ponownie.
 messages.error.upload_declined
-Web Browser does not support file uploads.	Web браузер не поддерживает отправку файлов.
+Web Browser does not support file uploads.	Przeglądarka nie obsługuje wysyłania plików.
 messages.error.print_declined
-Printing is not available with Web Browser.	Web браузер не поддерживает печать.
+Printing is not available with Web Browser.	Przeglądarka nie obsługuje drukowania.
 registration.dialog.title
-You must first register your Kindle.	Для начала, Вы должны зарегистрировать Ваш Kindle.
+You must first register your Kindle.	Musisz najpierw zarejestrować swojego Kindle.
 not_registered.dialog.title
-Registration Required	Требуется регистрация
+Registration Required	Wymagana rejestracja
 not_registered.dialog.body
-In order to browse using 3G wireless, you must first register your Kindle to your Amazon user account. Please go to Settings to register.	Для работы с 3G подключением, вы должны зарегистрироваться на сайте Amazon и ввести свои данные в настройках вашего Kindle.
+In order to browse using 3G wireless, you must first register your Kindle to your Amazon user account. Please go to Settings to register.	Aby korzystać z 3G musisz się zarejestrować  na stronie Amazon i wpisać swoje dane w ustawieniach Kindle.
 search.internet.url.pattern
 http://www.google.com/search?q={0}
 search.wiki.url.pattern
@@ -49,21 +49,21 @@ http://en.wikipedia.org/wiki?search={0}
 internet.amazon.social.pattern
 https://kindle.amazon.com/social
 download.dialog.title
-Download file	Загрузка файла
+Download file	Pobierz plik
 download.dialog.body
-Download {0}? Once the download is complete, the file will appear in your Home screen. Are you sure you want to proceed?	Загрузить {0}? После завершения загрузки, файл появится на домашнем экране. Продолжить?
+Download {0}? Once the download is complete, the file will appear in your Home screen. Are you sure you want to proceed?	Pobrać {0}? Po zakończeniu pojawi się na Głównej. Kontynuować?
 download.complete.alert.body
-Web Browser successfully downloaded {0}.	Web браузер успешно загрузил {0}.
+Web Browser successfully downloaded {0}.	Przeglądarka internetowa pomyślnie załadowana {0}.
 download.error.alert.body
-Web Browser was unable to download {0}. Please try again later.	Web браузер не может загрузить {0}. Попробуйте еще раз.
+Web Browser was unable to download {0}. Please try again later.	Przeglądarka nie może zostać załadowana {0}. Spróbuj później.
 http_authentication.dialog.title
-Authentication Required	Требуется авторизация
+Authentication Required	Wymagane uwierzytelnianie
 http_authentication.dialog.description
-The site {0} at {1} requires a username and password.	Сайт {0} по адресу {1} требует ввода логина и пароля.
+The site {0} at {1} requires a username and password.	Strona {0} w {1} wymaga nazwy użytkownika i hasła.
 ssl_exception.dialog.title
-Invalid Certificate	Неправильный сертификат
+Invalid Certificate	Niewłaściwy certyfikat
 ssl_exception.dialog.body
-Web Browser is unable to establish a secure connection to the website {0}. Do you still want to proceed?	Web браузер не может установить безопасное соединение с сайтом {0}. Желаете продолжить?
+Web Browser is unable to establish a secure connection to the website {0}. Do you still want to proceed?	Nie można ustanowić bezpiecznego połączenia dla strony {0}. Kontynuować?
 com/amazon/ebook/booklet/browser/resources/BrowserResources
 java/util/ListResourceBundle
 a
