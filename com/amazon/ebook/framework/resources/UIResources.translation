@@ -28,7 +28,7 @@ java/awt/Insets
 message.content.panel.text.spacing
 multichoice.default.font
 multichoice.page.pattern
-Page {0,number,integer} of {1,number,integer}	Страница {0,number,integer} из {1,number,integer}
+Page {0,number,integer} of {1,number,integer}	Strona {0,number,integer} z {1,number,integer}
 multichoice.page.x
 multichoice.page.y
 messagecontent.body.default.font
@@ -49,7 +49,7 @@ menuitem.spacer.default.height
 password.field.disguise.character
 java/lang/Character
 textfield.symbol.hint.msg
-(press 'SYM' key for symbols)	(нажмите 'SYM' для доп. символов)
+(press 'SYM' key for symbols)	(klawisz 'SYM'-znaki specjalne)
 symbols.default.font
 labelmi.default.font
 pubinfo.default.font
@@ -91,7 +91,7 @@ textwidget.cursor.color
 fontmenu.displaystring
 Aa
 fontmenu.accessibility.prompt
-Размер шрифта {0,number,integer}
+Rozmiar czcionki {0,number,integer}
 fontmenu.default.font.size.list
 com/amazon/ebook/framework/resources/UIResources
 java/util/ListResourceBundle

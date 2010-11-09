@@ -14,21 +14,21 @@ SourceFile
 [Ljava/lang/Object;
 java/lang/Object
 wireless.switch.on
-Turn Wireless On	Включить WiFi(3G)
+Turn Wireless On	Włączenie WiFi(3G)
 wireless.switch.off
-Turn Wireless Off	Выключить WiFi(3G)
+Turn Wireless Off	Wyłączenie WiFi(3G)
 store.body
-Shop in Kindle Store	Книжный магазин Amazon
+Shop in Kindle Store	Kup w Kindle Store
 settings.body
-Settings	Настройки
+Settings	Ustawienia
 exp.body
-Experimental	Экспериментальные возможности
+Experimental	Eksperymentalne
 reset.body
-Reset	Перезагрузить Kindle
+Reset	Reset urządzenia
 factory.reset.body
-Reset to Factory Defaults	Сброс настроек на заводские
+Reset to Factory Defaults	Ustawienia domyślne
 factory.reset.confirm.body
-You are about to reset your Kindle to factory defaults, which will remove all downloaded or transferred content from the device. You will still be able to download archived items. Do you wish to continue?
+You are about to reset your Kindle to factory defaults, which will remove all downloaded or transferred content from the device. You will still be able to download archived items. Do you wish to continue?	Zamierzasz przywrócić ustawienia domyślne dla swojego Kindle. Usunie to całą pobraną i wgraną zawartość z urządzenia. Nadal będziesz mógł wgrać zarchiwizowane elementy. Kontynuować?
 command.line.public.symbol
 @
 command.line.semiprivate.symbol
@@ -49,7 +49,7 @@ symbols.default.disabledsymbol.color
 symbols.default.font
 symbols.hint.font
 symbols.default.hint
-(press 'SYM' key to close symbols)	(Нажмите 'SYM' что бы закрыть окно)
+(press 'SYM' key to close symbols)	(naciśnij 'SYM' aby zamknąć okno)
 symbols.margins
 java/awt/Insets
 symbols.grid.size
@@ -60,25 +60,25 @@ symbols.default.char
 java/lang/Character
 symbols.digitsonly.default.char
 symbols.page.pattern
-(press 'SYM' to close) — Page {0,number,integer} of {1,number,integer}	('SYM'-закрыть окно) — Страница {0,number,integer} из {1,number,integer}
+(press 'SYM' to close) — Page {0,number,integer} of {1,number,integer}	(naciśnij 'SYM' aby zamknąć okno) — Strona {0,number,integer} z {1,number,integer}
 search.body
-Search	Поиск
+Search	Szukaj
 check.body
-Sync & Check for Items	Синхронизировать книги
+Sync & Check for Items	Synchronizacja elementów
 home.body
-Home	Домой
+Home	Home
 sove.for.later.body
 "Save for Later" Items
 lock.rotation
-locked
+locked	zablokowany
 unlock.rotation
-unlocked
+unlocked	odblokowany
 rotation.auto
-auto	авто
+auto	auto
 rotation.landscape
-landscape	альбомная
+landscape	horyzontalny
 rotation.portrait
-portrait	портретная
+portrait	wertykalny
 rotation.landscape.imagename
 ScrnRotate_Icon_Landscpe1.gif
 rotation.portrait.imagename
