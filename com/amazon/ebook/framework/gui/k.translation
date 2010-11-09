@@ -37,13 +37,13 @@ com.amazon.ebook.framework.resources.GlobalMenuItems
 store.body
 Store
 search.body
-Search	Поиск
+Search	Szukaj
 home.body
-Home	Домой
+Home	Home
 settings.body
-Settings	Настройки
+Settings	Ustawienia
 exp.body
-Experimental	Экспериментальные возможности
+Experimental	Eksperymentalne
 factory.reset.body
 save.for.later.body
 SaveForLater

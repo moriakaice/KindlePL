@@ -12,7 +12,7 @@ SourceFile
 [Ljava/lang/Object;
 java/lang/Object
 reader.default.alert
-The selected item could not be opened. If you purchased this item from Amazon, delete the item and download it from Archived Items.	Невозможно открыть эту книгу. Если вы ее купили в магазине Amazon, удалите ее с Kindle и скачайте снова.
+The selected item could not be opened. If you purchased this item from Amazon, delete the item and download it from Archived Items.	Wybrany element nie mógł zostać otwarty. Jeżeli kupiłeś ten element na Amazon, usuń go i pobierz ponownie z Archiwum.
 font.families
 java/lang/String
 serif
@@ -32,7 +32,7 @@ gui.header.x
 gui.header.height
 gui.header.baseline
 gui.header.selection.label
-Select range of text to highlight. Press select wheel when done.	Выделите часть текста. Нажмите [джойстик] для завершения.
+Select range of text to highlight. Press select wheel when done.	Zaznacz tekst aby podświetlić. Naciśnij selekt kiedy skończysz.
 gui.header.table_scrolling_label
 Use Next Page and Prev Page to pan table	"след. страница" и "пред. страница" - перемещение таблицы
 gui.gutter.width
@@ -64,80 +64,80 @@ gui.icon.highlighted_note.width
 gui.icon.highlighted_note.height
 gui.icon.zoom.limit
 gui.menu.context.toc
-Table of Contents	Содержание
+Table of Contents	Spis treści
 gui.menu.context.first_page
-Go to First Page	Открыть первую страницу
+Go to First Page	Idź do pierwszej strony
 gui.menu.context.go_to_user_location
-Go to Location...	Перейти к позиции
+Go to Location...	Idź do lokacji...
 gui.menu.context.go_to_page
-Go to Page...	Открыть страницу...
+Go to Page...	Idź do strony...
 gui.menu.context.product_details_page
-Book Description	Описание книги
+Book Description	Opis ksiązki
 gui.menu.context.search_this
-Search This Book	Искать по книге
+Search This Book	Szukaj w książce
 gui.menu.context.search_this_document
-Search This Document	Искать по книге
+Search This Document	Szukaj w dokumencie
 gui.menu.context.search_this_issue
-Search This Issue	Искать по изданию
+Search This Issue	Szukaj w czasopiśmie
 gui.menu.context.search_this_blog
-Search This Blog	Искать по блогу
+Search This Blog	Szukaj na blogu
 gui.menu.context.search_this_sample
-Search This Sample	Искать по примеру
+Search This Sample	Szukaj w próbce
 gui.menu.context.clip_this_article
 Clip This Article	Вырезать эту статью
 gui.menu.context.keep_this_issue
-Keep This Issue	Сохранить это издание
+Keep This Issue	Zatrzymaj to czasopismo
 gui.menu.context.go_to_my_annotations
-My Notes & Marks	Мои заметки
+My Notes & Marks	Moje notatki i zaznaczenia
 gui.menu.context.go_to_my_bookmarks
-My Bookmarks	Мои закладки
+My Bookmarks	Moje zakładki
 gui.menu.context.place_cursor
-Add a Note or Highlight	Добавить заметку или выделение
+Add a Note or Highlight	Dodaj notatkę lub podświetlenie
 gui.menu.context.place_cursor_in_page
-Place Cursor in Page	Поместить курсор на страницу
+Place Cursor in Page	Umieść kursor na stronie
 gui.menu.context.add_bookmark
-Add a Bookmark	Добавить закладку
+Add a Bookmark	Dodaj zakładkę
 gui.menu.context.remove_bookmark
-Delete Bookmark	Удалить закладку
+Delete Bookmark	Usuń zakładkę
 gui.menu.context.my_annotations
 gui.menu.context.show_annotations
-Show Annotations	Показать комментарии
+Show Annotations	Pokaż adnotacje
 gui.menu.context.hide_annotations
-Hide Annotations	Скрыть комментарии
+Hide Annotations	Ukryj adnotacje
 gui.menu.context.save_page_as_clipping
-Save Page as Clipping	Сохранить страницу как вырезку
+Save Page as Clipping	Zapisz stronę jako ......
 gui.menu.context.go_home
-Home	Домой
+Home	Home
 gui.menu.context.go_to_section
-Go to Sections List	Перейти к разделам
+Go to Sections List	Idź do listy sekcji
 gui.menu.context.go_to_cover
-Cover	Обложка
+Cover	Okładka
 gui.menu.context.go_to_start
-Go to Beginning	Перейти к началу
+Go to Beginning	Idź na początek
 gui.menu.context.go_to_front_page
-Go to Front Page	Перейти на первую страницу
+Go to Front Page	Idź na pierwszą stronę
 gui.menu.context.go_to_articles_list
-Go to Articles List	Перейти к списку статей
+Go to Articles List	Idź do listy artykułów
 gui.menu.context.go_to_first_article
-Go to First Article	Перейти к первой статье
+Go to First Article	Idź do pierwszego artykułu
 gui.menu.context.go_to_bookmark
-Go to Bookmark...	Перейти на закладку
+Go to Bookmark...	Idź do zakładki
 gui.menu.context.buy_now
-Buy This Book Now	Купить эту книгу сейчас
+Buy This Book Now	Kup teraz tą książkę
 gui.menu.context.see_details
-See Details	Просмотреть детали
+See Details	Zobacz detale
 gui.menu.context.search_index_view
-Index	Индекс
+Index	Indeks
 gui.menu.context.close_index_view
-Close Index	Закрыть индекс
+Close Index	Zamknij indeks
 gui.menu.context.mark_as_favorite
-Keep This Item	Сохранить эту книгу
+Keep This Item	Zachowaj ten element
 gui.menu.context.unmark_as_favorite
-Do Not Keep This Issue	Не сохранять эту книгу
+Do Not Keep This Issue	Nie zapisuj tego czasopisma
 gui.menu.context.show_info
-Show Info	Просмотреть информацию
+Show Info	Pokaż informacje
 gui.menu.context.delete_book
-Delete This Item	Удалить эту книгу
+Delete This Item	Usuń ten element
 gui.menu.context.clip_article
 Clip Article	Вырезать статью
 gui.menu.context.document_orientation
@@ -146,28 +146,28 @@ gui.menu.context.document_reflow
 Reflow Text/No Reflow
 gui.menu.bookmark.delete_bookmark
 gui.menu.bookmark.delete_note
-Delete Note	Удалить заметку
+Delete Note	Usuń notatkę
 gui.menu.bookmark.add_description
-Add Note	Добавить заметку
+Add Note	Dodaj notatkę
 gui.menu.bookmark.edit_description
-Edit Note	Редктировать заметку
+Edit Note	Edytuj notatkę
 gui.menu.selection.lookup
 Lookup
 gui.menu.selection.add_highlight
-Add Highlight...	Добавить выделение...
+Add Highlight...	Dodaj zaznaczenie...
 gui.menu.selection.add_note
 gui.menu.selection.edit_note
 gui.menu.selection.delete_highlight
-Delete Highlight	Удалить выделение
+Delete Highlight	Usuń zaznaczenie
 gui.menu.selection.delete_note
 gui.menu.selection.save_clipping
 Save Clipping	Сохранить вырезку
 gui.menu.image.prefix
-Zoom Image	Увеличить картинку
+Zoom Image	Przybliż obrazek
 gui.menu.link.prefix
-Follow Link	Перейти по ссылке
+Follow Link	Przejdź do linku
 gui.overlay.my_bookmarks.title
-Go to Bookmark	Перейти на закладку
+Go to Bookmark	Idź do zakładek
 gui.overlay.my_bookmarks.font.family
 SansSerif
 gui.overlay.my_bookmarks.font.size
@@ -200,9 +200,9 @@ gui.overlay.edit_description.width
 gui.overlay.edit_description.height
 gui.overlay.edit_description.entry.height
 gui.overlay.edit_description.done.label
-Done	Выход
+Done	Gotowe
 gui.overlay.sections.title
-Section List	Список разделов
+Section List	Wybierz listę
 gui.overlay.sections.table.x
 gui.overlay.sections.table.y
 gui.overlay.sections.table.width
@@ -216,7 +216,7 @@ gui.overlay.book_info.y
 gui.overlay.book_info.width
 gui.overlay.book_info.height
 gui.overlay.book_info.title
-Book Info	Информация о книге
+Book Info	Informacje o książce
 gui.overlay.book_info.table.x
 gui.overlay.book_info.table.y
 gui.overlay.book_info.table.width
@@ -226,13 +226,13 @@ gui.overlay.book_info.col.0.rightMargin
 gui.overlay.book_info.col.1.width
 gui.wrap.speed_bump
 gui.overlay.password.title
-This item is password protected.	Эта книга защищена паролем.
+This item is password protected.	Ten element jest chroniony hasłem.
 gui.overlay.password.example
-Please enter the password:	Введите пароль:
+Please enter the password:	Podaj hasło:
 gui.button.label.ok
 ok
 gui.button.label.go_home
-go home	домой
+go home	home
 gui.alert.generic.title
 
 gui.alert.generic.x
@@ -240,66 +240,66 @@ gui.alert.generic.y
 gui.alert.generic.width
 gui.alert.generic.height
 gui.alert.clipping.limit.warning
-Unable to save clipping. You have reached the clipping limit for this item.	Вы привысили лимит вырезок для этого документа.
+Unable to save clipping. You have reached the clipping limit for this item.	Nie można zapisać wycinka. Dotarłeś do limitu wycinków dla tego elementu.
 gui.alert.clipping.publisher_limit.warning
 java/text/MessageFormat
-Unable to save clipping. You have reached the clipping limit set by the publisher{0,choice,0#|1#, {1}}.	Невозможно сохранить вырезку. Вы привымили лимит вырезок, установленный издателем {0,choice,0#|1#, {1}}.
+Unable to save clipping. You have reached the clipping limit set by the publisher{0,choice,0#|1#, {1}}.	Nie można zapisać wycinka. Dotarłeś do limitu wycinkow ustawionego przez wydawcę {0,choice,0#|1#, {1}}.
 gui.alert.invalid_pid
-This item cannot be opened because it is licensed to a different user. Delete the item and download it from your Archived Items or purchase a copy from the Kindle Store.	Вы не можете открыть этот документ, т.к. он лицензирован для другого пользователя. Удалите его и скачайте с сайта Amazon или купите его в магазине Amazon.
+This item cannot be opened because it is licensed to a different user. Delete the item and download it from your Archived Items or purchase a copy from the Kindle Store.	Ten element nie może zostać otwrty ponieważ jest licencjonowany dla innego użytkownika. Usuń ten element i pobierz go z archiwum elementów lub kup go w sklepie Kindle.
 gui.alert.invalid_password
-Password is invalid for this document.	Пароль не подходит.
+Password is invalid for this document.	Błędne hasło dla tego dokumentu.
 gui.alert.annotation.out_of_space
-Your Kindle memory is full and the note or mark could not be saved. Please make more Kindle memory available by removing content from Home.	На Вашем kindle закончилась свободная память. Пожалуйста, удалите неиспользуемые книги на домашнем экране.
+Your Kindle memory is full and the note or mark could not be saved. Please make more Kindle memory available by removing content from Home.	Notatka lub zaznaczenie nie może zostać zapisana ponieważ pamięć w Twoim Kindle jest pełna. Proszę zwolnić więcej pamięci usuwając zawartość.
 gui.alert.unexpected
-The selected item could not be opened. If you purchased this item from Amazon, delete the item and redownload it from Archived Items available in Home.	Невозможно открыть документ. Если вы его купили в магазине Amazon, то удалите его и скачайте снова.
+The selected item could not be opened. If you purchased this item from Amazon, delete the item and redownload it from Archived Items available in Home.	Wybrany element nie mógł zostać otwarty. Jeżeli kupiłeś ten element na Amazon, usuń i pobierz go ponownie z archiwum elementów.
 gui.alert.unhandled_security
 gui.alert.book_is_gone
-The item you were reading has been removed and is no longer available on your Kindle.	Документ который Вы читаетали, был удален и больше не доступен на вашем Kindle.
+The item you were reading has been removed and is no longer available on your Kindle.	Element który czytałeś został usunięty i nie jest już dostępny na Twoim Kindle.
 gui.alert.font_size_change_unsupported_in_Section_List_View
-Sorry, you cannot change the size of text in the Section list.	Извините, но вы не можете изменять размер текста, при просмотре списка разделов.
+Sorry, you cannot change the size of text in the Section list.	Przepraszamy, nie możesz zmienić rozmiaru tekstu na liście sekcji.
 gui.overlay.password_prompt.msg
-Enter the password for this document.	Введите пароль для этого документа.
+Enter the password for this document.	Podaj hasło dla tego dokumentu.
 gui.alert.low_disk_space_for_annotation
-There is not enough Kindle memory to add/share notes or marks on this document. Please make more Kindle memory available by removing content from Home.	Недостаточно памяти для создания/сохранения заметок. Пожалуйста, удалите ненужные документы.
+There is not enough Kindle memory to add/share notes or marks on this document. Please make more Kindle memory available by removing content from Home.	Brakuje pamięci na Kindle aby dodać/udostępnić notatkę lub zaznaczenia w tym dokumencie. Proszę zwolnić więcej pamięci usuwając zawartość.
 gui.alert.low_disk_space_for_annotation.sd
-You will not be able to add/share notes or marks to this item because you do not have enough SD memory card space available. Please make more SD memory card space available by removing items.	Недостаточно памяти для создания/сохранения заметок. Пожалуйста, удалите ненужные документы.
+You will not be able to add/share notes or marks to this item because you do not have enough SD memory card space available. Please make more SD memory card space available by removing items.	Nie będziesz mógł dodać/udostępnić notatkę lub zaznaczenia w tym elemencie ponieważ nie masz wystarczająco miejsca na karcie SD. Proszę zrobić wiecej dostępnego miejśca na karcie SD usuwając elementy.
 gui.alert.low_disk_space_for_annotation.internal
 gui.alert.invalid_book
 gui.alert.password_unsupported
-The selected item could not be opened because it is password protected.	Невозможно открыть документ, т.к. он защищен паролем.
+The selected item could not be opened because it is password protected.	Wybrany element nie mógł zostać otwarty ponieważ jest chroniony hasłem.
 gui.alert.not_enough_memory
-The selected item could not be opened. The title is too large for available memory. Please call Amazon Customer Service for help in resolving this issue at 1-866-321-8851 or 1-206-266-0927.  For UK customers, please call +44(0)800 496 2449.	Невозможно открыть книгу, т.к. она слишком большая. Пожалуйста, позвоните в службу технической поддержки Amazon, по телефону 1-866-321-8851 или 1-206-266-0927.
+The selected item could not be opened. The title is too large for available memory. Please call Amazon Customer Service for help in resolving this issue at 1-866-321-8851 or 1-206-266-0927.  For UK customers, please call +44(0)800 496 2449.	Wybrany element nie mógł zostać otwarty. Tytuł jest zbyt długi i brakuje pamięci. Skontaktuj się z serwisem klienta Amazon aby rozwiązać ten problem 1-866-321-8851 lub 1-206-266-0927. Angielscy klienci +44(0)800 496 2449.
 gui.alert.cannot_open_book
-The selected item could not be opened. If you purchased this item from Amazon, you can try redownloading the item from Archived Items in Home. For additional help, please call Amazon Customer Service at 1-866-321-8851 or 1-206-266-0927.  For UK customers, please call +44(0)800 496 2449.	Невозможно открыть книгу, если Вы ее купили в магазине Amazon, то попробуйте загрузить ее заново. Либо позвоните в службу технической поддержки Amazon, по телефону 1-866-321-8851 или 1-206-266-0927.
+The selected item could not be opened. If you purchased this item from Amazon, you can try redownloading the item from Archived Items in Home. For additional help, please call Amazon Customer Service at 1-866-321-8851 or 1-206-266-0927.  For UK customers, please call +44(0)800 496 2449.	Wybrany element nie mógł zostać otwarty. Jeżeli zakupiłeś ten element na Amazon, możesz spróbować pobrać go ponownie z archiwum elementów. Dodatkową pomoc uzyskasz dzwoniąc do serwisu klienta Amazon 1-866-321-8851 lub 1-206-266-0927. Angielscy klienci +44(0)800 496 2449.
 gui.alert.missing_metadata
-The selected item is missing important metadata and may cause system instability.  Please call Amazon Customer Service at 1-866-321-8851 or 1-206-266-0927.  For UK customers, please call +44(0)800 496 2449.	Данная книга повреждена и может нанести вред вашему устройству. Пожалуйста, позвоните в службу технической поддержки Amazon, по телефону 1-866-321-8851 или 1-206-266-0927.
+The selected item is missing important metadata and may cause system instability.  Please call Amazon Customer Service at 1-866-321-8851 or 1-206-266-0927.  For UK customers, please call +44(0)800 496 2449.	W wybranym elemencie brakuje ważnych meta danych, może to spowodować niestabilność systemu. Skontaktuj się z obsługą klienta 1-866-321-8851 lub 1-206-266-0927. Angielscy klienci +44(0)800 496 2449.
 gui.alert.book_not_indexed
-Your search can not be completed as this item has not yet been indexed. Please try again later.	Ваш поиск не может быть выполнен в данный момен, т.к. содержимое книги еще не проиндексировано. Попробуйте еще раз позже.
+Your search can not be completed as this item has not yet been indexed. Please try again later.	Twoje wyszukiwanie nie może zostać ukończone ponieważ ten element nie został jeszcze zaindeksowany. Proszę spróbować później.
 gui.alert.not_enough_space_for_search
-There is not enough Kindle memory to complete the search. Please make more Kindle memory available by removing content from Home.	Недостаточно памяти, чтобы завершить поиск. Пожалйста, почистите память устройства, удалив ненужные документы.
+There is not enough Kindle memory to complete the search. Please make more Kindle memory available by removing content from Home.	Brakuje pamięci aby ukończyć wyszukiwanie. Proszę zwolnić więcej pamięci usuwając zawartość.
 gui.alert.no_more_matches_found
-No more matches found for "{0}".	Больше ничего не найдено для "{0}".
+No more matches found for "{0}".	Brak więcej trafien dla "{0}".
 gui.alert.no_match_found
-No match found for "{0}".	Ничего не найдено для "{0}".
+No match found for "{0}".	Brak trafień dla "{0}".
 gui.alert.enter_valid_search
-Please enter a search word.	Введите слова для поиска.
+Please enter a search word.	Wpisz szukaną frazę.
 gui.alert.enable_journaling
 To sync to furthest page read, Annotations Backup must be turned on. Go to Settings and turn on Annotations Backup, then try again.	Что бы сохранить позицию чтения, вам необходимо включить резервное копирование аннотаций, в меню Настроек домашнего экрана.
 gui.alert.enable_journaling.spoken
 To sync to furthest page red, Annotations Backup must be turned on. Go to Settings and turn on Annotations Backup, then try again.
 gui.inst.progress_bar
-Press Prev/Next Page keys to navigate between bookmarks.	Используйте "Пред/след страница" для перемещения по закладкам.
+Press Prev/Next Page keys to navigate between bookmarks.	Naciśnij przycisk poprzednia/następna aby nawigować pomiędzy zakładkami.
 gui.shortcut.allow.jump_location
 gui.tocview.toc
 gui.tocview.sections
 Sections	Разделы
 gui.tocview.articles
 java/text/ChoiceFormat
-1#{0,number,integer} Article|2#{0,number,integer} Articles	1#{0,number,integer} статья|2#{0,number,integer} статей
+1#{0,number,integer} Article|2#{0,number,integer} Articles	1#{0,number,integer} Artykuł|2#{0,number,integer} Artykuły
 clipping.line_separtor
 ----------------------------------------------------
 clipping.file
-My Clippings.txt	Мои вырезки.txt
+My Clippings.txt	Moje wycinki.txt
 gui.pdf.spinner.delay
 java/lang/Long
 gui.pdf.spinner.period
@@ -330,15 +330,15 @@ quick_lookup.antialias.disable
 quick_lookup.activation_delay
 quick_lookup.always_clean_up_previous_def
 prompt.selection.begin
-Move cursor to make selection, or begin typing to create a note	Переместите курсор для выделения или наберите текст заметки
+Move cursor to make selection, or begin typing to create a note	Przesuń kursor aby utworzyć zaznaczenie lub zacznij pisać aby utworzyć notatkę
 prompt.selection.during
-Click to save highlight	[Джойстик]-сохранить выделение
+Click to save highlight	Kliknij aby zapisać zaznaczenie
 prompt.selection.begin.location.prefix
 *:
 prompt.selection.begin.selecting.prefix
 Selecting
 prompt.shortcut.create.note
-create note?	создать заметку?
+create note?	utworzyć notatkę?
 booklet.sdk.0
 com.amazon.ebook.booklet.mobireader.impl.reader.eb
 booklet.sdk.1
@@ -350,40 +350,40 @@ pdf.auto.crop.max.wait.time
 gui.image.loading.x
 gui.image.loading.y
 gui.image.loading
-Zooming...	Увеличение...
+Zooming...	Przybliżanie...
 gui.image.font
 preview.download.title
-Downloading	Загрузка
+Downloading	Pobieranie
 preview.download.str1
-Now downloading the book...	Загрузка книги...
+Now downloading the book...	Trwa pobieranie książki...
 preview.download.str2
-It will automatically open when the download is complete.	Книга откроется, когда завершится загрузка.
+It will automatically open when the download is complete.	Zostanie automatycznie otwarta gdy pobieranie zostanie ukończone.
 preview.download.font
 preview.download.side.margin
 preview.download.line.margin
 gui.button.label.go_to_last_page
-go to last page	Перейти на последнюю страницу
+go to last page	idź do ostatniej strony
 gui.alert.beyond.TSC
-To continue reading, please wait until the rest of the book finishes downloading.	Для продолжения чтения книги, дождитесь загрузки очередной ее части.
+To continue reading, please wait until the rest of the book finishes downloading.	Aby kontynuować czytanie, proszę zaczekać aż pobieranie książki zostanie zakończone.
 gui.reader.location
-Location 	Позиция 
+Location 	Lokacja
 gui.reader.locations
-Locations 	Позиция 
+Locations 	Lokacje
 gui.reader.page
-Page 	Страница 
+Page 	Strona
 gui.reader.currentpage
-Current page {0} of {1}	Текущая страница {0} из {1}
+Current page {0} of {1}	Strona {0} z {1}
 gui.reader.opening
-Opening... 	Открытие... 
+Opening... 	Otwieranie... 
 gui.reader.pdfsecurityhandler
-This PDF is protected with DRM or encryption and cannot be read on your Kindle.	Этот PDF защищен авторскими правами (DRM) и не может быть открыт на Вашем Kindle.
+This PDF is protected with DRM or encryption and cannot be read on your Kindle.	Ten PDF jest chroniony przez DRM lub szyfrowanie nie może zostać odczytane na Twoim Kindle.
 gui.reader.pdfpasswordprotected
-This PDF is password protected and cannot be read on your Kindle.	Этот PDF защищен паролем и не может быть открыт на Вашем Kindle.
+This PDF is password protected and cannot be read on your Kindle.	Ten PDF jest chroniony hasłem i nie może zostać odczytany na Twoim Kindle.
 gui.reader.pdfunabletopen
-This PDF cannot be opened due to embedded features not yet supported by Kindle.	Этот PDF не может быть открыт на Вашем Kindle, т.к. содержит неподдерживаемые элементы.
+This PDF cannot be opened due to embedded features not yet supported by Kindle.	Ten PDF nie może zostać otworzony z powodu zawieranych funkcji które nie są jeszcze wspierane przez Kindle.
 gui.reader.unsupported_pdf_feature
 gui.reader.pdf.error.elements.missing
-Some elements on this page could not be displayed.	Некоторые элементы на этой странице, не могут быть отображены.
+Some elements on this page could not be displayed.	Niektóre elementy na tej stronie nie mogły zostać wyświetlone.
 gui.menu.context.sync_last_location
 Sync to Furthest Page Read	Перейти к сохраненной позиции
 gui.menu.context.sync_last_location.spoken
@@ -391,14 +391,14 @@ Sync to Furthest Page Red
 gui.overlay.sync_position.title
 gui.overlay.sync_position.title.spoken
 gui.overlay.sync_position.body.pattern
-You are currently at location {0}. The furthest read location is {1} from "{2}" at {3} {4}. Go to that location?	В данный момент, Вы на позиции {0}. Сохраненная позиция: {1} на устройстве "{2}", дата: {3} {4}. Перейти на новую позицию?
+You are currently at location {0}. The furthest read location is {1} from "{2}" at {3} {4}. Go to that location?	Jesteś obecnie w lokacji {0}. Najdalsza czytana lokacja to {1} z "{2}" w {3} {4}. Przejść do lokacji?
 gui.overlay.sync_position.body.pattern.spoken
 You are currently at location {0}. The furthest red location is {1} from "{2}" at {3} {4}. Go to that location?
 gui.overlay.sync_position.body.date.choice.limits
 gui.overlay.sync_position.body.date.choice.formats
 on {5}
-yesterday	вчера
-today	сегодня
+yesterday	wczoraj
+today	dzisiaj
 gui.overlay.sync_position.body.time.formatter
 gui.overlay.sync_position.body.date.formatter
 gui.overlay.sync_position.min_location_change
@@ -419,25 +419,25 @@ Already at furthest read location.	Вы уже находитесь на сох�
 gui.alert.sync_last_location.same_location.spoken
 Already at furthest red location.
 gui.reader_position
-Loc. {0} 	Поз. {0} 
+Loc. {0} 	Lok. {0} 
 gui.reader_pdf_position
-Page {0} 	Страница {0} 
+Page {0} 	Strona {0} 
 gui.reader_pdf_position_range
-Page {0}-{1}	Страница {0}-{1}
+Page {0}-{1}	Strona {0}-{1}
 gui.reader_clipping_note
-Note {0}	Заметка {0}
+Note {0}	Notatka {0}
 gui.reader_clipping_highlight
-Highlight {0}	Выделение {0}
+Highlight {0}	Podświetl {0}
 gui.reader_clipping_bookmark
-Bookmark {0}	Закладка {0}
+Bookmark {0}	Zakładka {0}
 gui.reader_clipping_clipping
 Clipping {0}	Вырезка {0}
 gui.reader_clipping_clipping_reach_limit
-You have reached the clipping limit	Вы достигли лимита вырезок
+You have reached the clipping limit	Dotarłeś do limitu wyćinków
 gui.reader_clipping_clipping_password_protected
-This item is password protected	Этот документ защищен паролем
+This item is password protected	Ten element jest chroniony hasłem
 gui.reader_clipping_clipping_copy_protected
-This item is copy protected	Этот документ защищен от копирования
+This item is copy protected	Ten element jest chroniony przed kopiowaniem
 gui.reader_clipping_clipping_publisher
  set by the publisher
 gui.reader_clipping_clipping_item

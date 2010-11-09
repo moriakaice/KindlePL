@@ -11,37 +11,37 @@ SourceFile
 [Ljava/lang/Object;
 java/lang/Object
 tts.onoff
-Text-to-Speech	Проговаривание
+Text-to-Speech	Czytanie tekstu
 tts.onoff.on
-turn on	включить
+turn on	włącz
 tts.onoff.off
-turn off	выключить
+turn off	wyłącz
 tts.onoff.play
 play	
 tts.onoff.pause
-pause	пауза
+pause	pauza
 tts.speech.rate
-Speech Rate	Темп
+Speech Rate	Prędkość
 tts.speech.rate.low
-slower	медленее
+slower	wolniej
 tts.speech.rate.default
-default	по умолчанию
+default	по domyślnie
 tts.speech.rate.high
-faster	быстрее
+faster	szybciej
 tts.speech.voice
-Speaking Voice	Голос
+Speaking Voice	Głos
 tts.speech.voice.female
-female	женский
+female	żeński
 tts.speech.voice.male
-male	мужской
+male	męski
 font.family
-Typeface	Шрифт
+Typeface	Krój pisma
 font.family.option.1
-regular	обычный
+regular	regularna
 font.family.option.2
-condensed	сжатый
+condensed	zagęszczona
 font.family.option.3
-sans serif	без засечек
+sans serif	pismo szeryfowe
 font.family.alt.option.1
 std
 font.family.alt.option.2
@@ -51,13 +51,13 @@ mono
 font.family.alt.option.4
 alt
 line.spacing
-Line Spacing	Межстрочное рас.
+Line Spacing	Interlinia
 line.spacing.option.1
-small	маленькое
+small	mała
 line.spacing.option.2
-medium	среднее
+medium	średnia
 line.spacing.option.3
-large	большое
+large	duża
 line.spacing.alt.option.1
 112
 line.spacing.alt.option.2
@@ -69,7 +69,7 @@ line.spacing.alt.option.4
 line.spacing.alt.option.5
 162
 contrast.label
-Contrast	Контраст
+Contrast	Kontrast
 contrast.option.1
 lightest	-2
 contrast.option.2
@@ -80,34 +80,34 @@ darker	+1
 contrast.option.5
 darkest	+2
 word.per.line
-Words per Line	Слов в строке
+Words per Line	Znaków w lini
 word.per.line.option.1
-fewest	мало
+fewest	mało
 word.per.line.option.2
-fewer	меньше
+fewer	mniej
 word.per.line.option.3
 auto.crop.onoff
-Auto-Crop	Автоообрезание
+Auto-Crop	Auto-Przycięcie
 auto.crop.onoff.on
 auto.crop.onoff.off
 auto.crop.onoff.best.effort
 best effort
 justification
-Justification	Выравнивание
+Justification	Justowanie
 justification.left
-Left	Слева
+Left	Do lewej
 justification.full
-Full	По ширине
+Full	Pełne
 zoom.level
-Zoom	Увеличение
+Zoom	Przybliż
 zoom.level.option.actual.size
-actual size	исходный
+actual size	aktualny rozmiar
 zoom.level.option.fit.page
-fit-to-page	на страницу
+fit-to-page	dopasuj do strony
 zoom.level.option.fit.width
-fit-to-width	по ширине
+fit-to-width	dopasuj do szerokości
 zoom.level.option.fit.screen
-fit-to-screen	на экран
+fit-to-screen	dopasuj do ekranu
 zoom.level.option.2
 150%
 zoom.level.option.3
