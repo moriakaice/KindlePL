@@ -14,15 +14,15 @@ java/lang/Object
 clip.this.article.finish
 Article clipped	Статья вырезана
 menu.go.to
-Go to...	Перейти к...
+Go to...	Idź do...
 menu.my.notes.and.marks
-View My Notes & Marks	Проcмотреть мои заметки
+View My Notes & Marks	Zobacz notatki i zaznaczenia
 menu.popular.highlights
-View Popular Highlights	Посмотреть популярные выделения
+View Popular Highlights	Zobacz częste zaznaczenia
 most.popular.highlights.max
 java/lang/Integer
 most.popular.highlights.label
-View Most Popular Highlights	Наиболее популярные выделения
+View Most Popular Highlights	Zobacz najczęstsze zaznaczenia
 com/amazon/ebook/booklet/reader/gui/menu/resources/ReaderAppMenuResources
 java/util/ListResourceBundle
 (I)V

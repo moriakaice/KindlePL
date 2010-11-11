@@ -14,18 +14,18 @@ Code
 (II)Z
 (II)V
 ()Ljava/lang/String;
-Press N to start a new game, S to swap positions,	Клавиша N - Новая игра, S - поменять позиции
-M to go back to the Mine Sweeper.	M - вернуться к "Минеру"
-The winner is the first player to get an unbroken	Победитель тот, кто первым соберет линию
-row of five crosses or zeros horizontally, vertically,	из 5 крестиков или ноликов.
-or diagonally.	
-YOU WON!	Вы выиграли!
-YOU LOST!	Вы проиграли!
+Press N to start a new game, S to swap positions,	Wciśnij N - Nowa gra, S - zmiana pozycji
+M to go back to the Mine Sweeper.	M - powrót do "Minera"
+The winner is the first player to get an unbroken	Wygrywa ten, kto pierwszy uzyska nieprzerwaną
+row of five crosses or zeros horizontally, vertically,	linię z pięciu krzyżyków lub zer poziomo
+or diagonally.	lub pionowo.	
+YOU WON!	Wygrałeś!
+YOU LOST!	Przegrałeś!
 java/awt/Rectangle
 java/lang/StringBuffer
-Score: You (	Очки: Вы (
+Score: You (	Wynik: Ty (
 ): 
-, Kindle (	, Кайндл (
+, Kindle (	, Кindle (
 java/lang/Object
 getBounds
 ()Ljava/awt/Rectangle;

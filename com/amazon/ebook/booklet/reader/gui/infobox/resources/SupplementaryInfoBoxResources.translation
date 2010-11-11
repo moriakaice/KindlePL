@@ -12,9 +12,9 @@ SourceFile
 [Ljava/lang/Object;
 java/lang/Object
 hint.table.begin
-Move the 5-way to the right to begin panning the table,$$~~or click to place the cursor within the table	Нажмите направо чтобы переместить таблицу$$~~Нажмите [джойстик] чтобы поместить курсор в таблицу
+Move the 5-way to the right to begin panning the table,$$~~or click to place the cursor within the table	Przesuń w prawo aby przemieścić tabelę$$~~lub kliknij [pad] aby umieścić kursor w tabeli
 hint.table.began
-Click to place the cursor within the table	Нажмите [джойстик] чтобы поместить курсор в таблицу
+Click to place the cursor within the table	kliknij [pad] aby umieścić kursor w tabeli
 emphasis.font
 font
 gap.from.bubble.to.bottom.display
@@ -33,15 +33,15 @@ extended.info.bounds.y.adjustment
 extended.info.bounds.width.adjustment
 extended.info.bounds.height.adjustment
 current.annotation.hint.widget.sharing.enabled
-{0} delete   {1} share   {2} edit	{0} удалить   {1} расшарить   {2} изменить
+{0} delete   {1} share   {2} edit	{0} skasuj   {1} współdziel   {2} edytuj
 java/lang/String
 Home_Icon_Delete.gif
 Home_Icon_AltReturn.gif
 Home_Icon_ReturnArrow.gif
 current.annotation.hint.widget.sharing.disabled
-{0} delete   {1} edit	{0} удалить   {1} изменить
+{0} delete   {1} edit	{0} skasuj   {1} edytuj
 current.annotation.hint.widget.readonly
-{0} delete	{0} удалить
+{0} delete	{0} skasuj
 current.annotation.height.adjustment
 extended.info.bounds.x.adjustment.top
 extended.info.bounds.y.adjustment.top
@@ -54,7 +54,7 @@ definition.height.adjustment
 definition.width.adjustment
 definition.more.adjustment
 definition.more.hint
-more {0}	еще {0}
+more {0}	więcej {0}
 com/amazon/ebook/booklet/reader/gui/infobox/resources/SupplementaryInfoBoxResources
 java/util/ListResourceBundle
 (IZ)Ljava/awt/Font;

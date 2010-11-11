@@ -45,7 +45,7 @@ board.config.
 .mines
 .cell_size
 gui.title
-Get five in a row!	Соберите 5 в одной строке!
+Get five in a row!	ułóż pięć w jednej linii!
 com/amazon/ebook/framework/kos/event/HistoryException
 stop() calling HistoryManager.markSimple()
 gui.board.area.y
