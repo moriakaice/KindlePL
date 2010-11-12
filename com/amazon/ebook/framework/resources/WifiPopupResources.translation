@@ -1,4 +1,4 @@
-﻿[[Ljava/lang/Object;
+[[Ljava/lang/Object;
 <init>
 ()V
 Code
@@ -34,39 +34,39 @@ margin.name
 margin.requireWifiText
 margin.landscape.newNetworkPromptBottomMargin
 text.connect
-connect	подключиться
+connect	po��cz
 text.disconnect
-forget	отключиться
+forget	roz��cz
 text.connecting
-connecting...	подключение...
+connecting...	��czenie...
 text.newNetwork
-enter other Wi-Fi network	Указать другую Wi-Fi сеть
+enter other Wi-Fi network	podaj inn� sie� Wi-Fi
 text.rescanning
-scanning...	поиск...
+scanning...	szukam...
 text.rescanLink
-rescan	обновить
+rescan	szukaj ponownie
 text.secureNetwork.accessible
-secure	защищенная
+secure	zabezpieczona
 text.openNetwork.accessible
-open	открытая
+open	otwarta
 text.connectionRequired
-A Wi-Fi connection is required to complete this task. Connect to a Wi-Fi network or try again later.	Wi-Fi подключение необходимо, для завершения этой задачи. Подключитесь и попробуйте еще раз.
+A Wi-Fi connection is required to complete this task. Connect to a Wi-Fi network or try again later.	Do wykonania zadania potrzebne jest po��czenie z sieci� Wi-Fi. Po��cz si� z sieci� Wi-Fi lub spr�buj p�niej.
 text.button.advanced
-advanced	дополнительно
+advanced	zaawansowane
 message.enterPassword
-Enter password for {0}:	Введите пароль для {0}:
+Enter password for {0}:	Podaj has�o dla{0}:
 message.unableToConnectHeader
-Unable to Connect to Wi-Fi Network~~~~	Невозможно подключится к Wi-Fi сети~~~~
+Unable to Connect to Wi-Fi Network~~~~	Nie mo�na po��czy� z sieci� Wi-Fi~~~~
 message.unableToConnect
-Your Kindle is unable to connect to the Wi-Fi network "{0}". 	Ваш Kindle не может подключится к Wi-Fi сети "{0}". 
+Your Kindle is unable to connect to the Wi-Fi network "{0}". 	Tw�j Kindle nie mo�e po�aczy� si� z sieci� Wi-Fi"{0}". 
 message.manuallyEnterSettingsUnsecure
-Would you like to try again or manually set up this network?	Хотите попробовать еще раз или настроить вручную?
+Would you like to try again or manually set up this network?	Czy chcesz spr�bowa� ponownie lub skonfigurowa� t� sie� r�cznie?
 message.manuallyEnterSettingsSecure
-Would you like to enter the password again or manually set up this network?	Желаете ввести пароль еще раз или настроить сеть вручную?
+Would you like to enter the password again or manually set up this network?	Czy chcesz wpisa� has�o ponownie lub r�cznie skonfigurowa� t� sie�?
 message.availableNetworks
-{0} Wi-Fi Networks	Wi-Fi сетей: {0}
+{0} Wi-Fi Networks	Sieci Wi-Fi: {0}
 message.pageNumber
-Page {0} of {1}	Страница {0} из {1}
+Page {0} of {1}	Strona {0} z {1}
 font.title
 font.wifiRequiredText
 font.networkName
@@ -76,11 +76,11 @@ font.action.connecting
 font.pageNumber
 color.connecting
 enter.new.wifi.network.overlay.header
-Enter other Wi-Fi network	Введите имя Wi-Fi сети
+Enter other Wi-Fi network	Podaj inn� sie� Wi-Fi
 enter.new.wifi.network.overlay.ssid.label
-Network name:	Имя сети:
+Network name:	Nazwa sieci:
 enter.new.wifi.network.overlay.password.label
-Password:	Пароль:
+Password:	Has�o:
 enter.new.wifi.network.overlay.left.margin
 enter.new.wifi.network.overlay.right.margin
 enter.new.wifi.network.overlay.top.margin
@@ -90,47 +90,47 @@ enter.new.wifi.network.label.font
 enter.new.wifi.network.header.font
 enter.new.wifi.network.field.font
 button.enter.network.info.text
-set up network	настройки сети
+set up network	konfiguruj sie�
 button.enter.password.again.text
-enter password again	введите пароль еще раз
+enter password again	powt�rz has�o
 button.enter.try.again.text
-try again	еще раз
+try again	spr�buj ponownie
 captive.title
-Sign-in required	Аутентификация в сети
+Sign-in required	Wymagane logowanie
 captive.msg
 The Wi-Fi network you are connecting to requires you to sign in before accessing the Internet.~~~~Do you wish to go to Web Browser to sign in?
-Перед доступом в интернет, вам надо авторизоваться в Вашей сети.~~~~Хотите открыть браузер для аутентификации?
+Sie� Wi-Fi, z kt�r� si� ��czysz wymaga logowania zanim uzyskasz dost�p do Internetu.~~~~Czy chcesz przej�� do przegl�darki, aby si� zalogowa�?
 captive.button.text
-go to browser	открыть браузер
+go to browser	do przegl�darki
 new.network.widget.action.overlay.width
 text.error.101
-The password you entered is incorrect or invalid.~~	Ваш пароль не подходит.~~
+The password you entered is incorrect or invalid.~~	Podane has�o jest nieprawid�owe.~~
 text.error.102
-There is no Wi-Fi Profile configured for this network.~~	Для этой сети нету профиля.~~
+There is no Wi-Fi Profile configured for this network.~~	Nie ma skonfigurowanego profilu dla tej sieci Wi-Fi.~~
 text.error.103
-Wi-Fi network connection failed.~~	Не удалось подключится к Wi-Fi сети.~~
+Wi-Fi network connection failed.~~	Nie uda�o si� po��czy� z sieci� Wi-Fi.~~
 text.error.104
-Wi-Fi is not available right now. If the problem persists, please restart your device.~~	Wi-Fi недоступна сейчас. Если проблема останется, перезагрузите ваш Kindle.~~
+Wi-Fi is not available right now. If the problem persists, please restart your device.~~	Wi-Fi niedost�pne, je�li problem b�dzie si� powtarza�, zresetuj urzadzenie.~~
 text.error.105
 text.error.106
-Local network connection failed.~~	Ошибка подключения к локальной сети.~~
+Local network connection failed.~~	Nieudane po��czenie z sieci� lokaln�.~~
 text.error.107
-Internet connection failed.~~	Ошибка подключения к интернету.~~
+Internet connection failed.~~	Nie uda�o si� po��czy� z Internetem.~~
 text.error.201
-The name of the Wi-Fi network is too long.~~	Слишком длинное название Wi-Fi сети.~~
+The name of the Wi-Fi network is too long.~~	Zbyt d�uga nazwa sieci Wi-Fi.~~
 text.error.202
 text.error.203
-Enterprise Wi-Fi networks are not supported on Kindle. Try connecting to another network.~~	Wi-Fi сети уровня предприятий недоступны для Kindle. Попробуйте подключиться к другой сети.~~
+Enterprise Wi-Fi networks are not supported on Kindle. Try connecting to another network.~~	Sieci typu Enterprise nie s� obs�ugiwane przez Kindle'a. Spr�buj po��czy� si� z inn� sieci�.~~
 text.error.204
-The password you entered is longer than allowed by the Wi-Fi network. Try entering the password again.~~	Слишком длинный пароль. Введите пароль еще раз.~~
+The password you entered is longer than allowed by the Wi-Fi network. Try entering the password again.~~	Sie� Wi-Fi nie pozwala na tak d�ugie has�a. Spr�buj wpisa� has�o ponownie.~~
 text.error.205
-The password you entered is missing one or more characters. Try entering the password again.~~	В вашем пароле не хватает несолькоих символов. Введите пароль еще раз.~~
+The password you entered is missing one or more characters. Try entering the password again.~~	W podanym ha�le brakuje jednego lub wi�cej znak�w. Spr�buj wpisa� has�o ponownie.~~
 text.error.206
-The security type you entered does not match the security type of the Wi-Fi network you are trying to connect to.~~	Тип безопасности который вы указали, не подходит к указанной Wi-Fi сети.~~
+The security type you entered does not match the security type of the Wi-Fi network you are trying to connect to.~~	Podany typ zabezpiecze� jest inny ni� sieci docelowej.~~
 text.error.207
-Peer-to-peer Wi-Fi networks are not supported on Kindle. Try connecting to another network.~~	Wi-Fi сети типа точка-точка не поддерживаются Kindle. Попробуйте подключится к другой сети.~~
+Peer-to-peer Wi-Fi networks are not supported on Kindle. Try connecting to another network.~~	Kindle nie wsp�pracuje z sieciami typu peer-to-peer. Spr�buj po��czy� si� z inn� sieci�.~~
 text.msg.unsupportedNetwork
-Unsupported Wi-Fi network~~~~Enterprise or peer-to-peer Wi-Fi networks are not supported. Try connecting to another network.	Неподдерживаемая Wi-Fi сеть~~~~Сети преприятия или точка-точка не поддерживаются Kindle. Попробуйте подключиться к другой сети.
+Unsupported Wi-Fi network~~~~Enterprise or peer-to-peer Wi-Fi networks are not supported. Try connecting to another network.	Nieobs�ugiwany typ sieci Wi-Fi~~~~Sieci typu Enterprise lub peer-to-peer nie s� obs�ugiwane. Spr�buj po��czy� si� z inn� sieci�.
 com/amazon/ebook/framework/resources/WifiPopupResources
 java/util/ListResourceBundle
 (I)V

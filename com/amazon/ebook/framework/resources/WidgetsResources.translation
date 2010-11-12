@@ -1,4 +1,4 @@
-﻿[[Ljava/lang/Object;
+[[Ljava/lang/Object;
 <init>
 ()V
 Code
@@ -12,41 +12,41 @@ SourceFile
 [Ljava/lang/Object;
 java/lang/Object
 textfield.symbol.hint.msg
-(press 'SYM' key for symbols)	(нажмите 'SYM' для доп. символов)
+(press 'SYM' key for symbols)	(naci�nij SYM, aby wstawi� symbol)
 button.ok.text
-ok
+ok	ok
 button.close.text
-close	закрыть
+close	zamknij
 button.cancel.text
-cancel	отмена
+cancel	anuluj
 button.activate.text
-activate	активировать
+activate	aktywuj
 button.submit.text
-submit	отправить
+submit	zatwierd�
 button.clear.text
-clear	очистить
+clear	wyczy��
 button.save.text
-save	сохранить
+save	zapisz
 button.join.text
-join	присоединиться
+join	do��cz
 button.close.setting.text
-Close Settings	Закрыть настройки
+Close Settings	Zamknij Ustawienia
 button.close.bookmark.text
-Close Bookmarks	Закрыть закладки
+Close Bookmarks	Zamknij Zak�adki
 button.close.history.text
-Close History	Закрыть историю
+Close History	Zamknij Histori�
 button.create_account.text
-create account	создать учетку
+create account	stw�rz konto
 button.kindle_eula.text
-kindle license agreement and terms of use	Лицензия пользователя Kindle
+kindle license agreement and terms of use		Umowa licencyjna Kindle i warunki u�ytkowania
 label.user
-Username:	Имя пользователя:
+Username:	Nazwa u�ytkownika:
 label.password
-Password:	Пароль:
+Password:	Has�o:
 more.items
-More Items...	Больше...
+More Items...	Wi�cej...
 group.menu.beginning.label
-Go to Beginning...	К началу...
+Go to Beginning...	Do pocz�tku...
 icon.button.separation
 java/lang/Integer
 image.icon.insets
@@ -68,13 +68,16 @@ pub.info.width
 pub.info.date.format
 pub.info.datetime.format
 pub.info.missing.date
-(missing)
+(missing) (brak)
 pub.info.missing
 pub.info.unknown
-(Unknown)
+(Unknown)	(Nieznany)
 pub.info.default.font
 pub.info.pattern
 Publisher: {0}~~Publication Date: {1,date,short}~~Last Read Date: {2,date,medium} {2,time,medium}~~Last Location: {3,number,integer}~~File Type: {4}~~Location Range: 1-{5,number,integer}
+
+Wydawca: {0}~~Data publikacji: {1,date,short}~~Data ostatniego czytania: {2,date,medium} {2,time,medium}~~Ostatnia lokacja: {3,number,integer}~~Typ pliku: {4}~~Zakres lokacji: 1-{5,number,integer}
+
 stock.object.regular.width
 stock.object.wide.width
 two.column.menu.alttext
@@ -88,7 +91,7 @@ java/util/ListResourceBundle
 (I)V
 (IIII)V
 java/awt/Color
-black
+black czarny
 Ljava/awt/Color;
 java/text/DateFormat
 getDateInstance

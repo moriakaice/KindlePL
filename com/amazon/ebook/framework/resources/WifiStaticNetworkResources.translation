@@ -1,4 +1,4 @@
-﻿[[Ljava/lang/Object;
+[[Ljava/lang/Object;
 <init>
 ()V
 Code
@@ -33,39 +33,39 @@ margin.headerText
 margin.landscape.headerText
 margin.textHeight
 text.title
-Network Information	Ручная настройка сети
+Network Information	Informacje o sieci
 text.headerText
-You can set up the Wi-Fi network connection and security options for the network named below.	Ниже вы можете указать необходимую информацию для подключения к Wi-Fi сети.
+You can set up the Wi-Fi network connection and security options for the network named below.	Mo�esz skonfigurowa� po��czenie Wi-Fi i opcje bezpiecze�stwa dla poni�szej sieci.
 text.rowlabel.networkName
-Network Name:	Имя сети:
+Network Name:	Nazwa sieci:
 text.rowlabel.conType
-Connection Type:	Тип подключения:
+Connection Type:	Rodzaj po��czenia:
 text.rowlabel.ipAddress
-IP Address:	IP адрес:
+IP Address:	Adres IP:
 text.rowlabel.subnetMask
-Subnet Mask:	Маска подсети:
+Subnet Mask:	Maska podsieci:
 text.rowlabel.router
-Router:	Шлюз:
+Router:	Router:
 text.rowlabel.dns
-DNS:
+DNS: DNS:
 text.rowlabel.secType
-Security Type:	Тип защиты:
+Security Type:	Rodzaj zabezpieczenia:
 text.rowlabel.password
-Password:	Пароль:
+Password:	Has�o:
 text.contype.dhcp
-DHCP
+DHCP DHCP
 text.contype.static
-Static
+Static Statyczne
 text.security.none
-none	нет
+none	brak
 text.security.wep
-WEP
+WEP WEP
 text.security.wpa
-WPA
+WPA WPA
 text.security.wpa2
-WPA2
+WPA2 WPA2
 text.button.connect
-connect	подключится
+connect	po��cz
 font.title
 font.widget
 font.headerText
@@ -88,7 +88,7 @@ java/util/ListResourceBundle
 (I)Ljava/awt/Font;
 (IZZ)Ljava/awt/Font;
 java/awt/Color
-GRAY
+GRAY SZARY
 Ljava/awt/Color;
 a
 lvb
