@@ -16,17 +16,17 @@ java/lang/Integer
 reading.indicator.side
 reading.indicator.height
 button.article.label
-Close Article List	Закрыть список
+Close Article List	Zamknij listę pozycji
 text.article.spacer
 section.list.button.label
-View Section List	Список Разделов
+View Section List	Lista rozdziałów
 article.list.button.label
-View Article List	Список Статей
+View Article List	Lista pozycji
 page.section.info.font
 button.section.label
-Close Section List	Закрыть список
+Close Section List	Zamknij listę rozdziałów
 close.search.result.label
-Close Search Results	Закрыть результаты
+Close Search Results	Zamknij wyniki wyszukiwania
 com/amazon/ebook/booklet/reader/gui/view/pagefooter/resources/PageFooterUIResources
 java/util/ListResourceBundle
 (I)V

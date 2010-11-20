@@ -11,7 +11,7 @@ SourceFile
 [Ljava/lang/Object;
 java/lang/Object
 header.title
-Search Results: Showing All {0}	Результат поиска: Показано {0}
+Search Results: Showing All {0}	Wyniki wyszukiwania: Widok {0}
 com/amazon/ebook/booklet/reader/gui/view/resources/SearchResultsListView2HeaderUIResources
 java/util/ListResourceBundle
 a

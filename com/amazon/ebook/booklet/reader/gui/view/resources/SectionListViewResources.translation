@@ -11,14 +11,14 @@ SourceFile
 [Ljava/lang/Object;
 java/lang/Object
 section.list.view.title
-Sections List	Список разделов
+Sections List	Lista rozdziałów
 section.list.header.str1
-view section	смотреть раздел
+view section	Pokaż rozdział
 section.list.header.str2
-view articles	смотреть статью
+view articles	Pokaż pozycje
 section.list.article.count.speaking.suffixes
 java/lang/String
-0#articles|1#article|2#articles	0#статей|1#статья|2#статей
+0#articles|1#article|2#articles	0#pozycje|1#pozycja|2#pozycja
 section.list.article.count.speak.format
 {0} {1}
 section.list.article.count.format

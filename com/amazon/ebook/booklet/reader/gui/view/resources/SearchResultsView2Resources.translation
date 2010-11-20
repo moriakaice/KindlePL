@@ -12,11 +12,11 @@ SourceFile
 [Ljava/lang/Object;
 java/lang/Object
 format.location
-Location {0}	Позиция {0}
+Location {0}	Lokacja {0}
 clearance.between.location.label.and.snippet
 java/lang/Integer
 close.label
-Close Search Results	Закрыть результат поиска
+Close Search Results	Zamknij wyniki wyszukiwania
 com/amazon/ebook/booklet/reader/gui/view/resources/SearchResultsView2Resources
 java/util/ListResourceBundle
 (I)V

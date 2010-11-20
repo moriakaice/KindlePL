@@ -49,9 +49,9 @@ java/awt/Rectangle
 CONTENT_TYPE
 com/amazon/ebook/booklet/reader/sdk/BookException
 java/lang/StringBuffer
-next article: 	дальше: 
-Previous Article	Пред. статья
-Next Article	След. статья
+next article: 	następna pozycja: 
+Previous Article	Poprzednia pozycja
+Next Article	Następna pozycja
 
 Footer_Icon_ArrowL.gif
 Footer_Icon_ArrowR.gif
