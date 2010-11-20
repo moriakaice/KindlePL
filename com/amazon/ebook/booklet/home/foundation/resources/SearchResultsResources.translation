@@ -20,28 +20,28 @@ sr.matchcount.format
 java/text/MessageFormat
 ({0})
 sr.notenoughspace.str
-Your search cannot be completed due to insufficient Kindle memory. Please free up memory by removing content from Home.	Невозможно завершить поиск, недостаточно памяти. Освободите память удалив ненужные книги.
+Your search cannot be completed due to insufficient Kindle memory. Please free up memory by removing content from Home.	Twoje wyszukiwanie nie może zostać ukończone z powodu niewystarczającej pamięci. Zwolnij pamięć poprzez usunięcie zawartości z dysku.
 sr.notyetindexed.groupingtitle.str
-Items Not Yet Indexed	Элементы не проиндексированы
+Items Not Yet Indexed	Elementy jeszcze niezindeksowane
 sr.netyetindexed.text.2
 
 sr.yml.shortcut.prefix
-archiv	архив
+archiv	archiwum
 sr.backissues.shortcut.prefix
-back	назад
+back	wstecz
 sr.header.filter.all.format
 java/text/ChoiceFormat
-0#Search Results: All {0,number,integer} Items|1#Search Results: All {0,number,integer} Item|2#Search Results: All {0,number,integer} Items	0#Найдено элементов: {0}|1#Найдено элементов: {0}|2#Найдено элементов: {0}
+0#Search Results: All {0,number,integer} Items|1#Search Results: All {0,number,integer} Item|2#Search Results: All {0,number,integer} Items	0#Znaleziono wszystkich {0,number,integer}|1#Znaleziono wszystkich {0,number,integer}|2#Znaleziono wszystkich {0,number,integer}
 sr.header.filter.books.format
-0#Search Results: {0,number,integer} Books|1#Search Results: {0,number,integer} Book|2#Search Results: {0,number,integer} Books	0#Найдено книг: {0}|1#Найдено книг: {0}|2#Найдено книг: {0}
+0#Search Results: {0,number,integer} Books|1#Search Results: {0,number,integer} Book|2#Search Results: {0,number,integer} Books	0#Znaleziono książek: {0}|1#Znaleziono książek: {0}|2#Znaleziono książek: {0}
 sr.header.filter.collections.format
-0#Search Results: {0,number,integer} Collections|1#Search Results: {0,number,integer} Collection|2#Search Results: {0,number,integer} Collections	0#Найдено коллекций: {0}|1#Найдено коллекций: {0}|2#Найдено коллекций: {0}
+0#Search Results: {0,number,integer} Collections|1#Search Results: {0,number,integer} Collection|2#Search Results: {0,number,integer} Collections	0#Znaleziono kolekcji: {0}|1#Znaleziono kolekcji: {0}|2#Znaleziono kolekcji: {0}
 sr.header.filter.subs.format
-0#Search Results: {0,number,integer} Periodicals|1#Search Results: {0,number,integer} Periodical|2#Search Results: {0,number,integer} Periodicals	0#Найдено газет: {0}|1#Найдено газет: {0}|2#Найдено газет: {0}
+0#Search Results: {0,number,integer} Periodicals|1#Search Results: {0,number,integer} Periodical|2#Search Results: {0,number,integer} Periodicals	0#Znaleziono czasopism: {0}|1#Znaleziono czasopism: {0}|2#Znaleziono czasopism: {0}
 sr.header.filter.pdocs.format
-0#Search Results: {0,number,integer} Personal Docs|1#Search Results: {0,number,integer} Personal Doc|2#Search Results: {0,number,integer} Personal Docs	0#Найдено документов: {0}|1#Найдено документов: {0}|2#Найдено документов: {0}
+0#Search Results: {0,number,integer} Personal Docs|1#Search Results: {0,number,integer} Personal Doc|2#Search Results: {0,number,integer} Personal Docs	0#Znaleziono dokumentów: {0}|1#Znaleziono dokumentów: {0}|2#Znaleziono dokumentów: {0}
 sr.results.sound
-0#{0,number,integer} search results, |1#{0,number,integer} search result, |1<{0,number,integer} search results, 
+0#{0,number,integer} search results, |1#{0,number,integer} search result, |1<{0,number,integer} search results, 	0#{0,number,integer} wyników, |1#{0,number,integer} wyników, |1<{0,number,integer} wyników, 
 sr.view.sound
 search results
 sr.pause.sound

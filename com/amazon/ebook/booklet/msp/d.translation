@@ -8,11 +8,11 @@ Synthetic
 <clinit>
 java/util/ArrayList
 java/lang/StringBuffer
-New game: 	Новая игра: 
+New game: 	Nowa gra: 
  (
 x
 , 
- mines)	 мин)
+ mines)	 min)
 com/amazon/ebook/framework/BookletException
 launch menu
 MSPAppMenu

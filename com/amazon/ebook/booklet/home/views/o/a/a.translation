@@ -5,7 +5,7 @@ LocalVariableTable
 ()V
 I
 SourceFile
-Create New Collection	Создать новую коллекцию
+Create New Collection	Stwórz nową kolekcję
 (IZZ)Ljava/awt/Font;
 Ljava/awt/Font;
 Ljava/lang/String;

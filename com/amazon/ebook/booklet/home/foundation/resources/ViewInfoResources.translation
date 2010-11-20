@@ -35,11 +35,11 @@ vi.audio.offset
 vi.audio.spacing
 vi.narrator.format
 java/text/MessageFormat
-Narrator: {0}	Рассказчик: {0}
+Narrator: {0}	Narrator: {0}
 vi.pubdate.format
-Date: {0}	Дата: {0}
+Date: {0}	Data: {0}
 vi.length.format
-Length: {0}	Длина: {0}
+Length: {0}	Długość: {0}
 vi.y.offset
 vi.y.spacing
 vi.y.big.spacing
@@ -56,107 +56,107 @@ vi.cover.collection.y.offset
 vi.cover.collection.x.offset
 vi.cover.collection.num.shadows
 vi.unknown.data
-Unknown	Неизвестно
+Unknown	Nieznany
 vi.goto.lastpage
-Go to Last Page Read	К месту последнего чтения
+Go to Last Page Read	Idź do ostatnio czytanej strony
 vi.goto.firstarticle
-Go to First Article	К первой статье
+Go to First Article	Idź do pierwszego artykułu
 vi.goto.beginning
-Go to Beginning	В начало
+Go to Beginning	Idź do początku
 vi.goto.location
-Go to Location...	В позицию...
+Go to Location...	Idź do lokalizacji...
 vi.goto.page
-Go to Page...	На страницу...
+Go to Page...	Idź do strony...
 vi.goto.index
-Go to Index	На содержание
+Go to Index	Idź do indeksu
 vi.goto.frontpage
-Go to Front Page	На первую страницу
+Go to Front Page	Idź do strony tytułowej
 vi.goto.section
-Go to Section...	Разделы...
+Go to Section...	Idź do rozdziału...
 vi.bookdesc
-Book Description	Описание книги
+Book Description	Opis książki
 vi.searchbook
-Search This Book	Искать в этой книге
+Search This Book	Przeszukaj tę książkę
 vi.searchdoc
-Search This Document	Искать в этом документе
+Search This Document	Przeszukaj ten dokument
 vi.mynotes
-My Notes & Marks	Мои заметки
+My Notes & Marks	Мoje notatki
 vi.mybookmarks
-My Bookmarks	Мои закладки
+My Bookmarks	Моje zakładki
 vi.remove.device
-Remove from Device	Удалить с устройства
+Remove from Device	Usuń z urządzenia
 vi.delete.device
-Delete This Book	Удалить эту книгу
+Delete This Book	Usuń tę książkę
 vi.delete.mp3
-Delete This File	Удалить этот файл
+Delete This File	Usuń ten plik
 vi.delete.document
-Delete This Document	Удалить этот документ
+Delete This Document	Usuń ten dokument
 vi.buy.now
-Buy This Book Now	Купить эту книгу
+Buy This Book Now	Кup tę książkę
 vi.search.sample
-Search This Sample	Искать в этом образце
+Search This Sample	Przeszukaj tę próbkę
 vi.delete.sample
-Delete This Sample	Удалить этот образец
+Delete This Sample	Usuń tę próbkę
 vi.search.issue
-Search This Issue	Искать в этом выпуске
+Search This Issue	Przeszukaj to wydanie
 vi.search.blog
-Search This Blog	Искать в этом блоге
+Search This Blog	Przeszukaj ten blog
 vi.keep.issue
-Keep This Issue	Сохранить этот выпуск
+Keep This Issue	Zachowaj to wyadnie
 vi.dont.keep.issue
-Do Not Keep This Issue	Не сохранять этот выпуск
+Do Not Keep This Issue	Nie zachowuj tego wydania
 vi.delete.issue
-Delete This Issue	Удалить этот выпуск
+Delete This Issue	Usuń to wyadnie
 vi.delete.blog
-Delete This Blog	Удалить этот блог
+Delete This Blog	Usuń tego bloga
 vi.resume.playing
-Resume Playing
+Resume Playing	Wznów odtwarzanie
 vi.start.beginning
-Start from Beginning	Начать с начала
+Start from Beginning	Odtwórz od początku
 vi.start.application
-Open	Открыть
+Open	Otwórz
 vi.description.application
-Description	Описание
+Description	Opis
 vi.delete.application
-Delete	Удалить
+Delete	Usuń
 vi.support.application
-Support	Поддержка
+Support	Wsparcie
 vi.diskusage.offset
 vi.diskusage.format
-Using {0,number,integer} bytes	Использованно {0,number,integer} байт
+Using {0,number,integer} bytes	Wykorzystywane {0,number,integer} bajtów
 vi.diskusage.font
 vi.activecontent.version.format
-Version {0}	Версия {0}
+Version {0}	Wersja {0}
 vi.activecontent.version.offset
 vi.activecontent.version.font
 vi.view.collections.template
-Assigned Collections ({0})	Присвоено коллекций ({0})
+Assigned Collections ({0})	Przypisane kolekcje ({0})
 vi.add.collections
-Add to Collection...	Добавить в коллекцию...
+Add to Collection...	Dodaj do kolekcji...
 vi.disabled.color
 vi.enabled.color
 vi.delete.dialog.title
-Delete Item	Удалить элемент
+Delete Item	Usuń element
 vi.delete.collection.dialog.title
-Delete Collection	Удалить коллекцию
+Delete Collection	Usuń kolekcję
 vi.delete.dialog.text
-This item will be permanently deleted. Would you like to continue?	Удалить элемент окончательно?
+This item will be permanently deleted. Would you like to continue?	Ten element zostanie trwale usunięty. Kontynuować?
 vi.delete.dialog.text.collection
-This collection will be permanently deleted, but the contents will not be affected and will remain on your Kindle. Would you like to continue?	Эта коллекция будет удалена, но ее содержимое останется на устройстве. Продолжить?
+This collection will be permanently deleted, but the contents will not be affected and will remain on your Kindle. Would you like to continue?	Ta kolekcja zostanie trwale usunięta, lecz jej zawartość pozostanie na Twoim Kindle. Kontynuować?
 vi.delete.dialog.text.kindleapp
-This item and its settings will be permanently deleted.  Would you like to continue?	Этот элемент и его настройки будут удалены. Продолжить?
+This item and its settings will be permanently deleted.  Would you like to continue?	Ten element i jego ustawienia zostaną trwale usunięte. Kontynuować?
 vi.collection.author.template
 java/text/ChoiceFormat
-0#0 Items|1#1 Item|2#{0,number,integer} Items	0#0 Элементов|1#1 Элемент|2#{0,number,integer} Элементов
+0#0 Items|1#1 Item|2#{0,number,integer} Items	0#0 Elementów|1#1 Element|2#{0,number,integer} Elementów
 vi.open.collection
-Open Collection	Открыть коллекцию
+Open Collection	Otwórz kolekcję
 vi.edit.collection
-Add/Remove Items	Добавить/Удалить элемент
+Add/Remove Items	Dodaj/Usuń elementy
 vi.rename.collection
-Rename Collection	Переименовать коллекцию
+Rename Collection	Zmień nazwę kolekcji
 vi.delete.collection
 vi.goto.lastpage.sound
-Go to Last Page Red
+Go to Last Page Red	Idź do ostatnio czytanej strony
 vi.view.sound.template
 info view
 com/amazon/ebook/booklet/home/foundation/resources/ViewInfoResources

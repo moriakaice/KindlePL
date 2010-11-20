@@ -15,33 +15,33 @@ yml.header
 Archived Items	Архив
 yml.filter.format
 java/text/ChoiceFormat
-0#Showing {0,number,integer} Archived Items|1#Showing {0,number,integer} Archived Item|2#Showing {0,number,integer} Archived Items	0#Документов в архиве: {0,number,integer}|1#Документов в архиве: {0,number,integer}|2#Документов в архиве: {0,number,integer}
+0#Showing {0,number,integer} Archived Items|1#Showing {0,number,integer} Archived Item|2#Showing {0,number,integer} Archived Items	0#Pokazywanie {0,number,integer} elementów archiwum|1#Pokazywanie {0,number,integer} elementu archiwum|2#Pokazywanie {0,number,integer} elementów archiwum
 yml.sort.title.label
-By Title	По Названию
+By Title	Po tytule
 yml.sort.author.label
-By Author	По Автору
+By Author	Po autorze
 yml.sort.title
-Title	Названию
+Title	Tytuł
 yml.sort.author
-Author	Автору
+Author	Autor
 yml.default.download.error.msg
-Your download was not successful. Please try again.	Не удалось загрузить. Пожалуйста, попробуйте еще раз.
+Your download was not successful. Please try again.	Nieudane pobieranie. Spróbuj ponownie.
 yml.download.error.notenoughspace
-"{0}" could not be downloaded due to insufficient Kindle memory. Please free up space by removing content from Home.	"{0}" не может быть загружено, не хватает память на Kindle. Пожалйста, почистите диск Kindle/
+"{0}" could not be downloaded due to insufficient Kindle memory. Please free up space by removing content from Home.	"{0}" nie mógł zostać pobrany z powodu niewystarczającej pamięci. Zwolnij pamięć poprzez usunięcie zawartości z dysku.
 yml.wifi.required.overlay.title
-Wi-Fi Network Required	Требуется Wi-Fi подключение
+Wi-Fi Network Required	Wymagana sieć WiFi
 yml.wifi.required.overlay.body
-A Wi-Fi network connection is required to complete this task. Please connect to a Wi-Fi network.	Wi-Fi полдключение требуется для завершения этой задачи. Пожалуйста, подключитесь к Wi-Fi.
+A Wi-Fi network connection is required to complete this task. Please connect to a Wi-Fi network.	Połącznie WiFi jest wymagane do ukończenia tego zadania. Proszę podłączy się do sieci WiFi.
 yml.wifi.required.overlay.viewall.button
-view all networks	показать доступные сети
+view all networks	Zobacz wszystkie sieci
 yml.view.sound
 archived items
 yml.pause.sound
 , 
 yml.additem.sound
-add to home
+add to home	dodaj
 yml.item.position.sound.template
-item {0} of {1}
+item {0} of {1}	element {0} z {1}
 com/amazon/ebook/booklet/home/foundation/resources/YMLResources
 java/util/ListResourceBundle
 (Ljava/lang/String;)V
