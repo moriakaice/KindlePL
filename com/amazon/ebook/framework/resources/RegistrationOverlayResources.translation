@@ -1,4 +1,4 @@
-﻿[[Ljava/lang/Object;
+[[Ljava/lang/Object;
 <init>
 ()V
 Code
@@ -28,7 +28,7 @@ Enter E-mail Address	Wprowadź adres e-mail
 settings.registration.header
 Register Your Kindle	Zarejestruj swojego Kindle
 settings.registration.leadingBody
-An Amazon account is required to register your Kindle.	Musisz posiadać konto Amazon aby zarejestrować Twojego Kindle.
+An Amazon account is required to register your Kindle.	Musisz posiadać konto Amazon, aby zarejestrować Twojego Kindle.
 settings.registration.registerTitle
 If you already have an Amazon account:	Jeżeli posiadasz konto Amazon:
 settings.registration.registerDescription
@@ -36,11 +36,11 @@ Enter the e-mail address and password associated with your account below. To ent
 settings.registration.creationTitle
 If you do not have an Amazon account:	Jeżeli nie posiadasz konta Amazon:
 settings.registration.creationDescription
-Click here to create one and register your Kindle	Kliknij tutaj aby utorzyć konto i zarejestrować Twojego Kindle
+Click here to create one and register your Kindle	Kliknij tutaj, aby utorzyć konto i zarejestrować Twojego Kindle
 settings.registration.eulaDescription
 By registering, you agree to the Kindle License Agreement and Terms of Use, found in the Kindle User's Guide.	Rejestrując urządzenie, zgadzasz się z warunkami użytkowania i licencją, którą znajdziesz w instrukcji do Twojego Kindle.
 settings.registration.failed
-The e-mail address and password you entered do not match any accounts on record. Please try again.	E-mail i/lub hasło, które wprowadziłeś nie zgadzają się. Spróbuj ponownie.
+The e-mail address and password you entered do not match any accounts on record. Please try again.	E-mail i/lub hasło, które wprowadziłeś, nie zgadzają się. Spróbuj ponownie.
 settings.registration.server.error.text
 There was an error while registering your device. Please try again later.	Nastąpił błąd przy rejestracji urządzenia. Spróbuj ponownie.
 settings.registration.height.portrait

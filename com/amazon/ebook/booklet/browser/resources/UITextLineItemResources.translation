@@ -1,4 +1,4 @@
-﻿[[Ljava/lang/Object;
+[[Ljava/lang/Object;
 <init>
 ()V
 Code
@@ -20,7 +20,7 @@ below.cursor.desc.margin.left
 title.font
 description.font
 no.title.replacement
-No Title	Bez Tytułu
+No Title	Bez tytułu
 cursor.height
 com/amazon/ebook/booklet/browser/resources/UITextLineItemResources
 java/util/ListResourceBundle

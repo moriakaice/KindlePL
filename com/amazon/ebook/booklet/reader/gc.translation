@@ -1,4 +1,4 @@
-﻿Ljava/lang/String;
+Ljava/lang/String;
 ConstantValue
 Ljava/io/File;
 Z
@@ -76,7 +76,8 @@ gui.reader_clipping_clipping_copy_protected
 >
 (
 )
-~~
+
+~~
 -
 gui.reader_clipping_note
 java/lang/Object

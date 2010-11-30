@@ -1,4 +1,4 @@
-﻿[[Ljava/lang/Object;
+[[Ljava/lang/Object;
 <init>
 ()V
 Code
@@ -15,14 +15,14 @@ Sections List	Lista rozdziałów
 section.list.header.str1
 view section	Pokaż rozdział
 section.list.header.str2
-view articles	Pokaż pozycje
+view articles	Pokaż artykuły
 section.list.article.count.speaking.suffixes
 java/lang/String
-0#articles|1#article|2#articles	0#pozycje|1#pozycja|2#pozycja
+0#articles|1#article|2#articles	0#artykułów|1#artykuł|2#artykuły
 section.list.article.count.speak.format
-{0} {1}
+{0} {1}	{0} {1}
 section.list.article.count.format
-({0})
+({0})	({0})
 section.name.left.margin.fraction
 java/lang/Double
 toc.menu.item.left.margin.fraction

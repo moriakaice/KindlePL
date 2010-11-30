@@ -12,7 +12,7 @@ SourceFile
 [Ljava/lang/Object;
 java/lang/Object
 textfield.symbol.hint.msg
-(press 'SYM' key for symbols)	(naciœnij SYM, aby wstawiæ symbol)
+(press 'SYM' key for symbols)	(naciÅ›nij "SYM", aby wstawiÄ‡ symbol)
 button.ok.text
 ok	ok
 button.close.text
@@ -22,31 +22,31 @@ cancel	anuluj
 button.activate.text
 activate	aktywuj
 button.submit.text
-submit	zatwierdŸ
+submit	zatwierdÅº
 button.clear.text
-clear	wyczyœæ
+clear	wyczyÅ›Ä‡
 button.save.text
 save	zapisz
 button.join.text
-join	do³¹cz
+join	doÅ‚Ä…cz
 button.close.setting.text
 Close Settings	Zamknij Ustawienia
 button.close.bookmark.text
-Close Bookmarks	Zamknij Zak³adki
+Close Bookmarks	Zamknij ZakÅ‚adki
 button.close.history.text
-Close History	Zamknij Historiê
+Close History	Zamknij HistoriÄ™
 button.create_account.text
-create account	stwórz konto
+create account	stwÃ³rz konto
 button.kindle_eula.text
-kindle license agreement and terms of use		Umowa licencyjna Kindle i warunki u¿ytkowania
+kindle license agreement and terms of use		Umowa licencyjna Kindle i warunki uÅ¼ytkowania
 label.user
-Username:	Nazwa u¿ytkownika:
+Username:	Nazwa uÅ¼ytkownika:
 label.password
-Password:	Has³o:
+Password:	HasÅ‚o:
 more.items
-More Items...	Wiêcej...
+More Items...	WiÄ™cej...
 group.menu.beginning.label
-Go to Beginning...	Do pocz¹tku...
+Go to Beginning...	Do poczÄ…tku...
 icon.button.separation
 java/lang/Integer
 image.icon.insets
@@ -74,9 +74,7 @@ pub.info.unknown
 (Unknown)	(Nieznany)
 pub.info.default.font
 pub.info.pattern
-Publisher: {0}~~Publication Date: {1,date,short}~~Last Read Date: {2,date,medium} {2,time,medium}~~Last Location: {3,number,integer}~~File Type: {4}~~Location Range: 1-{5,number,integer}
-
-Wydawca: {0}~~Data publikacji: {1,date,short}~~Data ostatniego czytania: {2,date,medium} {2,time,medium}~~Ostatnia lokacja: {3,number,integer}~~Typ pliku: {4}~~Zakres lokacji: 1-{5,number,integer}
+Publisher: {0}~~Publication Date: {1,date,short}~~Last Read Date: {2,date,medium} {2,time,medium}~~Last Location: {3,number,integer}~~File Type: {4}~~Location Range: 1-{5,number,integer}	Wydawca: {0}~~Data publikacji: {1,date,short}~~Data ostatniego czytania: {2,date,medium} {2,time,medium}~~Ostatnia lokacja: {3,number,integer}~~Typ pliku: {4}~~Zakres lokacji: 1-{5,number,integer}
 
 stock.object.regular.width
 stock.object.wide.width

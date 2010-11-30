@@ -35,11 +35,11 @@ margin.textHeight
 text.title
 Network Information	Informacje o sieci
 text.headerText
-You can set up the Wi-Fi network connection and security options for the network named below.	Mo¿esz skonfigurowaæ po³¹czenie Wi-Fi i opcje bezpieczeñstwa dla poni¿szej sieci.
+You can set up the Wi-Fi network connection and security options for the network named below.	MoÅ¼esz skonfigurowaÄ‡ poÅ‚Ä…czenie Wi-Fi i opcje bezpieczeÅ„stwa dla poniÅ¼szej sieci.
 text.rowlabel.networkName
 Network Name:	Nazwa sieci:
 text.rowlabel.conType
-Connection Type:	Rodzaj po³¹czenia:
+Connection Type:	Rodzaj poÅ‚Ä…czenia:
 text.rowlabel.ipAddress
 IP Address:	Adres IP:
 text.rowlabel.subnetMask
@@ -51,7 +51,7 @@ DNS: DNS:
 text.rowlabel.secType
 Security Type:	Rodzaj zabezpieczenia:
 text.rowlabel.password
-Password:	Has³o:
+Password:	HasÅ‚o:
 text.contype.dhcp
 DHCP DHCP
 text.contype.static
@@ -65,7 +65,7 @@ WPA WPA
 text.security.wpa2
 WPA2 WPA2
 text.button.connect
-connect	po³¹cz
+connect	poÅ‚Ä…cz
 font.title
 font.widget
 font.headerText

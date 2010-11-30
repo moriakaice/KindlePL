@@ -24,16 +24,16 @@ Home_Pixel_Shadow.gif
 table.row.height.default
 table.footer.buffer
 page.no.items.text.1
-No Items	Brak Elementów
+No Items	Brak elementów
 page.no.items.text.2
 
 page.no.items.text.2.clicktoadd
-Click to add items to this collection	Kliknij aby dodać element do tej kolekcji
+Click to add items to this collection	Kliknij, aby dodać element do tej kolekcji
 page.no.items.text.2.font
 default.sort.option
 footer.bar.page.format
 java/text/ChoiceFormat
-1#Page {1} of {0}	1#Strona {1} из {0}
+1#Page {1} of {0}	1#Strona {1} z {0}
 footer.bar.x
 footer.bar.text.x
 footer.bar.text.margin.y
@@ -52,11 +52,11 @@ teb.font
 teb.addcollection.button.label
 create	stwórz
 teb.addcollection.bar.shortcut.text
-Start typing to create a new collection	Zacznij wpisywać aby stworzyć nową kolekcję 
+Start typing to create a new collection	Zacznij wpisywać, aby stworzyć nową kolekcję 
 teb.addcollection.already.added.alert.title
-Collection Name Already Exists	Ta Kolekcja Już Istnieje
+Collection Name Already Exists	Nazwa kolekcji już istnieje
 teb.addcollection.already.added.alert.body
-The collection name you entered already exists. Please enter a different name.	Kolekcja którą utworzyłeś już istnieje. Wybierz inną nazwę.
+The collection name you entered already exists. Please enter a different name.	Nazwa kolekcji, którą wybrałeś, już istnieje. Wybierz inną.
 teb.editcollection.already.added.alert.title
 teb.editcollection.already.added.alert.body
 teb.editcollection.button.label
@@ -64,7 +64,7 @@ save	zapisz
 group.item.widget.pattern
 {0} ({1,number,integer})
 collection.item.sound.collection
-collection
+collection	kolekcja
 group.item.widget.suffix.template
  ({0})
 group.item.sound.items
@@ -75,7 +75,7 @@ main.item.sound.pause
 main.item.sound.space
  
 main.item.position.sound.template
-item {0} of {1}
+item {0} of {1}	element {0} z {1}
 com/amazon/ebook/booklet/home/foundation/resources/HomeGUIResources
 java/util/ListResourceBundle
 (I)V

@@ -1,4 +1,4 @@
-﻿[[Ljava/lang/Object;
+[[Ljava/lang/Object;
 <init>
 ()V
 Code
@@ -16,7 +16,7 @@ Clear Cache	Czyść pamięć podręczną
 clear.history.label
 Clear History	Czyść historię
 clear.cookies.label
-Clear Cookies	Czyść cookies
+Clear Cookies	Czyść ciasteczka
 enable.js.label
 Enable Javascript	Włącz Javascript
 disable.js.label

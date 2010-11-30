@@ -34,13 +34,13 @@ margin.name
 margin.requireWifiText
 margin.landscape.newNetworkPromptBottomMargin
 text.connect
-connect	po³¹cz
+connect	poÅ‚Ä…cz
 text.disconnect
-forget	roz³¹cz
+forget	rozÅ‚Ä…cz
 text.connecting
-connecting...	³¹czenie...
+connecting...	Å‚Ä…czenie...
 text.newNetwork
-enter other Wi-Fi network	podaj inn¹ sieæ Wi-Fi
+enter other Wi-Fi network	podaj innÄ… sieÄ‡ Wi-Fi
 text.rescanning
 scanning...	szukam...
 text.rescanLink
@@ -50,19 +50,19 @@ secure	zabezpieczona
 text.openNetwork.accessible
 open	otwarta
 text.connectionRequired
-A Wi-Fi connection is required to complete this task. Connect to a Wi-Fi network or try again later.	Do wykonania zadania potrzebne jest po³¹czenie z sieci¹ Wi-Fi. Po³¹cz siê z sieci¹ Wi-Fi lub spróbuj póŸniej.
+A Wi-Fi connection is required to complete this task. Connect to a Wi-Fi network or try again later.	Do wykonania zadania potrzebne jest poÅ‚Ä…czenie z sieciÄ… Wi-Fi. PoÅ‚Ä…cz siÄ™ z sieciÄ… Wi-Fi lub sprÃ³buj pÃ³Åºniej.
 text.button.advanced
 advanced	zaawansowane
 message.enterPassword
-Enter password for {0}:	Podaj has³o dla{0}:
+Enter password for {0}:	Podaj hasÅ‚o dla {0}:
 message.unableToConnectHeader
-Unable to Connect to Wi-Fi Network~~~~	Nie mo¿na po³¹czyæ z sieci¹ Wi-Fi~~~~
+Unable to Connect to Wi-Fi Network~~~~	Nie moÅ¼na poÅ‚Ä…czyÄ‡ z sieciÄ… Wi-Fi~~~~
 message.unableToConnect
-Your Kindle is unable to connect to the Wi-Fi network "{0}". 	Twój Kindle nie mo¿e po³aczyæ siê z sieci¹ Wi-Fi"{0}". 
+Your Kindle is unable to connect to the Wi-Fi network "{0}". 	TwÃ³j Kindle nie moÅ¼e poÅ‚aczyÄ‡ siÄ™ z sieciÄ… Wi-Fi "{0}". 
 message.manuallyEnterSettingsUnsecure
-Would you like to try again or manually set up this network?	Czy chcesz spróbowaæ ponownie lub skonfigurowaæ tê sieæ rêcznie?
+Would you like to try again or manually set up this network?	Czy chcesz sprÃ³bowaÄ‡ ponownie lub skonfigurowaÄ‡ tÄ™ sieÄ‡ rÄ™cznie?
 message.manuallyEnterSettingsSecure
-Would you like to enter the password again or manually set up this network?	Czy chcesz wpisaæ has³o ponownie lub rêcznie skonfigurowaæ tê sieæ?
+Would you like to enter the password again or manually set up this network?	Czy chcesz wpisaÄ‡ hasÅ‚o ponownie lub skonfigurowaÄ‡ tÄ™ sieÄ‡ rÄ™cznie?
 message.availableNetworks
 {0} Wi-Fi Networks	Sieci Wi-Fi: {0}
 message.pageNumber
@@ -76,11 +76,11 @@ font.action.connecting
 font.pageNumber
 color.connecting
 enter.new.wifi.network.overlay.header
-Enter other Wi-Fi network	Podaj inn¹ sieæ Wi-Fi
+Enter other Wi-Fi network	Podaj innÄ… sieÄ‡ Wi-Fi
 enter.new.wifi.network.overlay.ssid.label
 Network name:	Nazwa sieci:
 enter.new.wifi.network.overlay.password.label
-Password:	Has³o:
+Password:	HasÅ‚o:
 enter.new.wifi.network.overlay.left.margin
 enter.new.wifi.network.overlay.right.margin
 enter.new.wifi.network.overlay.top.margin
@@ -90,47 +90,46 @@ enter.new.wifi.network.label.font
 enter.new.wifi.network.header.font
 enter.new.wifi.network.field.font
 button.enter.network.info.text
-set up network	konfiguruj sieæ
+set up network	konfiguruj sieÄ‡
 button.enter.password.again.text
-enter password again	powtórz has³o
+enter password again	powtÃ³rz hasÅ‚o
 button.enter.try.again.text
-try again	spróbuj ponownie
+try again	sprÃ³buj ponownie
 captive.title
 Sign-in required	Wymagane logowanie
 captive.msg
-The Wi-Fi network you are connecting to requires you to sign in before accessing the Internet.~~~~Do you wish to go to Web Browser to sign in?
-Sieæ Wi-Fi, z któr¹ siê ³¹czysz wymaga logowania zanim uzyskasz dostêp do Internetu.~~~~Czy chcesz przejœæ do przegl¹darki, aby siê zalogowaæ?
+The Wi-Fi network you are connecting to requires you to sign in before accessing the Internet.~~~~Do you wish to go to Web Browser to sign in?	SieÄ‡ Wi-Fi, z ktÃ³rÄ… siÄ™ Å‚Ä…czysz wymaga logowania przed uzyskaniem dostÄ™p do Internetu.~~~~Czy chcesz przejÅ›Ä‡ do przeglÄ…darki, aby siÄ™ zalogowaÄ‡?
 captive.button.text
-go to browser	do przegl¹darki
+go to browser	przejdÅº do przeglÄ…darki
 new.network.widget.action.overlay.width
 text.error.101
-The password you entered is incorrect or invalid.~~	Podane has³o jest nieprawid³owe.~~
+The password you entered is incorrect or invalid.~~	Podane hasÅ‚o jest nieprawidÅ‚owe.~~
 text.error.102
 There is no Wi-Fi Profile configured for this network.~~	Nie ma skonfigurowanego profilu dla tej sieci Wi-Fi.~~
 text.error.103
-Wi-Fi network connection failed.~~	Nie uda³o siê po³¹czyæ z sieci¹ Wi-Fi.~~
+Wi-Fi network connection failed.~~	Nie udaÅ‚o siÄ™ poÅ‚Ä…czyÄ‡ z sieciÄ… Wi-Fi.~~
 text.error.104
-Wi-Fi is not available right now. If the problem persists, please restart your device.~~	Wi-Fi niedostêpne, jeœli problem bêdzie siê powtarza³, zresetuj urzadzenie.~~
+Wi-Fi is not available right now. If the problem persists, please restart your device.~~	Wi-Fi niedostÄ™pne, jeÅ›li problem bÄ™dzie siÄ™ powtarzaÅ‚, zresetuj urzadzenie.~~
 text.error.105
 text.error.106
-Local network connection failed.~~	Nieudane po³¹czenie z sieci¹ lokaln¹.~~
+Local network connection failed.~~	Nieudane poÅ‚Ä…czenie z sieciÄ… lokalnÄ….~~
 text.error.107
-Internet connection failed.~~	Nie uda³o siê po³¹czyæ z Internetem.~~
+Internet connection failed.~~	Nie udaÅ‚o siÄ™ poÅ‚Ä…czyÄ‡ z Internetem.~~
 text.error.201
-The name of the Wi-Fi network is too long.~~	Zbyt d³uga nazwa sieci Wi-Fi.~~
+The name of the Wi-Fi network is too long.~~	Zbyt dÅ‚uga nazwa sieci Wi-Fi.~~
 text.error.202
 text.error.203
-Enterprise Wi-Fi networks are not supported on Kindle. Try connecting to another network.~~	Sieci typu Enterprise nie s¹ obs³ugiwane przez Kindle'a. Spróbuj po³¹czyæ siê z inn¹ sieci¹.~~
+Enterprise Wi-Fi networks are not supported on Kindle. Try connecting to another network.~~	Sieci typu Enterprise nie sÄ… obsÅ‚ugiwane przez Kindle'a. SprÃ³buj poÅ‚Ä…czyÄ‡ siÄ™ z innÄ… sieciÄ….~~
 text.error.204
-The password you entered is longer than allowed by the Wi-Fi network. Try entering the password again.~~	Sieæ Wi-Fi nie pozwala na tak d³ugie has³a. Spróbuj wpisaæ has³o ponownie.~~
+The password you entered is longer than allowed by the Wi-Fi network. Try entering the password again.~~	SieÄ‡ Wi-Fi nie pozwala na tak dÅ‚ugie hasÅ‚a. SprÃ³buj wpisaÄ‡ hasÅ‚o ponownie.~~
 text.error.205
-The password you entered is missing one or more characters. Try entering the password again.~~	W podanym haœle brakuje jednego lub wiêcej znaków. Spróbuj wpisaæ has³o ponownie.~~
+The password you entered is missing one or more characters. Try entering the password again.~~	W podanym haÅ›le brakuje jednego lub wiÄ™cej znakÃ³w. SprÃ³buj wpisaÄ‡ hasÅ‚o ponownie.~~
 text.error.206
-The security type you entered does not match the security type of the Wi-Fi network you are trying to connect to.~~	Podany typ zabezpieczeñ jest inny ni¿ sieci docelowej.~~
+The security type you entered does not match the security type of the Wi-Fi network you are trying to connect to.~~	Podany typ zabezpieczeÅ„ jest inny niÅ¼ sieci docelowej.~~
 text.error.207
-Peer-to-peer Wi-Fi networks are not supported on Kindle. Try connecting to another network.~~	Kindle nie wspó³pracuje z sieciami typu peer-to-peer. Spróbuj po³¹czyæ siê z inn¹ sieci¹.~~
+Peer-to-peer Wi-Fi networks are not supported on Kindle. Try connecting to another network.~~	Kindle nie wspÃ³Å‚pracuje z sieciami Wi-Fi typu peer-to-peer. SprÃ³buj poÅ‚Ä…czyÄ‡ siÄ™ z innÄ… sieciÄ….~~
 text.msg.unsupportedNetwork
-Unsupported Wi-Fi network~~~~Enterprise or peer-to-peer Wi-Fi networks are not supported. Try connecting to another network.	Nieobs³ugiwany typ sieci Wi-Fi~~~~Sieci typu Enterprise lub peer-to-peer nie s¹ obs³ugiwane. Spróbuj po³¹czyæ siê z inn¹ sieci¹.
+Unsupported Wi-Fi network~~~~Enterprise or peer-to-peer Wi-Fi networks are not supported. Try connecting to another network.	NieobsÅ‚ugiwany typ sieci Wi-Fi~~~~Sieci typu Enterprise lub peer-to-peer nie sÄ… obsÅ‚ugiwane. SprÃ³buj poÅ‚Ä…czyÄ‡ siÄ™ z innÄ… sieciÄ….
 com/amazon/ebook/framework/resources/WifiPopupResources
 java/util/ListResourceBundle
 (I)V

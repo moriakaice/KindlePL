@@ -14,7 +14,7 @@ java/lang/Object
 action.set.default.dictionary.path
 /opt/amazon/dict
 delete.action.delete.text
-delete	Usuń
+delete	usuń
 delete.action.remove.text
 remove from device	usuń z urządzenia
 delete.action.remove.from.collection.text
@@ -44,7 +44,7 @@ Home_RightSmArrow.gif
 collection.widget.text.2
 
 collection.empty.alert.text
-This Collection is currently empty	Ta kolekcja jest pusta
+This Collection is currently empty	Ta kolekcja jest obecnie pusta
 com/amazon/ebook/booklet/home/foundation/resources/ActionResources
 java/util/ListResourceBundle
 (I)V

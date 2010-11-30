@@ -1,4 +1,4 @@
-﻿BeachBallKWindow
+BeachBallKWindow
 InnerClasses
 SearchPDF
 ScreenIdentifierMaker
@@ -140,8 +140,8 @@ java/lang/StringBuffer
  --- PDF BookViewer completes the renderDirect call time taken = 
 java/lang/NullPointerException
 Exiting drawPage }}}
-Opening page 	Загрузка страницы 
- of 	 из 
+Opening page 	Otwieram stronę 
+ of 	 z 
 E_PDF_UNKNOWN_SECURITY_HANDLER
 gui.reader.unsupported_pdf_feature
 E_PDF_STD_SECURITY_PASSWORD

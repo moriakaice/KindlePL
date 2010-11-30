@@ -11,7 +11,7 @@ SourceFile
 [Ljava/lang/Object;
 java/lang/Object
 error.could.not.open.file.caption
-This item could not be opened on your Kindle. 	Plik nie mo¿e zostaæ otwarty na Twoim Kindle'u
+This item could not be opened on your Kindle. 	Plik nie moÅ¼e zostaÄ‡ otwarty na Twoim Kindle'u
 audible.activation.filename
 /mnt/us/system/AudibleActivation.sys
 audible.player.cache.filename
@@ -24,11 +24,11 @@ audible.player.position.file.extension
 audible.player.booklet.name
 Audible Player
 audible.player.invalid.format.alert.caption
-This item is in an unsupported Audible format and cannot be read on your Kindle. Please use an Audible format 4 or AAX file. 	Ten format pliku Audible nie jest obs³ugiwany przez Twojego Kindle'a. Uzyj formatu Audible 4 lub AAX
+This item is in an unsupported Audible format and cannot be read on your Kindle. Please use an Audible format 4 or AAX file. 	Ten format pliku Audible nie jest obsÅ‚ugiwany przez Twojego Kindle. Uzyj formatu Audible 4 lub AAX
 audible.player.file.does.not.exist.error.message
-The item you were listening to has been removed and is no longer available on your Kindle. 	Plik zosta³ usuniêty i nie jest ju¿ dostêpny.
+The item you were listening to has been removed and is no longer available on your Kindle. 	Plik zostaÅ‚ usuniÄ™ty i nie jest juÅ¼ dostÄ™pny.
 audible.player.low.disk.space.error.message
-The selected item could not be opened because you do not have enough Kindle memory available. Please make more Kindle memory available by removing content from Home.	Wybrany utwór nie mo¿e zostaæ otwarty, poniewa¿ dostêpne jest za ma³o pamiêci. Zwiêksz iloœæ dostêpnej pamiêci usuwaj¹c pozycje z ekranu g³ównego.
+The selected item could not be opened because you do not have enough Kindle memory available. Please make more Kindle memory available by removing content from Home.	Wybrany utwÃ³r nie moÅ¼e zostaÄ‡ otwarty, poniewaÅ¼ dostÄ™pne jest za maÅ‚o pamiÄ™ci. Zwolnij miejsce na urzÄ…dzeniu poprzez usuniÄ™cie niektÃ³rych ksiÄ…Å¼ek z katalogu domowego.
 audible.player.control.text.stop
 Stop Zatrzymaj
 audible.player.control.text.play
@@ -47,25 +47,25 @@ audible.view.pause.sound
 , 
 audible.view.seconds.sound.format
 java/text/ChoiceFormat
-0#{0} seconds|1#{0} second|2#{0} seconds	0#{0} sekund|1#{0} sekunda|2#{0} sekund
+0#{0} seconds|1#{0} second|2#{0} seconds	0#{0} sekund|1#{0} sekunda|2#{0} sekundy
 audible.view.minutes.sound.format
-0#{0} minutes|1#{0} minute|2#{0} minutes	0#{0} minut|1#{0} minuta|2#{0} minute
+0#{0} minutes|1#{0} minute|2#{0} minutes	0#{0} minut|1#{0} minuta|2#{0} minuty
 audible.view.hours.sound.format
-0#{0} hours|1#{0} hour|2#{0} hours	0#{0} godzin|1#{0} godzina|2#{0} godzin
+0#{0} hours|1#{0} hour|2#{0} hours	0#{0} godzin|1#{0} godzina|2#{0} godziny
 audible.button.reset.sound
-go back to beginning 	wróæ do pocz¹tku
+go back to beginning 	wrÃ³Ä‡ do poczÄ…tku
 audible.button.prevsection.sound
-go to previous section 		wróæ do poprzedniego rozdzia³u
+go to previous section 		wrÃ³Ä‡ do poprzedniego rozdziaÅ‚u
 audible.button.goback30secs.sound
-go back 30 seconds 	wróæ o 30 sekund
+go back 30 seconds 	cofnij o 30 sekund
 audible.button.play.sound
-play 		odtwórz
+play 		odtwÃ³rz
 audible.button.pause.sound
 pause 	pauza
 audible.button.goforward30secs.sound
 go forward 30 seconds	do przodu o 30 sekund
 audible.button.gotonextsection.sound
-go to next section	nastêpny rozdzia³
+go to next section	nastÄ™pny rozdziaÅ‚
 com/lab126/booklet/audiblePlayer/resources/AudiblePlayerResources
 java/util/ListResourceBundle
 (Ljava/lang/String;)Ljava/lang/String;

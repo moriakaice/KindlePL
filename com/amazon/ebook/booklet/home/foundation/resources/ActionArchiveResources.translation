@@ -25,7 +25,7 @@ Downloading {0} {1}...	Pobieranie {0} {1}...
 download.task.manager.downloaded.message
 Downloaded {0} {1}...	Pobrano {0} {1}...
 add.to.home.action.text
-add to home	Добавить домой
+add to home	dodaj do katalogu domowego
 add.to.home.action.text.offset
 java/lang/Integer
 com/amazon/ebook/booklet/home/foundation/resources/ActionArchiveResources

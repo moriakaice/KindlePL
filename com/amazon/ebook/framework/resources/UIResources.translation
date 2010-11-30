@@ -1,4 +1,4 @@
-﻿[[Ljava/lang/Object;
+[[Ljava/lang/Object;
 <init>
 ()V
 Code
@@ -49,7 +49,7 @@ menuitem.spacer.default.height
 password.field.disguise.character
 java/lang/Character
 textfield.symbol.hint.msg
-(press 'SYM' key for symbols)	(klawisz 'SYM'-znaki specjalne)
+(press 'SYM' key for symbols)	(naciśnij "SYM", aby wstawić symbol)
 symbols.default.font
 labelmi.default.font
 pubinfo.default.font

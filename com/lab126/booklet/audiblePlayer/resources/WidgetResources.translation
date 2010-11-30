@@ -13,21 +13,21 @@ java/lang/Object
 now.playing.view.position.caption
 Position	Pozycja
 now.playing.view.section.info.template
-Section {0} of {1}	Rozdzia³ {0} z {1}
+Section {0} of {1}	RozdziaÅ‚ {0} z {1}
 gui.now_playing.txtstatus.y
 java/lang/Integer
 audible.metadata.unknown
-Unknown 	Nieznany
+Unknown	Nieznany
 audible.metadata.by.author.template
-by {0} , 
+by {0} , 	czyta: {0}, 
 audible.metadata.narrator.template
 Narrator: {0}	Narrator: {0}
 audible.metadata.no.narrator
-No narrator		Brak narratora
+No narrator	Brak narratora
 audible.metadata.publication.date.template
 Date: {0}	Data: {0}
 audible.metadata.length.template
-Length: {0}	D³ugoœæ: {0}
+Length: {0}	DÅ‚ugoÅ›Ä‡: {0}
 audible.metadata.font.title
 audible.metadata.font.author
 audible.metadata.font.publication

@@ -1,4 +1,4 @@
-﻿[[Ljava/lang/Object;
+[[Ljava/lang/Object;
 <init>
 ()V
 Code
@@ -21,7 +21,7 @@ button.width
 java/lang/Integer
 shortcut.text
 
-clear.text
+clear.text	wyczyść tekst
 empty.note.error
 You cannot save an empty note.	Nie możesz zapisać pustej notatki.
 com/amazon/ebook/booklet/reader/gui/overlay/resources/ReaderNoteOverlayResources

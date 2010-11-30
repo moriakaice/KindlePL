@@ -13,41 +13,41 @@ SourceFile
 java/lang/Object
 collection.filter.all.format
 java/text/ChoiceFormat
-0#Showing All {0,number,integer} Items|1#Showing All {0,number,integer} Item|2#Showing All {0,number,integer} Items	0#Pokaż Wszystkie {0,number,integer} Elementów|1#Pokaż Wszystkie {0,number,integer} Element|2#Pokaż Wszystkie {0,number,integer} Elementów
+0#Showing All {0,number,integer} Items|1#Showing All {0,number,integer} Item|2#Showing All {0,number,integer} Items	0#Wyświetlanie {0,number,integer} elementów|1#Wyświetlanie {0,number,integer} elementu|2#Wyświetlanie {0,number,integer} elementów
 collection.filter.books.format
-0#Showing All {0,number,integer} Books|1#Showing All {0,number,integer} Book|2#Showing All {0,number,integer} Books	0#Pokaż Wszystkie {0,number,integer} Książki|1#Pokaż Wszystkie {0,number,integer} Książka|2#Pokaż Wszystkie {0,number,integer} Książki
+0#Showing All {0,number,integer} Books|1#Showing All {0,number,integer} Book|2#Showing All {0,number,integer} Books	0#Wyświetlanie {0,number,integer} książkek|1#Wyświetlanie {0,number,integer} Książki|2#Wyświetlanie {0,number,integer} książkek
 collection.filter.subs.format
-0#Showing All {0,number,integer} Periodicals|1#Showing All {0,number,integer} Periodical|2#Showing All {0,number,integer} Periodicals	0#Pokaż Wszystkie {0,number,integer} Czasopisma|1#Pokaż Wszystkie {0,number,integer} Czasopismo|2#Pokaż Wszystkie {0,number,integer} Czasopisma
+0#Showing All {0,number,integer} Periodicals|1#Showing All {0,number,integer} Periodical|2#Showing All {0,number,integer} Periodicals	0#Wyświetlanie {0,number,integer} czasopism|1#Wyświetlanie {0,number,integer} czasopisma|2#Wyświetlanie {0,number,integer} czasopism
 collection.filter.pdocs.format
-0#Showing All {0,number,integer} Personal Documents|1#Showing All {0,number,integer} Personal Document|2#Showing All {0,number,integer} Personal Documents	0#Pokaż Wszystkie {0,number,integer} Dokumenty|1#Pokaż Wszystkie {0,number,integer} Dokument|2#Pokaż Wszystkie {0,number,integer} Dokumenty
+0#Showing All {0,number,integer} Personal Documents|1#Showing All {0,number,integer} Personal Document|2#Showing All {0,number,integer} Personal Documents	0#Wyświetlanie {0,number,integer} dokumentów|1#Wyświetlanie {0,number,integer} dokumentu|2#Wyświetlanie {0,number,integer} dokumentów
 collection.filter.all
-All My Items	Wszystkie Elementy
+All My Items	Wszystkie elementy
 collection.filter.books
 Books	Książki
 collection.filter.subs
 Subscriptions	Subskrypcje
 collection.filter.pdocs
-Personal Docs	Dokumenty
+Personal Docs	Moje dokumenty
 collection.sort.recent.label
-By Most Recent First	Chronologicznie
+By Most Recent First	Od najnowszego
 collection.sort.title.label
-By Title	Według Nazwy
+By Title	Według tytułu
 collection.sort.author.label
-By Author	Według Autora
+By Author	Według autora
 collection.sort.recent
-Most Recent First	Chronologicznie
+Most Recent First	Najpierw najnowsze
 collection.sort.title
 Title	Tytuł
 collection.sort.author
 Author	Autor
 collection.menuitem.additems.name
-Add/Remove Items	Dodaj/Usuń Elementy
+Add/Remove Items	Dodaj/Usuń elementy
 collection.menuitem.edit.collection.name
-Rename Collection	Zmień Nazwę
+Rename Collection	Zmień nazwę
 collection.menuitem.delete.collection
-Delete Collection	Usuń Kolekcję
+Delete Collection	Usuń kolekcję
 collection.menuitem.create.collection
-Create a New Collection	Stwórz Kolekcję
+Create a New Collection	Stwórz kolekcję
 collection.menuitem.default.item
 java/lang/Integer
 collection.widget.font
@@ -63,20 +63,20 @@ collection.enter.overlay.max.chars
 collection.enter.overlay.save.button.label
 save	zapisz
 collection.enter.overlay.title
-Enter Collection Name	Wprowadź Nazwę Kolekcji
+Enter Collection Name	Wprowadź nazwę kolekcji
 collection.edit.overlay.title
-Edit Collection Name	Edytuj Nazwę Kolekcji
+Edit Collection Name	Edytuj nazwę kolekcji
 collection.edit.alreadyexists.overlay.title
-Collection Name Already Exists	Nazwa Kolekcji Już Występuje
+Collection Name Already Exists	Nazwa kolekcji już istnieje
 collection.edit.alreadyexists.overlay.msg
-The collection name that you entered already exists. Please enter a different name.	Nazwa Kolekcji którą wybrałeś już występuje. Wybierz inną.
+The collection name that you entered already exists. Please enter a different name.	Nazwa kolekcji, którą wybrałeś, już istnieje. Wybierz inną.
 collection.enter.overlay.title.font
 collection.enter.overlay.main.font
 collection.enter.overlay.field.font
 collection.view.sound.template
-{0} collection	
+{0} collection	{0} kolekcja
 collection.remove.sound
-remove from collection
+remove from collection	usuń z kolekcji
 collection.text.offset
 collection.text.line.margin
 collection.line.thickness

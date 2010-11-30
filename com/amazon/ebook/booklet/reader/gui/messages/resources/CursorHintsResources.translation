@@ -1,4 +1,4 @@
-﻿[[Ljava/lang/Object;
+[[Ljava/lang/Object;
 <init>
 ()V
 Code
@@ -18,7 +18,7 @@ Annotating is disabled for sample content	Dodawanie adnotacji wyłączone dla pr
 annotation.disable.feed
 Annotating is disabled for blogs	Dodawanie adnotacji wyłączone dla blogów
 annotation.disable.low.disk.space
-Annotating is disabled - Memory is full	Dodawanie adnotacji wyłączone - Pamięć pełna
+Annotating is disabled - Memory is full	Dodawanie adnotacji wyłączone - pamięć pełna
 add.note
 Begin typing to create a note	Zacznij pisać, aby utworzyć notatkę
 usual.cursor.interaction
@@ -26,22 +26,22 @@ Begin typing to create a note or click to start a highlight	Zacznij pisać, aby 
 create.highlight
 Move cursor to create a highlight	Przesuń kursor, aby zaznaczyć
 end.highlight.sharing.disabled
-Click to end highlight or press Back to cancel	Kliknij, aby zakończyć zaznaczanie lub naciśnij "Cofnij" aby zrezygnować
+Click to end highlight or press Back to cancel	Kliknij, aby zakończyć zaznaczanie lub naciśnij "Back" aby zrezygnować
 end.highlight.sharing.enabled
-Click to end highlight, {0} to tweet/share, or Back to cancel	Kliknij, aby zakończyć zaznaczanie, {0} aby tweetnąć/udostępnić, lub "Cofnij" aby zrezygnować
+Click to end highlight, {0} to tweet/share, or Back to cancel	Kliknij, aby zakończyć zaznaczanie, {0} aby tweetnąć/udostępnić, lub "Back" aby zrezygnować
 java/lang/String
 Home_Icon_AltReturn.gif
 highlight.hover.sharing.disabled
 Begin typing to create a note or {0} to delete highlight	Zacznij pisać, aby utworzyć notatkę lub {0} aby skasować zaznaczenie
 Home_Icon_Delete.gif
 highlight.hover.sharing.enabled
-Type to create note, {0} to delete highlight, {1} to share	Pisz, aby utworzyć notatkę, {0} aby skasować zaznaczenie, {1} aby udostępnić
+Type to create note, {0} to delete highlight, {1} to share	Zacznij pisać, aby utworzyć notatkę, {0} aby skasować zaznaczenie, {1} aby udostępnić
 highlight.hover.annotation.view.sharing.enabled
 {0} delete   {1} share	{0} skasuj   {1} udostępnij
 highlight.hover.annotation.view.sharing.disabled
 {0} delete	{0} skasuj
 link.hover
-Begin typing to create a note or click to follow the link	Zacznij pisać, aby utworzyć notatkę lub kliknij, aby uruchomić odnośnik
+Begin typing to create a note or click to follow the link	Zacznij pisać, aby utworzyć notatkę lub kliknij, aby przejść do adresu
 com/amazon/ebook/booklet/reader/gui/messages/resources/CursorHintsResources
 java/util/ListResourceBundle
 (Ljava/lang/String;I)V

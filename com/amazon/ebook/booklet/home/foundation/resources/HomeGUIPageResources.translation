@@ -13,13 +13,13 @@ SourceFile
 java/lang/Object
 search.results.page.header.bar.all.template
 java/text/ChoiceFormat
-0#Search Results: All {0} Items|1#Search Results: All {0} Item|2#Search Results: All {0} Items	0#Wyniki Wyszukiwania: {0}|1#Wyniki Wyszukiwania: {0}|2#Wyniki Wyszukiwania: {0}
+0#Search Results: All {0} Items|1#Search Results: All {0} Item|2#Search Results: All {0} Items	0#Wyniki wyszukiwania: {0} elementów|1#Wyniki wyszukiwania: {0} element|2#Wyniki wyszukiwania: {0} elemety
 search.results.page.header.bar.books.template
-0#Search Results: {0} Books|1#Search Results: {0} Book|2#Search Results: {0} Books	0#Wyniki Wyszukiwania: {0}|1#Wyniki Wyszukiwania: {0}|2#Wyniki Wyszukiwania: {0}
+0#Search Results: {0} Books|1#Search Results: {0} Book|2#Search Results: {0} Books	0#Wyniki wyszukiwania: {0} książek|1#Wyniki wyszukiwania: {0} książka|2#Wyniki wyszukiwania: {0} książki
 search.results.page.header.bar.pdocs.template
-0#Search Results: {0} Personal Docs|1#Search Results: {0} Personal Doc|2#Search Results: {0} Personal Docs	0#Wyniki Wyszukiwania: {0}|1#Wyniki Wyszukiwania: {0}|2#Wyniki Wyszukiwania: {0}
+0#Search Results: {0} Personal Docs|1#Search Results: {0} Personal Doc|2#Search Results: {0} Personal Docs	0#Wyniki wyszukiwania: {0} dokumentów|1#Wyniki wyszukiwania: {0} dokument|2#Wyniki wyszukiwania: {0} dokumenty
 search.results.page.header.bar.subs.template
-0#Search Results: {0} Subscriptions|1#Search Results: {0} Subscription|2#Search Results: {0} Subscriptions	0#Wyniki Wyszukiwania: {0}|1#Wyniki Wyszukiwania: {0}|2#Wyniki Wyszukiwania: {0}
+0#Search Results: {0} Subscriptions|1#Search Results: {0} Subscription|2#Search Results: {0} Subscriptions	0#Wyniki wyszukiwania: {0} subskrypcji|1#Wyniki wyszukiwania: {0} subskrypcja|2#Wyniki wyszukiwania: {0} subskrypcje
 search.results.page.match.count.baseline.offset
 java/lang/Integer
 search.results.page.match_count.font
@@ -29,9 +29,9 @@ java/text/MessageFormat
 ({0})
 search.results.page.match.count.width
 search.results.page.not.enough.space.to.search
-Your search cannot be completed due to insufficient Kindle memory. Please free up space by removing content from Home.	Za mało pamięci do ukończenia wyszukiwania. Zwolnij miejsce na urządzeniu poprzez usunięcię niektórych książek.
+Your search cannot be completed due to insufficient Kindle memory. Please free up space by removing content from Home.	Za mało pamięci do ukończenia wyszukiwania. Zwolnij miejsce na urządzeniu poprzez usunięcie niektórych książek z katalogu domowego.
 search.results.page.not.yet.indexed.grouping.title
-Items Not Yet Indexed	Elementy Nie Zostały Jeszcze Zindeksowane
+Items Not Yet Indexed	Elementy nie zostały jeszcze zaindeksowane
 search.results.page.yml.shortcut.prefix
 archiv	archiwum
 search.results.page.back.issues.shortcut.prefix
@@ -41,10 +41,10 @@ Items	Elementy
 unassigned.page.one.item
 Item	Element
 unassigned.page.header.template
-{0} Unassigned {1}
+{0} Unassigned {1}	{0} nieprzypisyanych {1}
 unindexed.items.page.header.text
 unindexed.items.page.showing.all.items.template
-Showing All {0} Items	Pokaż Wszystkie: {0}
+Showing All {0} Items	Wyświetlanie {0} elementów
 com/amazon/ebook/booklet/home/foundation/resources/HomeGUIPageResources
 java/util/ListResourceBundle
 (Ljava/lang/String;)V

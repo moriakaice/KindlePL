@@ -34,41 +34,41 @@ home.header.enabled.text.color
 home.header.disabled.text.color
 home.header.filter.all.format
 java/text/ChoiceFormat
-0#Showing All {0,number,integer} Items|1#Showing All {0,number,integer} Item|2#Showing All {0,number,integer} Items	0#Показано {0,number,integer}|1#Показано {0,number,integer}|2#Показано {0,number,integer}
+0#Showing All {0,number,integer} Items|1#Showing All {0,number,integer} Item|2#Showing All {0,number,integer} Items	0#Wyświetlanie {0,number,integer} elementów|1#Wyświetlanie {0,number,integer} elementu|2#Wyświetlanie {0,number,integer} elementów
 home.header.filter.items.format
-0#Showing {0,number,integer} Items|1#Showing {0,number,integer} Item|2#Showing {0,number,integer} Items	0#Показано элементов: {0,number,integer}|1#Показано элементов: {0,number,integer}|2#Показано элементов: {0,number,integer}
+0#Showing {0,number,integer} Items|1#Showing {0,number,integer} Item|2#Showing {0,number,integer} Items	0#Wyświetlanie {0,number,integer} elementów|1#Wyświetlanie {0,number,integer} elementu|2#Wyświetlanie {0,number,integer} elementów
 home.header.filter.books.format
-0#Showing {0,number,integer} Books|1#Showing {0,number,integer} Book|2#Showing {0,number,integer} Books	0#Показано книг: {0,number,integer}|1#Показано книг: {0,number,integer}|2#Показано книг: {0,number,integer}
+0#Showing {0,number,integer} Books|1#Showing {0,number,integer} Book|2#Showing {0,number,integer} Books	0#Wyświetlanie {0,number,integer} książek|1#Wyświetlanie {0,number,integer} książki|2#Wyświetlanie {0,number,integer} książek
 home.header.filter.subs.format
-0#Showing {0,number,integer} Subscriptions|1#Showing {0,number,integer} Subscription|2#Showing {0,number,integer} Subscriptions	0#Показано подписок: {0,number,integer}|1#Показано подписок: {0,number,integer}|2#Показано подписок: {0,number,integer}
+0#Showing {0,number,integer} Subscriptions|1#Showing {0,number,integer} Subscription|2#Showing {0,number,integer} Subscriptions	0#Wyświetlanie {0,number,integer} subskrypcji|1#Wyświetlanie {0,number,integer} subskrypcji|2#Wyświetlanie {0,number,integer} subskrypcji
 home.header.filter.pdocs.format
-0#Showing {0,number,integer} Personal Docs|1#Showing {0,number,integer} Personal Doc|2#Showing {0,number,integer} Personal Docs	0#Показано документов: {0,number,integer}|1#Показано документов: {0,number,integer}|2#Показано документов: {0,number,integer}
+0#Showing {0,number,integer} Personal Docs|1#Showing {0,number,integer} Personal Doc|2#Showing {0,number,integer} Personal Docs	0#Wyświetlanie {0,number,integer} dokumentów|1#Wyświetlanie {0,number,integer} dokumentu|2#Wyświetlanie {0,number,integer} dokumentów
 home.header.filter.collections.format
-0#Showing {0,number,integer} Collections|1#Showing {0,number,integer} Collection|2#Showing All {0,number,integer} Collections	0#Показано коллекций: {0,number,integer}|1#Показано коллекций: {0,number,integer}|2#Показано коллекций: {0,number,integer}
+0#Showing {0,number,integer} Collections|1#Showing {0,number,integer} Collection|2#Showing All {0,number,integer} Collections	0#Wyświetlanie {0,number,integer} kolekcji|1#Wyświetlanie {0,number,integer} kolekcji|2#Wyświetlanie {0,number,integer} kolekcji
 home.header.filter.addremove.format
-0#Add/Remove 0 Items|1#Add/Remove 1 Item|2#Add/Remove {0,number,integer} Items	0#Добавить/удалить 0 элемент|1#Добавить/удалить 1 элемент|2#Добавить/удалить {0,number,integer} элементов
+0#Add/Remove 0 Items|1#Add/Remove 1 Item|2#Add/Remove {0,number,integer} Items	0#Dodaj/usuń 0 elementów|1#Dodaj/usuń 1 element|2#Dodaj/usuń {0,number,integer} elementów
 home.header.filter.all
-All My Items	Wszystkie pozycje
+All My Items	Wszystkie elementy
 home.header.filter.books
 Books	Książki
 home.header.filter.subs
 Subscriptions	Subskrybcje
 home.header.filter.pdocs
-Personal Docs	Dokumenty
+Personal Docs	Moje dokumenty
 home.header.filter.collections
 Collections	Kolekcje
 home.header.sort.recent.label
 By Most Recent First	Od najnowszego
 home.header.sort.title.label
-By Title	Wg. tytułu
+By Title	Według tytułu
 home.header.sort.author.label
-By Author	Wg. autora
+By Author	Według autora
 home.header.sort.collections.label
-By Collections	Wg. kolecji
+By Collections	Według kolecji
 home.header.sort.collectionsonly.label
-By Collections Only	Tylko wg. kolekcji
+By Collections Only	Tylko wwedług kolekcji
 home.header.sort.relevance.label
-By Relevance	Wg. trafności
+By Relevance	Według trafności
 home.header.sort.recent
 Most Recent First	Najpierw najnowsze
 home.header.sort.title
@@ -76,7 +76,7 @@ Title	Tytuł
 home.header.sort.author
 Author	Autor
 home.header.sort.collections
-By Collections	Wg. kolekcji
+By Collections	Według kolekcji
 home.header.sort.collectionsonly
 Collections Only	Tylko kolekcje
 home.header.sort.relevance

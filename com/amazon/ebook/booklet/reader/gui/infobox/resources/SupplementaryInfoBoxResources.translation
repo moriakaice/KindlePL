@@ -1,4 +1,4 @@
-﻿[[Ljava/lang/Object;
+[[Ljava/lang/Object;
 <init>
 ()V
 Code
@@ -14,7 +14,7 @@ java/lang/Object
 hint.table.begin
 Move the 5-way to the right to begin panning the table,$$~~or click to place the cursor within the table	Przesuń w prawo aby przemieścić tabelę$$~~lub kliknij [pad] aby umieścić kursor w tabeli
 hint.table.began
-Click to place the cursor within the table	kliknij [pad] aby umieścić kursor w tabeli
+Click to place the cursor within the table	Kliknij [pad] aby umieścić kursor w tabeli
 emphasis.font
 font
 gap.from.bubble.to.bottom.display

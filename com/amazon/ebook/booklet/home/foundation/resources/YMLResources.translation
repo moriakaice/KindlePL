@@ -1,4 +1,4 @@
-﻿[[Ljava/lang/Object;
+[[Ljava/lang/Object;
 <init>
 ()V
 Code
@@ -15,11 +15,11 @@ yml.header
 Archived Items	Архив
 yml.filter.format
 java/text/ChoiceFormat
-0#Showing {0,number,integer} Archived Items|1#Showing {0,number,integer} Archived Item|2#Showing {0,number,integer} Archived Items	0#Pokazywanie {0,number,integer} elementów archiwum|1#Pokazywanie {0,number,integer} elementu archiwum|2#Pokazywanie {0,number,integer} elementów archiwum
+0#Showing {0,number,integer} Archived Items|1#Showing {0,number,integer} Archived Item|2#Showing {0,number,integer} Archived Items	0#Wyświetlanie {0,number,integer} elementów archiwum|1#Wyświetlanie {0,number,integer} elementu archiwum|2#Wyświetlanie {0,number,integer} elementów archiwum
 yml.sort.title.label
-By Title	Po tytule
+By Title	Wg tytułu
 yml.sort.author.label
-By Author	Po autorze
+By Author	Wg autora
 yml.sort.title
 Title	Tytuł
 yml.sort.author
@@ -27,11 +27,11 @@ Author	Autor
 yml.default.download.error.msg
 Your download was not successful. Please try again.	Nieudane pobieranie. Spróbuj ponownie.
 yml.download.error.notenoughspace
-"{0}" could not be downloaded due to insufficient Kindle memory. Please free up space by removing content from Home.	"{0}" nie mógł zostać pobrany z powodu niewystarczającej pamięci. Zwolnij pamięć poprzez usunięcie zawartości z dysku.
+"{0}" could not be downloaded due to insufficient Kindle memory. Please free up space by removing content from Home.	"{0}" nie mógł zostać pobrany z powodu niewystarczającej pamięci. Zwolnij miejsce na urządzeniu poprzez usunięcie niektórych książek z katalogu domowego.
 yml.wifi.required.overlay.title
-Wi-Fi Network Required	Wymagana sieć WiFi
+Wi-Fi Network Required	Wymagana sieć Wi-Fi
 yml.wifi.required.overlay.body
-A Wi-Fi network connection is required to complete this task. Please connect to a Wi-Fi network.	Połącznie WiFi jest wymagane do ukończenia tego zadania. Proszę podłączy się do sieci WiFi.
+A Wi-Fi network connection is required to complete this task. Please connect to a Wi-Fi network.	Połącznie Wi-Fi jest wymagane do ukończenia tego zadania. Proszę podłączyć się do sieci Wi-Fi.
 yml.wifi.required.overlay.viewall.button
 view all networks	Zobacz wszystkie sieci
 yml.view.sound

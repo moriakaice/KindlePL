@@ -1,4 +1,4 @@
-﻿[[Ljava/lang/Object;
+[[Ljava/lang/Object;
 <init>
 ()V
 Code
@@ -16,12 +16,12 @@ java/lang/Integer
 reading.indicator.side
 reading.indicator.height
 button.article.label
-Close Article List	Zamknij listę pozycji
+Close Article List	Zamknij listę artykułów
 text.article.spacer
 section.list.button.label
 View Section List	Lista rozdziałów
 article.list.button.label
-View Article List	Lista pozycji
+View Article List	Lista artykułów
 page.section.info.font
 button.section.label
 Close Section List	Zamknij listę rozdziałów

@@ -47,15 +47,15 @@ The following pages contain settings to personalize your Kindle experience. Pres
 settings.desc.body.not.registered
 This page contains settings to personalize your Kindle experience.	Ta strona zawiera ustawienia dotyczące personalizacji Twojego Kindle.
 settings.wifi.header
-Wi-Fi Settings 	Ustawienia WiFi 
+Wi-Fi Settings 	Ustawienia Wi-Fi 
 settings.wifi.subheader.not.connected
-not connected	nie podłączony
+not connected	nie połączony
 settings.wifi.body
-Join a Wi-Fi network for faster downloads.	Użyj sieci WiFi w celu szybszego pobierania.
+Join a Wi-Fi network for faster downloads.	Użyj sieci Wi-Fi w celu szybszego pobierania.
 settings.wifi.footer.template
-Available Wi-Fi Networks ({0})~~Network: {1}	Dostępne sieci WiFi ({0})~~sieć: {1}
+Available Wi-Fi Networks ({0})~~Network: {1}	Dostępne sieci Wi-Fi ({0})~~Sieć: {1}
 settings.wifi.cursor
-view	Widok
+view	zobacz
 settings.wifi.height
 settings.wifi.max.num.footer.lines
 settings.wifi.subheader.font
@@ -64,7 +64,7 @@ settings.reg.link.offset
 settings.reg.header
 Registration	Rejestracja
 settings.reg.body
-This device and any content purchased in the Kindle Store are registered to the Amazon user shown below.	To urządzenie oraz każda zawartość zakupiona poprzez Kindle Store jest zarejestrowana dla użytkownika Amazon wyświetlonego poniżej.
+This device and any content purchased in the Kindle Store are registered to the Amazon user shown below.	To urządzenie oraz każda zawartość zakupiona poprzez Kindle Store jest zarejestrowana dla użytkownika Amazon podanego poniżej.
 settings.dereg.body
 not registered	nie zarejestrowany
 settings.reg.cursor
@@ -79,26 +79,26 @@ settings.reg.footer.date.format
 settings.reg.footer.user.str
 Registered User: 	Zarejestrowany użytkownik: 
 settings.device.info.header
-Device Info	Informacja o urządzeniu
+Device Info	Informacje o urządzeniu
 settings.device.info.footer.lines.template.with.wifi
-Wi-Fi MAC Address: {0}~~Serial Number: {1}~~Network Capability: {2}	 adres MAC WiFi: {0}~~Numer seryjny: {1}~~Możliwości sieci: {2}
+Wi-Fi MAC Address: {0}~~Serial Number: {1}~~Network Capability: {2}	 Adres MAC Wi-Fi: {0}~~Numer seryjny: {1}~~Możliwości sieci: {2}
 settings.device.info.footer.lines.template.without.wifi
 Serial Number: {0}~~Network Capability: {1}	Numer seryjny: {0}~~Możliwości sieci: {1}
 settings.device.info.sn.default
 Unavailable	Niedostępna
 settings.device.info.wifi.mac.address.default
 settings.device.info.network.capability.wifi
-Wi-Fi	WiFi
+Wi-Fi	Wi-Fi
 settings.device.info.network.capability.3g
 3G
 settings.device.info.network.capability.wifiand3g
-Wi-Fi and 3G	WiFi i 3G
+Wi-Fi and 3G	Wi-Fi i 3G
 settings.device.info.max.numb.footer.lines.with.wifi
 settings.device.info.max.numb.footer.lines.without.wifi
 settings.device.header
 Device Name	Nazwa urządzenia
 settings.device.body
-Personalize your Kindle by giving it a name that appears on the Home page.	Spersonalizuj swój Kindle poprzez nadanie mu nazwy na stronie głównej.
+Personalize your Kindle by giving it a name that appears on the Home page.	Spersonalizuj swój Kindle poprzez nadanie mu nazwy, która pojawi się w katalogu domowym.
 settings.device.footer.template
 Name: {0}	Nazwa: {0}
 settings.device.cursor
@@ -136,7 +136,7 @@ turn off	wyłącz
 settings.pwd.cursor.edit
 settings.pwd.title.text.buffer
 settings.pwd.hint.template
-Password hint: {0}	Wskazówka do hasła: {0}
+Password hint: {0}	Podpowiedź do hasła: {0}
 settings.pwd.max.num.footer.lines
 settings.pwd.text.font
 settings.phl.header
@@ -164,9 +164,9 @@ Navigate your Kindle with spoken menus, selectable items, and descriptions.	Nawi
 settings.accessibility.cursor.enable
 settings.accessibility.cursor.disable
 settings.email.header
-Device Email	Email urządzenia
+Device Email	E-mail urządzenia
 settings.email.body
-You can send documents to your Kindle's e-mail address shown below. To edit the address or add additional addresses to your approved list of senders, go to: www.amazon.com/myk. For UK customers, go to: www.amazon.co.uk/myk.	Możesz wysyłać dokumenty do swojego Kindle na adres e-mail wyświetlony poniżej. By zmienić adres lub dodać nowe adresy do swojej zaakceptowanej listy nadawców, idź do adresu: www.amazon.com/myk. Dla klientów z Wielkiej Brytanii użyj: www.amazon.co.uk/myk. 
+You can send documents to your Kindle's e-mail address shown below. To edit the address or add additional addresses to your approved list of senders, go to: www.amazon.com/myk. For UK customers, go to: www.amazon.co.uk/myk.	Możesz wysyłać dokumenty do swojego Kindle na adres e-mail wyświetlony poniżej. By zmienić adres lub dodać nowe adresy do swojej zaakceptowanej listy nadawców, odwiedź: www.amazon.com/myk. Klienci z Wielkiej Brytanii powinni odwiedzić: www.amazon.co.uk/myk. 
 settings.email.cursor.text
 
 settings.email.max.num.footer.lines
@@ -250,7 +250,7 @@ settings.pwd.overlay.height
 settings.pwd.incorrect.height
 settings.pwd.font
 settings.pwd.2.set.body
-Create a password to protect your Kindle.  If you forget your password, you can reset your Kindle, which will also remove all content to prevent other people from accessing it.	Stwórz hasło, by chronić swój Kindle. Jeśli zapomnisz hasła, możesz zresetować urządzenie, co jednocześnie spowoduje usunięcie całej zawartości, by chronić ją przed dostępem innych.
+Create a password to protect your Kindle.  If you forget your password, you can reset your Kindle, which will also remove all content to prevent other people from accessing it.	Stwórz hasło, aby chronić swój Kindle. Jeśli zapomnisz hasła, możesz zresetować urządzenie, co jednocześnie spowoduje usunięcie całej zawartości, by chronić ją przed dostępem innych.
 settings.pwd.2.y.body
 settings.pwd.2.set.title
 settings.pwd.2.edit.title
@@ -282,7 +282,7 @@ settings.pwd.2.hint.helper.font
 settings.oobe.wifi.header
 Join a Wi-Fi Network	Podłącz się do sieci WiFi
 settings.oobe.wifi.body
-To register your Kindle, shop or browse for content in the Kindle Store, or view Web sites, you must first connect to a Wi-Fi network.~~~~You can always set up a Wi-Fi connection later through the Settings page.	By zarejestrować swój Kindle, kupować oraz przeglądać zawartość Kindle Store lub przeglądać strony WWW, musisz najpierw podłączyć się do sieci WiFi.~~~~Możesz ustawić połączenie WiFi później poprzez stronę ustawień.
+To register your Kindle, shop or browse for content in the Kindle Store, or view Web sites, you must first connect to a Wi-Fi network.~~~~You can always set up a Wi-Fi connection later through the Settings page.	By zarejestrować swój Kindle, kupować oraz przeglądać zawartość Kindle Store lub przeglądać strony WWW, musisz najpierw podłączyć się do sieci Wi-Fi.~~~~Możesz ustawić połączenie Wi-Fi później poprzez stronę ustawień.
 settings.oobe.wifi.set.up.button
 join a network	podłącz do sieci
 settings.oobe.wifi.remind.me.later.button
@@ -331,7 +331,7 @@ DOWN	W dół
 settings.411.title
 411 Page	Strona 411
 settings.411.msid.template
-IMSI: {0}
+IMSI: {0}	IMSI: {0}
 settings.411.esn.template
 Radio Serial Number: {0}	Numer seryjny odbiornika: {0}
 settings.411.mac.template
@@ -387,9 +387,9 @@ settings.deregistration.button.text
 settings.deregistration.server.error.text
 There was an error while deregistering your device. Please try again later.	Nastąpił błąd przy wyrejestrowaniu urządzenia. Proszę spróbować później. 
 switch.wireless.provider.overlay.label
-Switching Wireless Providers	Zmiana dostawców WiFi
+Switching Wireless Providers	Zmiana dostawcy Wi-Fi
 switch.wireless.provider.overlay.body
-Your current provider is {0}.~~Your Kindle will lose its connection during this process. Manually switching wireless providers may take serveral minutes to complete, and your Kindle may not successfully reconnect to the Amazon Whispernet network. Do you wish to continue?	Twoim aktualnym dostawcą jest {0}.~~Twój Kindle straci połącznie w czasie tego procesu. Ręczna zmiana dostawców WiFi może zająć kilka minut i Twój Kindle może nie podłączyć się do sieci Amazon Whispernet. Czy chcesz kontynuować?
+Your current provider is {0}.~~Your Kindle will lose its connection during this process. Manually switching wireless providers may take serveral minutes to complete, and your Kindle may not successfully reconnect to the Amazon Whispernet network. Do you wish to continue?	Twoim aktualnym dostawcą jest {0}.~~Twój Kindle straci połącznie w czasie tego procesu. Ręczna zmiana dostawców Wi-Fi może zająć kilka minut i Twój Kindle może nie podłączyć się do sieci Amazon Whispernet. Czy chcesz kontynuować?
 set_time_and_date.content_panel.title.text
 Set Time	Ustaw czas
 set_time_and_date.content_panel.auto_sync.text
@@ -410,7 +410,7 @@ set_time_and_date.content_panel.separator.day_and_year
 set_time_and_date.content_panel.auto_sync.label.offset.y
 set_time_and_date.content_panel.auto_sync.spacing
 time.date.change.warning.overlay.message
-You are about to change the date on your Kindle by more than a day. An incorrect date may prevent your Kindle from working properly. Are you sure you want to proceed?	Właśnie zmieniasz datę na swoim Kindle o więcej niż jeden dzień. Niepoprawna data może uniemożliwić właściwe działanie Kindle. Czy kontynuować?
+You are about to change the date on your Kindle by more than a day. An incorrect date may prevent your Kindle from working properly. Are you sure you want to proceed?	Właśnie zmieniasz datę na swoim Kindle o więcej niż jeden dzień. Niepoprawna data może uniemożliwić właściwe działanie Kindle. Czy chcesz kontynuować?
 settings.view.sound
 settings
 settings.pause.sound
@@ -422,7 +422,7 @@ settings.space.sound
 selectdict.view.sound
 select dictionary
 settings.registration.body
-An Amazon account is required to register your Kindle. If you do not have an account, go to www.amazon.com/sign-in to create one. For UK customers, go to www.amazon.co.uk/sign-in.~~~~By registering your Kindle, you agree to the Kindle License Agreement and Terms of Use, which can be found in the Appendix of the Kindle User's Guide.~~~~Enter the e-mail address and password associated with your Amazon account. To enter "@" symbol, press the "SYM" key.	Do zarejestrowania Twojego Kindle wymagane jest konto Amazon. Jeśli nie masz konta, stwórz je na www.amazon.com/sign-in. Klienci z Wielkiej Brytanii powinni użyć www.amazon.co.uk/sign-in.~~~~Poprzez rejestrację swojego Kindle, wyrażasz zgodę na Kindle License Agreement oraz Terms of Use, które można znaleźć w dodatku do Przeowdnika Użytkownika Kindle.~~~~Podaj adres e-mail i hasło związane z Twoim kontem Amazon. By wprowadzić znak "@", użyj przycisku "SYM".
+An Amazon account is required to register your Kindle. If you do not have an account, go to www.amazon.com/sign-in to create one. For UK customers, go to www.amazon.co.uk/sign-in.~~~~By registering your Kindle, you agree to the Kindle License Agreement and Terms of Use, which can be found in the Appendix of the Kindle User's Guide.~~~~Enter the e-mail address and password associated with your Amazon account. To enter "@" symbol, press the "SYM" key.	Do zarejestrowania Twojego Kindle wymagane jest konto Amazon. Jeśli nie masz konta, stwórz je na www.amazon.com/sign-in. Klienci z Wielkiej Brytanii powinni użyć www.amazon.co.uk/sign-in.~~~~Poprzez rejestrację swojego Kindle, wyrażasz zgodę na Kindle License Agreement oraz Terms of Use, które można znaleźć w dodatku do Przewodnika Użytkownika Kindle.~~~~Podaj adres e-mail i hasło związane z Twoim kontem Amazon. By wprowadzić znak "@", użyj przycisku "SYM".
 com/amazon/ebook/booklet/home/foundation/resources/SettingsResources
 java/util/ListResourceBundle
 (I)V

@@ -20,7 +20,7 @@ sr.matchcount.format
 java/text/MessageFormat
 ({0})
 sr.notenoughspace.str
-Your search cannot be completed due to insufficient Kindle memory. Please free up memory by removing content from Home.	Twoje wyszukiwanie nie może zostać ukończone z powodu niewystarczającej pamięci. Zwolnij pamięć poprzez usunięcie zawartości z dysku.
+Your search cannot be completed due to insufficient Kindle memory. Please free up memory by removing content from Home.	Twoje wyszukiwanie nie może zostać ukończone z powodu niewystarczającej pamięci. Zwolnij miejsce na urządzeniu poprzez usunięcie niektórych książek z katalogu domowego.
 sr.notyetindexed.groupingtitle.str
 Items Not Yet Indexed	Elementy jeszcze niezindeksowane
 sr.netyetindexed.text.2
@@ -31,19 +31,19 @@ sr.backissues.shortcut.prefix
 back	wstecz
 sr.header.filter.all.format
 java/text/ChoiceFormat
-0#Search Results: All {0,number,integer} Items|1#Search Results: All {0,number,integer} Item|2#Search Results: All {0,number,integer} Items	0#Znaleziono wszystkich {0,number,integer}|1#Znaleziono wszystkich {0,number,integer}|2#Znaleziono wszystkich {0,number,integer}
+0#Search Results: All {0,number,integer} Items|1#Search Results: All {0,number,integer} Item|2#Search Results: All {0,number,integer} Items	0#Wyniki wyszukiwania: {0} elementów|1#Wyniki wyszukiwania: {0} element|2#Wyniki wyszukiwania: {0} elemety
 sr.header.filter.books.format
-0#Search Results: {0,number,integer} Books|1#Search Results: {0,number,integer} Book|2#Search Results: {0,number,integer} Books	0#Znaleziono książek: {0}|1#Znaleziono książek: {0}|2#Znaleziono książek: {0}
+0#Search Results: {0,number,integer} Books|1#Search Results: {0,number,integer} Book|2#Search Results: {0,number,integer} Books	0#Wyniki wyszukiwania: {0} książek|1#Wyniki wyszukiwania: {0} książka|2#Wyniki wyszukiwania: {0} książki
 sr.header.filter.collections.format
-0#Search Results: {0,number,integer} Collections|1#Search Results: {0,number,integer} Collection|2#Search Results: {0,number,integer} Collections	0#Znaleziono kolekcji: {0}|1#Znaleziono kolekcji: {0}|2#Znaleziono kolekcji: {0}
+0#Search Results: {0,number,integer} Collections|1#Search Results: {0,number,integer} Collection|2#Search Results: {0,number,integer} Collections	0#Wyniki wyszukiwania: {0} kolekcji|1#Wyniki wyszukiwania: {0} kolekcja|2#Wyniki wyszukiwania: {0} kolekcje
 sr.header.filter.subs.format
-0#Search Results: {0,number,integer} Periodicals|1#Search Results: {0,number,integer} Periodical|2#Search Results: {0,number,integer} Periodicals	0#Znaleziono czasopism: {0}|1#Znaleziono czasopism: {0}|2#Znaleziono czasopism: {0}
+0#Search Results: {0,number,integer} Periodicals|1#Search Results: {0,number,integer} Periodical|2#Search Results: {0,number,integer} Periodicals	0#Wyniki wyszukiwania: {0} czasopism|1#Wyniki wyszukiwania: {0} czasopismo|2#Wyniki wyszukiwania: {0} czasopisma
 sr.header.filter.pdocs.format
-0#Search Results: {0,number,integer} Personal Docs|1#Search Results: {0,number,integer} Personal Doc|2#Search Results: {0,number,integer} Personal Docs	0#Znaleziono dokumentów: {0}|1#Znaleziono dokumentów: {0}|2#Znaleziono dokumentów: {0}
+0#Search Results: {0,number,integer} Personal Docs|1#Search Results: {0,number,integer} Personal Doc|2#Search Results: {0,number,integer} Personal Docs	0#Wyniki wyszukiwania: {0} dokumentów|1#Wyniki wyszukiwania: {0} dokument|2#Wyniki wyszukiwania: {0} dokumenty
 sr.results.sound
 0#{0,number,integer} search results, |1#{0,number,integer} search result, |1<{0,number,integer} search results, 	0#{0,number,integer} wyników, |1#{0,number,integer} wyników, |1<{0,number,integer} wyników, 
 sr.view.sound
-search results
+search results	wyniki wyszukiwania
 sr.pause.sound
 , 
 com/amazon/ebook/booklet/home/foundation/resources/SearchResultsResources

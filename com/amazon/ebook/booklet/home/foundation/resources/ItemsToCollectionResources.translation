@@ -15,9 +15,9 @@ additemstocollection.header.template
 {0} ({1})
 removeitemsfromcollection.header.template
 itemstocollection.add.button.str
-add to this collection	dodaj do kolekcji
+add to this collection	dodaj do tej kolekcji
 itemstocollection.remove.button.str
-remove from this collection	usuń z kolekcji
+remove from this collection	usuń z tej kolekcji
 itemstocollection.button.y.offset
 java/lang/Integer
 itemstocollection.button.foreground.color
@@ -31,11 +31,11 @@ Done	Zakończono
 sound.pause
 , 
 add.itemstocollection.view.sound.template
-add items to {0} collection
+add items to {0} collection	dodaj elementy do kolekcji {0}
 add.itemstocollection.add.sound
 add.itemstocollection.remove.sound
 itemstocollection.addall.menuitem.label
-Add All Items on This Page	Dodaj wszystkie pozycje z tej strony
+Add All Items on This Page	Dodaj wszystkie widoczne elementy
 com/amazon/ebook/booklet/home/foundation/resources/ItemsToCollectionResources
 java/util/ListResourceBundle
 (I)V

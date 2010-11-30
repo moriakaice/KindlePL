@@ -64,7 +64,7 @@ Go to First Article	Idź do pierwszego artykułu
 vi.goto.beginning
 Go to Beginning	Idź do początku
 vi.goto.location
-Go to Location...	Idź do lokalizacji...
+Go to Location...	Idź do lokacji...
 vi.goto.page
 Go to Page...	Idź do strony...
 vi.goto.index
@@ -92,7 +92,7 @@ Delete This File	Usuń ten plik
 vi.delete.document
 Delete This Document	Usuń ten dokument
 vi.buy.now
-Buy This Book Now	Кup tę książkę
+Buy This Book Now	Кup teraz tę książkę
 vi.search.sample
 Search This Sample	Przeszukaj tę próbkę
 vi.delete.sample
@@ -102,11 +102,11 @@ Search This Issue	Przeszukaj to wydanie
 vi.search.blog
 Search This Blog	Przeszukaj ten blog
 vi.keep.issue
-Keep This Issue	Zachowaj to wyadnie
+Keep This Issue	Zapisz to wydanie
 vi.dont.keep.issue
-Do Not Keep This Issue	Nie zachowuj tego wydania
+Do Not Keep This Issue	Nie zapisuj tego wydania
 vi.delete.issue
-Delete This Issue	Usuń to wyadnie
+Delete This Issue	Usuń to wydanie
 vi.delete.blog
 Delete This Blog	Usuń tego bloga
 vi.resume.playing
@@ -120,7 +120,7 @@ Description	Opis
 vi.delete.application
 Delete	Usuń
 vi.support.application
-Support	Wsparcie
+Support	Pomoc
 vi.diskusage.offset
 vi.diskusage.format
 Using {0,number,integer} bytes	Wykorzystywane {0,number,integer} bajtów
@@ -147,7 +147,7 @@ vi.delete.dialog.text.kindleapp
 This item and its settings will be permanently deleted.  Would you like to continue?	Ten element i jego ustawienia zostaną trwale usunięte. Kontynuować?
 vi.collection.author.template
 java/text/ChoiceFormat
-0#0 Items|1#1 Item|2#{0,number,integer} Items	0#0 Elementów|1#1 Element|2#{0,number,integer} Elementów
+0#0 Items|1#1 Item|2#{0,number,integer} Items	0#0 elementów|1#1 element|2#{0,number,integer} elementy
 vi.open.collection
 Open Collection	Otwórz kolekcję
 vi.edit.collection
@@ -156,7 +156,7 @@ vi.rename.collection
 Rename Collection	Zmień nazwę kolekcji
 vi.delete.collection
 vi.goto.lastpage.sound
-Go to Last Page Red	Idź do ostatnio czytanej strony
+Go to Last Page Red	Idź do ostatnio przeczytanej strony
 vi.view.sound.template
 info view
 com/amazon/ebook/booklet/home/foundation/resources/ViewInfoResources

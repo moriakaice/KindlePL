@@ -1,4 +1,4 @@
-﻿[[Ljava/lang/Object;
+[[Ljava/lang/Object;
 <init>
 ()V
 Code
@@ -11,7 +11,7 @@ SourceFile
 [Ljava/lang/Object;
 java/lang/Object
 tts.onoff
-Text-to-Speech	Czytanie tekstu
+Text-to-Speech	Syntezator mowy
 tts.onoff.on
 turn on	włącz
 tts.onoff.off
@@ -87,11 +87,11 @@ word.per.line.option.2
 fewer	mniej
 word.per.line.option.3
 auto.crop.onoff
-Auto-Crop	Auto-Przycięcie
+Auto-Crop	Auto-przycięcie
 auto.crop.onoff.on
 auto.crop.onoff.off
 auto.crop.onoff.best.effort
-best effort
+best effort	Najlepsze
 justification
 Justification	Justowanie
 justification.left
@@ -115,7 +115,7 @@ zoom.level.option.3
 zoom.level.option.4
 300%
 accessibility.title
-Page Preferences
+Page Preferences	Ustawienia strony
 com/amazon/ebook/common/gui/overlay/resources/PageActionsOverlayResources
 java/util/ListResourceBundle
 a

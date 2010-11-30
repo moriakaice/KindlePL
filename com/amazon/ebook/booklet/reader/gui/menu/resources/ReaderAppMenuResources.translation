@@ -1,4 +1,4 @@
-﻿[[Ljava/lang/Object;
+[[Ljava/lang/Object;
 <init>
 ()V
 Code
@@ -12,7 +12,7 @@ SourceFile
 [Ljava/lang/Object;
 java/lang/Object
 clip.this.article.finish
-Article clipped	Статья вырезана
+Article clipped	Wycinek z artykułu zapisany
 menu.go.to
 Go to...	Idź do...
 menu.my.notes.and.marks

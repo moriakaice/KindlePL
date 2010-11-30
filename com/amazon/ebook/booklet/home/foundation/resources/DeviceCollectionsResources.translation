@@ -13,15 +13,15 @@ SourceFile
 java/lang/Object
 device.collections.header.format
 java/text/ChoiceFormat
-0#Showing {0,number,integer} Devices|1#Showing 1 Device|2#Showing {0,number,integer} Devices	0#Pokazywanych {0,number,integer} Urządzeń|1#Pokazywanych 1 Urządzenie|2#Pokazywanych {0,number,integer} Urządzeń
+0#Showing {0,number,integer} Devices|1#Showing 1 Device|2#Showing {0,number,integer} Devices	0#Wyświetlanie {0,number,integer} urządzeń|1#Wyświetlanie 1 urządzenia|2#Wyświetlanie {0,number,integer} urządzeń
 device.collections.label
-Add Other Device Collections	Dodaj Kolekcję Innego Urządzenia
+Add Other Device Collections	Dodaj kolekcję z innego urządzenia
 device.collections.widget.author.label
 
 device.collections.merge.title
-Add Collections	Dodaj Kolekcje
+Add Collections	Dodaj kolekcje
 device.collections.merge.body.template
-You are about to add the collections from "{0}" to this Kindle.~~~~Any items that are currently on both devices will automatically be organized into the new collections. Please refer to the Kindle User''s Guide to learn more about adding collections from another Kindle. This may take a few minutes if you have a large number of items, would you like to continue?	Masz zamiar dodać kolekcję z "{0}" do tego Kindle'a.~~~~Wszystkie elementy, które znajdują się na obu urządzeniach zostaną automatycznie uszeregowane w nowe kolekcje. Prosimy o zapoznanie się z instrukcją aby dowiedzieć się więcej na temat dodawania nowych kolekcji z innego Kindle'a. Ten proces może potrwać kilka minut, chcesz kontynuować?
+You are about to add the collections from "{0}" to this Kindle.~~~~Any items that are currently on both devices will automatically be organized into the new collections. Please refer to the Kindle User''s Guide to learn more about adding collections from another Kindle. This may take a few minutes if you have a large number of items, would you like to continue?	Masz zamiar dodać kolekcję z "{0}" do tego Kindle'a.~~~~Wszystkie elementy, które znajdują się na obu urządzeniach zostaną automatycznie uszeregowane w nowe kolekcje. Prosimy o zapoznanie się z instrukcją, aby dowiedzieć się więcej na temat dodawania nowych kolekcji z innego Kindle'a. Ten proces może potrwać kilka minut, chcesz kontynuować?
 device.collections.merge.message
 Importing collections...	Importowanie kolekcji...
 device.collections.merge.width

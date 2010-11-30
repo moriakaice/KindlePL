@@ -1,4 +1,4 @@
-﻿[Ljava/lang/String;
+[Ljava/lang/String;
 Lcom/ibm/icu/text/BreakIterator;
 [[Ljava/lang/Object;
 <init>
@@ -36,9 +36,9 @@ pub.date.format
 yyyy-MM-dd	dd/MM/yyyy
 sort.friendly.name.format
 list.patterns
-{1}
-{1} and {2}	{1} и {2}
-{1}, 
+{1}	{1}
+{1} and {2}	{1} i {2}
+{1}, 	{1}, 
 list.limits
 com/amazon/ebook/framework/resources/TextUtilResources_en
 java/util/ListResourceBundle

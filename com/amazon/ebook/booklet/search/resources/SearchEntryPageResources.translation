@@ -1,4 +1,4 @@
-﻿[[Ljava/lang/Object;
+[[Ljava/lang/Object;
 <init>
 ()V
 Code
@@ -19,7 +19,7 @@ java/lang/Integer
 button.row.1.y
 search.entry.bar.y
 search.entry.bar.sound
-Type your search term
+Type your search term	Wpisz poszukiwaną frazę
 button.x.spacing
 button.y.spacing
 button.search.all
@@ -29,42 +29,42 @@ Butn_Search_MyItems2.gif
 button.search.all.selected
 Butn_Search_MyItems1.gif
 button.search.all.sound
-Search my items
+Search my items	Szukaj w moich elementach
 button.search.store
 button.search.store.normal
 Butn_Search_KindleStore2.gif
 button.search.store.selected
 Butn_Search_KindleStore1.gif
 button.search.store.sound
-Search kindle store
+Search kindle store	Szukaj w Kindle Store
 button.search.google
 button.search.google.normal
 Butn_Search_Google2.gif
 button.search.google.selected
 Butn_Search_Google1.gif
 button.search.google.sound
-Search google
+Search google	Szukaj w Google
 button.find.definition
 button.find.definition.normal
 Butn_Search_FindDef2.gif
 button.find.definition.selected
 Butn_Search_FindDef1.gif
 button.find.definition.sound
-Search dictionary
+Search dictionary	Szukaj w słowniku
 button.search.wikipedia
 button.search.wikipedia.normal
 Butn_Search_Wiki2.gif
 button.search.wikipedia.selected
 Butn_Search_Wiki1.gif
 button.search.wikipedia.sound
-Search wikipedia
+Search wikipedia	Szukaj w Wikipedii
 button.goto.web
 button.goto.web.normal
 Butn_Search_GotoWeb2.gif
 button.goto.web.selected
 Butn_Search_GotoWeb1.gif
 button.goto.web.sound
-Go to the web
+Go to the web	Przejdź do sieci
 com/amazon/ebook/booklet/search/resources/SearchEntryPageResources
 java/util/ListResourceBundle
 (IZZ)Ljava/awt/Font;

@@ -1,4 +1,4 @@
-﻿[[Ljava/lang/Object;
+[[Ljava/lang/Object;
 <init>
 ()V
 Code
@@ -17,18 +17,18 @@ apps.citem.text.2
 
 apps.filter.format
 java/text/ChoiceFormat
-0#Showing {0,number,integer} Applications|1#Showing {0,number,integer} Application|2#Showing {0,number,integer} Applications
+0#Showing {0,number,integer} Applications|1#Showing {0,number,integer} Application|2#Showing {0,number,integer} Applications	0#Wyświetlanie {0,number,integer} aplikacji|1#Wyświetlanie {0,number,integer} aplikacji|2#Wyświetlanie {0,number,integer} aplikacji
 archiveditems.citem.text.1
-Archived Items	Zarchiwizowane Elementy
+Archived Items	Zarchiwizowane elementy
 archiveditems.citem.text.2
 collectionsitem.citem.text.1
 Collections	Kolekcje
 collectionsitem.citem.text.2
 backissues.citem.text.1
-Periodicals: Back Issues
+Periodicals: Back Issues	Czasopisma: numery archiwalne
 backissues.citem.text.2
 backissues.filter.format
-0#Showing {0,number,integer} Back Issues|1#Showing {0,number,integer} Back Issue|2#Showing {0,number,integer} Back Issues
+0#Showing {0,number,integer} Back Issues|1#Showing {0,number,integer} Back Issue|2#Showing {0,number,integer} Back Issues	0#Wyświetlanie {0,number,integer} numerów archiwalnych|1#Wyświetlanie {0,number,integer} numeru archiwalnego|2#Wyświetlanie {0,number,integer} numerów archiwalnych
 backissues.citem.date.string.none
 (none)	(żadne)
 backissues.citem.date.single.format
@@ -40,26 +40,26 @@ blogs.citem.text.1
 Blogs	Blogi
 blogs.citem.text.2
 blogs.filter.format
-0#Showing {0,number,integer} Blogs|1#Showing {0,number,integer} Blog|2#Showing {0,number,integer} Blogs
+0#Showing {0,number,integer} Blogs|1#Showing {0,number,integer} Blog|2#Showing {0,number,integer} Blogs	0#Wyświetlanie {0,number,integer} blogów|1#Wyświetlanie {0,number,integer} bloga|2#Wyświetlanie {0,number,integer} blogów
 books.citem.text.1
 Books	Książki
 books.citem.text.2
 books.filter.format
-0#Showing {0,number,integer} Books|1#Showing {0,number,integer} Book|2#Showing {0,number,integer} Books
+0#Showing {0,number,integer} Books|1#Showing {0,number,integer} Book|2#Showing {0,number,integer} Books	0#Wyświetlanie {0,number,integer} książek|1#Wyświetlanie {0,number,integer} książki|2#Wyświetlanie {0,number,integer} książek
 collections.hiw.font
 collections.citem.text.2
 currentissues.citem.text.1
-Periodicals: Current Issues
+Periodicals: Current Issues	Czasopisma: numery aktualne
 currentissues.citem.text.2
 currentissues.filter.format
-0#Showing {0,number,integer} Current Issues|1#Showing {0,number,integer} Current Issue|2#Showing {0,number,integer} Current Issues
+0#Showing {0,number,integer} Current Issues|1#Showing {0,number,integer} Current Issue|2#Showing {0,number,integer} Current Issues	0#Wyświetlanie {0,number,integer} aktualnych numerów|1#Wyświetlanie {0,number,integer} aktualnego numeru|2#Wyświetlanie {0,number,integer} aktualnych numerów
 pdocs.citem.text.1
-Personal Docs	Własne Dokumenty
+Personal Docs	Moje dokumenty
 pdocs.citem.text.2
 pdocs.filter.format
-0#Showing {0,number,integer} Personal Docs|1#Showing {0,number,integer} Personal Doc|2#Showing {0,number,integer} Personal Docs
+0#Showing {0,number,integer} Personal Docs|1#Showing {0,number,integer} Personal Doc|2#Showing {0,number,integer} Personal Docs	0#Wyświetlanie {0,number,integer} dokumentów|1#Wyświetlanie {0,number,integer} dokumentu|2#Wyświetlanie {0,number,integer} dokumentów
 unassigneditems.citem.text.1
-Unassigned Items
+Unassigned Items	Nieprzypisyane elementy
 unassigneditems.citem.text.2
 backissues.monthdayyear.template
 backissues.default.timezone

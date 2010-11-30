@@ -14,9 +14,9 @@ SourceFile
 [Ljava/lang/Object;
 java/lang/Object
 wireless.switch.on
-Turn Wireless On	Włączenie WiFi(3G)
+Turn Wireless On	Włącz sieć bezprzewodową
 wireless.switch.off
-Turn Wireless Off	Wyłączenie WiFi(3G)
+Turn Wireless Off	Wyłącz sieć bezprzewodową
 store.body
 Shop in Kindle Store	Kup w Kindle Store
 settings.body
@@ -24,9 +24,9 @@ Settings	Ustawienia
 exp.body
 Experimental	Eksperymentalne
 reset.body
-Reset	Reset urządzenia
+Reset	Reset
 factory.reset.body
-Reset to Factory Defaults	Ustawienia domyślne
+Reset to Factory Defaults	Przywróć ustawienia domyślne
 factory.reset.confirm.body
 You are about to reset your Kindle to factory defaults, which will remove all downloaded or transferred content from the device. You will still be able to download archived items. Do you wish to continue?	Zamierzasz przywrócić ustawienia domyślne dla swojego Kindle. Usunie to całą pobraną i wgraną zawartość z urządzenia. Nadal będziesz mógł wgrać zarchiwizowane elementy. Kontynuować?
 command.line.public.symbol
@@ -38,7 +38,7 @@ command.line.private.symbol
 default.symbols
 :<>"?{}|`~£€;,.'/[]\«»¡¿!@#$%^&*()_+1234567890-=
 alt.symbols
-¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕŒ×ØÙÚÛÜÝÞßàáâãäåœçèéêëìíîïðñòóôõö÷øùúûüýþ€ŔĂĹĆČĘĚĎĐŃŇŐŘŮŰŢŕăĺćčęěďđńňőřůűţ˙ŁĄŞŻłąşĽľżŠŚŤŽŹšśťžź¡¢¤¥¦§¨©ª¬®¯°±²³´µ¶·¸¹º¼½¾АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЂЃѓЉЊЌЋЏђљњќћџЎўЈҐЁЄЇІіґёєјЅѕї№҂ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΐΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώΆΈΉΊΌΎΏ΅	абвгдежзийклмнопрстуфхцчшщъыьэюя!@_+1234567890-=
+ąćęłńóśźżĄĆĘŁŃÓŚŹŻ!@_+1234567890-=
 symbols.max.cols
 java/lang/Integer
 symbols.max.rows
@@ -49,7 +49,7 @@ symbols.default.disabledsymbol.color
 symbols.default.font
 symbols.hint.font
 symbols.default.hint
-(press 'SYM' key to close symbols)	(naciśnij 'SYM' aby zamknąć okno)
+(press 'SYM' key to close symbols)	(naciśnij 'SYM', aby zamknąć okno)
 symbols.margins
 java/awt/Insets
 symbols.grid.size
@@ -66,9 +66,9 @@ Search	Szukaj
 check.body
 Sync & Check for Items	Synchronizacja elementów
 home.body
-Home	Home
+Home	Katalog domowy
 sove.for.later.body
-"Save for Later" Items
+"Save for Later" Items	Elementy "Zapamiętane na później"
 lock.rotation
 locked	zablokowany
 unlock.rotation
@@ -76,9 +76,9 @@ unlocked	odblokowany
 rotation.auto
 auto	auto
 rotation.landscape
-landscape	horyzontalny
+landscape	pozioma
 rotation.portrait
-portrait	wertykalny
+portrait	pionowa
 rotation.landscape.imagename
 ScrnRotate_Icon_Landscpe1.gif
 rotation.portrait.imagename
@@ -102,7 +102,7 @@ inverted landscape
 rotation.invportrait.spoken
 inverted portrait
 rotation.header
-Screen Rotation	Поворот экрана
+Screen Rotation	Orientacja ekranu
 com/amazon/ebook/framework/resources/GlobalMenuItems
 java/util/ListResourceBundle
 (I)V

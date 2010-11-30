@@ -13,9 +13,9 @@ SourceFile
 java/lang/Object
 itemscollections.filter.format
 java/text/ChoiceFormat
-0#Showing {0,number,integer} Collections|1#Showing {0,number,integer} Collection|2#Showing {0,number,integer} Collections	0#Wyświetlane: {0,number,integer}|1#Wyświetlane: {0,number,integer}|2#Wyświetlane: {0,number,integer}
+0#Showing {0,number,integer} Collections|1#Showing {0,number,integer} Collection|2#Showing {0,number,integer} Collections	0#Wyświetlanie {0,number,integer} kolekcji|1#Wyświetlanie {0,number,integer} kolekcji|2#Wyświetlanie {0,number,integer} kolekcji
 itemscollections.view.sound
-View Collections of a single item
+View Collections of a single item	Zobacz kolekcje pojedynczego elementu
 com/amazon/ebook/booklet/home/foundation/resources/ItemsCollectionsResources
 java/util/ListResourceBundle
 (Ljava/lang/String;)V

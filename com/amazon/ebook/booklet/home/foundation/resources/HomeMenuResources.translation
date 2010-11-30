@@ -14,11 +14,11 @@ java/lang/Object
 home.app.menu.main.menu.label.view.collections
 View My Collections	Pokaż kolekcje
 home.app.menu.main.menu.label.create.new.collection
-Create New Collection	Utwórz nową kolekcję
+Create New Collection	Stwórz nową kolekcję
 home.app.menu.settings.menu.label.search.my.items
 Search	Szukaj
 home.app.menu.settings.menu.label.archived
-View Archived Items	Pokaż archiwum pozycji
+View Archived Items	Pokaż zarchiwizowane elementy
 home.bare.menu.default.item
 java/lang/Integer
 home.standard.menu.default.item

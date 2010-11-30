@@ -14,7 +14,7 @@ x
 , 
  mines)	 min)
 com/amazon/ebook/framework/BookletException
-launch menu
+launch menu	otwórz menu
 MSPAppMenu
 getBookletContext
 add

@@ -12,13 +12,13 @@ SourceFile
 [Ljava/lang/Object;
 java/lang/Object
 collectionstoitem.header.str
-Add to Collection	Dodaj do Kolekcji
+Add to Collection	Dodaj do kolekcji
 collectionstoitem.menu.select.all.label
-Select All Items on Page	Zaznacz Wszystko na Stronie
+Select All Items on Page	Zaznacz wszystkie elementy
 collectionstoitem.menu.deselect.all.label
-Deselect All Items on Page	Odznacz Wszystko na Stronie
+Deselect All Items on Page	Odznacz wszystkie elementy
 collectionstoitem.add.button.str
-add to this collection	dodaj do kolekcji
+add to this collection	dodaj do tej kolekcji
 collectionstoitem.remove.button.str
 remove from this collection	usuń z tej kolekcji
 collectionstoitem.button.y.offset
@@ -27,13 +27,13 @@ collectionstoitem.foreground.color
 collectionstoitem.button.foreground.color
 collectionstoitem.button.background.color
 collectionstoitem.view.sound
-Add Item to Collection
+Add Item to Collection	Dodaj element do kolekcji
 collectionstoitem.checkmark.img
 checkmark.gif
 collectionstoitem.checkmark.x.buffer
 collectionstoitem.checkmark.y.offset
 collectionstoitem.done.button.text
-Done	Выход
+Done	Zakończono
 com/amazon/ebook/booklet/home/foundation/resources/CollectionsToItemResources
 java/util/ListResourceBundle
 (I)V
