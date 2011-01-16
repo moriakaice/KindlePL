@@ -183,7 +183,7 @@ manage	zarządzaj
 settings.sharing.header
 Social Networks	Portale społecznościowe
 settings.sharing.body
-Share notes and highlights with friends using your social network accounts (like Twitter or Facebook).	Współdziel notatki oraz fragmenty z przyjaciółmi używając portali społecznościowych (np.: Twitter lub Facebook).
+Share notes and highlights with friends using your social network accounts (like Twitter or Facebook).	Udostępnij notatki oraz fragmenty używając portali społecznościowych (np.: Twitter lub Facebook).
 settings.annotations.enable.cursor
 settings.annotations.disable.cursor
 settings.annotations.header
@@ -250,7 +250,7 @@ settings.pwd.overlay.height
 settings.pwd.incorrect.height
 settings.pwd.font
 settings.pwd.2.set.body
-Create a password to protect your Kindle.  If you forget your password, you can reset your Kindle, which will also remove all content to prevent other people from accessing it.	Stwórz hasło, aby chronić swój Kindle. Jeśli zapomnisz hasła, możesz zresetować urządzenie, co jednocześnie spowoduje usunięcie całej zawartości, by chronić ją przed dostępem innych.
+Create a password to protect your Kindle.  If you forget your password, you can reset your Kindle, which will also remove all content to prevent other people from accessing it.	Stwórz hasło, by chronić swój Kindle. Jeśli zapomnisz hasła, możesz zresetować urządzenie, co jednocześnie spowoduje usunięcie całej zawartości, by chronić ją przed dostępem innych.
 settings.pwd.2.y.body
 settings.pwd.2.set.title
 settings.pwd.2.edit.title

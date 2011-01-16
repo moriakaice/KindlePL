@@ -16,7 +16,7 @@ Opening...	Otwieranie...
 turing.screen.size
 java/lang/Integer
 go.to.location.hint
-Enter location number (1 - {0})	Wprowadź numer miejsca (1 - {0})
+Enter location number (1 - {0})	Wprowadź numer lokacji (1 - {0})
 search.result.characters.offset
 com/amazon/ebook/booklet/reader/gui/resources/BookGUIUtilResources
 java/util/ListResourceBundle

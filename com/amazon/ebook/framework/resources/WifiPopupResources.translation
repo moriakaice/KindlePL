@@ -98,7 +98,7 @@ try again	spróbuj ponownie
 captive.title
 Sign-in required	Wymagane logowanie
 captive.msg
-The Wi-Fi network you are connecting to requires you to sign in before accessing the Internet.~~~~Do you wish to go to Web Browser to sign in?	Sieć Wi-Fi, z którą się łączysz wymaga logowania przed uzyskaniem dostęp do Internetu.~~~~Czy chcesz przejść do przeglądarki, aby się zalogować?
+The Wi-Fi network you are connecting to requires you to sign in before accessing the Internet.~~~~Do you wish to go to Web Browser to sign in?	Sieć Wi-Fi, z którą się łączysz wymaga logowania przed uzyskaniem dostęp do Internetu.~~~~Czy chcesz przejść do przeglądarki, by się zalogować?
 captive.button.text
 go to browser	przejdź do przeglądarki
 new.network.widget.action.overlay.width

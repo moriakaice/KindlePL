@@ -12,7 +12,7 @@ SourceFile
 [Ljava/lang/Object;
 java/lang/Object
 searchbar.hint
-Begin typing to search	Zacznij pisać, aby wyszukać
+Begin typing to search	Zacznij pisać, by wyszukać
 com/amazon/ebook/booklet/store/StoreResources
 java/util/ListResourceBundle
 a

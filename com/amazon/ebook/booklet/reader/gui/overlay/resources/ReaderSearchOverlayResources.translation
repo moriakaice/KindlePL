@@ -12,7 +12,7 @@ SourceFile
 [Ljava/lang/Object;
 java/lang/Object
 search.overlay.hints
-(press 'SYM' key for symbols)	(naciśnij "SYM", aby wstawić symbol)
+(press 'SYM' key for symbols)	(naciśnij "SYM", by wstawić symbol)
 search.overlay.find
 find	znajdź
 search.overlay.find.active

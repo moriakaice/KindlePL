@@ -12,13 +12,13 @@ SourceFile
 [Ljava/lang/Object;
 java/lang/Object
 hint.move.to.desired.location
-Move cursor to a location and then~~begin typing to create a note or click to start a highlight	Wskaż kursorem miejsce~~i zacznij pisać aby stworzyć notatkę lub kliknij [pad] aby podświetlić
+Move cursor to a location and then~~begin typing to create a note or click to start a highlight	Wskaż kursorem miejsce~~i zacznij pisać by stworzyć notatkę lub kliknij [pad] by podświetlić
 hint.note.or.highlight
-Begin typing to create a note or click to start a highlight	Zacznij pisać aby stworzyć notatkę lub kliknij [pad] aby podświetlić
+Begin typing to create a note or click to start a highlight	Zacznij pisać by stworzyć notatkę lub kliknij [pad] by podświetlić
 hint.start.selection
-Move cursor to highlight~~Click to end highlight	Przesuń kursor aby podświetlić~~Kliknij [pad] aby zakończyć
+Move cursor to highlight~~Click to end highlight	Przesuń kursor by podświetlić~~Kliknij [pad] by zakończyć
 hint.end.selection
-Click to end highlight	Kliknij [pad] aby zakończyć
+Click to end highlight	Kliknij [pad] by zakończyć
 com/amazon/ebook/booklet/reader/gui/infobox/resources/AnnotationFlowHintsResources
 java/util/ListResourceBundle
 a

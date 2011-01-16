@@ -18,7 +18,7 @@ Turn Wireless On	Włącz sieć bezprzewodową
 wireless.switch.off
 Turn Wireless Off	Wyłącz sieć bezprzewodową
 store.body
-Shop in Kindle Store	Kup w Kindle Store
+Shop in Kindle Store	Zakupy w Kindle Store
 settings.body
 Settings	Ustawienia
 exp.body
@@ -49,7 +49,7 @@ symbols.default.disabledsymbol.color
 symbols.default.font
 symbols.hint.font
 symbols.default.hint
-(press 'SYM' key to close symbols)	(naciśnij 'SYM', aby zamknąć okno)
+(press 'SYM' key to close symbols)	(naciśnij 'SYM', by zamknąć okno)
 symbols.margins
 java/awt/Insets
 symbols.grid.size
@@ -60,7 +60,7 @@ symbols.default.char
 java/lang/Character
 symbols.digitsonly.default.char
 symbols.page.pattern
-(press 'SYM' to close) — Page {0,number,integer} of {1,number,integer}	(naciśnij 'SYM' aby zamknąć okno) — Strona {0,number,integer} z {1,number,integer}
+(press 'SYM' to close) — Page {0,number,integer} of {1,number,integer}	(naciśnij 'SYM' by zamknąć okno) — Strona {0,number,integer} z {1,number,integer}
 search.body
 Search	Szukaj
 check.body

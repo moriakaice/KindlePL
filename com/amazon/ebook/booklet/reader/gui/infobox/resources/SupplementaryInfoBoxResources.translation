@@ -12,9 +12,9 @@ SourceFile
 [Ljava/lang/Object;
 java/lang/Object
 hint.table.begin
-Move the 5-way to the right to begin panning the table,$$~~or click to place the cursor within the table	Przesuń w prawo aby przemieścić tabelę$$~~lub kliknij [pad] aby umieścić kursor w tabeli
+Move the 5-way to the right to begin panning the table,$$~~or click to place the cursor within the table	Przesuń w prawo by przemieścić tabelę$$~~lub kliknij [pad] by umieścić kursor w tabeli
 hint.table.began
-Click to place the cursor within the table	Kliknij [pad] aby umieścić kursor w tabeli
+Click to place the cursor within the table	Kliknij [pad] by umieścić kursor w tabeli
 emphasis.font
 font
 gap.from.bubble.to.bottom.display
@@ -33,7 +33,7 @@ extended.info.bounds.y.adjustment
 extended.info.bounds.width.adjustment
 extended.info.bounds.height.adjustment
 current.annotation.hint.widget.sharing.enabled
-{0} delete   {1} share   {2} edit	{0} skasuj   {1} współdziel   {2} edytuj
+{0} delete   {1} share   {2} edit	{0} skasuj   {1} udostępnij   {2} edytuj
 java/lang/String
 Home_Icon_Delete.gif
 Home_Icon_AltReturn.gif

@@ -1,14 +1,14 @@
 
-gui.overlay.removal_book_confirmation.msg      = \u0412\u044B \u0441\u043E\u0431\u0438\u0440\u0430\u0435\u0442\u0435\u0441\u044C \u0443\u0434\u0430\u043B\u0438\u0442\u044C \u043A\u043D\u0438\u0433\u0443, \u043A\u043E\u0442\u043E\u0440\u0443\u044E \u0447\u0438\u0442\u0430\u0435\u0442\u0435 \u0432 \u0434\u0430\u043D\u043D\u044B\u0439 \u043C\u043E\u043C\u0435\u043D\u0442. \u041F\u0440\u043E\u0434\u043E\u043B\u0436\u0438\u0442\u044C?
+gui.overlay.removal_book_confirmation.msg      = Zamierzasz usunąć książkę, którą czytasz. Kontynuować?
 gui.overlay.removal_confirmation.height        = 96
-gui.overlay.removal_confirmation.msg           = \u0412\u044B \u0441\u043E\u0431\u0438\u0440\u0430\u0435\u0442\u0435\u0441\u044C \u0443\u0434\u0430\u043B\u0438\u0442\u044C \u0432\u044B\u0431\u0440\u0430\u043D\u043D\u044B\u0435 \u043A\u043D\u0438\u0433\u0438. \u041F\u0440\u043E\u0434\u043E\u043B\u0436\u0438\u0442\u044C?
+gui.overlay.removal_confirmation.msg           = Zamierzasz usunąć zaznaczone książki. Kontynuować?
 gui.overlay.removal_confirmation.msgBox.height = 61
 gui.overlay.removal_confirmation.msgBox.width  = 480
 gui.overlay.removal_confirmation.msgBox.x      = 28
 gui.overlay.removal_confirmation.msgBox.y      = 0
-gui.overlay.removal_confirmation.no            = \u041D\u0435\u0442
+gui.overlay.removal_confirmation.no            = Nie
 gui.overlay.removal_confirmation.width         = 550
 gui.overlay.removal_confirmation.x             = 93
 gui.overlay.removal_confirmation.y             = 500
-gui.overlay.removal_confirmation.yes           = OK
-gui.overlay.removal_confirmation_for_group.msg = \u0423\u0434\u0430\u043B\u0438\u0442\u044C \u044D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0438\u0437 \u0433\u0440\u0443\u043F\u043F\u044B?
+gui.overlay.removal_confirmation.yes           = Tak
+gui.overlay.removal_confirmation_for_group.msg = Usunąć elementy z grupy?

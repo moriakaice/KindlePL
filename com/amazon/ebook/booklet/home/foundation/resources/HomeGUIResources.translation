@@ -28,7 +28,7 @@ No Items	Brak elementów
 page.no.items.text.2
 
 page.no.items.text.2.clicktoadd
-Click to add items to this collection	Kliknij, aby dodać element do tej kolekcji
+Click to add items to this collection	Kliknij, by dodać element do tej kolekcji
 page.no.items.text.2.font
 default.sort.option
 footer.bar.page.format
@@ -52,7 +52,7 @@ teb.font
 teb.addcollection.button.label
 create	stwórz
 teb.addcollection.bar.shortcut.text
-Start typing to create a new collection	Zacznij wpisywać, aby stworzyć nową kolekcję 
+Start typing to create a new collection	Zacznij wpisywać, by stworzyć nową kolekcję 
 teb.addcollection.already.added.alert.title
 Collection Name Already Exists	Nazwa kolekcji już istnieje
 teb.addcollection.already.added.alert.body

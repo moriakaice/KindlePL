@@ -32,9 +32,9 @@ gui.header.x
 gui.header.height
 gui.header.baseline
 gui.header.selection.label
-Select range of text to highlight. Press select wheel when done.	Zaznacz tekst, aby podświetlić. Naciśnij "SELECT", kiedy skończysz.
+Select range of text to highlight. Press select wheel when done.	Zaznacz tekst, by zaznacz.. Naciśnij "SELECT", kiedy skończysz.
 gui.header.table_scrolling_label
-Use Next Page and Prev Page to pan table	Użyj przycisków "Next Page" oraz "Prev Page", aby przesuwać tabelę.
+Use Next Page and Prev Page to pan table	Użyj przycisków "Next Page" oraz "Prev Page", by przesuwać tabelę.
 gui.gutter.width
 gui.gutter.gap
 gui.prompt.height
@@ -72,7 +72,7 @@ Go to Location...	Idź do lokacji...
 gui.menu.context.go_to_page
 Go to Page...	Idź do strony...
 gui.menu.context.product_details_page
-Book Description	Opis ksiązki
+Book Description	Opis książki
 gui.menu.context.search_this
 Search This Book	Szukaj w książce
 gui.menu.context.search_this_document
@@ -92,7 +92,7 @@ My Notes & Marks	Moje notatki i zaznaczenia
 gui.menu.context.go_to_my_bookmarks
 My Bookmarks	Moje zakładki
 gui.menu.context.place_cursor
-Add a Note or Highlight	Dodaj notatkę lub podświetlenie
+Add a Note or Highlight	Dodaj notatkę lub zaznaczenie
 gui.menu.context.place_cursor_in_page
 Place Cursor in Page	Umieść kursor na stronie
 gui.menu.context.add_bookmark
@@ -260,7 +260,7 @@ Sorry, you cannot change the size of text in the Section list.	Przepraszamy, nie
 gui.overlay.password_prompt.msg
 Enter the password for this document.	Podaj hasło dla tego dokumentu.
 gui.alert.low_disk_space_for_annotation
-There is not enough Kindle memory to add/share notes or marks on this document. Please make more Kindle memory available by removing content from Home.	Brakuje pamięci na Kindle aby dodać/udostępnić notatkę lub zaznaczenia w tym dokumencie. Zwolnij miejsce na urządzeniu poprzez usunięcie niektórych książek z katalogu domowego.
+There is not enough Kindle memory to add/share notes or marks on this document. Please make more Kindle memory available by removing content from Home.	Brakuje pamięci na Kindle by dodać/udostępnić notatkę lub zaznaczenia w tym dokumencie. Zwolnij miejsce na urządzeniu poprzez usunięcie niektórych książek z katalogu domowego.
 gui.alert.low_disk_space_for_annotation.sd
 You will not be able to add/share notes or marks to this item because you do not have enough SD memory card space available. Please make more SD memory card space available by removing items.	Nie będziesz mógł dodać/udostępnić notatkę lub zaznaczenia w tym elemencie ponieważ nie masz wystarczająco miejsca na karcie SD. Proszę zrobić wiecej dostępnego miejśca na karcie SD usuwając elementy.
 gui.alert.low_disk_space_for_annotation.internal
@@ -268,15 +268,15 @@ gui.alert.invalid_book
 gui.alert.password_unsupported
 The selected item could not be opened because it is password protected.	Wybrany element nie mógł zostać otwarty ponieważ jest chroniony hasłem.
 gui.alert.not_enough_memory
-The selected item could not be opened. The title is too large for available memory. Please call Amazon Customer Service for help in resolving this issue at 1-866-321-8851 or 1-206-266-0927.  For UK customers, please call +44(0)800 496 2449.	Wybrany element nie mógł zostać otwarty. Tytuł jest zbyt długi i brakuje pamięci. Skontaktuj się z serwisem obsługi klienta Amazon, aby rozwiązać ten problem: 1-866-321-8851 lub 1-206-266-0927. Klienci z Wielkiej Brytanii powinni zadzwonić na +44(0)800 496 2449.
+The selected item could not be opened. The title is too large for available memory. Please call Amazon Customer Service for help in resolving this issue at 1-866-321-8851 or 1-206-266-0927.  For UK customers, please call +44(0)800 496 2449.	Wybrany element nie mógł zostać otwarty. Tytuł jest zbyt długi i brakuje pamięci. Skontaktuj się z serwisem obsługi klienta Amazon, by rozwiązać ten problem: 1-866-321-8851 lub 1-206-266-0927. Klienci z Wielkiej Brytanii powinni zadzwonić na +44(0)800 496 2449.
 gui.alert.cannot_open_book
-The selected item could not be opened. If you purchased this item from Amazon, you can try redownloading the item from Archived Items in Home. For additional help, please call Amazon Customer Service at 1-866-321-8851 or 1-206-266-0927.  For UK customers, please call +44(0)800 496 2449.	Wybrany element nie mógł zostać otwarty. Jeżeli zakupiłeś ten element na Amazon, możesz spróbować pobrać go ponownie z Archiwum. Skontaktuj się z serwisem obsługi klienta Amazon, aby rozwiązać ten problem: 1-866-321-8851 lub 1-206-266-0927. Klienci z Wielkiej Brytanii powinni zadzwonić na +44(0)800 496 2449.
+The selected item could not be opened. If you purchased this item from Amazon, you can try redownloading the item from Archived Items in Home. For additional help, please call Amazon Customer Service at 1-866-321-8851 or 1-206-266-0927.  For UK customers, please call +44(0)800 496 2449.	Wybrany element nie mógł zostać otwarty. Jeżeli zakupiłeś ten element na Amazon, możesz spróbować pobrać go ponownie z Archiwum. Skontaktuj się z serwisem obsługi klienta Amazon, by rozwiązać ten problem: 1-866-321-8851 lub 1-206-266-0927. Klienci z Wielkiej Brytanii powinni zadzwonić na +44(0)800 496 2449.
 gui.alert.missing_metadata
-The selected item is missing important metadata and may cause system instability.  Please call Amazon Customer Service at 1-866-321-8851 or 1-206-266-0927.  For UK customers, please call +44(0)800 496 2449.	W wybranym elemencie brakuje ważnych meta danych, może to spowodować niestabilność systemu. Skontaktuj się z serwisem obsługi klienta Amazon, aby rozwiązać ten problem: 1-866-321-8851 lub 1-206-266-0927. Klienci z Wielkiej Brytanii powinni zadzwonić na +44(0)800 496 2449.
+The selected item is missing important metadata and may cause system instability.  Please call Amazon Customer Service at 1-866-321-8851 or 1-206-266-0927.  For UK customers, please call +44(0)800 496 2449.	W wybranym elemencie brakuje ważnych meta danych, może to spowodować niestabilność systemu. Skontaktuj się z serwisem obsługi klienta Amazon, by rozwiązać ten problem: 1-866-321-8851 lub 1-206-266-0927. Klienci z Wielkiej Brytanii powinni zadzwonić na +44(0)800 496 2449.
 gui.alert.book_not_indexed
 Your search can not be completed as this item has not yet been indexed. Please try again later.	Twoje wyszukiwanie nie może zostać ukończone, ponieważ ten element nie został jeszcze zaindeksowany. Proszę spróbować później.
 gui.alert.not_enough_space_for_search
-There is not enough Kindle memory to complete the search. Please make more Kindle memory available by removing content from Home.	Brakuje pamięci, aby ukończyć wyszukiwanie. Zwolnij miejsce na urządzeniu poprzez usunięcie niektórych książek z katalogu domowego.
+There is not enough Kindle memory to complete the search. Please make more Kindle memory available by removing content from Home.	Brakuje pamięci, by ukończyć wyszukiwanie. Zwolnij miejsce na urządzeniu poprzez usunięcie niektórych książek z katalogu domowego.
 gui.alert.no_more_matches_found
 No more matches found for "{0}".	Brak więcej trafien dla "{0}".
 gui.alert.no_match_found
@@ -288,7 +288,7 @@ To sync to furthest page read, Annotations Backup must be turned on. Go to Setti
 gui.alert.enable_journaling.spoken
 To sync to furthest page red, Annotations Backup must be turned on. Go to Settings and turn on Annotations Backup, then try again.	Aby zsynchronizować ostatnią przeczytaną stronę, trzeba załączyć archiwizację notatek. Przejdź do ustawień i załącz archiwizację notatek, a potem spróbuj ponownie.
 gui.inst.progress_bar
-Press Prev/Next Page keys to navigate between bookmarks.	Naciśnij przycisk "Prev Page"/"Next Page", aby nawigować pomiędzy zakładkami.
+Press Prev/Next Page keys to navigate between bookmarks.	Naciśnij przycisk "Prev Page"/"Next Page", by nawigować pomiędzy zakładkami.
 gui.shortcut.allow.jump_location
 gui.tocview.toc
 gui.tocview.sections
@@ -330,9 +330,9 @@ quick_lookup.antialias.disable
 quick_lookup.activation_delay
 quick_lookup.always_clean_up_previous_def
 prompt.selection.begin
-Move cursor to make selection, or begin typing to create a note	Przesuń kursor, aby utworzyć zaznaczenie lub zacznij pisać, aby utworzyć notatkę
+Move cursor to make selection, or begin typing to create a note	Przesuń kursor, by utworzyć zaznaczenie lub zacznij pisać, by utworzyć notatkę
 prompt.selection.during
-Click to save highlight	Kliknij, aby zapisać zaznaczenie
+Click to save highlight	Kliknij, by zapisać zaznaczenie
 prompt.selection.begin.location.prefix
 *:
 prompt.selection.begin.selecting.prefix
@@ -368,7 +368,7 @@ To continue reading, please wait until the rest of the book finishes downloading
 gui.reader.location
 Location 	Lokacja
 gui.reader.locations
-Locations 	Lokacje
+Locations 	Lokacje 
 gui.reader.page
 Page 	Strona
 gui.reader.currentpage

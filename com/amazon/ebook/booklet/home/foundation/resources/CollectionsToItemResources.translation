@@ -33,7 +33,7 @@ checkmark.gif
 collectionstoitem.checkmark.x.buffer
 collectionstoitem.checkmark.y.offset
 collectionstoitem.done.button.text
-Done	Zakończono
+Done	Gotowe
 com/amazon/ebook/booklet/home/foundation/resources/CollectionsToItemResources
 java/util/ListResourceBundle
 (I)V
