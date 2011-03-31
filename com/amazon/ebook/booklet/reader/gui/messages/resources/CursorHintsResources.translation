@@ -1,51 +1,14 @@
-[[Ljava/lang/Object;
-<init>
-()V
-Code
-LineNumberTable
-LocalVariableTable
-Lcom/amazon/ebook/booklet/reader/gui/messages/resources/CursorHintsResources;
-getContents
-()[[Ljava/lang/Object;
-<clinit>
-SourceFile
-[Ljava/lang/Object;
-java/lang/Object
-annotation.disable
 Annotating is disabled	Dodawanie adnotacji wyłączone
-annotation.disable.sample
 Annotating is disabled for sample content	Dodawanie adnotacji wyłączone dla przykładowej treści
-annotation.disable.feed
 Annotating is disabled for blogs	Dodawanie adnotacji wyłączone dla blogów
-annotation.disable.low.disk.space
 Annotating is disabled - Memory is full	Dodawanie adnotacji wyłączone - pamięć pełna
-add.note
 Begin typing to create a note	Pisz, by utworzyć notatkę
-usual.cursor.interaction
 Begin typing to create a note or click to start a highlight	Pisz, by dodać notatkę lub kliknij, by zaznaczyć
-create.highlight
 Move cursor to create a highlight	Przesuń kursor, by zaznaczyć
-end.highlight.sharing.disabled
 Click to end highlight or press Back to cancel	Kliknij, by zakoń. zaznacz. lub Back by zrezygnować
-end.highlight.sharing.enabled
 Click to end highlight, {0} to tweet/share, or Back to cancel	Kliknij, by zakoń. zaznacz., {0} by twit./udost., lub Back by zrezygnować
-java/lang/String
-Home_Icon_AltReturn.gif
-highlight.hover.sharing.disabled
 Begin typing to create a note or {0} to delete highlight	Pisz, by utw. notatkę lub {0} by skasować zaznacz.
-Home_Icon_Delete.gif
-highlight.hover.sharing.enabled
 Type to create note, {0} to delete highlight, {1} to share	Pisz, by utw. notatkę, {0} by skasować zaznacz., {1} by udost.
-highlight.hover.annotation.view.sharing.enabled
 {0} delete   {1} share	{0} skasuj   {1} udostępnij
-highlight.hover.annotation.view.sharing.disabled
 {0} delete	{0} skasuj
-link.hover
 Begin typing to create a note or click to follow the link	Pisz, by utw. notatkę lub kliknij, by przejść do adresu
-com/amazon/ebook/booklet/reader/gui/messages/resources/CursorHintsResources
-java/util/ListResourceBundle
-(Ljava/lang/String;I)V
-(Ljava/lang/String;[Ljava/lang/String;I)V
-a
-uzc
-com/amazon/ebook/booklet/reader/gui/infobox/h

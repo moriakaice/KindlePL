@@ -1,31 +1,7 @@
-[[Ljava/lang/Object;
-<init>
-()V
-Code
-LineNumberTable
-LocalVariableTable
-Lcom/amazon/ebook/booklet/browser/resources/UISettingsViewResources;
-getContents
-()[[Ljava/lang/Object;
-<clinit>
-SourceFile
-[Ljava/lang/Object;
-java/lang/Object
-clear.cache.label
 Clear Cache	Czyść pamięć podręczną
-clear.history.label
 Clear History	Czyść historię
-clear.cookies.label
 Clear Cookies	Czyść ciasteczka
-enable.js.label
 Enable Javascript	Włącz Javascript
-disable.js.label
 Disable Javascript	Wyłącz Javascript
-enable.images.label
 Enable Images	Włącz obrazki
-disable.images.label
 Disable Images	Wyłącz obrazyki
-com/amazon/ebook/booklet/browser/resources/UISettingsViewResources
-java/util/ListResourceBundle
-a
-jrd

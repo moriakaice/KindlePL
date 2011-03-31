@@ -1,0 +1,3 @@
+{0} highlighters	{0} zaznaczających
+{1}, {0,choice,1#1 other|2#{0} others}	{1}, {0,choice,1#1 inny|2#{0} innych}
+You	Ty

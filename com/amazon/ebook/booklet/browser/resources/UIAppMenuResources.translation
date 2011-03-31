@@ -1,35 +1,9 @@
-[[Ljava/lang/Object;
-<init>
-()V
-Code
-LineNumberTable
-LocalVariableTable
-Lcom/amazon/ebook/booklet/browser/resources/UIAppMenuResources;
-getContents
-()[[Ljava/lang/Object;
-<clinit>
-SourceFile
-[Ljava/lang/Object;
-java/lang/Object
-open.history.view.label
 History	Historia
-open.bookmarks.view.label
 Bookmarks	Zakładki
-open.settings.view.label
 Browser Settings	Ustawienia przeglądarki
-bookmark.this.page.label
 Bookmark This Page	Dodaj do zakładek
-enter.url.label
 Enter URL	Wprowadź adres (URL)
-article_mode.set.label
 Article Mode	Tryb pojedynczej kolumny
-article_mode.clear.label
 Web Mode	Tryb normalny Web
-zoom.in.label
 Zoom In	Powiększ
-zoom.out.label
 Zoom Out	Zmniejsz
-com/amazon/ebook/booklet/browser/resources/UIAppMenuResources
-java/util/ListResourceBundle
-a
-lrd

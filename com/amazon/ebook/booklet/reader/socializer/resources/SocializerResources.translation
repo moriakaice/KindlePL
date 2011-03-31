@@ -1,0 +1,37 @@
+Message shared	Wiadomość udostępniona
+Social Networks Not Registered	Sieci społecznościowe niepowiązane
+Your Kindle is not registered with any social networks. Selecting 'register' below will open the "Manage Your Social Networks" web page so you can enter your account information. When your registration is complete, select 'Continue reading' to return to this item.	Twój Kindle nie jest powiązany z żadnymi sieciami społecznościowymi. Wybranie 'powiąż' poniżej otworzy stronę "Zarządzaj swoimi sieciami społecznościowymi", na której będziesz mógł wpisać informacje o swoich kontach. Kiedy powiązywanie zostanie zakończone, wybierz 'Kontynuuj czytanie' aby wrócić do tego elementu.
+Invalid Social Networks	Niepoprawne sieci społecznościowe
+One or more of the social networks registered to your Kindle are not configured properly. Selecting 'manage accounts' below will open the "Manage Your Social Networks" web page so you can enter your account information. When your changes are complete, select 'Continue reading' to return to this item.	Jedna lub więcej sieci społecznościowych powiązanych z Twoim Kindle nie zostały skonfigurowane poprawnie. Wybranie 'powiąż' poniżej otworzy stronę "Zarządzaj swoimi sieciami społecznościowymi", na której będziesz mógł wpisać informacje o swoich kontach. Kiedy powiązywanie zostanie zakończone, wybierz 'Kontynuuj czytanie' aby wrócić do tego elementu.
+Sharing unavailable. Try later	Udostępnianie niedostępne. Spróbuj później
+The sharing service is currently unavailable. Please try again later.	Serwis udostępniania jest obecnie niedostępny. Spróbuj ponownie później.
+Sharing Not Supported	Udostępnianie nie jest wspierane
+This content does not support sharing.	Ta treść nie wspiera udostępniania.
+Clipping Limit Reached	Limit udostępniania osiągnięty
+Unable to share. You have reached the clipping limit for this item.	Nie można udostępnić. Wyczerpałeś limit udostępnień dla tego elementu.
+Password Protected PDF File	Plik PDF zabezpieczony hasłem
+Unable to share. This is a password protected PDF file.	Nie można udostępnić. Ten plik PDF jest zabezpieczony hasłem.
+Unable to share. You have reached the clipping limit for this item set by the publisher.	Nie można udostępnić. Wyczerpałeś limit udostępnień dla tego elementu ustawiony przez wydawcę.
+Unable to share. You have reached the clipping limit for this item set by the publisher, {0}.	Nie można udostępnić. Wyczerpałeś limit udostępnień dla tego elementu ustawiony przez wydawcę {0}.
+Communication error. Try later	Błąd komunikacji. Spróbuj później
+The sharing service encountered a communication error. Please try again later.	Serwis udostępniania napotkał błąd komunikacji. Spróbuj ponownie później.
+Sharing Failed	Udostępnianie nieudane
+The sharing service encountered an unrecoverable error. Sharing aborted.	Serwis udostępniania napotkał nieodwracalny błąd. Udostępnianie anulowane.
+Empty Note	Pusta notatka
+You cannot share an empty note or note containing only whitespace.	Nie możesz udostępnić pustej lub zawierającej tylko białe znaki notatki.
+Wireless unavailable. Try later	Sieć bezprzewodowa niedostępna. Spróbuj później
+Wireless connectivity is currently unavailable. Please try again later.	Połączenie bezprzewodowe jest obecnie niedostępne. Spróbuj ponownie później.
+{0,choice,1#Your note is too long to share. Please remove one character.|2#Your note is too long to share. Please remove {0} characters.}	{0,choice,1#Twoja notatka jest za długa by ją udostępnić. Usuń jeden znak.|2#Twoja notatka jest za długa by ją udostępnić. Usuń {0} znaków.}
+Continue reading	Kontynuuj czytanie
+register	powiąż
+manage accounts	zarządzaj kontami
+cancel	anuluj
+share	udostępnij
+Enter Your Message	Wpisz swoją wiadomość
+A link to your highlight will be appended to your message.	Link do Twojego zaznaczenia zostanie dołączony do wiadomości.
+{0,choice,-2#{1} characters over |-1#{1} character over | 0#{1} characters left | 1#{1} character left | 2#{1} characters left}	{0,choice,-2#{1} znaków ponad |-1#{1} znak ponad | 0#{1} znaków pozostało | 1#{1} znak pozostał | 2#{1} znaki pozostały}
+You may not be registered with any social networks. Selecting 'register' below will open the "Manage Your Social Networks" web page so you can enter your account information. When your registration is complete, select 'Continue Reading' to return to this item. 	Nie zarejestrowałeś się w żadnych sieciach społecznościowych. Wybranie 'powiąż' poniżej otworzy stronę "Zarządzaj swoimi sieciami społecznościowymi", na której będziesz mógł wpisać informacje o swoich kontach. Kiedy powiązywanie zostanie zakończone, wybierz 'Kontynuuj czytanie' aby wrócić do tego elementu.
+Empty Message	Pusta wiadomość
+You cannot share an empty message or a message containing only whitespace.	Nie możesz udostępnić pustej lub zawierającej tylko białe znaki wiadomości.
+{0,choice,1#Your message is too long to share. Please remove one character.|2#Your message is too long to share. Please remove {0} characters.}	{0,choice,1#Twoja wiadomość jest za długa by ją udostępnić. Usuń jeden znak.|2#Twoja wiadomość jest za długa by ją udostępnić. Usuń {0} znaków.}
+A link to the book will be appended to your message.	Link do książki zostanie dołączony do wiadomości.

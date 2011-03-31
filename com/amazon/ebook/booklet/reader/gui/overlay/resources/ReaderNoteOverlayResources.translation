@@ -1,31 +1,4 @@
-[[Ljava/lang/Object;
-<init>
-()V
-Code
-LineNumberTable
-LocalVariableTable
-Lcom/amazon/ebook/booklet/reader/gui/overlay/resources/ReaderNoteOverlayResources;
-getContents
-()[[Ljava/lang/Object;
-<clinit>
-SourceFile
-[Ljava/lang/Object;
-java/lang/Object
-save.note.button.text
 save note	zapisz notatkę
-save.and.share.button.text
 save & share	zapisz i udost.
-delete.button.text
-delete	skasuj
-button.width
-java/lang/Integer
-shortcut.text
-
-clear.text	wyczyść tekst
-empty.note.error
+delete	usuń
 You cannot save an empty note.	Nie możesz zapisać pustej notatki.
-com/amazon/ebook/booklet/reader/gui/overlay/resources/ReaderNoteOverlayResources
-java/util/ListResourceBundle
-(I)V
-a
-ryc

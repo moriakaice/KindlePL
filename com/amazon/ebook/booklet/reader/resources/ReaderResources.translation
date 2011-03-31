@@ -1,460 +1,128 @@
-[[Ljava/lang/Object;
-<init>
-()V
-Code
-LineNumberTable
-LocalVariableTable
-Lcom/amazon/ebook/booklet/reader/resources/ReaderResources;
-getContents
-()[[Ljava/lang/Object;
-<clinit>
-SourceFile
-[Ljava/lang/Object;
-java/lang/Object
-reader.default.alert
 The selected item could not be opened. If you purchased this item from Amazon, delete the item and download it from Archived Items.	Wybrany element nie mógł zostać otwarty. Jeżeli kupiłeś go na Amazon, usuń go i pobierz ponownie z Archiwum.
-font.families
-java/lang/String
-serif
-condensed
-sansserif
-mobireader.default.font.size.list
-topazreader.default.font.zoom.factors
-annotation.disk.space.low.limit
-java/lang/Integer
-gui.header.title.show
-java/lang/Boolean
-gui.header.title.x
-gui.header.title.maxWidth
-gui.header.authors.show
-gui.header.authors.maxWidth
-gui.header.x
-gui.header.height
-gui.header.baseline
-gui.header.selection.label
 Select range of text to highlight. Press select wheel when done.	Zaznacz tekst, by zaznacz.. Naciśnij "SELECT", kiedy skończysz.
-gui.header.table_scrolling_label
 Use Next Page and Prev Page to pan table	Użyj przycisków "Next Page" oraz "Prev Page", by przesuwać tabelę.
-gui.gutter.width
-gui.gutter.gap
-gui.prompt.height
-gui.footer.x
-gui.footer.y
-gui.footer.height
-gui.footer.page_number.show
-gui.footer.relative_position.show
-gui.footer.rightMargin
-gui.lookup.x
-gui.lookup.height
-gui.icon.bookmark_plain
-/img/FionaUIIcons_BookmarkPlain.gif
-gui.icon.bookmark.x
-gui.icon.bookmark.y
-gui.icon.bookmark.width
-gui.icon.bookmark.height
-gui.icon.bookmark_with_description
-/img/FionaUIIcons_BookmarkNote.gif
-gui.icon.bookmark_with_description.x
-gui.icon.bookmark_with_description.y
-gui.icon.bookmark_with_description.width
-gui.icon.bookmark_with_description.height
-gui.icon.highlighted_note
-/img/FionaUIIcons_NoteIcon.gif
-gui.icon.highlighted_note.width
-gui.icon.highlighted_note.height
-gui.icon.zoom.limit
-gui.menu.context.toc
 Table of Contents	Spis treści
-gui.menu.context.first_page
 Go to First Page	Idź do pierwszej strony
-gui.menu.context.go_to_user_location
 Go to Location...	Idź do lokacji...
-gui.menu.context.go_to_page
 Go to Page...	Idź do strony...
-gui.menu.context.product_details_page
 Book Description	Opis książki
-gui.menu.context.search_this
-Search This Book	Szukaj w książce
-gui.menu.context.search_this_document
-Search This Document	Szukaj w dokumencie
-gui.menu.context.search_this_issue
-Search This Issue	Szukaj w czasopiśmie
-gui.menu.context.search_this_blog
-Search This Blog	Szukaj na blogu
-gui.menu.context.search_this_sample
-Search This Sample	Szukaj w próbce
-gui.menu.context.clip_this_article
+Search This Book	Przeszukaj książkę
+Search This Document	Przeszukaj dokument
+Search This Issue	Przeszukaj wydanie
+Search This Blog	Przeszukaj blog
+Search This Sample	Przeszukaj próbkę
 Clip This Article	Przypnij ten artykuł
-gui.menu.context.keep_this_issue
-Keep This Issue	Zachowaj to wydanie
-gui.menu.context.go_to_my_annotations
+Keep This Issue	Zapisz to wydanie
 My Notes & Marks	Moje notatki i zaznaczenia
-gui.menu.context.go_to_my_bookmarks
 My Bookmarks	Moje zakładki
-gui.menu.context.place_cursor
 Add a Note or Highlight	Dodaj notatkę lub zaznaczenie
-gui.menu.context.place_cursor_in_page
 Place Cursor in Page	Umieść kursor na stronie
-gui.menu.context.add_bookmark
 Add a Bookmark	Dodaj zakładkę
-gui.menu.context.remove_bookmark
 Delete Bookmark	Usuń zakładkę
-gui.menu.context.my_annotations
-gui.menu.context.show_annotations
 Show Annotations	Pokaż adnotacje
-gui.menu.context.hide_annotations
 Hide Annotations	Ukryj adnotacje
-gui.menu.context.save_page_as_clipping
 Save Page as Clipping	Zapisz stronę jako wycinek
-gui.menu.context.go_home
 Home	Katalog domowy
-gui.menu.context.go_to_section
 Go to Sections List	Idź do listy rozdziałów
-gui.menu.context.go_to_cover
 Cover	Okładka
-gui.menu.context.go_to_start
-Go to Beginning	Idź na początek
-gui.menu.context.go_to_front_page
-Go to Front Page	Idź na pierwszą stronę
-gui.menu.context.go_to_articles_list
+Go to Beginning	Idź do początku
+Go to Front Page	Idź do strony tytułowej
 Go to Articles List	Idź do listy artykułów
-gui.menu.context.go_to_first_article
 Go to First Article	Idź do pierwszego artykułu
-gui.menu.context.go_to_bookmark
 Go to Bookmark...	Idź do zakładki
-gui.menu.context.buy_now
 Buy This Book Now	Kup teraz tę książkę
-gui.menu.context.see_details
 See Details	Zobacz szczegóły
-gui.menu.context.search_index_view
 Index	Indeks
-gui.menu.context.close_index_view
 Close Index	Zamknij indeks
-gui.menu.context.mark_as_favorite
 Keep This Item	Zapisz ten element
-gui.menu.context.unmark_as_favorite
 Do Not Keep This Issue	Nie zapisuj tego wydania
-gui.menu.context.show_info
 Show Info	Pokaż informacje
-gui.menu.context.delete_book
 Delete This Item	Usuń ten element
-gui.menu.context.clip_article
 Clip Article	Przypnij artykuł
-gui.menu.context.document_orientation
-Portrait/Landscape	Pionowa/Pozioma
-gui.menu.context.document_reflow
-Reflow Text/No Reflow	Płynny tekst/Brak płynnego tekstu
-gui.menu.bookmark.delete_bookmark
-gui.menu.bookmark.delete_note
 Delete Note	Usuń notatkę
-gui.menu.bookmark.add_description
 Add Note	Dodaj notatkę
-gui.menu.bookmark.edit_description
 Edit Note	Edytuj notatkę
-gui.menu.selection.lookup
-Lookup	Zobacz
-gui.menu.selection.add_highlight
 Add Highlight...	Dodaj zaznaczenie...
-gui.menu.selection.add_note
-gui.menu.selection.edit_note
-gui.menu.selection.delete_highlight
 Delete Highlight	Usuń zaznaczenie
-gui.menu.selection.delete_note
-gui.menu.selection.save_clipping
 Save Clipping	Zapisz wycinek
-gui.menu.image.prefix
 Zoom Image	Przybliż obrazek
-gui.menu.link.prefix
 Follow Link	Przejdź do linku
-gui.overlay.my_bookmarks.title
 Go to Bookmark	Idź do zakładek
-gui.overlay.my_bookmarks.font.family
-SansSerif
-gui.overlay.my_bookmarks.font.size
-gui.overlay.my_bookmarks.x
-gui.overlay.my_bookmarks.y
-gui.overlay.my_bookmarks.width
-gui.overlay.my_bookmarks.height
-gui.overlay.lookup.x
-gui.overlay.lookup.y
-gui.overlay.lookup.width
-gui.overlay.lookup.height
-gui.overlay.lookup.defintion.height
-gui.overlay.lookup.scroll.x
-gui.overlay.lookup.scroll.width
-gui.overlay.my_bookmarks.table.x
-gui.overlay.my_bookmarks.table.y
-gui.overlay.my_bookmarks.table.width
-gui.overlay.my_bookmarks.table.height
-gui.overlay.my_bookmarks.col.0.width
-gui.overlay.my_bookmarks.col.0.rightMargin
-gui.overlay.my_bookmarks.col.1.width
-gui.overlay.my_bookmarks.col.2.width
-gui.overlay.my_bookmarks.page_number.font.size
-gui.overlay.my_annotations.title
-gui.overlay.my_annotations.vertical_gap
-gui.overlay.my_annotations.horizontal_gap
-gui.overlay.edit_description.x
-gui.overlay.edit_description.y
-gui.overlay.edit_description.width
-gui.overlay.edit_description.height
-gui.overlay.edit_description.entry.height
-gui.overlay.edit_description.done.label
 Done	Gotowe
-gui.overlay.sections.title
 Section List	Wybierz listę
-gui.overlay.sections.table.x
-gui.overlay.sections.table.y
-gui.overlay.sections.table.width
-gui.overlay.sections.table.height
-gui.overlay.sections.x
-gui.overlay.sections.y
-gui.overlay.sections.width
-gui.overlay.sections.height
-gui.overlay.book_info.x
-gui.overlay.book_info.y
-gui.overlay.book_info.width
-gui.overlay.book_info.height
-gui.overlay.book_info.title
 Book Info	Informacje o książce
-gui.overlay.book_info.table.x
-gui.overlay.book_info.table.y
-gui.overlay.book_info.table.width
-gui.overlay.book_info.table.height
-gui.overlay.book_info.col.0.width
-gui.overlay.book_info.col.0.rightMargin
-gui.overlay.book_info.col.1.width
-gui.wrap.speed_bump
-gui.overlay.password.title
 This item is password protected.	Ten element jest chroniony hasłem.
-gui.overlay.password.example
 Please enter the password:	Podaj hasło:
-gui.button.label.ok
-ok	ok
-gui.button.label.go_home
 go home	katalog domowy
-gui.alert.generic.title
-
-gui.alert.generic.x
-gui.alert.generic.y
-gui.alert.generic.width
-gui.alert.generic.height
-gui.alert.clipping.limit.warning
 Unable to save clipping. You have reached the clipping limit for this item.	Nie można zapisać wycinka. Dotarłeś do limitu wycinków dla tego elementu.
-gui.alert.clipping.publisher_limit.warning
-java/text/MessageFormat
 Unable to save clipping. You have reached the clipping limit set by the publisher{0,choice,0#|1#, {1}}.	Nie można zapisać wycinka. Dotarłeś do limitu wycinkow ustawionego przez wydawcę {0,choice,0#|1#, {1}}.
-gui.alert.invalid_pid
 This item cannot be opened because it is licensed to a different user. Delete the item and download it from your Archived Items or purchase a copy from the Kindle Store.	Ten element nie może zostać otwrty ponieważ jest licencjonowany dla innego użytkownika. Usuń ten element i pobierz go z archiwum elementów lub kup go w sklepie Kindle.
-gui.alert.invalid_password
 Password is invalid for this document.	Błędne hasło dla tego dokumentu.
-gui.alert.annotation.out_of_space
 Your Kindle memory is full and the note or mark could not be saved. Please make more Kindle memory available by removing content from Home.	Notatka lub zaznaczenie nie mogą zostać zapisane, ponieważ pamięć w Twoim Kindle jest pełna. Zwolnij miejsce na urządzeniu poprzez usunięcie niektórych książek z katalogu domowego.
-gui.alert.unexpected
 The selected item could not be opened. If you purchased this item from Amazon, delete the item and redownload it from Archived Items available in Home.	Wybrany element nie mógł zostać otwarty. Jeżeli kupiłeś ten element na Amazon, usuń i pobierz go ponownie z Archiwum.
-gui.alert.unhandled_security
-gui.alert.book_is_gone
 The item you were reading has been removed and is no longer available on your Kindle.	Element, który czytałeś, został usunięty i nie jest już dostępny na Twoim Kindle.
-gui.alert.font_size_change_unsupported_in_Section_List_View
 Sorry, you cannot change the size of text in the Section list.	Przepraszamy, nie możesz zmienić rozmiaru tekstu na liście rozdziałów.
-gui.overlay.password_prompt.msg
 Enter the password for this document.	Podaj hasło dla tego dokumentu.
-gui.alert.low_disk_space_for_annotation
 There is not enough Kindle memory to add/share notes or marks on this document. Please make more Kindle memory available by removing content from Home.	Brakuje pamięci na Kindle by dodać/udostępnić notatkę lub zaznaczenia w tym dokumencie. Zwolnij miejsce na urządzeniu poprzez usunięcie niektórych książek z katalogu domowego.
-gui.alert.low_disk_space_for_annotation.sd
 You will not be able to add/share notes or marks to this item because you do not have enough SD memory card space available. Please make more SD memory card space available by removing items.	Nie będziesz mógł dodać/udostępnić notatkę lub zaznaczenia w tym elemencie ponieważ nie masz wystarczająco miejsca na karcie SD. Proszę zrobić wiecej dostępnego miejśca na karcie SD usuwając elementy.
-gui.alert.low_disk_space_for_annotation.internal
-gui.alert.invalid_book
-gui.alert.password_unsupported
 The selected item could not be opened because it is password protected.	Wybrany element nie mógł zostać otwarty ponieważ jest chroniony hasłem.
-gui.alert.not_enough_memory
 The selected item could not be opened. The title is too large for available memory. Please call Amazon Customer Service for help in resolving this issue at 1-866-321-8851 or 1-206-266-0927.  For UK customers, please call +44(0)800 496 2449.	Wybrany element nie mógł zostać otwarty. Tytuł jest zbyt długi i brakuje pamięci. Skontaktuj się z serwisem obsługi klienta Amazon, by rozwiązać ten problem: 1-866-321-8851 lub 1-206-266-0927. Klienci z Wielkiej Brytanii powinni zadzwonić na +44(0)800 496 2449.
-gui.alert.cannot_open_book
 The selected item could not be opened. If you purchased this item from Amazon, you can try redownloading the item from Archived Items in Home. For additional help, please call Amazon Customer Service at 1-866-321-8851 or 1-206-266-0927.  For UK customers, please call +44(0)800 496 2449.	Wybrany element nie mógł zostać otwarty. Jeżeli zakupiłeś ten element na Amazon, możesz spróbować pobrać go ponownie z Archiwum. Skontaktuj się z serwisem obsługi klienta Amazon, by rozwiązać ten problem: 1-866-321-8851 lub 1-206-266-0927. Klienci z Wielkiej Brytanii powinni zadzwonić na +44(0)800 496 2449.
-gui.alert.missing_metadata
 The selected item is missing important metadata and may cause system instability.  Please call Amazon Customer Service at 1-866-321-8851 or 1-206-266-0927.  For UK customers, please call +44(0)800 496 2449.	W wybranym elemencie brakuje ważnych meta danych, może to spowodować niestabilność systemu. Skontaktuj się z serwisem obsługi klienta Amazon, by rozwiązać ten problem: 1-866-321-8851 lub 1-206-266-0927. Klienci z Wielkiej Brytanii powinni zadzwonić na +44(0)800 496 2449.
-gui.alert.book_not_indexed
 Your search can not be completed as this item has not yet been indexed. Please try again later.	Twoje wyszukiwanie nie może zostać ukończone, ponieważ ten element nie został jeszcze zaindeksowany. Proszę spróbować później.
-gui.alert.not_enough_space_for_search
 There is not enough Kindle memory to complete the search. Please make more Kindle memory available by removing content from Home.	Brakuje pamięci, by ukończyć wyszukiwanie. Zwolnij miejsce na urządzeniu poprzez usunięcie niektórych książek z katalogu domowego.
-gui.alert.no_more_matches_found
 No more matches found for "{0}".	Brak więcej trafien dla "{0}".
-gui.alert.no_match_found
 No match found for "{0}".	Brak trafień dla "{0}".
-gui.alert.enter_valid_search
 Please enter a search word.	Wpisz szukaną frazę.
-gui.alert.enable_journaling
 To sync to furthest page read, Annotations Backup must be turned on. Go to Settings and turn on Annotations Backup, then try again.	Aby zsynchronizować ostatnią czytaną stronę, trzeba załączyć archiwizację notatek. Przejdź do ustawień i załącz archiwizację notatek, a potem spróbuj ponownie.
-gui.alert.enable_journaling.spoken
-To sync to furthest page red, Annotations Backup must be turned on. Go to Settings and turn on Annotations Backup, then try again.	Aby zsynchronizować ostatnią przeczytaną stronę, trzeba załączyć archiwizację notatek. Przejdź do ustawień i załącz archiwizację notatek, a potem spróbuj ponownie.
-gui.inst.progress_bar
 Press Prev/Next Page keys to navigate between bookmarks.	Naciśnij przycisk "Prev Page"/"Next Page", by nawigować pomiędzy zakładkami.
-gui.shortcut.allow.jump_location
-gui.tocview.toc
-gui.tocview.sections
 Sections	Rozdziały
-gui.tocview.articles
-java/text/ChoiceFormat
 1#{0,number,integer} Article|2#{0,number,integer} Articles	1#{0,number,integer} Artykuł|2#{0,number,integer} Artykuły
-clipping.line_separtor
-----------------------------------------------------
-clipping.file
 My Clippings.txt	My Clippings.txt
-gui.pdf.spinner.delay
-java/lang/Long
-gui.pdf.spinner.period
-platform.screen.dpi
-topaz.stylesheet
-reflow.tss
-topaz.allow.manual.zoom
-topaz.max_mem_allowed
-booklet.saved_setting
-saved_settings
-booklet.font_size
-booklet.font_family
-booklet.line_spacing
-booklet.leftMargin
-booklet.rightMargin
-booklet.yMargin
-home.progress_meter.max_length
-link.prefix.xyml.buy
-https://www.amazon.com/gp/g7g/fws/anchor/buyEbook.xml
-link.prefix.xyml.detail
-https://www.amazon.com/gp/g7g/fws/anchor/detailPageEbook.xml
-link.prefix.xyml.book.asin.symbol
-asin=
-link.prefix.xyml.book.asin.dummy
-XXXXXX
-quick_lookup.disable
-quick_lookup.antialias.disable
-quick_lookup.activation_delay
-quick_lookup.always_clean_up_previous_def
-prompt.selection.begin
 Move cursor to make selection, or begin typing to create a note	Przesuń kursor, by utworzyć zaznaczenie lub zacznij pisać, by utworzyć notatkę
-prompt.selection.during
 Click to save highlight	Kliknij, by zapisać zaznaczenie
-prompt.selection.begin.location.prefix
-*:
-prompt.selection.begin.selecting.prefix
-Selecting
-prompt.shortcut.create.note
 create note?	utworzyć notatkę?
-booklet.sdk.0
-com.amazon.ebook.booklet.mobireader.impl.reader.eb
-booklet.sdk.1
-com.amazon.ebook.booklet.topazreader.impl.l
-booklet.sdk.2
-com.amazon.ebook.booklet.pdfreader.impl.cb
-booklet.sdk.3
-pdf.auto.crop.max.wait.time
-gui.image.loading.x
-gui.image.loading.y
-gui.image.loading
 Zooming...	Przybliżanie...
-gui.image.font
-preview.download.title
 Downloading	Pobieranie
-preview.download.str1
 Now downloading the book...	Trwa pobieranie książki...
-preview.download.str2
 It will automatically open when the download is complete.	Zostanie automatycznie otwarta gdy pobieranie zostanie ukończone.
-preview.download.font
-preview.download.side.margin
-preview.download.line.margin
-gui.button.label.go_to_last_page
 go to last page	idź do ostatniej strony
-gui.alert.beyond.TSC
 To continue reading, please wait until the rest of the book finishes downloading.	Aby kontynuować czytanie, proszę zaczekać, aż pobieranie książki zostanie ukończone.
-gui.reader.location
+Location {0} 	Lokacja {0} 
 Location 	Lokacja
-gui.reader.locations
 Locations 	Lokacje 
-gui.reader.page
 Page 	Strona
-gui.reader.currentpage
+Pages 	Strony 
 Current page {0} of {1}	Strona {0} z {1}
-gui.reader.opening
 Opening... 	Otwieranie... 
-gui.reader.pdfsecurityhandler
 This PDF is protected with DRM or encryption and cannot be read on your Kindle.	Ten PDF jest chroniony przez DRM lub zabezpieczenie nie może zostać odczytane na Twoim Kindle.
-gui.reader.pdfpasswordprotected
 This PDF is password protected and cannot be read on your Kindle.	Ten PDF jest chroniony hasłem i nie może zostać odczytany na Twoim Kindle.
-gui.reader.pdfunabletopen
 This PDF cannot be opened due to embedded features not yet supported by Kindle.	Ten PDF nie może zostać otworzony, ponieważ zawiera funkcje, które nie są jeszcze wspierane przez Kindle.
-gui.reader.unsupported_pdf_feature
-gui.reader.pdf.error.elements.missing
 Some elements on this page could not be displayed.	Niektóre elementy na tej stronie nie mogły zostać wyświetlone.
-gui.menu.context.sync_last_location
 Sync to Furthest Page Read	Zsynchronizuj ostatnią czytaną stronę
-gui.menu.context.sync_last_location.spoken
-Sync to Furthest Page Red	Zsynchronizuj ostatnią przeczytaną stronę
-gui.overlay.sync_position.title
-gui.overlay.sync_position.title.spoken
-gui.overlay.sync_position.body.pattern
 You are currently at location {0}. The furthest read location is {1} from "{2}" at {3} {4}. Go to that location?	Jesteś obecnie w lokacji {0}. Ostatnia czytana lokacja to {1} z "{2}" w {3} {4}. Przejść do lokacji?
-gui.overlay.sync_position.body.pattern.spoken
-You are currently at location {0}. The furthest red location is {1} from "{2}" at {3} {4}. Go to that location?	Jesteś obecnie w lokacji {0}. Ostatnia przeczytana lokacja to {1} z "{2}" w {3} {4}. Przejść do lokacji?
-gui.overlay.sync_position.body.date.choice.limits
-gui.overlay.sync_position.body.date.choice.formats
 on {5}	na {5}
+on {7}	na {7}
 yesterday	wczoraj
 today	dzisiaj
-gui.overlay.sync_position.body.time.formatter
-gui.overlay.sync_position.body.date.formatter
-gui.overlay.sync_position.min_location_change
-gui.overlay.sync_last_location.title
 Syncing to Furthest Page Read...	Synchronizuję ostatnią czytaną stronę...
-gui.overlay.sync_last_location.title.spoken
-Syncing to Furthest Page Red...	Synchronizuję ostatnią przeczytaną stronę...
-gui.overlay.sync_last_location.message
 Retrieving furthest page read...	Pobieram ostatnią czytaną stronę...
-gui.overlay.sync_last_location.message.spoken
-Retrieving furthest page red...	Pobieram ostatnią przeczytaną stronę...
-gui.alert.sync_last_location.error
 Unable to retrieve the furthest location read. If this is the first time you opened this book, your device will update your location when you close the book or your device goes to sleep.	Nie udało się pobrać ostatniej czytanej lokacji. Jeśli otwierasz tę książkę po raz pierwszy, Twoje urządzenie uaktualni lokację podczas zamykania książki lub gdy urządzenie zostanie uśpione.
-gui.alert.sync_last_location.error.spoken
-Unable to retrieve the furthest location red. If this is the first time you opened this book, your device will update your location when you close the book or your device goes to sleep.	Nie udało się pobrać ostatniej przeczytanej lokacji. Jeśli otwierasz tę książkę po raz pierwszy, Twoje urządzenie uaktualni lokację podczas zamykania książki lub gdy urządzenie zostanie uśpione.
-gui.alert.sync_last_location.same_location
 Already at furthest read location.	Jesteś już w ostatniej czytanej lokacji.
-gui.alert.sync_last_location.same_location.spoken
-Already at furthest red location.	Jesteś już w ostatniej przeczytanej lokacji.
-gui.reader_position
 Loc. {0} 	Lok. {0} 
-gui.reader_pdf_position
 Page {0} 	Strona {0} 
-gui.reader_pdf_position_range
 Page {0}-{1}	Strona {0}-{1}
-gui.reader_clipping_note
 Note {0}	Notatka {0}
-gui.reader_clipping_highlight
 Highlight {0}	Podświetl {0}
-gui.reader_clipping_bookmark
 Bookmark {0}	Zakładka {0}
-gui.reader_clipping_clipping
 Clipping {0}	Wycinek {0}
-gui.reader_clipping_clipping_reach_limit
 You have reached the clipping limit	Dotarłeś do limitu wyćinków
-gui.reader_clipping_clipping_password_protected
 This item is password protected	Ten element jest chroniony hasłem
-gui.reader_clipping_clipping_copy_protected
 This item is copy protected	Ten element jest chroniony przed kopiowaniem
-gui.reader_clipping_clipping_publisher
  set by the publisher	ustawiony przez wydawcę
-gui.reader_clipping_clipping_item
  for this item	dla tego elementu
-accessibility.delay1
-com/amazon/ebook/booklet/reader/resources/ReaderResources
-java/util/ListResourceBundle
-(I)V
-(Z)V
-(Ljava/lang/String;)V
-(J)V
-(IZ)Ljava/awt/Font;
-java/text/DateFormat
-getTimeInstance
-(I)Ljava/text/DateFormat;
-getDateInstance
-a
-htc
-()Lcom/amazon/ebook/framework/c/a;
-com/amazon/ebook/framework/c/a
+on Unnumbered Page	na nienumerowanej stronie
+on Page {1}	na stronie {1}
+on Pages {1}-{2}	na stronach {1}-{2}
+on {0}	na {0}
+on Page {0}	na stronie {0}

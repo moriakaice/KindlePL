@@ -1,175 +1,52 @@
-[[Ljava/lang/Object;
-<init>
-()V
-Code
-LineNumberTable
-LocalVariableTable
-Lcom/amazon/ebook/booklet/home/foundation/resources/ViewInfoResources;
-getContents
-()[[Ljava/lang/Object;
-<clinit>
-SourceFile
-[Ljava/lang/Object;
-java/lang/Object
-vi.widget.font
-vi.widget.width
-java/lang/Integer
-vi.widget.textline.offset
-vi.title.font
-vi.title.collection.font
-vi.author.font
-vi.author.collection.font
-vi.icon.font
-vi.audio.font
-vi.cursor.height
-vi.x.margin
-vi.x.colbuffer
-vi.title.offset
-vi.title.spacing
-vi.author.offset
-vi.author.masthead.offset
-vi.filename.offset
-vi.masthead.offset
-vi.icon.offset
-vi.audio.offset
-vi.audio.spacing
-vi.narrator.format
-java/text/MessageFormat
 Narrator: {0}	Narrator: {0}
-vi.pubdate.format
 Date: {0}	Data: {0}
-vi.length.format
 Length: {0}	Długość: {0}
-vi.y.offset
-vi.y.spacing
-vi.y.big.spacing
-vi.cover.x.offset
-vi.cover.y.offset
-vi.cover.x.margin
-vi.cover.y.margin
-vi.cover.max.width
-vi.cover.background.color
-vi.cover.buffer
-vi.cover.background.collection.fill.color
-vi.cover.background.collection.line.color
-vi.cover.collection.y.offset
-vi.cover.collection.x.offset
-vi.cover.collection.num.shadows
-vi.unknown.data
 Unknown	Nieznany
-vi.goto.lastpage
 Go to Last Page Read	Idź do ostatnio czytanej strony
-vi.goto.firstarticle
 Go to First Article	Idź do pierwszego artykułu
-vi.goto.beginning
 Go to Beginning	Idź do początku
-vi.goto.location
 Go to Location...	Idź do lokacji...
-vi.goto.page
 Go to Page...	Idź do strony...
-vi.goto.index
 Go to Index	Idź do indeksu
-vi.goto.frontpage
 Go to Front Page	Idź do strony tytułowej
-vi.goto.section
+Go to Sections & Articles	
 Go to Section...	Idź do rozdziału...
-vi.bookdesc
 Book Description	Opis książki
-vi.searchbook
-Search This Book	Przeszukaj tę książkę
-vi.searchdoc
-Search This Document	Przeszukaj ten dokument
-vi.mynotes
-My Notes & Marks	Мoje notatki
-vi.mybookmarks
-My Bookmarks	Моje zakładki
-vi.remove.device
+Search This Book	Przeszukaj książkę
+Search This Document	Przeszukaj dokument
+My Notes & Marks	Moje notatki i zaznaczenia
+Notes & Marks	Notatki i zaznaczenia
+My Bookmarks	Moje zakładki
 Remove from Device	Usuń z urządzenia
-vi.delete.device
 Delete This Book	Usuń tę książkę
-vi.delete.mp3
 Delete This File	Usuń ten plik
-vi.delete.document
 Delete This Document	Usuń ten dokument
-vi.buy.now
-Buy This Book Now	Кup teraz tę książkę
-vi.search.sample
-Search This Sample	Przeszukaj tę próbkę
-vi.delete.sample
+Buy This Book Now	Kup teraz tę książkę
+Search This Sample	Przeszukaj próbkę
 Delete This Sample	Usuń tę próbkę
-vi.search.issue
-Search This Issue	Przeszukaj to wydanie
-vi.search.blog
-Search This Blog	Przeszukaj ten blog
-vi.keep.issue
+Search This Issue	Przeszukaj wydanie
+Search This Blog	Przeszukaj blog
 Keep This Issue	Zapisz to wydanie
-vi.dont.keep.issue
 Do Not Keep This Issue	Nie zapisuj tego wydania
-vi.delete.issue
 Delete This Issue	Usuń to wydanie
-vi.delete.blog
 Delete This Blog	Usuń tego bloga
-vi.resume.playing
 Resume Playing	Wznów odtwarzanie
-vi.start.beginning
 Start from Beginning	Odtwórz od początku
-vi.start.application
 Open	Otwórz
-vi.description.application
 Description	Opis
-vi.delete.application
+Get Latest Version	
 Delete	Usuń
-vi.support.application
 Support	Pomoc
-vi.diskusage.offset
-vi.diskusage.format
 Using {0,number,integer} bytes	Wykorzystywane {0,number,integer} bajtów
-vi.diskusage.font
-vi.activecontent.version.format
 Version {0}	Wersja {0}
-vi.activecontent.version.offset
-vi.activecontent.version.font
-vi.view.collections.template
 Assigned Collections ({0})	Przypisane kolekcje ({0})
-vi.add.collections
 Add to Collection...	Dodaj do kolekcji...
-vi.disabled.color
-vi.enabled.color
-vi.delete.dialog.title
 Delete Item	Usuń element
-vi.delete.collection.dialog.title
 Delete Collection	Usuń kolekcję
-vi.delete.dialog.text
 This item will be permanently deleted. Would you like to continue?	Ten element zostanie trwale usunięty. Kontynuować?
-vi.delete.dialog.text.collection
-This collection will be permanently deleted, but the contents will not be affected and will remain on your Kindle. Would you like to continue?	Ta kolekcja zostanie trwale usunięta, lecz jej zawartość pozostanie na Twoim Kindle. Kontynuować?
-vi.delete.dialog.text.kindleapp
+This collection will be permanently deleted, but the contents will not be affected and will remain on your Kindle. Would you like to continue?	Kolekcja zostanie usunięta, ale jej zawartość pozostanie na urządzeniu. Kontynuować?
 This item and its settings will be permanently deleted.  Would you like to continue?	Ten element i jego ustawienia zostaną trwale usunięte. Kontynuować?
-vi.collection.author.template
-java/text/ChoiceFormat
 0#0 Items|1#1 Item|2#{0,number,integer} Items	0#0 elementów|1#1 element|2#{0,number,integer} elementy
-vi.open.collection
 Open Collection	Otwórz kolekcję
-vi.edit.collection
 Add/Remove Items	Dodaj/Usuń elementy
-vi.rename.collection
 Rename Collection	Zmień nazwę kolekcji
-vi.delete.collection
-vi.goto.lastpage.sound
-Go to Last Page Red	Idź do ostatnio przeczytanej strony
-vi.view.sound.template
-info view
-com/amazon/ebook/booklet/home/foundation/resources/ViewInfoResources
-java/util/ListResourceBundle
-(IZZ)Ljava/awt/Font;
-(I)V
-(I)Ljava/awt/Font;
-(Ljava/lang/String;)V
-Ljava/awt/Color;
-a
-wnd
-B
-b
-()Lcom/amazon/ebook/framework/c/a;
-com/amazon/ebook/framework/gui/d
-com/amazon/ebook/framework/c/a

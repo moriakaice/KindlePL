@@ -1,30 +1,6 @@
-[[Ljava/lang/Object;
-<init>
-()V
-Code
-LineNumberTable
-LocalVariableTable
-Lcom/amazon/ebook/booklet/reader/gui/menu/resources/ReaderAppMenuResources;
-getContents
-()[[Ljava/lang/Object;
-<clinit>
-SourceFile
-[Ljava/lang/Object;
-java/lang/Object
-clip.this.article.finish
 Article clipped	Wycinek z artykułu zapisany
-menu.go.to
 Go to...	Idź do...
-menu.my.notes.and.marks
 View My Notes & Marks	Zobacz notatki i zaznaczenia
-menu.popular.highlights
+View Notes & Marks	Zobacz notatki i zaznaczenia
 View Popular Highlights	Zobacz częste zaznaczenia
-most.popular.highlights.max
-java/lang/Integer
-most.popular.highlights.label
 View Most Popular Highlights	Zobacz najczęstsze zaznaczenia
-com/amazon/ebook/booklet/reader/gui/menu/resources/ReaderAppMenuResources
-java/util/ListResourceBundle
-(I)V
-a
-wzc

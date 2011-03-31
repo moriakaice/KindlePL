@@ -1,144 +1,38 @@
-[[Ljava/lang/Object;
-<init>
-()V
-Code
-LineNumberTable
-LocalVariableTable
-Lcom/amazon/ebook/framework/resources/WifiPopupResources;
-getContents
-()[[Ljava/lang/Object;
-<clinit>
-SourceFile
-[Ljava/lang/Object;
-java/lang/Object
-dim.width
-java/lang/Integer
-dim.height
-dim.x
-dim.y
-dim.maxNetsPerPage
-dim.landscape.height
-dim.landscape.x
-dim.landscape.y
-dim.landscape.maxNetsPerPage
-dim.net.height
-dim.net.effectiveHeight
-dim.overlay.width
-margin.left
-margin.right
-margin.top
-margin.body.top
-margin.line.top
-margin.lock
-margin.name
-margin.requireWifiText
-margin.landscape.newNetworkPromptBottomMargin
-text.connect
 connect	połącz
-text.disconnect
 forget	rozłącz
-text.connecting
 connecting...	łączenie...
-text.newNetwork
 enter other Wi-Fi network	podaj inną sieć Wi-Fi
-text.rescanning
 scanning...	szukam...
-text.rescanLink
 rescan	szukaj ponownie
-text.secureNetwork.accessible
 secure	zabezpieczona
-text.openNetwork.accessible
 open	otwarta
-text.connectionRequired
 A Wi-Fi connection is required to complete this task. Connect to a Wi-Fi network or try again later.	Do wykonania zadania potrzebne jest połączenie z siecią Wi-Fi. Połącz się z siecią Wi-Fi lub spróbuj później.
-text.button.advanced
 advanced	zaawansowane
-message.enterPassword
 Enter password for {0}:	Podaj hasło dla {0}:
-message.unableToConnectHeader
 Unable to Connect to Wi-Fi Network~~~~	Nie można połączyć z siecią Wi-Fi~~~~
-message.unableToConnect
 Your Kindle is unable to connect to the Wi-Fi network "{0}". 	Twój Kindle nie może połaczyć się z siecią Wi-Fi "{0}". 
-message.manuallyEnterSettingsUnsecure
 Would you like to try again or manually set up this network?	Czy chcesz spróbować ponownie lub skonfigurować tę sieć ręcznie?
-message.manuallyEnterSettingsSecure
 Would you like to enter the password again or manually set up this network?	Czy chcesz wpisać hasło ponownie lub skonfigurować tę sieć ręcznie?
-message.availableNetworks
 {0} Wi-Fi Networks	Sieci Wi-Fi: {0}
-message.pageNumber
 Page {0} of {1}	Strona {0} z {1}
-font.title
-font.wifiRequiredText
-font.networkName
-font.action
-font.newNetworkLinkFont
-font.action.connecting
-font.pageNumber
-color.connecting
-enter.new.wifi.network.overlay.header
 Enter other Wi-Fi network	Podaj inną sieć Wi-Fi
-enter.new.wifi.network.overlay.ssid.label
 Network name:	Nazwa sieci:
-enter.new.wifi.network.overlay.password.label
 Password:	Hasło:
-enter.new.wifi.network.overlay.left.margin
-enter.new.wifi.network.overlay.right.margin
-enter.new.wifi.network.overlay.top.margin
-enter.new.wifi.network.overlay.line.spacing
-enter.new.wifi.network.overlay.height
-enter.new.wifi.network.label.font
-enter.new.wifi.network.header.font
-enter.new.wifi.network.field.font
-button.enter.network.info.text
 set up network	konfiguruj sieć
-button.enter.password.again.text
 enter password again	powtórz hasło
-button.enter.try.again.text
 try again	spróbuj ponownie
-captive.title
 Sign-in required	Wymagane logowanie
-captive.msg
-The Wi-Fi network you are connecting to requires you to sign in before accessing the Internet.~~~~Do you wish to go to Web Browser to sign in?	Sieć Wi-Fi, z którą się łączysz wymaga logowania przed uzyskaniem dostęp do Internetu.~~~~Czy chcesz przejść do przeglądarki, by się zalogować?
-captive.button.text
 go to browser	przejdź do przeglądarki
-new.network.widget.action.overlay.width
-text.error.101
 The password you entered is incorrect or invalid.~~	Podane hasło jest nieprawidłowe.~~
-text.error.102
 There is no Wi-Fi Profile configured for this network.~~	Nie ma skonfigurowanego profilu dla tej sieci Wi-Fi.~~
-text.error.103
 Wi-Fi network connection failed.~~	Nie udało się połączyć z siecią Wi-Fi.~~
-text.error.104
 Wi-Fi is not available right now. If the problem persists, please restart your device.~~	Wi-Fi niedostępne, jeśli problem będzie się powtarzał, zresetuj urzadzenie.~~
-text.error.105
-text.error.106
 Local network connection failed.~~	Nieudane połączenie z siecią lokalną.~~
-text.error.107
 Internet connection failed.~~	Nie udało się połączyć z Internetem.~~
-text.error.201
 The name of the Wi-Fi network is too long.~~	Zbyt długa nazwa sieci Wi-Fi.~~
-text.error.202
-text.error.203
 Enterprise Wi-Fi networks are not supported on Kindle. Try connecting to another network.~~	Sieci typu Enterprise nie są obsługiwane przez Kindle'a. Spróbuj połączyć się z inną siecią.~~
-text.error.204
 The password you entered is longer than allowed by the Wi-Fi network. Try entering the password again.~~	Sieć Wi-Fi nie pozwala na tak długie hasła. Spróbuj wpisać hasło ponownie.~~
-text.error.205
 The password you entered is missing one or more characters. Try entering the password again.~~	W podanym haśle brakuje jednego lub więcej znaków. Spróbuj wpisać hasło ponownie.~~
-text.error.206
 The security type you entered does not match the security type of the Wi-Fi network you are trying to connect to.~~	Podany typ zabezpieczeń jest inny niż sieci docelowej.~~
-text.error.207
 Peer-to-peer Wi-Fi networks are not supported on Kindle. Try connecting to another network.~~	Kindle nie współpracuje z sieciami Wi-Fi typu peer-to-peer. Spróbuj połączyć się z inną siecią.~~
-text.msg.unsupportedNetwork
 Unsupported Wi-Fi network~~~~Enterprise or peer-to-peer Wi-Fi networks are not supported. Try connecting to another network.	Nieobsługiwany typ sieci Wi-Fi~~~~Sieci typu Enterprise lub peer-to-peer nie są obsługiwane. Spróbuj połączyć się z inną siecią.
-com/amazon/ebook/framework/resources/WifiPopupResources
-java/util/ListResourceBundle
-(I)V
-(IZZ)Ljava/awt/Font;
-(I)Ljava/awt/Font;
-Ljava/awt/Color;
-a
-mvb
-b
-()Lcom/amazon/ebook/framework/c/a;
-com/amazon/ebook/framework/gui/d
-com/amazon/ebook/framework/c/a

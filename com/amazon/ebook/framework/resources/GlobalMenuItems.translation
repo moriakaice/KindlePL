@@ -1,121 +1,16 @@
-Ljava/lang/String;
-ConstantValue
-[[Ljava/lang/Object;
-<init>
-()V
-Code
-LineNumberTable
-LocalVariableTable
-Lcom/amazon/ebook/framework/resources/GlobalMenuItems;
-getContents
-()[[Ljava/lang/Object;
-<clinit>
-SourceFile
-[Ljava/lang/Object;
-java/lang/Object
-wireless.switch.on
 Turn Wireless On	Włącz sieć bezprzewodową
-wireless.switch.off
 Turn Wireless Off	Wyłącz sieć bezprzewodową
-store.body
 Shop in Kindle Store	Zakupy w Kindle Store
-settings.body
 Settings	Ustawienia
-exp.body
 Experimental	Eksperymentalne
-reset.body
 Reset	Reset
-factory.reset.body
 Reset to Factory Defaults	Przywróć ustawienia domyślne
-factory.reset.confirm.body
-You are about to reset your Kindle to factory defaults, which will remove all downloaded or transferred content from the device. You will still be able to download archived items. Do you wish to continue?	Zamierzasz przywrócić ustawienia domyślne dla swojego Kindle. Usunie to całą pobraną i wgraną zawartość z urządzenia. Nadal będziesz mógł wgrać zarchiwizowane elementy. Kontynuować?
-command.line.public.symbol
-@
-command.line.semiprivate.symbol
-;
-command.line.private.symbol
-~
-default.symbols
-:<>"?{}|`~£€;,.'/[]\«»¡¿!@#$%^&*()_+1234567890-=
-alt.symbols
-ąćęłńóśźżĄĆĘŁŃÓŚŹŻ!@_+1234567890-=
-symbols.max.cols
-java/lang/Integer
-symbols.max.rows
-symbols.frame.thickness
-symbols.default.background.color
-symbols.default.foreground.color
-symbols.default.disabledsymbol.color
-symbols.default.font
-symbols.hint.font
-symbols.default.hint
 (press 'SYM' key to close symbols)	(naciśnij 'SYM', by zamknąć okno)
-symbols.margins
-java/awt/Insets
-symbols.grid.size
-symbols.grid.spacing
-symbols.grid.baseline
-symbols.cursor.diameter
-symbols.default.char
-java/lang/Character
-symbols.digitsonly.default.char
-symbols.page.pattern
 (press 'SYM' to close) — Page {0,number,integer} of {1,number,integer}	(naciśnij 'SYM' by zamknąć okno) — Strona {0,number,integer} z {1,number,integer}
-search.body
 Search	Szukaj
-check.body
-Sync & Check for Items	Synchronizacja elementów
-home.body
+Sync & Check for Items	Synchronizacja
 Home	Katalog domowy
-sove.for.later.body
-"Save for Later" Items	Elementy "Zapamiętane na później"
-lock.rotation
-locked	zablokowany
-unlock.rotation
-unlocked	odblokowany
-rotation.auto
 auto	auto
-rotation.landscape
 landscape	pozioma
-rotation.portrait
 portrait	pionowa
-rotation.landscape.imagename
-ScrnRotate_Icon_Landscpe1.gif
-rotation.portrait.imagename
-ScrnRotate_Icon_Portrait1.gif
-rotation.invlandscape.imagename
-ScrnRotate_Icon_Landscpe2.gif
-rotation.invportrait.imagename
-ScrnRotate_Icon_Portrait2.gif
-rotation.landscape.disabled.imagename
-ScrnRotate_Icon_Landscpe1b.gif
-rotation.portrait.disabled.imagename
-ScrnRotate_Icon_Portrait1b.gif
-rotation.invlandscape.disabled.imagename
-ScrnRotate_Icon_Landscpe2b.gif
-rotation.invportrait.disabled.imagename
-ScrnRotate_Icon_Portrait2b.gif
-rotation.landscape.spoken
-rotation.portrait.spoken
-rotation.invlandscape.spoken
-inverted landscape
-rotation.invportrait.spoken
-inverted portrait
-rotation.header
 Screen Rotation	Orientacja ekranu
-com/amazon/ebook/framework/resources/GlobalMenuItems
-java/util/ListResourceBundle
-(I)V
-Ljava/awt/Color;
-(IZ)Ljava/awt/Font;
-(IIII)V
-(C)V
-a
-A
-awb
-()Lcom/amazon/ebook/framework/c/a;
-B
-c
-J
-com/amazon/ebook/framework/c/a
-com/amazon/ebook/framework/gui/d

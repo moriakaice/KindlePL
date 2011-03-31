@@ -1,49 +1,11 @@
-[[Ljava/lang/Object;
-<init>
-()V
-Code
-LineNumberTable
-LocalVariableTable
-Lcom/amazon/ebook/booklet/home/foundation/resources/YMLResources;
-getContents
-()[[Ljava/lang/Object;
-<clinit>
-SourceFile
-[Ljava/lang/Object;
-java/lang/Object
-yml.header
-Archived Items	Архив
-yml.filter.format
-java/text/ChoiceFormat
+Archived Items	Zarchiwizowane elementy
 0#Showing {0,number,integer} Archived Items|1#Showing {0,number,integer} Archived Item|2#Showing {0,number,integer} Archived Items	0#Wyświetlanie {0,number,integer} elementów archiwum|1#Wyświetlanie {0,number,integer} elementu archiwum|2#Wyświetlanie {0,number,integer} elementów archiwum
-yml.sort.title.label
 By Title	Wg tytułu
-yml.sort.author.label
 By Author	Wg autora
-yml.sort.title
 Title	Tytuł
-yml.sort.author
 Author	Autor
-yml.default.download.error.msg
 Your download was not successful. Please try again.	Nieudane pobieranie. Spróbuj ponownie.
-yml.download.error.notenoughspace
 "{0}" could not be downloaded due to insufficient Kindle memory. Please free up space by removing content from Home.	"{0}" nie mógł zostać pobrany z powodu niewystarczającej pamięci. Zwolnij miejsce na urządzeniu poprzez usunięcie niektórych książek z katalogu domowego.
-yml.wifi.required.overlay.title
 Wi-Fi Network Required	Wymagana sieć Wi-Fi
-yml.wifi.required.overlay.body
 A Wi-Fi network connection is required to complete this task. Please connect to a Wi-Fi network.	Połącznie Wi-Fi jest wymagane do ukończenia tego zadania. Proszę podłączyć się do sieci Wi-Fi.
-yml.wifi.required.overlay.viewall.button
 view all networks	Zobacz wszystkie sieci
-yml.view.sound
-archived items
-yml.pause.sound
-, 
-yml.additem.sound
-add to home	dodaj
-yml.item.position.sound.template
-item {0} of {1}	element {0} z {1}
-com/amazon/ebook/booklet/home/foundation/resources/YMLResources
-java/util/ListResourceBundle
-(Ljava/lang/String;)V
-a
-vnd

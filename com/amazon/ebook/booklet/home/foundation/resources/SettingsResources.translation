@@ -1,445 +1,101 @@
-[[Ljava/lang/Object;
-<init>
-()V
-Code
-LineNumberTable
-LocalVariableTable
-Lcom/amazon/ebook/booklet/home/foundation/resources/SettingsResources;
-getContents
-()[[Ljava/lang/Object;
-<clinit>
-SourceFile
-[Ljava/lang/Object;
-java/lang/Object
-settings.header.text
 Settings	Ustawienia
-settings.footer.buffer
-java/lang/Integer
-settings.footer.version.format
-java/text/MessageFormat
 Version: {0}	Wersja: {0}
-settings.footer.page.format
-java/text/ChoiceFormat
 1#Page {0,number,integer} of {1,number,integer}	1#Strona {0,number,integer} z {1,number,integer}
-settings.footer.bar.date.format
-settings.left.x.margin
-settings.right.x.margin
-settings.widget.spacing
-settings.widget.offset
-settings.widget.header.offset
-settings.widget.footer.ext.buffer
-settings.widget.header.spacing
-settings.widget.header.desc.spacing
-settings.widget.desc.spacing
-settings.widget.desc.footer.spacing
-settings.widget.max.num.desc.lines
-settings.widget.footer.init.spacing
-settings.widget.footer.spacing
-settings.widget.link.x.spacing
-settings.widget.link.x.margin
-settings.widget.link.line.offset
-settings.widget.header.font
-settings.widget.desc.font
-settings.widget.footer.font
-settings.widget.link.font
-settings.desc.body.registered
 The following pages contain settings to personalize your Kindle experience. Press the Next and Previous page buttons to see all the settings.	Te strony zawierają ustawienia dotyczące personalizacji Twojego Kindle. Użyj przycisków Dalej oraz Wstecz, by zobaczyć wszystkie ustawienia.
-settings.desc.body.not.registered
 This page contains settings to personalize your Kindle experience.	Ta strona zawiera ustawienia dotyczące personalizacji Twojego Kindle.
-settings.wifi.header
 Wi-Fi Settings 	Ustawienia Wi-Fi 
-settings.wifi.subheader.not.connected
 not connected	nie połączony
-settings.wifi.body
 Join a Wi-Fi network for faster downloads.	Użyj sieci Wi-Fi w celu szybszego pobierania.
-settings.wifi.footer.template
 Available Wi-Fi Networks ({0})~~Network: {1}	Dostępne sieci Wi-Fi ({0})~~Sieć: {1}
-settings.wifi.cursor
 view	zobacz
-settings.wifi.height
-settings.wifi.max.num.footer.lines
-settings.wifi.subheader.font
-settings.reg.height
-settings.reg.link.offset
-settings.reg.header
 Registration	Rejestracja
-settings.reg.body
 This device and any content purchased in the Kindle Store are registered to the Amazon user shown below.	To urządzenie oraz każda zawartość zakupiona poprzez Kindle Store jest zarejestrowana dla użytkownika Amazon podanego poniżej.
-settings.dereg.body
 not registered	nie zarejestrowany
-settings.reg.cursor
 register	zarejestruj
-settings.dereg.cursor
 deregister	wyrejestruj
-settings.reg.max.num.desc.lines
-settings.reg.max.num.footer.lines
-settings.reg.footer.date.template
 Registered on {0}	Zarejestrowany {0}
-settings.reg.footer.date.format
-settings.reg.footer.user.str
 Registered User: 	Zarejestrowany użytkownik: 
-settings.device.info.header
 Device Info	Informacje o urządzeniu
-settings.device.info.footer.lines.template.with.wifi
 Wi-Fi MAC Address: {0}~~Serial Number: {1}~~Network Capability: {2}	 Adres MAC Wi-Fi: {0}~~Numer seryjny: {1}~~Możliwości sieci: {2}
-settings.device.info.footer.lines.template.without.wifi
 Serial Number: {0}~~Network Capability: {1}	Numer seryjny: {0}~~Możliwości sieci: {1}
-settings.device.info.sn.default
 Unavailable	Niedostępna
-settings.device.info.wifi.mac.address.default
-settings.device.info.network.capability.wifi
-Wi-Fi	Wi-Fi
-settings.device.info.network.capability.3g
-3G
-settings.device.info.network.capability.wifiand3g
 Wi-Fi and 3G	Wi-Fi i 3G
-settings.device.info.max.numb.footer.lines.with.wifi
-settings.device.info.max.numb.footer.lines.without.wifi
-settings.device.header
 Device Name	Nazwa urządzenia
-settings.device.body
 Personalize your Kindle by giving it a name that appears on the Home page.	Spersonalizuj swój Kindle poprzez nadanie mu nazwy, która pojawi się w katalogu domowym.
-settings.device.footer.template
 Name: {0}	Nazwa: {0}
-settings.device.cursor
 edit	edytuj
-settings.device.max.num.footer.lines
-settings.device.text.font
-device.name.button.submit.unsel
-Butn_Submit1.gif
-device.name.button.submit
-Butn_Submit2.gif
-settings.device.time.header
 Device Time	Czas
-settings.device.time.body
 Set the local time on your Kindle.	Ustaw lokalny czas na swoim Kindle.
-settings.device.time.cursor.edit
-settings.device.time.cursor.set
 set	ustaw
-settings.device.time.cursor.set.manually
 set manually	ustaw ręcznie
-settings.device.time.cursor.set.automatically
 set automatically	ustaw automatycznie
-settings.device.time.max.num.footer.lines
-settings.pwd.header
 Device Password	Hasło urządzenia
-settings.pwd.body
 Restrict access to your Kindle by creating a password.	Ogranicz dostęp do swojego Kindle poprzez ustanowienie hasła.
-settings.pwd.text.on
 On	Wł.
-settings.pwd.text.off
 Off	Wył.
-settings.pwd.cursor.on
 turn on	włącz
-settings.pwd.cursor.off
 turn off	wyłącz
-settings.pwd.cursor.edit
-settings.pwd.title.text.buffer
-settings.pwd.hint.template
 Password hint: {0}	Podpowiedź do hasła: {0}
-settings.pwd.max.num.footer.lines
-settings.pwd.text.font
-settings.phl.header
 Popular Highlights  	Popularne fragmenty  
-settings.phl.body
 Display the passages that are most frequently highlighted by other Kindle users.	Wyświetlaj fragmenty zanaczane najczęściej przez innych użytkowników Kindle.
-settings.phl.text.on
 Show	Pokaż
-settings.phl.text.off
 Hide	Ukryj
-settings.phl.cursor.on
-settings.phl.cursor.off
-settings.phl.title.text.buffer
-settings.phl.text.font
-settings.phl.highlighters.cursor.on
 show	pokaż
-settings.phl.highlighters.cursor.off
 hide	ukryj
-settings.phl.highlighters.spoken.header
-Popular Highlights
-settings.accessibility.header
+Public Notes	
+Show highlights and notes from other people that you follow on kindle.amazon.com.	
 Voice Guide	Przewodnik głosowy
-settings.accessibility.body
 Navigate your Kindle with spoken menus, selectable items, and descriptions.	Nawiguj swoim Kindle poprzez głosowe menu, wybieralne elementy oraz opisy.
-settings.accessibility.cursor.enable
-settings.accessibility.cursor.disable
-settings.email.header
 Device Email	E-mail urządzenia
-settings.email.body
+Device E-mail	
 You can send documents to your Kindle's e-mail address shown below. To edit the address or add additional addresses to your approved list of senders, go to: www.amazon.com/myk. For UK customers, go to: www.amazon.co.uk/myk.	Możesz wysyłać dokumenty do swojego Kindle na adres e-mail wyświetlony poniżej. By zmienić adres lub dodać nowe adresy do swojej zaakceptowanej listy nadawców, odwiedź: www.amazon.com/myk. Klienci z Wielkiej Brytanii powinni odwiedzić: www.amazon.co.uk/myk. 
-settings.email.cursor.text
-
-settings.email.max.num.footer.lines
-settings.email.max.num.desc.lines
-settings.pi.header
 Personal Info	Informacje osobiste
-settings.pi.default.font
-settings.pi.default.text
 - no personal info -	- brak informacji osobistej -
-settings.pi.cursor
-settings.pi.max.num.footer.lines
-settings.sharing.cursor
 manage	zarządzaj
-settings.sharing.header
 Social Networks	Portale społecznościowe
-settings.sharing.body
 Share notes and highlights with friends using your social network accounts (like Twitter or Facebook).	Udostępnij notatki oraz fragmenty używając portali społecznościowych (np.: Twitter lub Facebook).
-settings.annotations.enable.cursor
-settings.annotations.disable.cursor
-settings.annotations.header
 Annotations Backup	Kopia zapasowa adnotacji
-settings.annotations.body
 Automatically backup your device annotations, last page read, and collections at Amazon.	Automatycznie twórz kopię zapasową adnotacji, ostatnio czytanych stron oraz kolekcji na stronie Amazon.
-settings.menu.default.item
-settings.menu.update
 Update Your Kindle	Zaktualizuj Kindle
-settings.menu.dictionary
 Change Primary Dictionary	Zmień główny słownik
-settings.menu.enable.annotations
 Enable Annotations Backup	Włącz tworzenie kopii zapasowej adnotacji
-settings.menu.disable.annotations
 Disable Annotations Backup	Wyłącz tworzenie kopii zapasowej adnotacji
-settings.menu.enable.accessibility
 Voice Guide: Turn on/off	Przewodnik głosowy: wł./wył.
-settings.menu.disable.accessibility
 Turn off Accessible Mode	Wyłącz tryb dostępowy
-settings.menu.enable.popular.highlights
 Enable Popular Highlights	Włącz popularne fragmenty
-settings.menu.disable.popular.highlights
 Disable Popular Highlights	Wyłącz popularne fragmenty
-settings.menu.restart
 Restart	Uruchom ponownie
-settings.menu.legal
 Legal	Prawa autorskie
-settings.legal.header
 About Kindle	O Kindle
-settings.legal.page.format
 {0} of {1}	{0} z {1}
-settings.legal.page.sound.format
 Page {0} of {1}	Strona {0} z {1}
-settings.legal.x.margin
-settings.legal.y.margin
-settings.legal.cp.line.height
-settings.legal.cp.line.spacing
-settings.legal.cp.x.margin
-settings.legal.cp.y.margin
-settings.legal.java.height
-settings.legal.java.imgheight
-settings.legal.cp.header.font
-settings.legal.cp.body.font
-settings.pwd.enter
 Enter Password: 	Podaj hasło: 
-settings.pwd.confirm
 Confirm Password: 	Potwierdź hasło: 
-settings.pwd.set
 Set Password	Ustaw hasło
-settings.pwd.edit
 Edit Password	Zmień hasło
-settings.pwd.didntmatch
 Passwords did not match. Please try again.	Podane hasła nie pasują do siebie. Spróbuj ponownie.
-settings.pwd.incorrect
 Incorrect password. Please try again.	Niepoprawne hasło. Spróbuj ponownie.
-settings.pwd.incorrect.sound
 Incorrect password.  Please try again. Enter Password: 	Niepoprawne hasło. Spróbuj ponownie. Podaj hasło: 
-settings.pwd.x.buffer
-settings.pwd.y.buffer
-settings.pwd.line.spacing
-settings.pwd.min.chars
-settings.pwd.max.chars
-settings.pwd.overlay.height
-settings.pwd.incorrect.height
-settings.pwd.font
-settings.pwd.2.set.body
 Create a password to protect your Kindle.  If you forget your password, you can reset your Kindle, which will also remove all content to prevent other people from accessing it.	Stwórz hasło, by chronić swój Kindle. Jeśli zapomnisz hasła, możesz zresetować urządzenie, co jednocześnie spowoduje usunięcie całej zawartości, by chronić ją przed dostępem innych.
-settings.pwd.2.y.body
-settings.pwd.2.set.title
-settings.pwd.2.edit.title
-settings.pwd.2.didnt.match
-settings.pwd.2.enter
-settings.pwd.2.confirm
-settings.pwd.2.enter.new
 Enter New Password: 	Podaj nowe hasło: 
-settings.pwd.2.hint
 Enter Password Hint: 	Podaj wskazówkę do hasła: 
-settings.pwd.2.hint.x
-settings.pwd.2.hint.helper
 Enter a phrase that can help you remember your password	Wpisz frazę, która pozwoli Ci przypomnieć sobie hasło
-settings.pwd.2.x.buffer
-settings.pwd.2.y.buffer
-settings.pwd.2.y.textfield.buffer
-settings.pwd.2.y.textfield.offset
-settings.pwd.2.main.y
-settings.pwd.2.enter.y
-settings.pwd.2.confirm.y
-settings.pwd.2.enter.x
-settings.pwd.2.height
-settings.pwd.2.font
-settings.pwd.2.main.font
-settings.pwd.2.hint.y
-settings.pwd.2.hint.helper.y
-settings.pwd.2.hint.max.chars
-settings.pwd.2.hint.helper.font
-settings.oobe.wifi.header
 Join a Wi-Fi Network	Podłącz się do sieci WiFi
-settings.oobe.wifi.body
 To register your Kindle, shop or browse for content in the Kindle Store, or view Web sites, you must first connect to a Wi-Fi network.~~~~You can always set up a Wi-Fi connection later through the Settings page.	By zarejestrować swój Kindle, kupować oraz przeglądać zawartość Kindle Store lub przeglądać strony WWW, musisz najpierw podłączyć się do sieci Wi-Fi.~~~~Możesz ustawić połączenie Wi-Fi później poprzez stronę ustawień.
-settings.oobe.wifi.set.up.button
 join a network	podłącz do sieci
-settings.oobe.wifi.remind.me.later.button
 remind me later	przypomnij później
-settings.oobe.wifi.overlay.width
-settings.611.x.margin
-settings.611.y.margin
-settings.611.title
 611 Page	Strona 611
-settings.611.empty.string
-settings.611.border
-settings.611.refresh.rate
-settings.611.inner.margin
-settings.611.line.spacing
-settings.611.bounds
-java/awt/Rectangle
-settings.611.data.area.x
-settings.611.data.area.y
-settings.611.data.area.line.height
-settings.611.data.area.left.margin
-settings.611.data.area.right.margin
-settings.611.data.area.top.margin
-settings.611.data.area.bottom.margin
-settings.611.label.x
-settings.611.label.y
-settings.611.label.height
-settings.611.page.number.x
-settings.611.page.number.height
-settings.611.refresh.time
-settings.611.page.number.font
-settings.611.label.font
-settings.611.data.area.font
-settings.611.content.back.ground
-settings.611.content.fore.ground
-settings.711.title
 711 Page	Strona 711
-settings.711.label.font
-settings.711.refresh.time
-settings.711.nowifi.str
-The device does not have WiFi	Urządzenie nie posiada WiFi
-settings.wirelessdatacp.data.default.str
-settings.411.server.up.string
 UP	W górę
-settings.411.server.down.string
 DOWN	W dół
-settings.411.title
 411 Page	Strona 411
-settings.411.msid.template
-IMSI: {0}	IMSI: {0}
-settings.411.esn.template
-Radio Serial Number: {0}	Numer seryjny odbiornika: {0}
-settings.411.mac.template
-MAC Address: {0}	Adres MAC: {0}
-settings.411.prl.version.template
-Roaming Version Number: {0}	Wersja roamingu: {0}
-settings.411.waveform.version.template
-Waveform Version: {0}	Wersja fali: {0}
-settings.411.ota.current.update.version.template
-OTA Current / Update Version: {0} / {1}	Natężenie prądu wzmacniacza / Wersja aktualizacji: {0} / {1}
-settings.411.unknown.return
-(unknown)	(nieznane)
-settings.411.certificate.found
-Certificate: FOUND	Certyfikat: ZNALEZIONY
-settings.411.certificate.missing
-Certificate: MISSING	Certyfikat: BRAK
-settings.411.data.retrieved.message
-Retrieving data...	Pobieranie danych...
-settings.411.serial.number.template
-Serial Number: {0}	Numer seryjny: {0}
-settings.411.server.up.template
-The {0} server is {1}	Serwer {0} jest {1}
-settings.411.device.registered.yes
-Device Registered? YES	Urządzenie zarejestrowane? TAK
-settings.411.device.registered.no
-Device Registered? NO	Urządzenie zarejestrowane? NIE
-settings.411.cert.path
-certs/client.p12
-settings.411.margin
-settings.411.line.spacing
-settings.411.width
-settings.411.x.margin
-settings.411.y.margin
-settings.device.title
 Set Device Name	Ustaw nazwę urządzenia
-settings.device.title.font
-settings.device.textbox.font
-settings.device.numlines
-settings.device.overlay.height
-settings.device.x.offset
-settings.device.textbox.x.offset
-settings.device.textbox.y.buffer
-settings.device.y.offset
-settings.device.title.y.offset
-settings.device.max.chars
-settings.device.save.button.label
 save	zapisz
-settings.deregistration.header
 Deregister Your Kindle	Wyrejestruj swój Kindle
-settings.deregistration.body
 Your Kindle will be deregistered from your Amazon account and many features will not work. After deregistering, you can register your device to another Amazon account.	Twój Kindle zostanie wyrejestrowany z Twojego konta Amazon i wiele funkcji będzie niedostępnych. Po wyrejestrowaniu, możesz zarejestrować urzadzenie używając innego konta Amazon.
-settings.deregistration.button.text
-settings.deregistration.server.error.text
 There was an error while deregistering your device. Please try again later.	Nastąpił błąd przy wyrejestrowaniu urządzenia. Proszę spróbować później. 
-switch.wireless.provider.overlay.label
-Switching Wireless Providers	Zmiana dostawcy Wi-Fi
-switch.wireless.provider.overlay.body
+Switching Wireless Providers	Zmiana połączenia bezprzewodowego
 Your current provider is {0}.~~Your Kindle will lose its connection during this process. Manually switching wireless providers may take serveral minutes to complete, and your Kindle may not successfully reconnect to the Amazon Whispernet network. Do you wish to continue?	Twoim aktualnym dostawcą jest {0}.~~Twój Kindle straci połącznie w czasie tego procesu. Ręczna zmiana dostawców Wi-Fi może zająć kilka minut i Twój Kindle może nie podłączyć się do sieci Amazon Whispernet. Czy chcesz kontynuować?
-set_time_and_date.content_panel.title.text
 Set Time	Ustaw czas
-set_time_and_date.content_panel.auto_sync.text
-set_time_and_date.content_panel.title.font
-set_time_and_date.content_panel.seperators.font
-set_time_and_date.content_panel.seperators.insets
-java/awt/Insets
-set_time_and_date.content_panel.content.insets
-set_time_and_date.content_panel.field.spacing
-set_time_and_date.content_panel.field.wide.spacing
-set_time_and_date.content_panel.margin.left
-set_time_and_date.content_panel.margin.right
-set_time_and_date.content_panel.margin.bottom
-set_time_and_date.content_panel.ampm.lowercase
-java/lang/Boolean
-set_time_and_date.content_panel.separator.day_and_year
-,
-set_time_and_date.content_panel.auto_sync.label.offset.y
-set_time_and_date.content_panel.auto_sync.spacing
-time.date.change.warning.overlay.message
 You are about to change the date on your Kindle by more than a day. An incorrect date may prevent your Kindle from working properly. Are you sure you want to proceed?	Właśnie zmieniasz datę na swoim Kindle o więcej niż jeden dzień. Niepoprawna data może uniemożliwić właściwe działanie Kindle. Czy chcesz kontynuować?
-settings.view.sound
-settings
-settings.pause.sound
-, 
-settings.longpause.sound
-. 
-settings.space.sound
- 
-selectdict.view.sound
-select dictionary
-settings.registration.body
 An Amazon account is required to register your Kindle. If you do not have an account, go to www.amazon.com/sign-in to create one. For UK customers, go to www.amazon.co.uk/sign-in.~~~~By registering your Kindle, you agree to the Kindle License Agreement and Terms of Use, which can be found in the Appendix of the Kindle User's Guide.~~~~Enter the e-mail address and password associated with your Amazon account. To enter "@" symbol, press the "SYM" key.	Do zarejestrowania Twojego Kindle wymagane jest konto Amazon. Jeśli nie masz konta, stwórz je na www.amazon.com/sign-in. Klienci z Wielkiej Brytanii powinni użyć www.amazon.co.uk/sign-in.~~~~Poprzez rejestrację swojego Kindle, wyrażasz zgodę na Kindle License Agreement oraz Terms of Use, które można znaleźć w dodatku do Przewodnika Użytkownika Kindle.~~~~Podaj adres e-mail i hasło związane z Twoim kontem Amazon. By wprowadzić znak "@", użyj przycisku "SYM".
-com/amazon/ebook/booklet/home/foundation/resources/SettingsResources
-java/util/ListResourceBundle
-(I)V
-(Ljava/lang/String;)V
-java/text/DateFormat
-getDateInstance
-(I)Ljava/text/DateFormat;
-(IZZ)Ljava/awt/Font;
-(I)Ljava/awt/Font;
-(IIII)V
-java/awt/Color
-white
-Ljava/awt/Color;
-black
-(IZ)Ljava/awt/Font;
-(Z)V
-a
-pcb
-()Lcom/amazon/ebook/framework/c/a;
-com/amazon/ebook/framework/c/a

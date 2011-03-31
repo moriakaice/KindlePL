@@ -1,19 +1,1 @@
-[[Ljava/lang/Object;
-<init>
-()V
-Code
-LineNumberTable
-LocalVariableTable
-Lcom/amazon/ebook/booklet/store/StoreResources;
-getContents
-()[[Ljava/lang/Object;
-<clinit>
-SourceFile
-[Ljava/lang/Object;
-java/lang/Object
-searchbar.hint
 Begin typing to search	Zacznij pisać, by wyszukać
-com/amazon/ebook/booklet/store/StoreResources
-java/util/ListResourceBundle
-a
-fnc

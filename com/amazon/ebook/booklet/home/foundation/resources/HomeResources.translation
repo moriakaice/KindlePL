@@ -1,32 +1,4 @@
-[[Ljava/lang/Object;
-<init>
-()V
-Code
-LineNumberTable
-LocalVariableTable
-Lcom/amazon/ebook/booklet/home/foundation/resources/HomeResources;
-getContents
-()[[Ljava/lang/Object;
-<clinit>
-SourceFile
-[Ljava/lang/Object;
-java/lang/Object
-home.booklet.name
-Home
-home.menu.personalization.label
 My Kindle	Мój Kindle
-download.wan.off
 Your wireless is turned off, please turn it on and try again.	Połączenie bezprzewodowe jest wyłączone. Włącz i spróbuj ponownie.
-exceeded.licenses.alert
 This item cannot be currently downloaded because all of its licenses are in use on your other devices.~~~~To download it to this device, you can either delete it from another one of your devices or purchase another copy from the Kindle store.~~~~	Ta pozycja nie może być pobrana, ponieważ wszystkie jej kopie są w użyciu na innych urządzeniach~~~~Aby pobrać tę pozycję, możesz usunąć ją z innego urządzenia albo kupić kolejną kopię ze sklepu Kindle.~~~~
-home.viewdownloaditem.menuitem.label
 View Downloading Items	Pokaż pobierane elementy
-home.view.sound
-home.delete.button.sound
-delete	usuń
-home.remove.button.sound
-remove from device	usuń z urządzenia
-com/amazon/ebook/booklet/home/foundation/resources/HomeResources
-java/util/ListResourceBundle
-a
-god

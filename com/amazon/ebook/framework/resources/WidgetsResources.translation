@@ -1,104 +1,17 @@
-[[Ljava/lang/Object;
-<init>
-()V
-Code
-LineNumberTable
-LocalVariableTable
-Lcom/amazon/ebook/framework/resources/WidgetsResources;
-getContents
-()[[Ljava/lang/Object;
-<clinit>
-SourceFile
-[Ljava/lang/Object;
-java/lang/Object
-textfield.symbol.hint.msg
 (press 'SYM' key for symbols)	(naciśnij "SYM", by wstawić symbol)
-button.ok.text
-ok	ok
-button.close.text
 close	zamknij
-button.cancel.text
 cancel	anuluj
-button.activate.text
 activate	aktywuj
-button.submit.text
 submit	zatwierdź
-button.clear.text
 clear	wyczyść
-button.save.text
 save	zapisz
-button.join.text
 join	dołącz
-button.close.setting.text
 Close Settings	Zamknij Ustawienia
-button.close.bookmark.text
 Close Bookmarks	Zamknij Zakładki
-button.close.history.text
 Close History	Zamknij Historię
-button.create_account.text
-create account	stwórz konto
-button.kindle_eula.text
-kindle license agreement and terms of use		Umowa licencyjna Kindle i warunki użytkowania
-label.user
+create account	załóż konto
+kindle license agreement and terms of use	licencja i warunki użytkowanaia Kindle
 Username:	Nazwa użytkownika:
-label.password
 Password:	Hasło:
-more.items
 More Items...	Więcej...
-group.menu.beginning.label
 Go to Beginning...	Do początku...
-icon.button.separation
-java/lang/Integer
-image.icon.insets
-java/awt/Insets
-image.icon.foreground.color
-ppi.border.left.margin
-ppi.border.right.margin
-ppi.border.insets
-page.props.menu.margins
-page.props.menu.cursor.width
-page.props.menu.cursor.offset
-page.props.menu.default.width
-page.props.menu.item.spacing
-pub.info.left.margin
-pub.info.bottom.margin
-pub.info.line.spacing
-pub.info.num.lines
-pub.info.width
-pub.info.date.format
-pub.info.datetime.format
-pub.info.missing.date
-(missing) (brak)
-pub.info.missing
-pub.info.unknown
-(Unknown)	(Nieznany)
-pub.info.default.font
-pub.info.pattern
-Publisher: {0}~~Publication Date: {1,date,short}~~Last Read Date: {2,date,medium} {2,time,medium}~~Last Location: {3,number,integer}~~File Type: {4}~~Location Range: 1-{5,number,integer}	Wydawca: {0}~~Data publikacji: {1,date,short}~~Data ostatniego czytania: {2,date,medium} {2,time,medium}~~Ostatnia lokacja: {3,number,integer}~~Typ pliku: {4}~~Zakres lokacji: 1-{5,number,integer}
-
-stock.object.regular.width
-stock.object.wide.width
-two.column.menu.alttext
-two.column.menu.regtext
-two.column.menu.pref.size
-java/awt/Dimension
-homeitemwidget.icon1.y.offset
-homeitemwidget.icon2.y.offset
-com/amazon/ebook/framework/resources/WidgetsResources
-java/util/ListResourceBundle
-(I)V
-(IIII)V
-java/awt/Color
-black czarny
-Ljava/awt/Color;
-java/text/DateFormat
-getDateInstance
-(I)Ljava/text/DateFormat;
-getDateTimeInstance
-(II)Ljava/text/DateFormat;
-(I)Ljava/awt/Font;
-(II)V
-a
-ovb
-()Lcom/amazon/ebook/framework/c/a;
-com/amazon/ebook/framework/c/a

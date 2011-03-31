@@ -1,25 +1,4 @@
-[[Ljava/lang/Object;
-<init>
-()V
-Code
-LineNumberTable
-LocalVariableTable
-Lcom/amazon/ebook/booklet/reader/gui/resources/BookGUIUtilResources;
-getContents
-()[[Ljava/lang/Object;
-<clinit>
-SourceFile
-[Ljava/lang/Object;
-java/lang/Object
-default.opening.string
 Opening...	Otwieranie...
-turing.screen.size
-java/lang/Integer
-go.to.location.hint
-Enter location number (1 - {0})	Wprowadź numer lokacji (1 - {0})
-search.result.characters.offset
-com/amazon/ebook/booklet/reader/gui/resources/BookGUIUtilResources
-java/util/ListResourceBundle
-(I)V
-a
-sxc
+Enter a location number (1 - {0}).	Wpisz numer lokacji (1 - {0}).
+Enter a page number ({0}).	Wpisz numer strony ({0})
+Enter a page ({0}) or location (1 - {1}).	Wpisz numer strony ({0}) lub lokacji (1 - {1}).

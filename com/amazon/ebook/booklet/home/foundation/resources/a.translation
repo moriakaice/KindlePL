@@ -1,81 +1,13 @@
-[[Ljava/lang/Object;
-<init>
-()V
-Code
-LineNumberTable
-LocalVariableTable
-()[[Ljava/lang/Object;
-<clinit>
-SourceFile
-[Ljava/lang/Object;
-java/lang/Object
-exp.label
-Experimental	Eksperymentalne opcje
-exp.text
+Experimental	Eksperymentalne
 We are working on these experimental prototypes. Do you find them useful? Should we continue working on them? We would love to hear what you think, so please send your comments to {0}	Pracujemy nad tym, by poprawić eksperymentalne opcje. Jeśli Ci się podobają lub masz sugestie co do ich rozwoju, prosimy o kontakt na adres {0}
-exp.font
-exp.text.x
-java/lang/Integer
-exp.text.margin
-exp.text.spacing
-exp.text.offset
-exp.widget.label.font
-exp.widget.desc.font
-exp.widget.link.font
-exp.widget.desc.y
-exp.widget.desc.spacing
-exp.widget.base.buffer
-exp.widget.left.margin
-exp.widget.right.margin
-exp.widget.offset
-exp.link.line.offset
-feedback.email.default
-kindle-feedback@amazon.com
-exp.cursor.disabled.color
-bw.widget.label
 Web Browser	Przeglądarka internetowa
-bw.widget.cursor.label
 launch browser	włącz przeglądarkę
-bw.widget.desc
 Select this item to launch Web Browser and browse, choose a bookmark, or enter a URL.	Wybierz tę opcję, by uruchomić przeglądarkę internetową, a następnie wybierz zakładkę lub wpisz adres URL.
-mp3.widget.label
 Play MP3	Odtwarzacz MP3
-mp3.widget.cursor.label.play
 play music	odtwarzaj
-mp3.widget.cursor.label.pause
 pause music	pauza
-mp3.widget.desc
 Select this item to listen to music or podcasts while you read. Hold down the 'ALT' key and press the spacebar to stop or play, or the 'F' key to skip to the next track. You must copy MP3 files from your computer to your Kindle's 'music' folder to use this feature.	Wybierz tę opcję, by słuchać muzyki lub podcastów podczas czytania. Przytrzymaj 'ALT' i naciśnij spację by odtwarzać lub zatrzymać, 'F' - by przejść do następnego utworu. Należy skopiować pliki MP3 do folderu 'music' na Kindle.
-mp3.not.found.alert.text
 No MP3 Files Found~~~~To play MP3 files, you must first copy them from your computer to your Kindle's "music" folder.	Nie znaleziono plików MP3~~~~Aby odtwarzać pliki MP3, skopiuj je do folderu 'music' na Kindle.
-t2s.widget.label
-Text-to-Speech	Syntezator mowy (Text-to-Speech)
-t2s.widget.cursor.label
-
-t2s.widget.desc
+Text-to-Speech	Syntezator mowy
 Start Text-to-Speech in the Text menu while you are reading and your Kindle will start reading to you (where allowed by the rights holder). Hold down the 'Shift' key and press the 'SYM' key to stop or play.	Możesz włączyć syntezator mowy (w języku angielskim) w menu Tekst w trakcie czytania ksiżąki. Naciśnij Shift + SYM by uruchomić lub zatrzymać syntezator.
-exp.view.sound
-Experimental Items	Opcje eksperymentalne
-exp.pause.sound
-, 
-feedback.email
-kindledx-feedback@amazon.com
-com/amazon/ebook/framework/device/util/DeviceResourceBundle
-(IZZ)Ljava/awt/Font;
-(I)V
-Ljava/awt/Color;
-a
-A
-b
-B
-c
-C
-d
-D
-e
-Lcom/amazon/ebook/booklet/home/foundation/resources/a;
-com/amazon/ebook/booklet/home/foundation/resources/a
-mod
-()Lcom/amazon/ebook/framework/c/a;
-com/amazon/ebook/framework/gui/d
-com/amazon/ebook/framework/c/a
+kindle-feedback@amazon.com or kindle-feedback@amazon.co.uk	

@@ -1,96 +1,11 @@
-[[Ljava/lang/Object;
-<init>
-()V
-Code
-LineNumberTable
-LocalVariableTable
-Lcom/amazon/ebook/framework/resources/WifiStaticNetworkResources;
-getContents
-()[[Ljava/lang/Object;
-<clinit>
-SourceFile
-[Ljava/lang/Object;
-java/lang/Object
-dim.width
-java/lang/Integer
-dim.height
-dim.x
-dim.y
-dim.landscape.height
-dim.landscape.x
-dim.landscape.y
-dim.row.height
-dim.landscape.row.height
-margin.left
-margin.right
-margin.top
-margin.body.top
-margin.landscape.body.top
-margin.line.top
-margin.lock
-margin.name
-margin.headerText
-margin.landscape.headerText
-margin.textHeight
-text.title
 Network Information	Informacje o sieci
-text.headerText
 You can set up the Wi-Fi network connection and security options for the network named below.	Możesz skonfigurować połączenie Wi-Fi i opcje bezpieczeństwa dla poniższej sieci.
-text.rowlabel.networkName
 Network Name:	Nazwa sieci:
-text.rowlabel.conType
 Connection Type:	Rodzaj połączenia:
-text.rowlabel.ipAddress
 IP Address:	Adres IP:
-text.rowlabel.subnetMask
 Subnet Mask:	Maska podsieci:
-text.rowlabel.router
 Router:	Router:
-text.rowlabel.dns
-DNS: DNS:
-text.rowlabel.secType
 Security Type:	Rodzaj zabezpieczenia:
-text.rowlabel.password
 Password:	Hasło:
-text.contype.dhcp
-DHCP DHCP
-text.contype.static
-Static Statyczne
-text.security.none
 none	brak
-text.security.wep
-WEP WEP
-text.security.wpa
-WPA WPA
-text.security.wpa2
-WPA2 WPA2
-text.button.connect
 connect	połącz
-font.title
-font.widget
-font.headerText
-font.label
-row.label.margin.end
-row.label.margin.top
-row.widget.margin.left
-row.widget.margin.right
-row.widget.height
-row.input.margin.top
-row.input.height
-row.textfield.xoffset
-row.color.disabled
-selection.margin.item
-bottomrow.margin.item
-bottomrow.margin.right
-com/amazon/ebook/framework/resources/WifiStaticNetworkResources
-java/util/ListResourceBundle
-(I)V
-(I)Ljava/awt/Font;
-(IZZ)Ljava/awt/Font;
-java/awt/Color
-GRAY SZARY
-Ljava/awt/Color;
-a
-lvb
-()Lcom/amazon/ebook/framework/c/a;
-com/amazon/ebook/framework/c/a

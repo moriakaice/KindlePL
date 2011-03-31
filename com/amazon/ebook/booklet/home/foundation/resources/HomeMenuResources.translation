@@ -1,29 +1,4 @@
-[[Ljava/lang/Object;
-<init>
-()V
-Code
-LineNumberTable
-LocalVariableTable
-Lcom/amazon/ebook/booklet/home/foundation/resources/HomeMenuResources;
-getContents
-()[[Ljava/lang/Object;
-<clinit>
-SourceFile
-[Ljava/lang/Object;
-java/lang/Object
-home.app.menu.main.menu.label.view.collections
 View My Collections	Pokaż kolekcje
-home.app.menu.main.menu.label.create.new.collection
 Create New Collection	Stwórz nową kolekcję
-home.app.menu.settings.menu.label.search.my.items
 Search	Szukaj
-home.app.menu.settings.menu.label.archived
 View Archived Items	Pokaż zarchiwizowane elementy
-home.bare.menu.default.item
-java/lang/Integer
-home.standard.menu.default.item
-com/amazon/ebook/booklet/home/foundation/resources/HomeMenuResources
-java/util/ListResourceBundle
-(I)V
-a
-hod

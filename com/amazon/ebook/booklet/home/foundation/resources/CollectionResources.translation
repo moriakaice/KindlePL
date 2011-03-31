@@ -1,96 +1,24 @@
-[[Ljava/lang/Object;
-<init>
-()V
-Code
-LineNumberTable
-LocalVariableTable
-Lcom/amazon/ebook/booklet/home/foundation/resources/CollectionResources;
-getContents
-()[[Ljava/lang/Object;
-<clinit>
-SourceFile
-[Ljava/lang/Object;
-java/lang/Object
-collection.filter.all.format
-java/text/ChoiceFormat
 0#Showing All {0,number,integer} Items|1#Showing All {0,number,integer} Item|2#Showing All {0,number,integer} Items	0#Wyświetlanie {0,number,integer} elementów|1#Wyświetlanie {0,number,integer} elementu|2#Wyświetlanie {0,number,integer} elementów
-collection.filter.books.format
 0#Showing All {0,number,integer} Books|1#Showing All {0,number,integer} Book|2#Showing All {0,number,integer} Books	0#Wyświetlanie {0,number,integer} książkek|1#Wyświetlanie {0,number,integer} Książki|2#Wyświetlanie {0,number,integer} książkek
-collection.filter.subs.format
 0#Showing All {0,number,integer} Periodicals|1#Showing All {0,number,integer} Periodical|2#Showing All {0,number,integer} Periodicals	0#Wyświetlanie {0,number,integer} czasopism|1#Wyświetlanie {0,number,integer} czasopisma|2#Wyświetlanie {0,number,integer} czasopism
-collection.filter.pdocs.format
 0#Showing All {0,number,integer} Personal Documents|1#Showing All {0,number,integer} Personal Document|2#Showing All {0,number,integer} Personal Documents	0#Wyświetlanie {0,number,integer} dokumentów|1#Wyświetlanie {0,number,integer} dokumentu|2#Wyświetlanie {0,number,integer} dokumentów
-collection.filter.all
 All My Items	Wszystkie elementy
-collection.filter.books
 Books	Książki
-collection.filter.subs
 Subscriptions	Subskrypcje
-collection.filter.pdocs
 Personal Docs	Moje dokumenty
-collection.sort.recent.label
 By Most Recent First	Od najnowszego
-collection.sort.title.label
-By Title	Według tytułu
-collection.sort.author.label
-By Author	Według autora
-collection.sort.recent
+By Title	Wg tytułu
+By Author	Wg autora
 Most Recent First	Najpierw najnowsze
-collection.sort.title
 Title	Tytuł
-collection.sort.author
 Author	Autor
-collection.menuitem.additems.name
 Add/Remove Items	Dodaj/Usuń elementy
-collection.menuitem.edit.collection.name
-Rename Collection	Zmień nazwę
-collection.menuitem.delete.collection
+Rename Collection	Zmień nazwę kolekcji
 Delete Collection	Usuń kolekcję
-collection.menuitem.create.collection
 Create a New Collection	Stwórz kolekcję
-collection.menuitem.default.item
-java/lang/Integer
-collection.widget.font
-collection.enter.overlay.height
-collection.enter.overlay.x.margin
-collection.enter.overlay.textbox.x.margin
-collection.enter.overlay.y.margin
-collection.enter.overlay.textbox.y.buffer
-collection.enter.overlay.title.y.margin
-collection.enter.failed.overlay.height
-collection.enter.overlay.line.spacing
-collection.enter.overlay.max.chars
-collection.enter.overlay.save.button.label
 save	zapisz
-collection.enter.overlay.title
 Enter Collection Name	Wprowadź nazwę kolekcji
-collection.edit.overlay.title
 Edit Collection Name	Edytuj nazwę kolekcji
-collection.edit.alreadyexists.overlay.title
 Collection Name Already Exists	Nazwa kolekcji już istnieje
-collection.edit.alreadyexists.overlay.msg
 The collection name that you entered already exists. Please enter a different name.	Nazwa kolekcji, którą wybrałeś, już istnieje. Wybierz inną.
-collection.enter.overlay.title.font
-collection.enter.overlay.main.font
-collection.enter.overlay.field.font
-collection.view.sound.template
 {0} collection	{0} kolekcja
-collection.remove.sound
-remove from collection	usuń z kolekcji
-collection.text.offset
-collection.text.line.margin
-collection.line.thickness
-collection.line.x.margin
-collection.label.left.margin
-collection.label.right.margin
-collection.label.font
-com/amazon/ebook/booklet/home/foundation/resources/CollectionResources
-java/util/ListResourceBundle
-(Ljava/lang/String;)V
-(I)V
-(IZZ)Ljava/awt/Font;
-(I)Ljava/awt/Font;
-a
-qod
-()Lcom/amazon/ebook/framework/c/a;
-com/amazon/ebook/framework/c/a
