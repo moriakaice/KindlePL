@@ -9,5 +9,5 @@ label.note              = Notatka
 label.popular_highlight = Popularny fragment
 label.unknown           = Nieznane
 
-margin.left = 40
+margin.left = 20
 margin.top  = 44
