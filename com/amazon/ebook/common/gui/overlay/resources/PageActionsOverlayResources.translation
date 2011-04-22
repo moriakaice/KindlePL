@@ -13,7 +13,7 @@ male	męski
 Typeface	Krój pisma
 regular	regularna
 condensed	zagęszczona
-sans serif	pismo szeryfowe
+sans serif	bezszeryfowa
 Line Spacing	Interlinia
 small	mała
 medium	średnia
@@ -23,7 +23,7 @@ lightest	-2
 lighter	-1
 darker	+1
 darkest	+2
-Words per Line	Znaków w lini
+Words per Line	Znaków w linii
 fewest	mało
 fewer	mniej
 Auto-Crop	Auto-przycięcie
