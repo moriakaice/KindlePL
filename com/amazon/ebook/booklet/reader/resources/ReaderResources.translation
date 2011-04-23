@@ -13,9 +13,9 @@ Search This Blog	Przeszukaj blog
 Search This Sample	Przeszukaj próbkę
 Clip This Article	Przypnij ten artykuł
 Keep This Issue	Zapisz to wydanie
-My Notes & Marks	Moje notatki i zaznaczenia
+My Notes & Marks	Moje notatki/zaznaczenia
 My Bookmarks	Moje zakładki
-Add a Note or Highlight	Dodaj notatkę lub zaznaczenie
+Add a Note or Highlight	Dodaj notatkę/zaznaczenie
 Place Cursor in Page	Umieść kursor na stronie
 Add a Bookmark	Dodaj zakładkę
 Delete Bookmark	Usuń zakładkę
@@ -99,7 +99,7 @@ This PDF is protected with DRM or encryption and cannot be read on your Kindle.	
 This PDF is password protected and cannot be read on your Kindle.	Ten PDF jest chroniony hasłem i nie może zostać odczytany na Twoim Kindle.
 This PDF cannot be opened due to embedded features not yet supported by Kindle.	Ten PDF nie może zostać otworzony, ponieważ zawiera funkcje, które nie są jeszcze wspierane przez Kindle.
 Some elements on this page could not be displayed.	Niektóre elementy na tej stronie nie mogły zostać wyświetlone.
-Sync to Furthest Page Read	Zsynchronizuj ostatnią czytaną stronę
+Sync to Furthest Page Read	Zsynchronizuj ostat. czytaną stronę
 You are currently at location {0}. The furthest read location is {1} from "{2}" at {3} {4}. Go to that location?	Jesteś obecnie w lokacji {0}. Ostatnia czytana lokacja to {1} z "{2}" w {3} {4}. Przejść do lokacji?
 on {5}	na {5}
 on {7}	na {7}
