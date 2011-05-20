@@ -3,13 +3,13 @@ Sections & Articles  •  {0}	Rozdziały i artykuły  •  {0}
 {0,choice,0#Section|0<Sections} {1} {0,choice,0#|0<- {2} }of {3}	{0,choice,0#Rozdział|0<Rozdziały} {1} {0,choice,0#|0<- {2} }z {3}
 prev	poprzedni
 next	następny
-View Articles List	Zobacz listę artykułów
+View Articles List	Lista artykułów
 Item {0} of {1}	Element {0} z {1}
 Displaying article {0,choice,0#headline|0<headlines} {1} {0,choice,0#|0<to {2} }of {3}	{0,choice,0#Nagłówek|0<Nagłówki} {1} {0,choice,0#|0<do {2} }z {3}
-Displaying {0,choice,0#section|0<sections} {1} {0,choice,0#|0<to {2} }of {3}	Displaying {0,choice,0#section|0<sections} {1} {0,choice,0#|0<do {2} }z {3}
+Displaying {0,choice,0#section|0<sections} {1} {0,choice,0#|0<to {2} }of {3}	{0,choice,0#Rozdział|0<Rozdziały} {1} {0,choice,0#|0<do {2} }z {3}
 Section {0} {1}Item {2} of {3}	Rozdział {0} {1}Element {2} z {3}
-View Sections and Articles	Zobacz rozdziały i artykuły
-previous sections	poprzednie rozdziały
-next sections	następne rozdziały
-previous articles	poprzednie artykuły
-next articles	następne artykuły
+View Sections and Articles	Rozdziały i artykuły
+previous sections	poprz. rozdziały
+next sections	nast. rozdziały
+previous articles	poprz. artykuły
+next articles	nast. artykuły
