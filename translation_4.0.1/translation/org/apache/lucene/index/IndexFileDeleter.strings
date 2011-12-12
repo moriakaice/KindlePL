@@ -1,0 +1,230 @@
+
+InnerClasses
+CommitPoint
+RefCount
+deletable
+Ljava/util/List;
+refCounts
+Ljava/util/Map;
+commits
+lastFiles
+commitsToDelete
+infoStream
+Ljava/io/PrintStream;
+directory
+Lorg/apache/lucene/store/Directory;
+policy
+Lorg/apache/lucene/index/IndexDeletionPolicy;
+docWriter
+Lorg/apache/lucene/index/DocumentsWriter;
+VERBOSE_REF_COUNTS
+Z
+class$org$apache$lucene$index$IndexFileDeleter
+Ljava/lang/Class;
+Synthetic
+setInfoStream
+(Ljava/io/PrintStream;)V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lorg/apache/lucene/index/IndexFileDeleter;
+message
+(Ljava/lang/String;)V
+Ljava/lang/String;
+<init>
+(Lorg/apache/lucene/store/Directory;Lorg/apache/lucene/index/IndexDeletionPolicy;Lorg/apache/lucene/index/SegmentInfos;Ljava/io/PrintStream;Lorg/apache/lucene/index/DocumentsWriter;)V
+e
+Ljava/io/FileNotFoundException;
+commitPoint
+Lorg/apache/lucene/index/IndexFileDeleter$CommitPoint;
+sis
+Lorg/apache/lucene/index/SegmentInfos;
+fileName
+i
+I
+Ljava/io/IOException;
+rc
+Lorg/apache/lucene/index/IndexFileDeleter$RefCount;
+segmentInfos
+currentGen
+J
+filter
+Lorg/apache/lucene/index/IndexFileNameFilter;
+files
+[Ljava/lang/String;
+currentCommitPoint
+it
+Ljava/util/Iterator;
+Exceptions
+deleteCommits
+()V
+j
+commit
+size2
+readFrom
+writeTo
+size
+refresh
+segmentPrefix1
+segmentPrefix2
+segmentName
+close
+deletePendingFiles
+oldDeletable
+checkpoint
+(Lorg/apache/lucene/index/SegmentInfos;Z)V
+docWriterFiles
+segmentInfo
+Lorg/apache/lucene/index/SegmentInfo;
+isCommit
+incRef
+(Ljava/util/List;)V
+decRef
+(Lorg/apache/lucene/index/SegmentInfos;)V
+getRefCount
+(Ljava/lang/String;)Lorg/apache/lucene/index/IndexFileDeleter$RefCount;
+deleteFiles
+deleteNewFiles
+(Ljava/util/Collection;)V
+Ljava/util/Collection;
+deleteFile
+class$
+(Ljava/lang/String;)Ljava/lang/Class;
+x1
+Ljava/lang/ClassNotFoundException;
+x0
+<clinit>
+SourceFile
+IndexFileDeleter.java
+java/lang/ClassNotFoundException
+java/lang/NoClassDefFoundError
+java/lang/StringBuffer
+setInfoStream deletionPolicy=
+IFD [
+]: 
+java/util/HashMap
+java/util/ArrayList
+init: current segments file is "
+"; deletionPolicy=
+java/io/IOException
+cannot read directory 
+: list() returned null
+segments.gen
+segments
+init: load commit "
+"
+org/apache/lucene/index/SegmentInfos
+java/io/FileNotFoundException
+init: hit FileNotFoundException when loading commit "
+"; skipping this commit point
+org/apache/lucene/index/IndexFileDeleter$CommitPoint
+org/apache/lucene/index/CorruptIndexException
+failed to locate current segments_N file
+forced open of current segments file 
+java/lang/String
+org/apache/lucene/index/IndexFileDeleter$RefCount
+init: removing unreferenced file "
+deleteCommits: now decRef commit "
+.
+_
+refresh [prefix=
+]: removing newly created unreferenced file "
+delete pending file 
+now checkpoint "
+" [
+ segments 
+; isCommit = 
+]
+java/util/List
+  IncRef "
+": pre-incr count is 
+  DecRef "
+": pre-decr count is 
+delete "
+IndexFileDeleter: unable to remove file "
+": 
+; Will re-try later.
+org/apache/lucene/index/IndexFileDeleter
+java/lang/Object
+org/apache/lucene/index/IndexFileDeleter$1
+java/lang/Class
+forName
+initCause
+(Ljava/lang/Throwable;)Ljava/lang/Throwable;
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(Ljava/lang/Object;)Ljava/lang/StringBuffer;
+toString
+()Ljava/lang/String;
+java/lang/Thread
+currentThread
+()Ljava/lang/Thread;
+getName
+java/io/PrintStream
+println
+getCurrentSegmentFileName
+getGeneration
+()J
+org/apache/lucene/index/IndexFileNameFilter
+getFilter
+()Lorg/apache/lucene/index/IndexFileNameFilter;
+org/apache/lucene/store/Directory
+list
+()[Ljava/lang/String;
+accept
+(Ljava/io/File;Ljava/lang/String;)Z
+equals
+(Ljava/lang/Object;)Z
+startsWith
+(Ljava/lang/String;)Z
+generationFromSegmentsFileName
+(Ljava/lang/String;)J
+read
+(Lorg/apache/lucene/store/Directory;Ljava/lang/String;)V
+(Ljava/util/Collection;Lorg/apache/lucene/store/Directory;Lorg/apache/lucene/index/SegmentInfos;)V
+add
+java/util/Collections
+sort
+java/util/Map
+keySet
+()Ljava/util/Set;
+java/util/Set
+iterator
+()Ljava/util/Iterator;
+java/util/Iterator
+hasNext
+()Z
+next
+()Ljava/lang/Object;
+get
+(Ljava/lang/Object;)Ljava/lang/Object;
+count
+org/apache/lucene/index/IndexDeletionPolicy
+onInit
+deleted
+()I
+(I)Ljava/lang/Object;
+getSegmentsFileName
+clear
+set
+(ILjava/lang/Object;)Ljava/lang/Object;
+remove
+containsKey
+(I)Ljava/lang/StringBuffer;
+(Z)Ljava/lang/StringBuffer;
+onCommit
+org/apache/lucene/index/DocumentsWriter
+openFiles
+()Ljava/util/List;
+info
+(I)Lorg/apache/lucene/index/SegmentInfo;
+org/apache/lucene/index/SegmentInfo
+dir
+IncRef
+DecRef
+(Lorg/apache/lucene/index/IndexFileDeleter$1;)V
+put
+(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+java/util/Collection
+fileExists

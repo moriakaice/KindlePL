@@ -1,0 +1,13 @@
+<init>
+(Ljava/lang/String;)V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lorg/apache/lucene/store/LockReleaseFailedException;
+message
+Ljava/lang/String;
+SourceFile
+LockReleaseFailedException.java
+org/apache/lucene/store/LockReleaseFailedException
+java/io/IOException

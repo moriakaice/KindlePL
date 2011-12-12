@@ -1,0 +1,16 @@
+Ljava/awt/event/KeyEvent;
+<init>
+(Ljava/awt/event/KeyEvent;)V
+Code
+LineNumberTable
+LocalVariableTable
+()Ljava/awt/event/KeyEvent;
+SourceFile
+java/lang/Object
+()V
+f
+Gi
+a
+Lcom/amazon/ebook/framework/gui/event/i;
+com/amazon/ebook/framework/gui/event/i
+zkd

@@ -1,0 +1,7 @@
+getComponent
+(Ljava/lang/Object;)Ljava/awt/Component;
+SourceFile
+com/amazon/kindle/kindlet/ui/pages/ComponentProvider
+java/lang/Object
+th
+LocalVariableTable

@@ -1,0 +1,26 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/SettingsUtilsResources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+cert.path.dnt
+certs/client.p12
+text.pattern.dnt
+********* 1- Device *********~~1.1 DSN: {0}~~1.2 Version: {1}~~1.3 Registration: {2}~~1.4 Certificate: {3}~~1.5 Time: {4}
+text.pattern.empty.dnt
+********* 1- Device *********
+yes.no.format.dnt
+0#No(0)|1#Yes(1)
+com/amazon/ebook/booklet/home/foundation/resources/SettingsUtilsResources
+java/util/ListResourceBundle
+f
+a
+qgg

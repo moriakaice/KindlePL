@@ -1,0 +1,47 @@
+enumStart
+I
+enumLimit
+offsetArray
+[S
+getShort
+(I)S
+Code
+LineNumberTable
+LocalVariableTable
+this
+ContiguousEnumToShort
+InnerClasses
+Lcom/ibm/icu/impl/UPropertyAliases$ContiguousEnumToShort;
+enumProbe
+<init>
+(Lcom/ibm/icu/impl/ICUBinaryStream;)V
+i
+s
+Lcom/ibm/icu/impl/ICUBinaryStream;
+count
+Exceptions
+SourceFile
+UPropertyAliases.java
+java/lang/IllegalArgumentException
+java/lang/StringBuffer
+Invalid enum. enumStart = 
+ enumLimit = 
+ enumProbe = 
+com/ibm/icu/impl/UPropertyAliases$ContiguousEnumToShort
+java/lang/Object
+com/ibm/icu/impl/UPropertyAliases$EnumToShort
+EnumToShort
+java/io/IOException
+()V
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(I)Ljava/lang/StringBuffer;
+toString
+()Ljava/lang/String;
+(Ljava/lang/String;)V
+com/ibm/icu/impl/ICUBinaryStream
+readInt
+()I
+readShort
+()S
+com/ibm/icu/impl/UPropertyAliases

@@ -1,0 +1,17 @@
+BYTES_SIZE
+I
+ConstantValue
+textStart
+intStart
+byteStart
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lorg/apache/lucene/index/RawPostingList;
+SourceFile
+RawPostingList.java
+org/apache/lucene/index/RawPostingList
+java/lang/Object

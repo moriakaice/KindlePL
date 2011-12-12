@@ -1,0 +1,88 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/resources/GlobalMenuItems_de;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+wireless.switch.on
+Wi-Fi aktivieren
+wireless.switch.off
+Wi-Fi deaktivieren
+store.body
+Kindle-Shop
+settings.body
+Einstellungen
+view.special.offers.body
+Sonderangebote
+exp.body
+Experimentell
+reset.body
+Zurücksetzen
+factory.reset.body
+Standardwerte
+factory.reset.confirm.body
+Sie sind im Begriff, Ihren Kindle auf die Werkseinstellungen zurückzusetzen. Dadurch werden alle Wörterbücher sowie heruntergeladenen oder übertragenen Inhalte vom Gerät gelöscht. Sie können weiterhin Inhalte aus dem Archiv herunterladen. Möchten Sie fortfahren?
+shipping.mode.failed.alert
+Fehler 2: Wörterbücher fehlen. Der Versand-Modus kann nicht aktiviert werden.
+command.line.public.symbol
+@
+command.line.semiprivate.symbol
+;
+command.line.private.symbol
+~
+search.body
+Suchen
+check.body
+Sync & Download
+home.body
+Startseite
+sove.for.later.body
+Gespeicherte Inhalte
+lock.rotation
+Gesperrt
+unlock.rotation
+Entsperrt
+rotation.auto
+Automatisch
+rotation.landscape
+Landschaftsmodus
+rotation.portrait
+Porträtmodus
+rotation.landscape.imagename
+ScrnRotate_Icon_Landscpe1.gif
+rotation.portrait.imagename
+ScrnRotate_Icon_Portrait1.gif
+rotation.invlandscape.imagename
+ScrnRotate_Icon_Landscpe2.gif
+rotation.invportrait.imagename
+ScrnRotate_Icon_Portrait2.gif
+rotation.landscape.disabled.imagename
+ScrnRotate_Icon_Landscpe1b.gif
+rotation.portrait.disabled.imagename
+ScrnRotate_Icon_Portrait1b.gif
+rotation.invlandscape.disabled.imagename
+ScrnRotate_Icon_Landscpe2b.gif
+rotation.invportrait.disabled.imagename
+ScrnRotate_Icon_Portrait2b.gif
+rotation.landscape.spoken
+landscape
+rotation.portrait.spoken
+portrait
+rotation.invlandscape.spoken
+inverted landscape
+rotation.invportrait.spoken
+inverted portrait
+rotation.header
+Ausrichtung
+com/amazon/ebook/framework/resources/GlobalMenuItems_de
+java/util/ListResourceBundle
+f
+a
+prc

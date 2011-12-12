@@ -1,0 +1,34 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/HomeResources_it;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+home.menu.personalization.label
+Il mio Kindle
+home.dictionaries.collection.name
+Dizionari
+download.wan.off
+Connessione wireless disattivata. Attivarla e riprovare.
+exceeded.licenses.alert
+Impossibile scaricare questo elemento perché tutte le relative licenze sono in uso sugli altri dispositivi.~~~~Per scaricarlo in questo dispositivo, è possibile eliminarlo da uno degli altri dispositivi oppure acquistare un’altra copia nel Negozio Kindle.~~~~
+home.viewdownloaditem.menuitem.label
+View Downloading Items
+home.view.sound
+Home
+home.delete.button.sound
+delete
+home.remove.button.sound
+remove from device
+com/amazon/ebook/booklet/home/foundation/resources/HomeResources_it
+java/util/ListResourceBundle
+f
+a
+wzf

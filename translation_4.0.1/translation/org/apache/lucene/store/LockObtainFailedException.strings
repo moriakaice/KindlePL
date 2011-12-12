@@ -1,0 +1,13 @@
+<init>
+(Ljava/lang/String;)V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lorg/apache/lucene/store/LockObtainFailedException;
+message
+Ljava/lang/String;
+SourceFile
+LockObtainFailedException.java
+org/apache/lucene/store/LockObtainFailedException
+java/io/IOException

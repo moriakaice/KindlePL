@@ -1,0 +1,45 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/ActionArchiveResources_de;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+downloading.items.format
+0#{0} Inhalte werden heruntergeladen...|1#{0} Inhalt wird heruntergeladen...|2#{0} Inhalte werden heruntergeladen...
+downloaded.items.format
+0#{0} Inhalte heruntergeladen...|1#{0} Inhalt heruntergeladen...|2#{0} Inhalte heruntergeladen...
+download.task.manager.one.item
+item
+download.task.manager.multiple.items
+items
+download.task.manager.downloading.message
+Downloading {0} {1}...
+download.task.manager.downloaded.message
+Downloaded {0} {1}...
+add.to.home.action.text
+Zur Startseite hinzufügen
+add.to.home.action.text.offset
+java/lang/Integer
+add.to.home.action.button.y.offset
+yml.default.download.error.msg
+Download fehlgeschlagen. Bitte versuchen Sie es erneut.
+yml.download.error.notenoughspace
+„{0}“ konnte nicht heruntergeladen werden, da nicht genug Kindle-Speicherplatz verfügbar ist. Bitte geben Sie Speicherplatz frei, indem Sie Inhalte von der Startseite löschen.
+yml.download.wan.off
+Wi-Fi ist deaktiviert. Bitte aktivieren Sie Wi-Fi und versuchen Sie es erneut.
+yml.additem.sound
+yml.download.action.turn.on.wifi.text
+Wi-Fi aktivieren und Download starten
+com/amazon/ebook/booklet/home/foundation/resources/ActionArchiveResources_de
+java/util/ListResourceBundle
+(I)V
+f
+a
+ygg

@@ -1,0 +1,93 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/messages/resources/CursorHintsResources_fr;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+annotation.disable
+L’annotation est désactivée
+annotation.disable.sample
+Les annotations sont désactivées pour les extraits de livres.
+annotation.disable.feed
+Les annotations sont désactivées pour les blogs.
+annotation.disable.low.disk.space
+L’annotation est désactivée - La mémoire est saturée
+add.note
+Commencez la saisie pour créer une note.
+add.note.nokeyboard
+Appuyez sur {0} pour créer une note.
+java/lang/String
+keyboard_icon.gif
+usual.cursor.interaction
+Commencez la saisie pour créer une note ou cliquez pour~~lancer un surlignement
+usual.cursor.interaction.nokeyboard
+Appuyez sur {0} pour accéder à une définition complète,~~un surlignement ou une note.
+5way_icon.gif
+usual.cursor.interaction.nokeyboard.defonly
+Appuyez sur {0} pour accéder à une définition complète.
+usual.cursor.interaction.nokeyboard.nodef
+Appuyez sur {0} pour accéder à un surlignement ou une note.
+create.highlight
+Déplacez le curseur pour créer un surlignement {0}
+blanck_trans.gif
+end.highlight.nokeyboard
+Appuyez sur {0} pour mettre fin au surlignement.
+end.highlight.sharing.nokeyboard
+Appuyez sur {0} pour mettre fin au surlignement, partager~~ou créer une note
+end.highlight.sharing.disabled
+Cliquez pour mettre fin à un surlignement ou appuyez sur~~Retour pour annuler.
+end.highlight.sharing.enabled
+Cliquez pour mettre fin à un surlignement, appuyez sur {0}~~pour le mettre sur Twitter/le partager, ou sur Retour~~pour annuler
+Home_Icon_AltReturn.gif
+highlight.hover.sharing.disabled
+Commencez la saisie pour créer une note ou cliquez sur {0}~~pour supprimer un surlignement
+Home_Icon_Delete.gif
+highlight.hover.sharing.disabled.nokeyboard
+Appuyez sur {0} pour accéder à une note ou supprimer~~un surlignement.
+highlight.hover.sharing.enabled
+Commencez la saisie pour créer une note, cliquez sur {0}~~pour supprimer un surlignement, sur {1} pour le partager
+highlight.hover.sharing.enabled.nokeyboard
+Appuyez sur {0} pour accéder à une note,~~supprimer un surlignement ou le partager
+highlight.hover.annotation.view.nokeyboard
+Appuyez sur {0} pour atteindre, partager ou~~supprimer un passage surligné.
+highlight.hover.annotation.view.nokeyboard.no.sharing
+Appuyez sur {0} pour accéder à un surlignement ou l’effacer
+bookmark.hover.annotation.view.nokeyboard
+Appuyez sur {0} pour atteindre le signet ou le supprimer.
+highlight.hover.annotation.view.sharing.enabled
+{0} supprimer   {1} partager
+highlight.hover.annotation.view.sharing.disabled
+{0} supprimer
+link.hover
+Commencez la saisie pour créer une note ou cliquez pour~~suivre le lien
+link.hover.nokeyboard
+Appuyez sur {0} pour suivre le lien.
+link.hover.nokeyboard.notes
+Appuyez sur {0} pour suivre le lien ou~~créer une note
+link.hover.nokeyboard.notes.delete
+Appuyez sur {0} pour suivre le lien ou supprimer une note
+link.hover.nokeyboard.def
+Appuyez sur {0} pour accéder à une définition complète ou~~suivre le lien
+link.hover.nokeyboard.def.notes
+Appuyez sur {0} pour accéder à une définition complète,~~suivre le lien ou créer une note
+link.hover.nokeyboard.def.notes.delete
+Appuyez sur {0} pour accéder à une définition complète,~~suivre le lien ou supprimer une note
+link.hover.image
+Appuyez sur {0} pour zoomer sur l’image
+subscribed.highlights.hint.widget.nokeyboard
+Appuyez sur {0} pour accéder au surlignement
+com/amazon/ebook/booklet/reader/gui/messages/resources/CursorHintsResources_fr
+java/util/ListResourceBundle
+(Ljava/lang/String;I)V
+(Ljava/lang/String;[Ljava/lang/String;I)V
+f
+a
+ope
+com/amazon/ebook/booklet/reader/gui/infobox/y

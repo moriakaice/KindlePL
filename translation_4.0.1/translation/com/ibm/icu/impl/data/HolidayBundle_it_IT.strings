@@ -1,0 +1,39 @@
+fHolidays
+[Lcom/ibm/icu/util/Holiday;
+fContents
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lcom/ibm/icu/impl/data/HolidayBundle_it_IT;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+HolidayBundle_it_IT.java
+com/ibm/icu/util/Holiday
+com/ibm/icu/util/SimpleHoliday
+Liberation Day
+Labor Day
+St. Stephens Day
+[Ljava/lang/Object;
+java/lang/Object
+holidays
+com/ibm/icu/impl/data/HolidayBundle_it_IT
+java/util/ListResourceBundle
+NEW_YEARS_DAY
+Lcom/ibm/icu/util/SimpleHoliday;
+EPIPHANY
+(IIILjava/lang/String;)V
+ASSUMPTION
+ALL_SAINTS_DAY
+IMMACULATE_CONCEPTION
+CHRISTMAS
+NEW_YEARS_EVE
+com/ibm/icu/util/EasterHoliday
+EASTER_SUNDAY
+Lcom/ibm/icu/util/EasterHoliday;
+EASTER_MONDAY

@@ -1,0 +1,17 @@
+FRENCH_COLLATION_
+I
+ConstantValue
+ALTERNATE_HANDLING_
+CASE_FIRST_
+CASE_LEVEL_
+NORMALIZATION_MODE_
+STRENGTH_
+HIRAGANA_QUATERNARY_MODE_
+LIMIT_
+SourceFile
+RuleBasedCollator.java
+com/ibm/icu/text/RuleBasedCollator$Attribute
+Attribute
+InnerClasses
+java/lang/Object
+com/ibm/icu/text/RuleBasedCollator

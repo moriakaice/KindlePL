@@ -1,0 +1,14 @@
+next
+()Z
+Exceptions
+skipTo
+(I)Z
+doc
+()I
+start
+end
+SourceFile
+Spans.java
+org/apache/lucene/search/spans/Spans
+java/lang/Object
+java/io/IOException

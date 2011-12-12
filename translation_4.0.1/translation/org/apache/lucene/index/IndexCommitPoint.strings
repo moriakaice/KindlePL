@@ -1,0 +1,13 @@
+getSegmentsFileName
+()Ljava/lang/String;
+getFileNames
+()Ljava/util/Collection;
+Exceptions
+delete
+()V
+SourceFile
+IndexCommitPoint.java
+Deprecated
+org/apache/lucene/index/IndexCommitPoint
+java/lang/Object
+java/io/IOException

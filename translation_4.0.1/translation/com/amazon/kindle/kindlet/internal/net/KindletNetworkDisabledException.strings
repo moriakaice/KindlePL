@@ -1,0 +1,17 @@
+m_retriable
+Z
+<init>
+(Lcom/amazon/kindle/kindlet/net/NetworkDisabledDetails;Z)V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/kindle/kindlet/internal/net/KindletNetworkDisabledException;
+Lcom/amazon/kindle/kindlet/net/NetworkDisabledDetails;
+()Z
+SourceFile
+com/amazon/kindle/kindlet/internal/net/KindletNetworkDisabledException
+com/amazon/kindle/kindlet/net/NetworkDisabledException
+(Lcom/amazon/kindle/kindlet/net/NetworkDisabledDetails;)V
+VzA
+a
+ltb

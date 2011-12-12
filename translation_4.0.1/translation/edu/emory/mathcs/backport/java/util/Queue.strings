@@ -1,0 +1,14 @@
+add
+(Ljava/lang/Object;)Z
+offer
+remove
+()Ljava/lang/Object;
+poll
+element
+peek
+SourceFile
+edu/emory/mathcs/backport/java/util/Queue
+java/lang/Object
+java/util/Collection
+y
+LocalVariableTable

@@ -1,0 +1,16 @@
+start
+Ljava/util/Date;
+rule
+Lcom/ibm/icu/util/DateRule;
+<init>
+(Ljava/util/Date;Lcom/ibm/icu/util/DateRule;)V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lcom/ibm/icu/util/Range;
+SourceFile
+RangeDateRule.java
+com/ibm/icu/util/Range
+java/lang/Object
+()V

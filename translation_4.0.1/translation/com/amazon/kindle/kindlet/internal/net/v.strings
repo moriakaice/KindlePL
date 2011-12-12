@@ -1,0 +1,12 @@
+(Z)Ledu/emory/mathcs/backport/java/util/concurrent/Future;
+isConnected
+()Z
+stop
+()V
+close
+SourceFile
+java/lang/Object
+pF
+com/amazon/kindle/kindlet/internal/net/v
+rh
+LocalVariableTable

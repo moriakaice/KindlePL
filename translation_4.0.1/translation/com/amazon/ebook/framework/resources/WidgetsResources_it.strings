@@ -1,0 +1,107 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/resources/WidgetsResources_it;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+button.ok.text
+ok
+button.close.text
+chiudi
+button.cancel.text
+annulla
+button.activate.text
+attiva
+button.submit.text
+invia
+button.clear.text
+cancella
+button.save.text
+salva
+button.join.text
+aderisci
+button.close.setting.text
+Chiudi impostazioni
+button.close.bookmark.text
+Chiudi segnalibri
+button.close.history.text
+Chiudi cronologia
+button.create_account.text
+crea account
+button.kindle_eula.text
+contratto di licenza e termini d’uso di kindle
+label.user
+Nome utente:
+label.password
+Password:
+more.items
+Più elementi...
+group.menu.beginning.label
+Vai all’inizio...
+icon.button.separation
+java/lang/Integer
+image.icon.insets
+java/awt/Insets
+image.icon.foreground.color
+ppi.border.left.margin
+ppi.border.right.margin
+ppi.border.insets
+page.props.menu.margins
+page.props.menu.cursor.width
+page.props.menu.cursor.offset
+page.props.menu.default.width
+page.props.menu.item.spacing
+pub.info.left.margin
+pub.info.bottom.margin
+pub.info.line.spacing
+pub.info.num.lines
+pub.info.width
+pub.info.date.format
+pub.info.datetime.format
+pub.info.missing.date
+(mancante)
+pub.info.missing
+pub.info.unknown
+(Sconosciuto)
+pub.info.default.font
+pub.info.pattern
+Editore: {0}~~Data di pubblicazione: {1,date,short}~~Data ultima lettura: {2,date,medium} {2,time,medium}~~Ultima posizione: {3,number,integer}~~Tipo di file: {4}~~Intervallo posizioni: 1-{5,number,integer}
+stock.object.regular.width
+stock.object.medium.width
+stock.object.wide.width
+two.column.menu.alttext
+two.column.menu.regtext
+two.column.menu.pref.size
+java/awt/Dimension
+homeitemwidget.icon1.y.offset
+homeitemwidget.icon2.y.offset
+button.wpssubmit.text
+config. wps
+com/amazon/ebook/framework/resources/WidgetsResources_it
+java/util/ListResourceBundle
+(I)V
+(IIII)V
+java/awt/Color
+black
+Ljava/awt/Color;
+java/text/DateFormat
+getDateInstance
+(I)Ljava/text/DateFormat;
+getDateTimeInstance
+(II)Ljava/text/DateFormat;
+getInstance
+(I)Ljava/awt/Font;
+(II)V
+f
+a
+urc
+Evb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/font/h

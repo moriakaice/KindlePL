@@ -1,0 +1,8 @@
+SourceFile
+MultipleTermPositions.java
+Synthetic
+org/apache/lucene/index/MultipleTermPositions$1
+
+InnerClasses
+java/lang/Object
+org/apache/lucene/index/MultipleTermPositions

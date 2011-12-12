@@ -1,0 +1,16 @@
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/kindle/kindlet/internal/install/InvalidMetadataException;
+(Ljava/lang/String;)V
+Ljava/lang/String;
+(Ljava/lang/Throwable;)V
+Ljava/lang/Throwable;
+(Ljava/lang/String;Ljava/lang/Throwable;)V
+SourceFile
+com/amazon/kindle/kindlet/internal/install/InvalidMetadataException
+com/amazon/kindle/kindlet/internal/install/InstallException
+a
+bob

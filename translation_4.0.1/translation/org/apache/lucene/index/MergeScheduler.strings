@@ -1,0 +1,17 @@
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lorg/apache/lucene/index/MergeScheduler;
+merge
+(Lorg/apache/lucene/index/IndexWriter;)V
+Exceptions
+close
+SourceFile
+MergeScheduler.java
+org/apache/lucene/index/MergeScheduler
+java/lang/Object
+org/apache/lucene/index/CorruptIndexException
+java/io/IOException

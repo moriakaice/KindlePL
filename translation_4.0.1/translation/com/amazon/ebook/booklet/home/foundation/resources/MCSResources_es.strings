@@ -1,0 +1,97 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/MCSResources_es;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+switch.wireless.provider.overlay.label
+Cambio de proveedores de red inalámbrica
+switch.wireless.provider.overlay.body.without.current.provider
+Tu Kindle perderá la conexión durante este proceso. El cambio manual de proveedores puede durar unos minutos, y puede que el Kindle no se reconecte correctamente a la red Whispernet de Amazon. ¿Deseas continuar?
+wireless.provider.page.footer.text
+
+wireless.provider.page.header.text
+Proveedores de red inalámbrica disponibles
+wireless.provider.page.scanning.text.1
+Buscando proveedores de red inalámbrica disponibles.
+wireless.provider.page.scanning.text.2
+Esto puede llevar unos minutos...
+wireless.provider.page.switch.automatically.text
+Cambiar automáticamente (recomendado)
+wireless.provider.main.item.name.with.technology.pattern
+{0} ({1})
+wireless.technology.gsm
+2G
+wireless.technology.gsm.compact
+wireless.technology.utran
+3G
+wireless.technology.gsm.egprs
+EDGE
+wireless.technology.utran_hsdpa
+3G+
+wireless.technology.utran.hsupa
+wireless.technology.utran.hsdpa.hsupa
+wireless.provider.page.scanning.font
+wireless.provider.main.item.font
+wireless.provider.populating.page.instruction.text.font
+default.menu.item.index.for.mcs
+java/lang/Integer
+wireless.provider.populating.page.item.x.margin
+wireless.provider.main.item.text.line.y.margin
+mcs.max.wait.timer
+java/lang/Long
+mcs.defer.screen.saver.timer
+mcs.item.cursor.height
+wireless.provider.populating.page.instruction.text
+Selecciona "Cambiar automáticamente" para permitir que Kindle elija automáticamente el mejor proveedor de red inalámbrica (predeterminado).
+mcs.connected.sound
+connected
+mcs.not.connected.sound
+no conectado
+mcs.2g.sound
+two g
+mcs.3g.sound
+three g
+mcs.edge.sound
+edge
+mcs.3gplus.sound
+three g plus
+mcs.scanning.view.sound
+Vista de búsqueda de MCS
+mcs.populating.view.sound
+Vista de rellenado de MCS
+mcs.pause.sound
+, 
+mcs.util.get.default.button
+mcs.table.row.height.default
+mcs.footer.bar.x
+mcs.list.item.font.draw.color
+mcs.list.item.cursor.erase.color
+mcs.list.item.prompt.format
+{0}, {1}, {2}
+mcs.list.item.access.default.sound
+mcs.list.item.carrier.scan
+Detección de proveedores
+mcs.populating.view.screen.cursor.x
+com/amazon/ebook/booklet/home/foundation/resources/MCSResources_es
+java/util/ListResourceBundle
+getInstance
+(IZZ)Ljava/awt/Font;
+(I)V
+(J)V
+Ljava/awt/Color;
+f
+a
+leg
+K
+Kwb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/gui/c
+com/amazon/ebook/framework/font/h

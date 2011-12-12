@@ -1,0 +1,8 @@
+SourceFile
+CompoundFileReader.java
+Synthetic
+org/apache/lucene/index/CompoundFileReader$1
+
+InnerClasses
+java/lang/Object
+org/apache/lucene/index/CompoundFileReader

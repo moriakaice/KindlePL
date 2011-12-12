@@ -1,0 +1,11 @@
+paintBorder
+(Ljava/awt/Component;Ljava/awt/Graphics;IIII)V
+getBorderInsets
+(Ljava/awt/Component;)Ljava/awt/Insets;
+isBorderOpaque
+()Z
+SourceFile
+com/amazon/kindle/kindlet/ui/border/KBorder
+java/lang/Object
+zl
+LocalVariableTable

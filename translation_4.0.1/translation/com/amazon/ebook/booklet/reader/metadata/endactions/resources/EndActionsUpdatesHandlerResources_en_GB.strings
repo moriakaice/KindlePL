@@ -1,0 +1,21 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/metadata/endactions/resources/EndActionsUpdatesHandlerResources_en_GB;
+getContents
+()[[Ljava/lang/Object;
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+unable.to.rate.book.message
+Rating not enabled for this book
+unable.to.save.rating.message
+Could not save rating, please try again
+com/amazon/ebook/booklet/reader/metadata/endactions/resources/EndActionsUpdatesHandlerResources_en_GB
+java/util/ListResourceBundle
+f
+a
+msd

@@ -1,0 +1,16 @@
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lorg/apache/lucene/index/InvertedDocEndConsumerPerThread;
+startDocument
+addField
+(Lorg/apache/lucene/index/DocInverterPerField;Lorg/apache/lucene/index/FieldInfo;)Lorg/apache/lucene/index/InvertedDocEndConsumerPerField;
+finishDocument
+abort
+SourceFile
+InvertedDocEndConsumerPerThread.java
+org/apache/lucene/index/InvertedDocEndConsumerPerThread
+java/lang/Object

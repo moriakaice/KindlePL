@@ -1,0 +1,52 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/LanguagePickerResources_fr;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+language.picker.view.header.text
+Paramètres
+language.picker.view.footer.button.text
+annuler
+language.picker.view.title.text
+Langue du périphérique
+language.picker.view.title.font
+language.picker.view.title.x.offset
+java/lang/Integer
+language.picker.view.widget.y.offset
+language.picker.widget.label.draw.color
+language.picker.widget.dotted.line.draw.color
+language.picker.widget.height
+language.picker.widget.action.select
+sélectionner
+language.picker.widget.action.current
+en cours
+language.picker.widget.action.font
+language.picker.list.item.sound
+
+language.picker.overlay.new.language.pattern
+Vous avez sélectionné :~~{0}~~Sélectionnez ok pour redémarrer votre Kindle dans cette langue.
+language.picker.overlay.same.language.pattern
+{0}~~Cette langue est déjà sélectionnée pour votre périphérique.
+com/amazon/ebook/booklet/home/foundation/resources/LanguagePickerResources_fr
+java/util/ListResourceBundle
+getInstance
+(IZZ)Ljava/awt/Font;
+(I)V
+Ljava/awt/Color;
+(I)Ljava/awt/Font;
+f
+a
+zef
+Evb
+Kwb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/gui/c
+com/amazon/ebook/framework/font/h

@@ -1,0 +1,17 @@
+extensionDetails
+Ljava/util/Map;
+<init>
+(Ljava/util/Map;)V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/kindle/kindlet/internal/install/MissingExtensionException;
+()Ljava/util/Map;
+SourceFile
+java/util/HashMap
+com/amazon/kindle/kindlet/internal/install/MissingExtensionException
+java/lang/Exception
+()V
+KAb
+a
+qnb

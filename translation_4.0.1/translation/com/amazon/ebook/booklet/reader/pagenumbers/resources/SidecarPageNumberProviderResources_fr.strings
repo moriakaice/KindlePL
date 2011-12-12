@@ -1,0 +1,22 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/pagenumbers/resources/SidecarPageNumberProviderResources_fr;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+pagelabel.range.format
+{0} - {1}
+pagelabel.range.list.delimiter
+, 
+com/amazon/ebook/booklet/reader/pagenumbers/resources/SidecarPageNumberProviderResources_fr
+java/util/ListResourceBundle
+f
+a
+jbe

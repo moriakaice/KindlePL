@@ -1,0 +1,84 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/view/periodicals/sectionlistview/resources/SectionListViewResources_de;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+widget.masthead.height
+java/lang/Integer
+widget.masthead.image.height
+widget.masthead.image.width
+widget.masthead.font
+widget.footer.margin.top
+widget.footer.height
+widget.margin.table.footer
+widget.table.margin.top
+widget.table.section.margin.right
+widget.table.article.margin.left
+widget.sectionIndicator.margin.right
+widget.articleInfo.font
+widget.sectionInfo.font
+widget.articleInfo.height
+widget.sectionInfo.height
+widget.articleInfo.cursor.clearance
+widget.sectionInfo.cursor.clearance
+view.margin.right
+view.margin.left
+view.systemStatusBar.text
+java/text/MessageFormat
+Rubriken & Artikel  •  {0}
+view.articleInfo.text
+{0,choice,0#Artikel|0<Artikel} {1} {0,choice,0#|0<bis {2} }von {3}
+view.sectionInfo.text
+{0,choice,0#Rubrik|0<Rubriken} {1} {0,choice,0#|0<bis {2} }von {3}
+view.accessibility.article.itemInfo.format
+Inhalt {0} von {1}
+view.accessibility.article.countInfo.format
+Anzeige von Artikel {0,choice,0#Überschrift|0<Überschriften} {1} {0,choice,0#|0<bis {2} }von {3}
+view.accessibility.section.countInfo.format
+Anzeige von {0,choice,0#Rubrik|0<Rubriken} {1} {0,choice,0#|0<bis {2} }von {3}
+view.accessibility.section.titleInfo.format
+Rubrik {0} {1}Inhalt {2} von {3}
+view.accessibility.viewOpen
+Rubriken & Artikel anzeigen
+widget.sectionControl.height
+view.sectionControl.previous.title
+Zurück
+view.sectionControl.next.title
+Weiter
+view.sectionControl.accessibility.prev.title
+Vorherige Rubriken
+view.sectionControl.accessibility.next.title
+Nächste Rubriken
+view.articleControl.accessibility.prev.title
+Vorherige Artikel
+view.articleControl.accessibility.next.title
+Nächste Artikel
+view.color.background
+view.color.foreground
+footer.label
+Artikelliste anzeigen
+max.nonflashing.article.pane.updates
+max.nonflashing.section.pane.updates
+com/amazon/ebook/booklet/reader/gui/view/periodicals/sectionlistview/resources/SectionListViewResources_de
+java/util/ListResourceBundle
+(I)V
+getInstance
+(IZZ)Ljava/awt/Font;
+(Ljava/lang/String;)V
+Ljava/awt/Color;
+f
+a
+kme
+K
+Kwb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/gui/c
+com/amazon/ebook/framework/font/h

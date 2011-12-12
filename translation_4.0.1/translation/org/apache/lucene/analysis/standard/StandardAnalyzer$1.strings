@@ -1,0 +1,8 @@
+SourceFile
+StandardAnalyzer.java
+Synthetic
+org/apache/lucene/analysis/standard/StandardAnalyzer$1
+
+InnerClasses
+java/lang/Object
+org/apache/lucene/analysis/standard/StandardAnalyzer

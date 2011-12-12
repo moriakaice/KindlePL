@@ -1,0 +1,123 @@
+fileDirectory
+Ljava/io/File;
+directory
+Lorg/apache/lucene/store/Directory;
+<init>
+(Ljava/io/File;)V
+Code
+LineNumberTable
+LocalVariableTable
+this
+FindSegmentsFile
+InnerClasses
+Lorg/apache/lucene/index/SegmentInfos$FindSegmentsFile;
+(Lorg/apache/lucene/store/Directory;)V
+run
+()Ljava/lang/Object;
+e
+Ljava/io/FileNotFoundException;
+Ljava/io/IOException;
+gen0
+J
+gen1
+version
+I
+err2
+Ljava/lang/InterruptedException;
+genInput
+Lorg/apache/lucene/store/IndexInput;
+i
+s
+Ljava/lang/String;
+files
+[Ljava/lang/String;
+genA
+genB
+v
+Ljava/lang/Object;
+prevExists
+Z
+prevSegmentFileName
+err
+segmentFileName
+lastGen
+gen
+genLookaheadCount
+exc
+retry
+method
+Exceptions
+doBody
+(Ljava/lang/String;)Ljava/lang/Object;
+SourceFile
+SegmentInfos.java
+java/lang/StringBuffer
+directory listing genA=
+segments.gen
+java/io/FileNotFoundException
+segments.gen open: FileNotFoundException 
+java/io/IOException
+segments.gen open: IOException 
+fallback check: 
+; 
+java/lang/InterruptedException
+segments.gen check: genB=
+
+ 
+ null
+no segments* file found in 
+: files:
+look ahead increment gen to 
+segments
+success on 
+primary Exception on '
+': 
+'; will retry: retry=
+; gen = 
+java/io/File
+fallback to prior segment file '
+'
+success on fallback 
+secondary Exception on '
+'; will retry
+org/apache/lucene/index/SegmentInfos$FindSegmentsFile
+java/lang/Object
+org/apache/lucene/index/CorruptIndexException
+()V
+org/apache/lucene/store/Directory
+list
+()[Ljava/lang/String;
+org/apache/lucene/index/SegmentInfos
+getCurrentSegmentGeneration
+([Ljava/lang/String;)J
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(J)Ljava/lang/StringBuffer;
+toString
+()Ljava/lang/String;
+access$000
+(Ljava/lang/String;)V
+access$100
+()I
+openInput
+(Ljava/lang/String;)Lorg/apache/lucene/store/IndexInput;
+(Ljava/lang/Object;)Ljava/lang/StringBuffer;
+org/apache/lucene/store/IndexInput
+readInt
+readLong
+()J
+close
+access$200
+java/lang/Thread
+sleep
+(J)V
+access$300
+org/apache/lucene/index/IndexFileNames
+fileNameFromGeneration
+(Ljava/lang/String;Ljava/lang/String;J)Ljava/lang/String;
+(Z)Ljava/lang/StringBuffer;
+fileExists
+(Ljava/lang/String;)Z
+(Ljava/io/File;Ljava/lang/String;)V
+exists
+()Z

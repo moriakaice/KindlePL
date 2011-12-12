@@ -1,0 +1,12 @@
+Exceptions
+(Ljava/net/URI;)V
+SourceFile
+java/lang/Object
+com/amazon/ebook/framework/kos/event/VetoRemoveException
+Kg
+wg
+Yf
+(Lcom/amazon/ebook/framework/kos/content/p;)V
+com/amazon/ebook/framework/kos/event/v
+do
+LocalVariableTable

@@ -1,0 +1,17 @@
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+equals
+(Ljava/lang/Object;Ljava/lang/Object;)Z
+Ljava/lang/Object;
+Z
+SourceFile
+java/lang/Object
+(Ljava/lang/Object;)Z
+JIb
+a
+Lcom/amazon/ebook/util/lang/d;
+com/amazon/ebook/util/lang/d
+egc

@@ -1,0 +1,9 @@
+compare
+(Ljava/lang/Object;Ljava/lang/Object;)I
+equals
+(Ljava/lang/Object;)Z
+SourceFile
+java/lang/Object
+com/mobipocket/common/c/h
+eb
+LocalVariableTable

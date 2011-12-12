@@ -1,0 +1,9 @@
+handlePrefixMatch
+(ILjava/util/Iterator;)Z
+SourceFile
+TextTrieMap.java
+com/ibm/icu/impl/TextTrieMap$ResultHandler
+ResultHandler
+InnerClasses
+java/lang/Object
+com/ibm/icu/impl/TextTrieMap

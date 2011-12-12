@@ -1,0 +1,172 @@
+Ljava/util/Set;
+Ljava/util/Map;
+Synthetic
+<init>
+Code
+LineNumberTable
+LocalVariableTable
+ActiveContentUpdateListener
+InnerClasses
+e
+Lcom/amazon/kindle/kindlet/internal/portability/net/NetworkCommunicationException;
+Z
+Ljava/lang/Integer;
+DownloadErrorCode
+Ljava/lang/String;
+SourceFile
+java/util/HashSet
+java/util/WeakHashMap
+java/lang/StringBuffer
+An active content item download was started: 
+, 
+,
+Unable to find a catalog item for the active content being downloaded. Ignoring the event as it is not an update.
+java/lang/String
+cdeKey
+cdeType
+java/lang/Object
+Cancelled download that failed before starting
+com/amazon/kindle/kindlet/internal/portability/net/NetworkCommunicationException
+DownloadCancellationFailed
+NetworkCommunicationException occurred when attempting to cancel download.
+downloadId
+java/lang/Integer
+Update started state set with a download start for 
+
+UpdateStartedOutOfOrder
+An active content update was started after failure
+An active content item download failed: 
+ and the error was: 
+internalError
+serverError.pattern
+invalidRequest.pattern
+transientFailure.pattern
+Handled a downloadFailed event with an unknown DownloadErrorCode: 
+generic.pattern
+Update started state unset with a download failure for 
+An active content item download was deferred: 
+ and the deferred reason was: 
+insufficientSpace
+requireWiFiOrSideload
+requireSideload
+Handled a downloadDeferred event with an unknown DownloadDeferralCode: 
+Exception occurred when attempting to cancel download.
+Update started state unset with a download deferral causing a cancellation for 
+An active content item download completed: 
+Active content download that did not originate as an update has completed for 
+()V
+java/util/Collections
+synchronizedSet
+(Ljava/util/Set;)Ljava/util/Set;
+synchronizedMap
+(Ljava/util/Map;)Ljava/util/Map;
+(I)Z
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+getCdeKey
+()Ljava/lang/String;
+getCdeType
+getTitle
+toString
+(Ljava/lang/String;)V
+(Ljava/lang/String;[Ljava/lang/String;[Ljava/lang/Object;)V
+()Z
+UpdateEventKey
+getId
+()I
+(I)V
+(Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;[Ljava/lang/Object;)V
+java/util/Set
+add
+(Ljava/lang/Object;)Z
+java/util/Map
+get
+(Ljava/lang/Object;)Ljava/lang/Object;
+intValue
+(Ljava/lang/Object;)Ljava/lang/StringBuffer;
+remove
+getErrorCode
+contains
+put
+(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+()Ljava/util/Set;
+(Ljava/lang/String;[Ljava/lang/String;[Ljava/lang/Object;Ljava/lang/Throwable;)V
+f
+Lcom/amazon/kindle/kindlet/internal/id;
+K
+l
+TE
+(Lcom/amazon/kindle/kindlet/internal/portability/net/a/y;)V
+a
+Lcom/amazon/kindle/kindlet/internal/kd;
+Lcom/amazon/kindle/kindlet/internal/portability/net/a/y;
+Lcom/amazon/ebook/framework/kos/content/p;
+zD
+(Lcom/amazon/kindle/kindlet/internal/portability/net/a/y;Lcom/amazon/kindle/kindlet/internal/portability/net/a/o;)V
+Lcom/amazon/kindle/kindlet/internal/portability/net/a/o;
+Lcom/amazon/kindle/kindlet/internal/c/p;
+bg
+(Lcom/amazon/kindle/kindlet/internal/portability/net/a/y;Lcom/amazon/kindle/kindlet/internal/portability/net/a/b;)V
+Lcom/amazon/kindle/kindlet/internal/portability/net/a/b;
+Lcom/amazon/kindle/kindlet/internal/portability/net/a/p;
+cDb
+(Lcom/amazon/kindle/kindlet/internal/portability/net/a/y;Lcom/amazon/kindle/kindlet/internal/c/p;)Z
+qg
+(Lcom/amazon/kindle/kindlet/internal/id;)V
+com/amazon/kindle/kindlet/internal/kd
+zqb
+com/amazon/kindle/kindlet/internal/portability/net/a/d
+F
+Lcom/amazon/kindle/kindlet/internal/install/b;
+pzA
+L
+I
+Lcom/amazon/kindle/kindlet/internal/portability/net/v;
+GG
+vCb
+(Lcom/amazon/kindle/kindlet/internal/id;)Lcom/amazon/kindle/kindlet/internal/portability/net/h;
+m
+J
+ozA
+YYA
+EA
+nvA
+()Lcom/amazon/kindle/kindlet/internal/portability/net/a/p;
+Gab
+ICb
+(Lcom/amazon/kindle/kindlet/internal/id;Lcom/amazon/ebook/framework/kos/content/p;Z)V
+XYA
+iAb
+EyA
+(Lcom/amazon/kindle/kindlet/internal/install/b;Ljava/lang/String;Ljava/lang/String;)V
+Jk
+GF
+kbb
+(Lcom/amazon/kindle/kindlet/internal/id;)Lcom/amazon/kindle/kindlet/internal/portability/net/a/h;
+UYA
+zbb
+(Lcom/amazon/kindle/kindlet/internal/id;Lcom/amazon/ebook/framework/kos/content/p;)Lcom/amazon/kindle/kindlet/internal/c/p;
+ZXA
+hqb
+(Lcom/amazon/ebook/framework/kos/content/catalog/r;Ljava/lang/String;Ljava/lang/String;)Lcom/amazon/ebook/framework/kos/content/p;
+UFb
+(Lcom/amazon/kindle/kindlet/internal/id;)Lcom/amazon/ebook/framework/kos/content/catalog/r;
+eYA
+yb
+VYA
+Eeb
+(Lcom/amazon/kindle/kindlet/internal/id;)Lcom/amazon/kindle/kindlet/internal/d/c;
+com/amazon/kindle/kindlet/internal/install/b
+com/amazon/kindle/kindlet/internal/portability/net/v
+com/amazon/kindle/kindlet/internal/portability/net/h
+com/amazon/kindle/kindlet/internal/portability/net/a/o
+com/amazon/kindle/kindlet/internal/portability/net/a/b
+com/amazon/ebook/framework/kos/content/p
+com/amazon/kindle/kindlet/internal/install/u
+com/amazon/kindle/kindlet/internal/portability/net/a/h
+com/amazon/kindle/kindlet/internal/c/p
+com/amazon/ebook/framework/kos/content/catalog/x
+com/amazon/kindle/kindlet/internal/portability/net/a/y
+com/amazon/kindle/kindlet/internal/d/c
+com/amazon/kindle/kindlet/internal/id
+com/amazon/kindle/kindlet/internal/portability/net/a/p

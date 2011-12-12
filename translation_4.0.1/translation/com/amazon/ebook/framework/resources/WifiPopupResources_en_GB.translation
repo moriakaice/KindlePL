@@ -1,0 +1,46 @@
+connect	połącz
+forget	zapomnij
+connecting...	łączenie...
+enter other Wi-Fi network	wprowadź inną sieć Wi-Fi
+scanning...	skanuje...
+rescan	skanuj ponownie
+secure	bezpieczne
+open	otwórz
+A Wi-Fi connection is required to complete this task. Connect to a Wi-Fi network or try again later.	Połączenie Wi-Fi jest wymagane, aby dokończyć to zadanie. Połącz się z siecią Wi-Fi lub spróbuj ponownie później.
+advanced	zaawansowane
+Enter Wi-Fi password for {0}:	Wprowadź hasło Wi-Fi dla {0}:
+hide	ukryj
+show	wyświetl
+Password:	Hasło:
+Unable to Connect to Wi-Fi Network~~~~	Nie można było połączyć z siecią Wi-Fi
+Your Kindle is unable to connect to the Wi-Fi network "{0}". 	Twój Kindle nie mógł się połączyć z siecią Wi-Fi "{0}". 
+Do you wish to try again or manually set up this network?	Czy chcesz spróbować ponownie lub ręcznie skonfigurować tą sieć?
+Do you wish to enter the password again or manually set up this network?	Czy chcesz spróbować wpisać hasło ponownie lub ręcznie skonfigurować tą sieć?
+Wi-Fi Networks: {0}	Sieci Wi-Fi: {0}
+Page {0} of {1}	Strona {0} z {1}
+Enter other Wi-Fi network	Wprowadź inną sieć Wi-Fi
+Network name:	Nazwa sieci:
+set up network	ustaw sieć
+enter password again	wprowadź hasło ponownie
+try again	spróbuj ponownie
+Sign-in required	Wpisanie wymagane
+The Wi-Fi network you are connecting to requires you to sign in before accessing the Internet.~~~~Do you wish to go to Web Browser to sign in?	Sieć Wi-Fi, z którą się łączysz wymaga wpisania się przed przeglądaniem internetu.~~~~Czy chcesz przejść do przeglądarki, aby się wpisać?
+go to browser	przejdź do przeglądarki
+The password you entered is incorrect or invalid.~~	Podane hasło jest niepoprawne.~~
+There is no Wi-Fi Profile configured for this network.~~	Nie ma skonfigurowanego profilu Wi-Fi dla tej sieci.~~
+Wi-Fi network connection failed.~~	Połączenie z siecią Wi-Fi nie powiodło się.~~
+Wi-Fi is not available right now. If the problem persists, please restart your device.~~	Wi-Fi nie jest teraz dostępne. Jeśli problem będzie się utrzymywał, zrestartuj urządzenie.~~
+Local network connection failed.~~	Połączenie z siecią lokalną nie powiodło się.~~
+Internet connection failed.~~	Połączenie z siecią nie powiodło się.~~
+WPS connection failed.~~	Połączenie WPS nie powiodło się.
+WPS connection failed. Try entering the password again.~~	Połączenie WPS nie powiodło się. Spróbuj wpisać hasło ponownie.~~
+Invalid Configuration.~~	Nieprawidłowa konfiguracja.~~
+The security type you entered does not match the security type of the Wi-Fi network you are trying to connect to.~~	Wprowadzony typ zabezpieczeń nie zgadza się z typem zabezpieczeń sieci Wi-Fi, z którą chcesz się połączyć.~~ 
+Access point rejected connection request. MAC filtering might be on.~~	Punkt dostępowy odrzucił prośbę połączenia. Filtrowanie MAC może być włączone.~~
+The name of the Wi-Fi network is too long.~~	Nazwa sieci Wi-Fi jest za długa.~~
+Enterprise Wi-Fi networks are not supported on Kindle. Try connecting to another network.~~	Sieci Wi-Fi typu Enterprise nie są obsługiwane w Kindle. Spróbuj połączyć się z inną siecią.~~
+The password you entered is longer than allowed by the Wi-Fi network. Try entering the password again.~~	Wprowadzone hasło jest dłuższe niż akceptowane przez sieć Wi-Fi. Spróbuj wpisać hasło ponownie.~~
+The password you entered is missing one or more characters. Try entering the password again.~~	Wprowadzone hasło jest za krótkie o jeden lub więcej znaków. Spróbuj wpisać hasło ponownie.~~
+Peer-to-peer Wi-Fi networks are not supported on Kindle. Try connecting to another network.~~	Sieci Wi-Fi typu peer-to-peer nie są obsługiwane w Kindle. Spróbuj połączyć się z inną siecią.~~
+Unsupported Wi-Fi network~~~~Enterprise or peer-to-peer Wi-Fi networks are not supported. Try connecting to another network.	Sieci Wi-Fi typu Enterprise lub peer-to-peer nie są obsługiwane w Kindle. Spróbuj połączyć się z inną siecią.~~
+You can also connect without entering a password. First, press the WPS button on your wireless router, and then select the WPS setup button above.	Możesz się również połączyć bez wpisywania hasła. Naciśnij przycisk WPS na routerze bezprzewodowym, a następnie wybierz przycisk WPS powyżej.

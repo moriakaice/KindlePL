@@ -1,0 +1,8 @@
+SourceFile
+DocumentsWriter.java
+Synthetic
+org/apache/lucene/index/DocumentsWriter$1
+
+InnerClasses
+java/lang/Object
+org/apache/lucene/index/DocumentsWriter

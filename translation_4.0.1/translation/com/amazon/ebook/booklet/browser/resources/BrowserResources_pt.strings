@@ -1,0 +1,71 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/browser/resources/BrowserResources_pt;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+bookmark.overwrite.prompt.msg
+Outra página com o mesmo título já está marcada. Deseja substituí-la?
+bookmark.remove_oldest.prompt.msg
+O limite de marcadores que você pode criar foi alcançado. Gostaria de excluir o marcador mais antigo para salvar este?
+messages.error.communication_error
+Seu Kindle não consegue conectar-se neste momento. Tente novamente mais tarde.
+messages.error.bad_download_type
+O navegador da web não pode fazer o download deste tipo de arquivo. Somente arquivos com a extensão .AZW, .PRC, .MOBI ou .TXT podem ser baixados para o seu Kindle.
+messages.error.bad_protocol
+O navegador da web não pode fazer download de arquivos usando este protocolo. Somente protocolos HTTP e HTTPS são suportados.
+messages.error.new_window_suppressed
+O navegador da web não pôde abrir este link pois não é possível abrir várias janelas.
+messages.error.ssl_failed
+O navegador da web não consegue estabelecer uma conexão segura com este web site.
+messages.error.out_of_memory1
+O navegador da web foi reiniciado porque ficou sem memória.
+messages.error.out_of_memory2
+messages.error.other
+Não foi possível carregar a página solicitada.
+messages.error.wireless_off
+A rede sem fio está desligada. Ligue sua rede sem fio no menu e tente novamente.
+messages.error.upload_declined
+O navegador da web não suporta carregamentos de arquivo.
+messages.error.print_declined
+O recurso de impressão não está disponível com o navegador da web.
+registration.dialog.title
+Primeiramente, você deve registrar seu Kindle.
+not_registered.dialog.title
+Registro necessário
+not_registered.dialog.body
+Para navegar usando 3G sem fio, primeiramente, você deve registrar seu Kindle na sua conta de usuário da Amazon. Por favor, vá para Configurações para registrá-lo.
+search.internet.url.pattern
+http://www.google.com.br/search?q={0}
+search.wiki.url.pattern
+http://pt.wikipedia.org/wiki?search={0}
+internet.amazon.social.pattern
+https://kindle.amazon.com/social
+download.dialog.title
+Fazer download de arquivo
+download.dialog.body
+Tem certeza de que deseja baixar {0}? Após a conclusão do download, o arquivo aparecerá em sua tela inicial.
+download.complete.alert.body
+O navegador da web foi baixado com sucesso {0}.
+download.error.alert.body
+O navegador da web não conseguiu baixar {0}. Tente novamente mais tarde.
+http_authentication.dialog.title
+Autenticação necessária
+http_authentication.dialog.description
+O site {0} em {1} exige um nome de usuário e uma senha.
+ssl_exception.dialog.title
+Certificado inválido
+ssl_exception.dialog.body
+O navegador da web não consegue estabelecer uma conexão segura com o website {0}. Ainda deseja prosseguir?
+com/amazon/ebook/booklet/browser/resources/BrowserResources_pt
+java/util/ListResourceBundle
+f
+a
+ssg

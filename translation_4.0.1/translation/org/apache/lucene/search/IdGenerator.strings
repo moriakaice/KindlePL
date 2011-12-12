@@ -1,0 +1,10 @@
+generate
+(Lorg/apache/lucene/index/IndexReader;)V
+Exceptions
+handleDoc
+(I)V
+SourceFile
+PrefixFilter.java
+org/apache/lucene/search/IdGenerator
+java/lang/Object
+java/io/IOException

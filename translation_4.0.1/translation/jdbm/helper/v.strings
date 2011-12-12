@@ -1,0 +1,15 @@
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+next
+()Ljava/lang/Object;
+Exceptions
+SourceFile
+java/lang/Object
+jdbm/helper/IterationException
+a
+Ljdbm/helper/v;
+jdbm/helper/v
+st

@@ -1,0 +1,9 @@
+parseLong
+(Ljava/lang/String;)J
+SourceFile
+ExtendedFieldCache.java
+org/apache/lucene/search/ExtendedFieldCache$LongParser
+LongParser
+InnerClasses
+java/lang/Object
+org/apache/lucene/search/ExtendedFieldCache

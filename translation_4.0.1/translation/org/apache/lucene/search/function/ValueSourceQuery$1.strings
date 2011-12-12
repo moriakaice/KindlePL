@@ -1,0 +1,8 @@
+SourceFile
+ValueSourceQuery.java
+Synthetic
+org/apache/lucene/search/function/ValueSourceQuery$1
+
+InnerClasses
+java/lang/Object
+org/apache/lucene/search/function/ValueSourceQuery

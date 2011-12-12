@@ -1,0 +1,25 @@
+Ljava/lang/String;
+<init>
+(Ljava/lang/String;)V
+Code
+LineNumberTable
+LocalVariableTable
+getName
+()Ljava/lang/String;
+SupportLevel
+InnerClasses
+(Ljava/lang/String;)Lcom/amazon/kindle/kindlet/device/Device$SupportLevel;
+toString
+SourceFile
+java/lang/IllegalArgumentException
+Attribute name cannot be null
+java/lang/Object
+com/amazon/kindle/kindlet/device/Device$SupportLevel
+()V
+com/amazon/kindle/kindlet/device/Device
+f
+tdb
+a
+Lcom/amazon/kindle/kindlet/internal/g/a/d;
+com/amazon/kindle/kindlet/internal/g/a/d
+sqb

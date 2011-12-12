@@ -1,0 +1,18 @@
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+this
+MergeAbortedException
+InnerClasses
+Lorg/apache/lucene/index/MergePolicy$MergeAbortedException;
+(Ljava/lang/String;)V
+message
+Ljava/lang/String;
+SourceFile
+MergePolicy.java
+merge is aborted
+org/apache/lucene/index/MergePolicy$MergeAbortedException
+java/io/IOException
+org/apache/lucene/index/MergePolicy

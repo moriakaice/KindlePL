@@ -1,0 +1,45 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/ActionArchiveResources_pt;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+downloading.items.format
+0#Fazendo o download de {0} itens...|1#Fazendo o download de {0} item...|2#Fazendo o download de {0} itens...
+downloaded.items.format
+0#Itens {0} baixados...|1#Item {0} baixado...|2#Itens {0} baixados...
+download.task.manager.one.item
+item
+download.task.manager.multiple.items
+items
+download.task.manager.downloading.message
+Downloading {0} {1}...
+download.task.manager.downloaded.message
+Downloaded {0} {1}...
+add.to.home.action.text
+adicionar à página inicial
+add.to.home.action.text.offset
+java/lang/Integer
+add.to.home.action.button.y.offset
+yml.default.download.error.msg
+Falha no download. Tente novamente.
+yml.download.error.notenoughspace
+Não foi possível baixar "{0}" devido à insuficiência de memória do Kindle. Libere espaço removendo conteúdo da página inicial.
+yml.download.wan.off
+Sua rede sem fio está desligada. Por favor, ligue-a e tente novamente.
+yml.additem.sound
+yml.download.action.turn.on.wifi.text
+Ative a rede sem fio e faça o download
+com/amazon/ebook/booklet/home/foundation/resources/ActionArchiveResources_pt
+java/util/ListResourceBundle
+(I)V
+f
+a
+nfg

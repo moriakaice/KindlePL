@@ -1,0 +1,34 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/view/endactions/resources/YourStatsResources_de;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+yourstats.header
+Ihre Statistik
+yourstats.body.no_highlights
+java/text/MessageFormat
+{0,choice,0#Sie haben keine Markierungen oder Notizen|1#Sie haben 1 Notiz|2#Sie haben {0} Notizen}
+yourstats.body.one_highlight
+{0,choice,0#Sie haben 1 Markierung|1#Sie haben 1 Markierung und 1 Notiz|2#Sie haben 1 Markierung und {0} Notizen}
+yourstats.body.many_highlights
+{0,choice,0#Sie haben {1} Markierungen|1#Sie haben {1} Markierungen und 1 Notiz|2#Sie haben {1} Markierungen und {0} Notizen}
+font.style
+java/lang/Integer
+header.steps.away.from.current.font.size
+bullet.right.padding.adjustment
+bullet.steps.away.from.current.font.size
+com/amazon/ebook/booklet/reader/gui/view/endactions/resources/YourStatsResources_de
+java/util/ListResourceBundle
+(Ljava/lang/String;)V
+(I)V
+f
+a
+mye

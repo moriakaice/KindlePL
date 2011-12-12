@@ -1,0 +1,16 @@
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+(Lcom/amazon/ebook/booklet/pdfreader/impl/ScreenIdentifier;Lcom/amazon/ebook/booklet/pdfreader/impl/ScreenIdentifier;Ljava/util/Map;J)J
+Lcom/amazon/ebook/booklet/pdfreader/impl/ScreenIdentifier;
+Ljava/util/Map;
+J
+SourceFile
+java/lang/Object
+eYc
+a
+Lcom/amazon/ebook/booklet/pdfreader/impl/ib;
+com/amazon/ebook/booklet/pdfreader/impl/ib
+mif

@@ -1,0 +1,66 @@
+lockDir
+Ljava/io/File;
+acquireTestLock
+()V
+Code
+LineNumberTable
+LocalVariableTable
+e2
+Ljava/io/IOException;
+e
+this
+Lorg/apache/lucene/store/NativeFSLockFactory;
+randomLockName
+Ljava/lang/String;
+l
+Lorg/apache/lucene/store/Lock;
+Exceptions
+<init>
+(Ljava/lang/String;)V
+lockDirName
+(Ljava/io/File;)V
+setLockDir
+makeLock
+(Ljava/lang/String;)Lorg/apache/lucene/store/Lock;
+lockName
+clearLock
+lockFile
+SourceFile
+NativeFSLockFactory.java
+java/lang/StringBuffer
+lucene-
+java/util/Random
+-test.lock
+java/io/IOException
+Failed to acquire random test lock; please verify filesystem for lock directory '
+' supports locking
+java/io/File
+Cannot create directory: 
+Found regular file where directory expected: 
+-n-
+org/apache/lucene/store/NativeFSLock
+Cannot delete 
+org/apache/lucene/store/NativeFSLockFactory
+org/apache/lucene/store/LockFactory
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+nextInt
+()I
+java/lang/Long
+toString
+(JI)Ljava/lang/String;
+()Ljava/lang/String;
+org/apache/lucene/store/Lock
+obtain
+()Z
+(Ljava/lang/Object;)Ljava/lang/StringBuffer;
+initCause
+(Ljava/lang/Throwable;)Ljava/lang/Throwable;
+release
+exists
+mkdirs
+getAbsolutePath
+isDirectory
+lockPrefix
+(Ljava/io/File;Ljava/lang/String;)V
+delete

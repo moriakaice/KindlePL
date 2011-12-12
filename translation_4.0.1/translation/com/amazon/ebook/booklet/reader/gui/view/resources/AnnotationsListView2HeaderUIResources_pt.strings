@@ -1,0 +1,82 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/view/resources/AnnotationsListView2HeaderUIResources_pt;
+getContents
+()[[Ljava/lang/Object;
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+format.caption.show.all.plural
+Exibindo as {0} notas e marcadores
+format.caption.show.all.singular
+Exibindo {0} nota e marcador
+format.caption.show.all.none
+Não há notas ou marcadores
+format.caption.show.bookmark.plural
+Exibindo {0} marcadores
+format.caption.show.bookmark.singular
+Exibindo {0} marcador
+format.caption.show.bookmark.none
+Não há marcadores
+format.caption.show.note.plural
+Exibindo {0} notas
+format.caption.show.note.singular
+Exibindo {0} nota
+format.caption.show.note.none
+Não há notas
+format.caption.show.highlight.plural
+Exibindo {0} destaques
+format.caption.show.highlight.singular
+Exibindo {0} destaque
+format.caption.show.highlight.none
+Não há destaques
+format.caption.show.popular.highlight.plural
+Exibindo {0} destaques populares
+format.caption.show.popular.highlight.singular
+Exibindo {0} destaque popular
+format.caption.show.popular.highlight.none
+Não há destaques populares
+format.caption.show.subscribed.note.plural
+Exibindo {0} anotações inscritas
+format.caption.show.subscribed.note.singular
+Exibindo {0} anotação inscrita
+format.caption.show.subscribed.note.none
+Não há anotações inscritas
+label.show.all
+Exibir todas
+label.show.bookmarks
+Marcadores
+label.show.notes
+Notas
+label.show.highlights
+Destaques
+label.sort.by.location
+Por posição
+label.sort.by.most.popular
+Por mais popular
+label.sort.option.location
+Posição
+label.sort.option.popular
+Mais popular
+label.speak.header
+{0,choice,0#Exibir|1#Classificar por} {1}
+label.arrow.gap
+java/lang/Integer
+label.default.font
+label.sort.alignment
+color.background
+color.foreground
+com/amazon/ebook/booklet/reader/gui/view/resources/AnnotationsListView2HeaderUIResources_pt
+java/util/ListResourceBundle
+(I)V
+Ljava/awt/Color;
+f
+a
+eie
+I
+C
+com/amazon/ebook/framework/gui/c

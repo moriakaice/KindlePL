@@ -1,0 +1,9 @@
+isDataVersionAcceptable
+([B)Z
+SourceFile
+ICUBinary.java
+com/ibm/icu/impl/ICUBinary$Authenticate
+Authenticate
+InnerClasses
+java/lang/Object
+com/ibm/icu/impl/ICUBinary

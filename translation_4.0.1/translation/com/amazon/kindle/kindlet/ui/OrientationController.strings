@@ -1,0 +1,13 @@
+getOrientation
+()I
+lockOrientation
+(I)V
+unlockOrientation
+()V
+isOrientationLocked
+()Z
+SourceFile
+com/amazon/kindle/kindlet/ui/OrientationController
+java/lang/Object
+ij
+LocalVariableTable

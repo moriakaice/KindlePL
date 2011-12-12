@@ -1,0 +1,17 @@
+(Z)Ljava/lang/String;
+()Ljava/lang/String;
+Exceptions
+SourceFile
+java/lang/Object
+com/amazon/ebook/framework/device/comm/AmazonSocialException
+MI
+(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/Integer;Lcom/amazon/ebook/framework/device/comm/c;)V
+KH
+(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/Integer;Ljava/lang/Integer;Lcom/amazon/ebook/framework/device/comm/c;)V
+Lh
+(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/Integer;Ljava/lang/String;Ljava/lang/Integer;Ljava/lang/Integer;ZLcom/amazon/ebook/framework/device/comm/c;)V
+mH
+gj
+com/amazon/ebook/framework/device/comm/ws/v
+hj
+LocalVariableTable

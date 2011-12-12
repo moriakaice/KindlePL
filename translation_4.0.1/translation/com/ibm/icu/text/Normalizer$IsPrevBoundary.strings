@@ -1,0 +1,9 @@
+isPrevBoundary
+(Lcom/ibm/icu/text/UCharacterIterator;II[C)Z
+SourceFile
+Normalizer.java
+com/ibm/icu/text/Normalizer$IsPrevBoundary
+IsPrevBoundary
+InnerClasses
+java/lang/Object
+com/ibm/icu/text/Normalizer

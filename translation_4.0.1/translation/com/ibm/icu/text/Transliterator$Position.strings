@@ -1,0 +1,46 @@
+contextStart
+I
+contextLimit
+start
+limit
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Position
+InnerClasses
+Lcom/ibm/icu/text/Transliterator$Position;
+(III)V
+(IIII)V
+(Lcom/ibm/icu/text/Transliterator$Position;)V
+pos
+set
+equals
+(Ljava/lang/Object;)Z
+obj
+Ljava/lang/Object;
+toString
+()Ljava/lang/String;
+validate
+(I)V
+length
+SourceFile
+Transliterator.java
+com/ibm/icu/text/Transliterator$Position
+java/lang/StringBuffer
+[cs=
+, s=
+, l=
+, cl=
+]
+java/lang/IllegalArgumentException
+Invalid Position {cs=
+}, len=
+java/lang/Object
+com/ibm/icu/text/Transliterator
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(I)Ljava/lang/StringBuffer;
+(Ljava/lang/String;)V

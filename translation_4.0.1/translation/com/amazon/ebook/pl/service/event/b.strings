@@ -1,0 +1,8 @@
+onPowerStateChange
+SourceFile
+java/lang/Object
+(Lcom/amazon/ebook/pl/service/event/cb;)I
+com/amazon/ebook/pl/service/event/b
+qc
+com/amazon/ebook/pl/service/event/h
+LocalVariableTable

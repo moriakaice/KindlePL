@@ -1,0 +1,28 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/resources/CheckItemsResources_pt;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+progress.checking
+Verificando...
+wm.cant.connect.msg
+Seu Kindle não consegue conectar-se neste momento. Tente novamente mais tarde.
+item.body
+Procurar e sincronizar itens
+radio.off.body
+Seu rádio está desligado. Não é possível verificar novos itens.
+item.date.format
+{0,date}-{0,time}
+com/amazon/ebook/framework/resources/CheckItemsResources_pt
+java/util/ListResourceBundle
+f
+a
+coc

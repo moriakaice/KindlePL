@@ -1,0 +1,42 @@
+fContents
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lcom/ibm/icu/impl/data/HolidayBundle_da;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+HolidayBundle_da.java
+[Ljava/lang/Object;
+java/lang/Object
+Armistice Day
+våbenhvile
+Ascension
+himmelfart
+Boxing Day
+anden juledag
+Christmas Eve
+juleaften
+Easter
+påske
+Epiphany
+helligtrekongersdag
+Good Friday
+langfredag
+Halloween
+allehelgensaften
+Maundy Thursday
+skærtorsdag
+Palm Sunday
+palmesøndag
+Pentecost
+pinse
+Shrove Tuesday
+hvidetirsdag
+com/ibm/icu/impl/data/HolidayBundle_da
+java/util/ListResourceBundle

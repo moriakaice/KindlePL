@@ -1,0 +1,24 @@
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+this
+TooManyClauses
+InnerClasses
+Lorg/apache/lucene/search/BooleanQuery$TooManyClauses;
+getMessage
+()Ljava/lang/String;
+SourceFile
+BooleanQuery.java
+java/lang/StringBuffer
+maxClauseCount is set to 
+org/apache/lucene/search/BooleanQuery$TooManyClauses
+java/lang/RuntimeException
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+org/apache/lucene/search/BooleanQuery
+access$000
+()I
+(I)Ljava/lang/StringBuffer;
+toString

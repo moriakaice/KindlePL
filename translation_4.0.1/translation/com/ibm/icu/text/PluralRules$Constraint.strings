@@ -1,0 +1,12 @@
+isFulfilled
+(D)Z
+updateRepeatLimit
+(I)I
+SourceFile
+PluralRules.java
+com/ibm/icu/text/PluralRules$Constraint
+Constraint
+InnerClasses
+java/lang/Object
+java/io/Serializable
+com/ibm/icu/text/PluralRules

@@ -1,0 +1,13 @@
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lorg/apache/lucene/search/DocIdSet;
+iterator
+()Lorg/apache/lucene/search/DocIdSetIterator;
+SourceFile
+DocIdSet.java
+org/apache/lucene/search/DocIdSet
+java/lang/Object

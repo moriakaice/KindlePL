@@ -1,0 +1,9 @@
+newComparator
+(Lorg/apache/lucene/index/IndexReader;Ljava/lang/String;)Lorg/apache/lucene/search/ScoreDocComparator;
+Exceptions
+SourceFile
+SortComparatorSource.java
+org/apache/lucene/search/SortComparatorSource
+java/lang/Object
+java/io/Serializable
+java/io/IOException

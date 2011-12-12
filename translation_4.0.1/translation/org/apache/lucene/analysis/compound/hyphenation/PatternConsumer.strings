@@ -1,0 +1,10 @@
+addClass
+(Ljava/lang/String;)V
+addException
+(Ljava/lang/String;Ljava/util/ArrayList;)V
+addPattern
+(Ljava/lang/String;Ljava/lang/String;)V
+SourceFile
+PatternConsumer.java
+org/apache/lucene/analysis/compound/hyphenation/PatternConsumer
+java/lang/Object

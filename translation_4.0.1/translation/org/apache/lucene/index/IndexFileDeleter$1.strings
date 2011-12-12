@@ -1,0 +1,8 @@
+SourceFile
+IndexFileDeleter.java
+Synthetic
+org/apache/lucene/index/IndexFileDeleter$1
+
+InnerClasses
+java/lang/Object
+org/apache/lucene/index/IndexFileDeleter

@@ -1,0 +1,808 @@
+MaxFieldLength
+InnerClasses
+WRITE_LOCK_TIMEOUT
+J
+writeLockTimeout
+WRITE_LOCK_NAME
+Ljava/lang/String;
+ConstantValue
+DEFAULT_MERGE_FACTOR
+I
+Deprecated
+DISABLE_AUTO_FLUSH
+DEFAULT_MAX_BUFFERED_DOCS
+DEFAULT_RAM_BUFFER_SIZE_MB
+D
+DEFAULT_MAX_BUFFERED_DELETE_TERMS
+DEFAULT_MAX_MERGE_DOCS
+DEFAULT_MAX_FIELD_LENGTH
+DEFAULT_TERM_INDEX_INTERVAL
+MAX_TERM_LENGTH
+DEFAULT_MAX_SYNC_PAUSE_SECONDS
+MERGE_READ_BUFFER_SIZE
+MESSAGE_ID_LOCK
+Ljava/lang/Object;
+MESSAGE_ID
+messageID
+hitOOM
+Z
+directory
+Lorg/apache/lucene/store/Directory;
+analyzer
+Lorg/apache/lucene/analysis/Analyzer;
+similarity
+Lorg/apache/lucene/search/Similarity;
+changeCount
+lastCommitChangeCount
+rollbackSegmentInfos
+Lorg/apache/lucene/index/SegmentInfos;
+rollbackSegments
+Ljava/util/HashMap;
+pendingCommit
+pendingCommitChangeCount
+localRollbackSegmentInfos
+localAutoCommit
+localFlushedDocCount
+autoCommit
+segmentInfos
+docWriter
+Lorg/apache/lucene/index/DocumentsWriter;
+deleter
+Lorg/apache/lucene/index/IndexFileDeleter;
+segmentsToOptimize
+Ljava/util/Set;
+writeLock
+Lorg/apache/lucene/store/Lock;
+termIndexInterval
+closeDir
+closed
+closing
+mergingSegments
+Ljava/util/HashSet;
+mergePolicy
+Lorg/apache/lucene/index/MergePolicy;
+mergeScheduler
+Lorg/apache/lucene/index/MergeScheduler;
+pendingMerges
+Ljava/util/LinkedList;
+runningMerges
+mergeExceptions
+Ljava/util/List;
+mergeGen
+stopMerges
+flushCount
+flushDeletesCount
+maxSyncPauseSeconds
+readCount
+writeThread
+Ljava/lang/Thread;
+upgradeCount
+maxFieldLength
+infoStream
+Ljava/io/PrintStream;
+defaultInfoStream
+synced
+syncing
+$assertionsDisabled
+Synthetic
+class$org$apache$lucene$index$IndexWriter
+Ljava/lang/Class;
+acquireWrite
+()V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lorg/apache/lucene/index/IndexWriter;
+releaseWrite
+acquireRead
+current
+upgradeReadToWrite
+releaseRead
+ensureOpen
+(Z)V
+includePendingClose
+Exceptions
+message
+(Ljava/lang/String;)V
+setMessageID
+(Ljava/io/PrintStream;)V
+getLogMergePolicy
+()Lorg/apache/lucene/index/LogMergePolicy;
+getUseCompoundFile
+()Z
+setUseCompoundFile
+value
+setSimilarity
+(Lorg/apache/lucene/search/Similarity;)V
+getSimilarity
+()Lorg/apache/lucene/search/Similarity;
+setTermIndexInterval
+(I)V
+interval
+getTermIndexInterval
+()I
+<init>
+(Ljava/lang/String;Lorg/apache/lucene/analysis/Analyzer;ZLorg/apache/lucene/index/IndexWriter$MaxFieldLength;)V
+path
+a
+create
+mfl
+Lorg/apache/lucene/index/IndexWriter$MaxFieldLength;
+(Ljava/lang/String;Lorg/apache/lucene/analysis/Analyzer;Z)V
+(Ljava/io/File;Lorg/apache/lucene/analysis/Analyzer;ZLorg/apache/lucene/index/IndexWriter$MaxFieldLength;)V
+Ljava/io/File;
+(Ljava/io/File;Lorg/apache/lucene/analysis/Analyzer;Z)V
+(Lorg/apache/lucene/store/Directory;Lorg/apache/lucene/analysis/Analyzer;ZLorg/apache/lucene/index/IndexWriter$MaxFieldLength;)V
+d
+(Lorg/apache/lucene/store/Directory;Lorg/apache/lucene/analysis/Analyzer;Z)V
+(Ljava/lang/String;Lorg/apache/lucene/analysis/Analyzer;Lorg/apache/lucene/index/IndexWriter$MaxFieldLength;)V
+(Ljava/lang/String;Lorg/apache/lucene/analysis/Analyzer;)V
+(Ljava/io/File;Lorg/apache/lucene/analysis/Analyzer;Lorg/apache/lucene/index/IndexWriter$MaxFieldLength;)V
+(Ljava/io/File;Lorg/apache/lucene/analysis/Analyzer;)V
+(Lorg/apache/lucene/store/Directory;Lorg/apache/lucene/analysis/Analyzer;Lorg/apache/lucene/index/IndexWriter$MaxFieldLength;)V
+(Lorg/apache/lucene/store/Directory;Lorg/apache/lucene/analysis/Analyzer;)V
+(Lorg/apache/lucene/store/Directory;ZLorg/apache/lucene/analysis/Analyzer;)V
+(Lorg/apache/lucene/store/Directory;ZLorg/apache/lucene/analysis/Analyzer;Z)V
+(Lorg/apache/lucene/store/Directory;Lorg/apache/lucene/analysis/Analyzer;Lorg/apache/lucene/index/IndexDeletionPolicy;Lorg/apache/lucene/index/IndexWriter$MaxFieldLength;)V
+deletionPolicy
+Lorg/apache/lucene/index/IndexDeletionPolicy;
+(Lorg/apache/lucene/store/Directory;ZLorg/apache/lucene/analysis/Analyzer;Lorg/apache/lucene/index/IndexDeletionPolicy;)V
+(Lorg/apache/lucene/store/Directory;Lorg/apache/lucene/analysis/Analyzer;ZLorg/apache/lucene/index/IndexDeletionPolicy;Lorg/apache/lucene/index/IndexWriter$MaxFieldLength;)V
+(Lorg/apache/lucene/store/Directory;ZLorg/apache/lucene/analysis/Analyzer;ZLorg/apache/lucene/index/IndexDeletionPolicy;)V
+init
+(Lorg/apache/lucene/store/Directory;Lorg/apache/lucene/analysis/Analyzer;ZLorg/apache/lucene/index/IndexDeletionPolicy;ZI)V
+(Lorg/apache/lucene/store/Directory;Lorg/apache/lucene/analysis/Analyzer;ZZLorg/apache/lucene/index/IndexDeletionPolicy;ZI)V
+e
+Ljava/io/IOException;
+j
+info
+Lorg/apache/lucene/index/SegmentInfo;
+files
+i
+setRollbackSegmentInfos
+(Lorg/apache/lucene/index/SegmentInfos;)V
+infos
+size
+setMergePolicy
+(Lorg/apache/lucene/index/MergePolicy;)V
+mp
+getMergePolicy
+()Lorg/apache/lucene/index/MergePolicy;
+setMergeScheduler
+(Lorg/apache/lucene/index/MergeScheduler;)V
+getMergeScheduler
+()Lorg/apache/lucene/index/MergeScheduler;
+setMaxMergeDocs
+maxMergeDocs
+getMaxMergeDocs
+setMaxFieldLength
+getMaxFieldLength
+setMaxBufferedDocs
+maxBufferedDocs
+pushMaxBufferedDocs
+lmp
+Lorg/apache/lucene/index/LogDocMergePolicy;
+getMaxBufferedDocs
+setRAMBufferSizeMB
+(D)V
+mb
+getRAMBufferSizeMB
+()D
+setMaxBufferedDeleteTerms
+maxBufferedDeleteTerms
+getMaxBufferedDeleteTerms
+setMergeFactor
+mergeFactor
+getMergeFactor
+getMaxSyncPauseSeconds
+setMaxSyncPauseSeconds
+seconds
+setDefaultInfoStream
+getDefaultInfoStream
+()Ljava/io/PrintStream;
+setInfoStream
+messageState
+getInfoStream
+setWriteLockTimeout
+(J)V
+getWriteLockTimeout
+()J
+setDefaultWriteLockTimeout
+getDefaultWriteLockTimeout
+close
+waitForMerges
+shouldClose
+closeInternal
+oom
+Ljava/lang/OutOfMemoryError;
+flushDocStores
+cfsWriter
+Lorg/apache/lucene/index/CompoundFileWriter;
+it
+Ljava/util/Iterator;
+si
+numSegments
+compoundFileName
+useCompoundDocStore
+docStoreSegment
+success
+finalize
+getDirectory
+()Lorg/apache/lucene/store/Directory;
+getAnalyzer
+()Lorg/apache/lucene/analysis/Analyzer;
+docCount
+maxDoc
+count
+numDocs
+hasDeletions
+addDocument
+(Lorg/apache/lucene/document/Document;)V
+doc
+Lorg/apache/lucene/document/Document;
+(Lorg/apache/lucene/document/Document;Lorg/apache/lucene/analysis/Analyzer;)V
+Ljava/util/Collection;
+doFlush
+deleteDocuments
+(Lorg/apache/lucene/index/Term;)V
+term
+Lorg/apache/lucene/index/Term;
+([Lorg/apache/lucene/index/Term;)V
+terms
+[Lorg/apache/lucene/index/Term;
+(Lorg/apache/lucene/search/Query;)V
+query
+Lorg/apache/lucene/search/Query;
+([Lorg/apache/lucene/search/Query;)V
+queries
+[Lorg/apache/lucene/search/Query;
+updateDocument
+(Lorg/apache/lucene/index/Term;Lorg/apache/lucene/document/Document;)V
+(Lorg/apache/lucene/index/Term;Lorg/apache/lucene/document/Document;Lorg/apache/lucene/analysis/Analyzer;)V
+getSegmentCount
+getNumBufferedDocuments
+getDocCount
+(I)I
+getFlushCount
+getFlushDeletesCount
+newSegmentName
+()Ljava/lang/String;
+optimize
+maxNumSegments
+doWait
+(IZ)V
+merge
+OneMerge
+Lorg/apache/lucene/index/MergePolicy$OneMerge;
+err
+t
+Ljava/lang/Throwable;
+optimizeMergesPending
+expungeDeletes
+numMerges
+ioe
+running
+spec
+MergeSpecification
+Lorg/apache/lucene/index/MergePolicy$MergeSpecification;
+maybeMerge
+maxNumSegmentsOptimize
+updatePendingMerges
+getNextMerge
+()Lorg/apache/lucene/index/MergePolicy$OneMerge;
+getNextExternalMerge
+startTransaction
+haveReadLock
+rollbackTransaction
+commitTransaction
+abort
+rollback
+rollbackInternal
+finishMerges
+checkpoint
+finishAddIndexes
+blockAddIndexes
+resumeAddIndexes
+addIndexes
+([Lorg/apache/lucene/store/Directory;)V
+sis
+dirs
+[Lorg/apache/lucene/store/Directory;
+resetMergeExceptions
+noDupDirs
+dups
+addIndexesNoOptimize
+hasExternalSegments
+(Lorg/apache/lucene/index/SegmentInfos;)Z
+resolveExternalSegments
+newMerge
+any
+done
+([Lorg/apache/lucene/index/IndexReader;)V
+sReader
+Lorg/apache/lucene/index/IndexReader;
+mergedName
+merger
+Lorg/apache/lucene/index/SegmentMerger;
+readers
+[Lorg/apache/lucene/index/IndexReader;
+doAfterFlush
+flush
+prepareCommit
+internal
+commit
+sizeInBytes
+finishCommit
+(ZZZ)V
+triggerMerge
+flushDeletes
+(ZZ)Z
+flushedDocCount
+newSegment
+flushDocs
+docStoreOffset
+docStoreIsCompoundFile
+segment
+ramSizeInBytes
+numRamDocs
+ensureContiguousMerge
+(Lorg/apache/lucene/index/MergePolicy$OneMerge;)I
+first
+numSegmentsToMerge
+commitMergedDeletes
+(Lorg/apache/lucene/index/MergePolicy$OneMerge;)V
+currentDeletes
+Lorg/apache/lucene/util/BitVector;
+previousDeletes
+previousInfo
+currentInfo
+sourceSegmentsClone
+sourceSegments
+deletes
+docUpto
+delCount
+commitMerge
+(Lorg/apache/lucene/index/MergePolicy$OneMerge;Lorg/apache/lucene/index/SegmentMerger;I)Z
+mergedDocCount
+start
+mergeDocStoreSegment
+decrefMergeSegments
+handleMergeException
+(Ljava/lang/Throwable;Lorg/apache/lucene/index/MergePolicy$OneMerge;)V
+registerMerge
+(Lorg/apache/lucene/index/MergePolicy$OneMerge;)Z
+isExternal
+mergeInit
+_mergeInit
+changed
+end
+lastDir
+lastDocStoreSegment
+next
+mergeDocStores
+doFlushDocStore
+currentDocStoreSegment
+doCommitBeforeMergeCFS
+oldInfo
+loc
+Ljava/lang/Integer;
+freeableBytes
+totalBytes
+mergeFinish
+mergeMiddle
+reader
+totDocCount
+addMergeException
+applyDeletes
+newDelFileName
+delFileName
+getBufferedDeleteTermsSize
+getNumBufferedDeleteTerms
+newestSegment
+()Lorg/apache/lucene/index/SegmentInfo;
+segString
+(Lorg/apache/lucene/index/SegmentInfos;)Ljava/lang/String;
+buffer
+Ljava/lang/StringBuffer;
+startSync
+(Ljava/lang/String;Ljava/util/Collection;)Z
+fileName
+pending
+finishSync
+(Ljava/lang/String;Z)V
+waitForAllSynced
+(Ljava/util/Collection;)Z
+ie
+Ljava/lang/InterruptedException;
+syncPause
+pauseTime
+maxPauseTime
+sleepCount
+startCommit
+toSync
+myChangeCount
+setPending
+isLocked
+(Lorg/apache/lucene/store/Directory;)Z
+(Ljava/lang/String;)Z
+dir
+unlock
+(Lorg/apache/lucene/store/Directory;)V
+testPoint
+name
+class$
+(Ljava/lang/String;)Ljava/lang/Class;
+x1
+Ljava/lang/ClassNotFoundException;
+x0
+<clinit>
+SourceFile
+IndexWriter.java
+java/lang/ClassNotFoundException
+java/lang/NoClassDefFoundError
+java/lang/AssertionError
+org/apache/lucene/store/AlreadyClosedException
+this IndexWriter is closed
+java/lang/StringBuffer
+IW 
+ [
+]: 
+org/apache/lucene/index/LogMergePolicy
+java/lang/IllegalArgumentException
+this method can only be called when the merge policy is the default LogMergePolicy
+org/apache/lucene/index/SegmentInfos
+java/util/HashSet
+org/apache/lucene/index/LogByteSizeMergePolicy
+org/apache/lucene/index/ConcurrentMergeScheduler
+java/util/LinkedList
+java/util/ArrayList
+write.lock
+org/apache/lucene/store/LockObtainFailedException
+Index locked for write: 
+java/io/IOException
+org/apache/lucene/index/DocumentsWriter
+org/apache/lucene/index/IndexFileDeleter
+org/apache/lucene/index/KeepOnlyLastCommitDeletionPolicy
+init: create=
+java/util/HashMap
+java/lang/Integer
+java/lang/NullPointerException
+MergePolicy must be non-null
+setMergePolicy 
+MergeScheduler must be non-null
+setMergeScheduler 
+setMaxFieldLength 
+maxBufferedDocs must at least be 2 when enabled
+at least one of ramBufferSize and maxBufferedDocs must be enabled
+setMaxBufferedDocs 
+org/apache/lucene/index/LogDocMergePolicy
+now push maxBufferedDocs 
+ to LogDocMergePolicy
+ramBufferSize should be > 0.0 MB when enabled
+setRAMBufferSizeMB 
+maxBufferedDeleteTerms must at least be 1 when enabled
+setMaxBufferedDeleteTerms 
+setInfoStream: dir=
+ autoCommit=
+ mergePolicy=
+ mergeScheduler=
+ ramBufferSizeMB=
+ maxBufferedDocs=
+ maxBuffereDeleteTerms=
+ maxFieldLength=
+ index=
+now flush at close
+now call final commit()
+at close: 
+hit exception while closing
+java/lang/OutOfMemoryError
+hit exception closing doc store segment
+.
+cfx
+org/apache/lucene/index/CompoundFileWriter
+java/lang/String
+hit exception building compound file doc store for segment 
+hit exception adding document
+hit exception updating document
+_
+maxNumSegments must be >= 1; got 
+optimize: index now 
+org/apache/lucene/index/MergePolicy$OneMerge
+background merge hit exception: 
+expungeDeletes: index now 
+now start transaction
+calling startTransaction with buffered delete terms not supported: numBufferedDeleteTerms=
+calling startTransaction with buffered documents not supported: numDocsInRAM=
+flush at startTransaction
+now rollback transaction
+now commit transaction
+hit exception committing transaction
+java/lang/IllegalStateException
+rollback() can only be called when IndexWriter was opened with autoCommit=false
+rollback before checkpoint
+hit exception during rollback
+now abort pending merge 
+now abort running merge 
+now wait for 
+ running merge to abort
+all running merges have aborted
+flush at addIndexes
+Directory 
+ appears more than once
+Cannot add directory to itself
+flush at addIndexesNoOptimize
+Cannot add this index to itself
+dup info dir=
+ name=
+org/apache/lucene/index/MergePolicy$MergeAbortedException
+MergeAbortedException
+rollback() was called or addIndexes* hit an unhandled exception
+org/apache/lucene/index/SegmentMerger
+org/apache/lucene/index/SegmentInfo
+hit exception in addIndexes during merge
+.cfs
+hit exception building compound file in addIndexes during merge
+this writer hit an OutOfMemoryError; cannot flush
+this writer hit an OutOfMemoryError; cannot commit
+this method can only be used when autoCommit is false
+prepareCommit was already called with no corresponding call to commit
+prepareCommit: flush
+commit: start
+commit: now prepare
+commit: already prepared
+commit: pendingCommit != null
+commit: pendingCommit == null; skip
+commit: done
+startDoFlush
+  flush: segment=
+ docStoreSegment=
+ docStoreOffset=
+ flushDocs=
+ flushDeletes=
+ flushDocStores=
+ numDocs=
+ numBufDelTerms=
+  index before flush 
+  flush shared docStore segment 
+hit exception flushing segment 
+hit exception creating compound file for newly flushed segment 
+cfs
+org/apache/lucene/index/MergePolicy$MergeException
+MergeException
+could not find segment 
+ in current segments
+MergePolicy selected a segment (
+) that is not in the index
+MergePolicy selected non-contiguous segments to merge (
+ vs 
+), which IndexWriter (currently) cannot handle
+startCommitMergeDeletes
+commitMergeDeletes 
+org/apache/lucene/util/BitVector
+commit merge deletes to 
+startCommitMerge
+commitMerge: 
+commitMerge: skipping merge 
+: it was aborted
+java/lang/RuntimeException
+java/lang/Error
+now merge~~  merge=
+~~  merge=
+~~  index=
+java/lang/Throwable
+hit exception during merge
+merge is aborted: 
+add merge to pendingMerges: 
+ [total 
+ pending]
+startMergeInit
+now flush at merge
+merging 
+merge: total 
+ docs
+hit exception creating compound file during merge
+abort merge after building CFS
+startApplyDeletes
+hit exception flushing deletes
+**
+java/lang/InterruptedException
+startStartCommit
+startCommit(): start sizeInBytes=
+  skip startCommit(): no changes pending
+startCommit index=
+ changeCount=
+midStartCommit
+file '
+' does not exist dir=
+now sync 
+midStartCommit2
+sync superseded by newer infos
+hit exception committing segments file
+done all syncs
+midStartCommitSuccess
+finishStartCommit
+org.apache.lucene.index.IndexWriter
+java/lang/Object
+org/apache/lucene/index/IndexWriter
+org/apache/lucene/index/IndexWriter$MaxFieldLength
+org/apache/lucene/index/CorruptIndexException
+org/apache/lucene/index/MergePolicy$MergeSpecification
+java/lang/Class
+forName
+initCause
+(Ljava/lang/Throwable;)Ljava/lang/Throwable;
+java/lang/Thread
+currentThread
+()Ljava/lang/Thread;
+notifyAll
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(I)Ljava/lang/StringBuffer;
+getName
+toString
+java/io/PrintStream
+println
+setUseCompoundDocStore
+org/apache/lucene/search/Similarity
+getDefault
+org/apache/lucene/store/FSDirectory
+(Ljava/lang/String;)Lorg/apache/lucene/store/FSDirectory;
+getLimit
+(Ljava/io/File;)Lorg/apache/lucene/store/FSDirectory;
+org/apache/lucene/index/IndexReader
+indexExists
+org/apache/lucene/store/Directory
+clearLock
+makeLock
+(Ljava/lang/String;)Lorg/apache/lucene/store/Lock;
+org/apache/lucene/store/Lock
+obtain
+(J)Z
+(Ljava/lang/Object;)Ljava/lang/StringBuffer;
+read
+clear
+(I)Lorg/apache/lucene/index/SegmentInfo;
+()Ljava/util/List;
+java/util/List
+get
+(I)Ljava/lang/Object;
+add
+(Ljava/lang/Object;)Z
+(Lorg/apache/lucene/store/Directory;Lorg/apache/lucene/index/IndexWriter;)V
+(Lorg/apache/lucene/store/Directory;Lorg/apache/lucene/index/IndexDeletionPolicy;Lorg/apache/lucene/index/SegmentInfos;Ljava/io/PrintStream;Lorg/apache/lucene/index/DocumentsWriter;)V
+(Z)Ljava/lang/StringBuffer;
+release
+clone
+()Ljava/lang/Object;
+put
+(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+org/apache/lucene/index/MergePolicy
+org/apache/lucene/index/MergeScheduler
+getMinMergeDocs
+setMinMergeDocs
+(D)Ljava/lang/StringBuffer;
+pauseAllThreads
+(Lorg/apache/lucene/index/IndexWriter;)V
+resumeAllThreads
+closeDocStore
+closedFiles
+(Lorg/apache/lucene/store/Directory;Ljava/lang/String;)V
+iterator
+()Ljava/util/Iterator;
+java/util/Iterator
+hasNext
+addFile
+deleteFile
+getDocStoreOffset
+getDocStoreSegment
+equals
+setDocStoreIsCompoundFile
+deleteNewFiles
+(Ljava/util/Collection;)V
+getNumDocsInRAM
+getDelCount
+hasDeletes
+(Lorg/apache/lucene/document/Document;Lorg/apache/lucene/analysis/Analyzer;)Z
+abortedFiles
+()Ljava/util/Collection;
+bufferDeleteTerm
+(Lorg/apache/lucene/index/Term;)Z
+bufferDeleteTerms
+([Lorg/apache/lucene/index/Term;)Z
+bufferDeleteQuery
+(Lorg/apache/lucene/search/Query;)Z
+bufferDeleteQueries
+([Lorg/apache/lucene/search/Query;)Z
+(Lorg/apache/lucene/index/Term;Lorg/apache/lucene/document/Document;Lorg/apache/lucene/analysis/Analyzer;)Z
+counter
+(II)Ljava/lang/String;
+java/util/Set
+(Lorg/apache/lucene/store/Directory;)Ljava/lang/String;
+getException
+()Ljava/lang/Throwable;
+findMergesToExpungeDeletes
+(Lorg/apache/lucene/index/SegmentInfos;Lorg/apache/lucene/index/IndexWriter;)Lorg/apache/lucene/index/MergePolicy$MergeSpecification;
+merges
+contains
+findMergesForOptimize
+(Lorg/apache/lucene/index/SegmentInfos;Lorg/apache/lucene/index/IndexWriter;ILjava/util/Set;)Lorg/apache/lucene/index/MergePolicy$MergeSpecification;
+findMerges
+removeFirst
+remove
+(Ljava/lang/Object;)V
+getFlushedDocCount
+incRef
+(Lorg/apache/lucene/index/SegmentInfos;Z)V
+setFlushedDocCount
+addAll
+decRef
+refresh
+rollbackCommit
+updateFlushedDocCount
+range
+(II)Lorg/apache/lucene/index/SegmentInfos;
+(Lorg/apache/lucene/index/IndexWriter;Ljava/lang/String;Lorg/apache/lucene/index/MergePolicy$OneMerge;)V
+org/apache/lucene/index/SegmentReader
+(ZLorg/apache/lucene/index/SegmentInfo;)Lorg/apache/lucene/index/SegmentReader;
+(Lorg/apache/lucene/index/IndexReader;)V
+hasProx
+(Ljava/lang/String;ILorg/apache/lucene/store/Directory;ZZILjava/lang/String;ZZ)V
+(Ljava/util/List;)V
+createCompoundFile
+(Ljava/lang/String;)Ljava/util/List;
+updateGeneration
+deletesFull
+getSegment
+(Z)I
+pushDeletes
+useCompoundFile
+(Lorg/apache/lucene/index/SegmentInfos;Lorg/apache/lucene/index/SegmentInfo;)Z
+clearFlushPending
+getRAMUsed
+segments
+indexOf
+(Ljava/lang/Object;)I
+(Ljava/lang/String;Lorg/apache/lucene/store/Directory;)V
+segmentsClone
+getDelFileName
+(I)Z
+set
+advanceDelGen
+write
+setDelCount
+registerDone
+isAborted
+getDocMaps
+()[[I
+getDelCounts
+()[I
+remapDeletes
+(Lorg/apache/lucene/index/SegmentInfos;[[I[ILorg/apache/lucene/index/MergePolicy$OneMerge;I)V
+getDocStoreIsCompoundFile
+setHasProx
+subList
+(II)Ljava/util/List;
+(ILjava/lang/Object;)V
+increfDone
+setException
+(Ljava/lang/Throwable;)V
+(Ljava/lang/Object;)Ljava/lang/Object;
+intValue
+checkAborted
+(ZLorg/apache/lucene/index/SegmentInfo;IZ)Lorg/apache/lucene/index/SegmentReader;
+closeReaders
+getBufferedDeleteTerms
+()Ljava/util/HashMap;
+(C)Ljava/lang/StringBuffer;
+java/util/Collection
+wait
+sleep
+interrupt
+(J)Ljava/lang/StringBuffer;
+fileExists
+sync
+getGeneration
+desiredAssertionStatus
+org/apache/lucene/util/Constants
+WINDOWS

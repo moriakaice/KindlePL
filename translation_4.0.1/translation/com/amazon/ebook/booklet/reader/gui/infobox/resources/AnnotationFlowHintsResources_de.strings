@@ -1,0 +1,35 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/infobox/resources/AnnotationFlowHintsResources_de;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+hint.move.to.desired.location.nokeyboard
+Bewegen Sie den Cursor auf eine Position und~~drücken Sie {0} , um eine Textstelle zu markieren, oder~~drücken Sie {1} , um eine Notiz zu erstellen.
+java/lang/String
+5way_icon.gif
+keyboard_icon.gif
+hint.move.to.desired.location
+Bewegen Sie den Cursor an die gewünschte Position,~~und beginnen Sie dann mit der Texteingabe,~~um eine Notiz oder Markierung zu erstellen.
+hint.note.or.highlight
+Für eine Notiz Text eingeben, oder zum Markieren klicken
+hint.start.selection
+Bewegen Sie den Cursor, um die Markierung weiterzuführen.~~Drücken Sie {0} , um die Markierung zu beenden.
+hint.end.selection
+Klicken Sie, um die Markierung zu beenden.
+com/amazon/ebook/booklet/reader/gui/infobox/resources/AnnotationFlowHintsResources_de
+java/util/ListResourceBundle
+(Ljava/lang/String;[Ljava/lang/String;I)V
+(Ljava/lang/String;I)V
+(Ljava/lang/String;)V
+f
+a
+skf
+com/amazon/ebook/booklet/reader/gui/infobox/y

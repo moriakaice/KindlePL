@@ -1,0 +1,17 @@
+<init>
+()V
+Code
+toString
+()Ljava/lang/String;
+java/io/StringWriter
+org/json/JSONStringer
+org/json/JSONWriter
+(Ljava/io/Writer;)V
+mode
+C
+writer
+Ljava/io/Writer;
+java/lang/Object
+Lorg/json/JSONStringer;
+LocalVariableTable
+a

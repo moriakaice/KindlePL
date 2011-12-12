@@ -1,0 +1,91 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/AdListResources_it;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+adList.header.text
+Offerte speciali e sponsor
+adList.header.pending.transactions.text
+Ordini in sospeso
+adList.wireless.notice.text
+(scegliere un elemento per attivare la modalità wireless)
+adList.bottom.margin
+java/lang/Integer
+adList.wireless.notice.font
+adList.filter.format
+java/text/ChoiceFormat
+0#Visualizzazione di {0,number,integer} elementi|1#Visualizzazione di {0,number,integer} elemento|2#Visualizzazione di {0,number,integer} elementi
+adList.pause.sound
+, 
+adList.view.sound
+Offerte speciali e sponsor, se si sceglie un elemento, viene attivata la connessione wireless
+adList.additem.sound
+Mostra pagina dettagli
+adList.item.position.sound.template
+elemento {0,number,integer} di {1,number,integer}
+adList.row.height
+adList.icon.left.margin
+adList.icon.top.margin
+adList.headline.left.margin
+adList.headline.top.margin
+adList.headline.right.margin
+adList.headline.row.height
+adList.subheadline.left.margin
+adList.subheadline.top.margin
+adList.subheadline.row.height
+adList.thumbnail.dimension.max
+java/awt/Dimension
+adList.headline.underline.dotspacing.x
+adList.headline.font
+adList.subheadline.font
+adList.widget.pending.transactions.headline
+Ordini in sospeso: connettiti ad Amazon per completare il tuo acquisto.
+adList.widget.pending.transactions.subheadline
+Clicca per vedere tutti i tuoi ordini in sospeso.
+adList.widget.click.to.connect.headline
+Clicca per connetterti ora ad Amazon e completare gli ordini elencati sotto.
+adList.widget.click.to.connect.subheadline
+(Attiva la connessione wireless)
+adList.widget.no.pending.transactions.headline
+Tutti gli ordini inoltrati
+adList.widget.no.pending.transactions.subheadline
+Clicca per visualizzare le offerte speciali.
+adList.overlay.unable.to.connect.title
+Impossibile connettersi
+adList.overlay.unable.to.connect.body
+Non siamo in grado di completare il vostro ordine in questo momento. Siete pregati di riprovare più tardi.
+adList.item.screen.cursor.x
+adList.item.screen.cursor.height
+adList.item.cursor.spacing
+adList.item.line.width.margin
+adList.item.line.top.margin
+text.color
+divider.color
+highlight.color
+clear.color
+com/amazon/ebook/booklet/home/foundation/resources/AdListResources_it
+java/util/ListResourceBundle
+(I)V
+getInstance
+(IZZ)Ljava/awt/Font;
+(Ljava/lang/String;)V
+(II)V
+Ljava/awt/Color;
+f
+a
+tyf
+C
+h
+I
+Kwb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/gui/c
+com/amazon/ebook/framework/font/h

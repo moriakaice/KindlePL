@@ -1,0 +1,8 @@
+SourceFile
+CustomScoreQuery.java
+Synthetic
+org/apache/lucene/search/function/CustomScoreQuery$1
+
+InnerClasses
+java/lang/Object
+org/apache/lucene/search/function/CustomScoreQuery

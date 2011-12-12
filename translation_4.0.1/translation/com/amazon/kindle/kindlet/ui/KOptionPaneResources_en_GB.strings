@@ -1,0 +1,22 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lcom/amazon/kindle/kindlet/ui/KOptionPaneResources_en_GB;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+koptionpane.message.title
+Message
+koptionpane.confirm.title
+Select an Option
+com/amazon/kindle/kindlet/ui/KOptionPaneResources_en_GB
+java/util/ListResourceBundle
+f
+peb

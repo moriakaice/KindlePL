@@ -1,0 +1,11 @@
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lcom/ibm/icu/text/TransformTransliterator;
+SourceFile
+TransformTransliterator.java
+com/ibm/icu/text/TransformTransliterator
+java/lang/Object

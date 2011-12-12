@@ -1,0 +1,206 @@
+<init>
+()V
+Code
+main
+([Ljava/lang/String;)V
+<![CDATA[This is a collection of test patterns and examples for org.json.]]>
+org/json/JSONStringer
+foo
+bar
+baz
+quux
+Thanks, Josh!
+a
+b
+empty-array
+answer
+null
+false
+true
+big
+small
+empty-object
+long
+two
+one
+org/json/JSONArray
+org/json/JSONObject
+{slashes: '///', closetag: '</script>', backslash:'\\', ei: {quotes: '"\''},eo: {a: '"quoted"', b:"don't"}, quotes: ["'", '"']}
+
+/*comment*/{foo: [true, false,9876543210,    0.0, 1.00000001,  1.000000000001, 1.00000000000000001, .00000000000000001, 2.00, 0.1, 2e100, -32,[],{}, "string"],   to   : null, op : 'Good',ten:10} postfix comment
+String
+98.6
+JSONObject
+JSONArray
+int
+double
+bool
+zero
+so "fine".
+so <fine>.
+java/lang/StringBuffer
+String: 
+  bool: 
+    to: 
+to
+  true: 
+   foo: 
+    op: 
+op
+   ten: 
+ten
+  oops: 
+oops
+<xml one = 1 two=' "2" '><five></five>First 	&lt;content&gt;<five></five> This is "content". <three>  3  </three>JSON does not preserve the sequencing of elements and contents.<three>  III  </three>  <three>  T H R E E</three><four/>Content text is an implied structure in XML. <six content="6"/>JSON does not have implied structure:<seven>7</seven>everything is explicit.<![CDATA[CDATA blocks<are><supported>!]]></xml>
+<mapping><empty/>   <class name = "Customer">      <field name = "ID" type = "string">         <bind-xml name="ID" node="attribute"/>      </field>      <field name = "FirstName" type = "FirstName"/>      <field name = "MI" type = "MI"/>      <field name = "LastName" type = "LastName"/>   </class>   <class name = "FirstName">      <field name = "text">         <bind-xml name = "text" node = "text"/>      </field>   </class>   <class name = "MI">      <field name = "text">         <bind-xml name = "text" node = "text"/>      </field>   </class>   <class name = "LastName">      <field name = "text">         <bind-xml name = "text" node = "text"/>      </field>   </class></mapping>
+<?xml version="1.0" ?><Book Author="Anonymous"><Title>Sample Book</Title><Chapter id="1">This is chapter 1. It is not very long or interesting.</Chapter><Chapter id="2">This is chapter 2. Although it is longer than chapter 1, it is not any more interesting.</Chapter></Book>
+<!DOCTYPE bCard 'http://www.cs.caltech.edu/~adam/schemas/bCard'><bCard><?xml default bCard        firstname = ''        lastname  = '' company   = '' email = '' homepage  = ''?><bCard        firstname = 'Rohit'        lastname  = 'Khare'        company   = 'MCI'        email     = 'khare@mci.net'        homepage  = 'http://pest.w3.org/'/><bCard        firstname = 'Adam'        lastname  = 'Rifkin'        company   = 'Caltech Infospheres Project'        email     = 'adam@cs.caltech.edu'        homepage  = 'http://www.cs.caltech.edu/~adam/'/></bCard>
+<?xml version="1.0"?><customer>    <firstName>        <text>Fred</text>    </firstName>    <ID>fbs0001</ID>    <lastName> <text>Scerbo</text>    </lastName>    <MI>        <text>B</text>    </MI></customer>
+<!ENTITY tp-address PUBLIC '-//ABC University::Special Collections Library//TEXT (titlepage: name and address)//EN' 'tpspcoll.sgm'><list type='simple'><head>Repository Address </head><item>Special Collections Library</item><item>ABC University</item><item>Main Library, 40 Circle Drive</item><item>Ourtown, Pennsylvania</item><item>17654 USA</item></list>
+<test intertag status=ok><empty/>deluxe<blip sweet=true>&amp;toot&toot;&#x41;</blip><x>eks</x><w>bonus</w><w>bonus2</w></test>
+GET / HTTP/1.0~~Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/vnd.ms-powerpoint, application/vnd.ms-excel, application/msword, */*~~Accept-Language: en-us~~User-Agent: Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Win 9x 4.90; T312461; Q312461)~~Host: www.nokko.com~~Connection: keep-alive~~Accept-encoding: gzip, deflate~~
+HTTP/1.1 200 Oki Doki~~Date: Sun, 26 May 2002 17:38:52 GMT~~Server: Apache/1.3.23 (Unix) mod_perl/1.26~~Keep-Alive: timeout=15, max=100~~Connection: Keep-Alive~~Transfer-Encoding: chunked~~Content-Type: text/html~~
+{nix: null, nux: false, null: 'null', 'Request-URI': '/', Method: 'GET', 'HTTP-Version': 'HTTP/1.0'}
+isNull: 
+nix
+   has: 
+<?xml version='1.0' encoding='UTF-8'?>~~~~<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/1999/XMLSchema-instance" xmlns:xsd="http://www.w3.org/1999/XMLSchema"><SOAP-ENV:Body><ns1:doGoogleSearch xmlns:ns1="urn:GoogleSearch" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><key xsi:type="xsd:string">GOOGLEKEY</key> <q xsi:type="xsd:string">'+search+'</q> <start xsi:type="xsd:int">0</start> <maxResults xsi:type="xsd:int">10</maxResults> <filter xsi:type="xsd:boolean">true</filter> <restrict xsi:type="xsd:string"></restrict> <safeSearch xsi:type="xsd:boolean">false</safeSearch> <lr xsi:type="xsd:string"></lr> <ie xsi:type="xsd:string">latin1</ie> <oe xsi:type="xsd:string">latin1</oe></ns1:doGoogleSearch></SOAP-ENV:Body></SOAP-ENV:Envelope>
+{Envelope: {Body: {"ns1:doGoogleSearch": {oe: "latin1", filter: true, q: "'+search+'", key: "GOOGLEKEY", maxResults: 10, "SOAP-ENV:encodingStyle": "http://schemas.xmlsoap.org/soap/encoding/", start: 0, ie: "latin1", safeSearch:false, "xmlns:ns1": "urn:GoogleSearch"}}}}
+  f%oo = b+l=ah  ; o;n%40e = t.wo 
+f%oo=blah; secure ;expires = April 24, 2002
+{script: 'It is not allowed in HTML to send a close script tag in a string<script>because it confuses browsers</script>so we insert a backslash before the /'}
+org/json/JSONTokener
+{op:'test', to:'session', pre:1}{op:'test', to:'session', pre:2}
+pre: 
+pre
+No quotes, 'Single Quotes', "Double Quotes"~~1,'2',"3"~~,'It is "good,"', "It works."~~~~
+ ["<escape>", next is an implied null , , ok,] 
+{ fun => with non-standard forms ; forgiving => This package can be used to parse formats that are similar to but not stricting conforming to JSON; why=To make it easier to migrate existing data to JSON,one = [[1.00]]; uno=[[{1=>1}]];'+':+6e66 ;pluses=+++;empty = '' , 'double':0.666,true: TRUE, false: FALSE, null=NULL;[true] = [[!,@;*]]; string=>  o. k. ; # comment$$ oct=0666; hex=0x666; dec=666; o=0999; noh=0x0x}
+It's all good
+java/lang/String
+dec
+oct
+hex
+missing
+{string: "98.6", long: 2147483648, int: 2147483647, longer: 9223372036854775807, double: 9223372036854775808}
+~~getInt
+int    
+long   
+longer 
+longer
+double 
+string 
+string
+~~getLong
+~~getDouble
+good sized
+[2147483647, 2147483648, 9223372036854775807, 9223372036854775808]
+~~Keys: 
+: 
+~~accumulate: 
+stooge
+Curly
+Larry
+Moe
+Shemp
+~~write:
+java/io/StringWriter
+~~Exceptions: 
+Exception: 
+java/lang/Exception
+howard
+org/json/Test
+java/lang/Object
+org/json/XML
+toJSONObject
+(Ljava/lang/String;)Lorg/json/JSONObject;
+java/lang/System
+out
+Ljava/io/PrintStream;
+toString
+()Ljava/lang/String;
+java/io/PrintStream
+println
+(Ljava/lang/String;)V
+object
+()Lorg/json/JSONWriter;
+org/json/JSONWriter
+key
+(Ljava/lang/String;)Lorg/json/JSONWriter;
+value
+(Ljava/lang/Object;)Lorg/json/JSONWriter;
+array
+endObject
+endArray
+(J)Lorg/json/JSONWriter;
+(Z)Lorg/json/JSONWriter;
+(D)Lorg/json/JSONWriter;
+(I)Ljava/lang/String;
+(Ljava/lang/Object;)Ljava/lang/String;
+put
+(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;
+(Ljava/lang/String;I)Lorg/json/JSONObject;
+(Ljava/lang/String;D)Lorg/json/JSONObject;
+(Ljava/lang/String;Z)Lorg/json/JSONObject;
+NULL
+Ljava/lang/Object;
+getJSONArray
+(Ljava/lang/String;)Lorg/json/JSONArray;
+(I)Lorg/json/JSONArray;
+(D)Lorg/json/JSONArray;
+(Ljava/lang/Object;)Lorg/json/JSONArray;
+(Z)Lorg/json/JSONArray;
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+getDouble
+(Ljava/lang/String;)D
+(D)Ljava/lang/StringBuffer;
+getBoolean
+(Ljava/lang/String;)Z
+(Z)Ljava/lang/StringBuffer;
+getString
+(Ljava/lang/String;)Ljava/lang/String;
+(Ljava/lang/Object;)Ljava/lang/StringBuffer;
+getInt
+(Ljava/lang/String;)I
+(I)Ljava/lang/StringBuffer;
+optBoolean
+org/json/HTTP
+(Lorg/json/JSONObject;)Ljava/lang/String;
+isNull
+has
+org/json/CookieList
+org/json/Cookie
+(Lorg/json/JSONTokener;)V
+optInt
+skipTo
+(C)C
+(I)V
+org/json/CDL
+toJSONArray
+(Lorg/json/JSONArray;)Ljava/lang/String;
+(Lorg/json/JSONObject;[Ljava/lang/String;)V
+(Ljava/lang/Object;)V
+getLong
+(Ljava/lang/String;)J
+(J)Ljava/lang/StringBuffer;
+(Ljava/lang/String;J)Lorg/json/JSONObject;
+keys
+()Ljava/util/Iterator;
+java/util/Iterator
+hasNext
+()Z
+next
+()Ljava/lang/Object;
+accumulate
+(ILjava/lang/Object;)Lorg/json/JSONArray;
+write
+(Ljava/io/Writer;)Ljava/io/Writer;
+print
+(D)V
+(I)D
+get
+(I)Ljava/lang/Object;
+Lorg/json/Test;
+LocalVariableTable
+[Ljava/lang/String;

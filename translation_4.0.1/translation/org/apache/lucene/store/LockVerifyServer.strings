@@ -1,0 +1,85 @@
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lorg/apache/lucene/store/LockVerifyServer;
+getTime
+(J)Ljava/lang/String;
+startTime
+J
+main
+([Ljava/lang/String;)V
+cs
+Ljava/net/Socket;
+out
+Ljava/io/OutputStream;
+in
+Ljava/io/InputStream;
+id
+I
+command
+err
+Z
+args
+[Ljava/lang/String;
+port
+s
+Ljava/net/ServerSocket;
+lockedID
+Exceptions
+SourceFile
+LockVerifyServer.java
+java/lang/StringBuffer
+[
+s] 
+~~Usage: java org.apache.lucene.store.LockVerifyServer port~~
+java/net/ServerSocket
+~~Ready on port 
+...
+ ERROR: id 
+ got lock, but 
+ already holds the lock
+ released the lock, but 
+ is the one holding the lock
+java/lang/RuntimeException
+unrecognized command 
+.
+org/apache/lucene/store/LockVerifyServer
+java/lang/Object
+java/io/IOException
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+java/lang/System
+currentTimeMillis
+()J
+(J)Ljava/lang/StringBuffer;
+toString
+()Ljava/lang/String;
+Ljava/io/PrintStream;
+java/io/PrintStream
+println
+(Ljava/lang/String;)V
+exit
+(I)V
+java/lang/Integer
+parseInt
+(Ljava/lang/String;)I
+setReuseAddress
+(Z)V
+(I)Ljava/lang/StringBuffer;
+accept
+()Ljava/net/Socket;
+java/net/Socket
+getOutputStream
+()Ljava/io/OutputStream;
+getInputStream
+()Ljava/io/InputStream;
+java/io/InputStream
+read
+()I
+print
+java/io/OutputStream
+write
+close

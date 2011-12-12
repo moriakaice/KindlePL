@@ -1,0 +1,16 @@
+serialVersionUID
+J
+ConstantValue
+<init>
+(Ljava/lang/String;)V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/lab126/sound/taglib/TaglibException;
+Ljava/lang/String;
+()V
+SourceFile
+com/lab126/sound/taglib/TaglibException
+java/lang/RuntimeException
+a
+bz

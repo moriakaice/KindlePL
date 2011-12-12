@@ -1,0 +1,82 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/view/resources/AnnotationsListView2HeaderUIResources_fr;
+getContents
+()[[Ljava/lang/Object;
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+format.caption.show.all.plural
+Affichage des {0} notes et annotations
+format.caption.show.all.singular
+Affichage des notes et annotations : {0}
+format.caption.show.all.none
+Il n’y a pas de notes ou d’annotations.
+format.caption.show.bookmark.plural
+Affichage des {0} signets
+format.caption.show.bookmark.singular
+Affichage de {0} signet
+format.caption.show.bookmark.none
+Il n’y a pas de signets
+format.caption.show.note.plural
+Affichage des {0} notes
+format.caption.show.note.singular
+Affichage de {0} note
+format.caption.show.note.none
+Il n’y a pas de notes
+format.caption.show.highlight.plural
+Surlignements : {0} 
+format.caption.show.highlight.singular
+Surlignement : {0} 
+format.caption.show.highlight.none
+Il n’y a pas de surlignement
+format.caption.show.popular.highlight.plural
+Passages les plus surlignés : {0}
+format.caption.show.popular.highlight.singular
+Passages les plus surlignés : {0}
+format.caption.show.popular.highlight.none
+Il n’y a pas de passages fréquemment surlignés
+format.caption.show.subscribed.note.plural
+Affichage des {0} annotations auxquelles vous êtes abonné
+format.caption.show.subscribed.note.singular
+Annotation à laquelle vous êtes abonné ({0} )
+format.caption.show.subscribed.note.none
+Il n’y a pas d’annotations auxquelles vous êtes abonné
+label.show.all
+Tous les élements
+label.show.bookmarks
+Signets
+label.show.notes
+Notes
+label.show.highlights
+Surlignements
+label.sort.by.location
+Par emplacement
+label.sort.by.most.popular
+Tri par le plus populaire
+label.sort.option.location
+Emplacement
+label.sort.option.popular
+Les plus populaires
+label.speak.header
+{0,choice,0#Afficher|1#Trier par} {1}
+label.arrow.gap
+java/lang/Integer
+label.default.font
+label.sort.alignment
+color.background
+color.foreground
+com/amazon/ebook/booklet/reader/gui/view/resources/AnnotationsListView2HeaderUIResources_fr
+java/util/ListResourceBundle
+(I)V
+Ljava/awt/Color;
+f
+a
+voe
+I
+C
+com/amazon/ebook/framework/gui/c

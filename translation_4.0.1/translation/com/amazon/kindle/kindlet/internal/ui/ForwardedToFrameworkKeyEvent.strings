@@ -1,0 +1,13 @@
+<init>
+(Ljava/awt/Component;Ljava/awt/event/KeyEvent;)V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/kindle/kindlet/internal/ui/ForwardedToFrameworkKeyEvent;
+Ljava/awt/Component;
+Ljava/awt/event/KeyEvent;
+SourceFile
+com/amazon/kindle/kindlet/internal/ui/ForwardedToFrameworkKeyEvent
+com/amazon/kindle/kindlet/internal/ui/ForwardedKeyEvent
+a
+xcb

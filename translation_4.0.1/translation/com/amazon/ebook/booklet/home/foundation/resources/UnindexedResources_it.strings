@@ -1,0 +1,26 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/UnindexedResources_it;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+unindexed.header
+Elementi non ancora indicizzati
+unindexed.view.sound
+elementi non ancora indicizzati
+unindexed.header.filter.all.format
+0#Visualizzazione {0,number,integer} elementi|1#Visualizzazione {0,number,integer} elemento|2#Visualizzazione {0,number,integer} elementi
+unindexed.header.sort.title.label
+Per titolo
+com/amazon/ebook/booklet/home/foundation/resources/UnindexedResources_it
+java/util/ListResourceBundle
+f
+a
+qxf

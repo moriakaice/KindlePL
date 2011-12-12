@@ -1,0 +1,377 @@
+MySegmentTermDocs
+InnerClasses
+Status
+out
+Ljava/io/PrintStream;
+Deprecated
+infoStream
+dir
+Lorg/apache/lucene/store/Directory;
+assertsOn
+Z
+$assertionsDisabled
+Synthetic
+class$org$apache$lucene$index$CheckIndex
+Ljava/lang/Class;
+<init>
+(Lorg/apache/lucene/store/Directory;)V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lorg/apache/lucene/index/CheckIndex;
+setInfoStream
+(Ljava/io/PrintStream;)V
+msg
+(Ljava/lang/String;)V
+Ljava/lang/String;
+check
+(Lorg/apache/lucene/store/Directory;Z)Z
+doFix
+Exceptions
+(Lorg/apache/lucene/store/Directory;ZLjava/util/List;)Z
+onlySegments
+Ljava/util/List;
+checker
+status
+Lorg/apache/lucene/index/CheckIndex$Status;
+checkIndex
+()Lorg/apache/lucene/index/CheckIndex$Status;
+(Ljava/util/List;)Lorg/apache/lucene/index/CheckIndex$Status;
+t
+Ljava/lang/Throwable;
+it
+Ljava/util/Iterator;
+fieldName
+b
+[B
+pos
+I
+j
+doc
+freq
+lastPos
+delCount
+term
+Lorg/apache/lucene/index/Term;
+docFreq
+lastDoc
+freq0
+Lorg/apache/lucene/document/Document;
+tfv
+[Lorg/apache/lucene/index/TermFreqVector;
+docStoreOffset
+delFileName
+numDocs
+fieldNames
+Ljava/util/Collection;
+termEnum
+Lorg/apache/lucene/index/TermEnum;
+termPositions
+Lorg/apache/lucene/index/TermPositions;
+myTermDocs
+Lorg/apache/lucene/index/CheckIndex$MySegmentTermDocs;
+termCount
+J
+totFreq
+totPos
+maxDoc
+docCount
+totFields
+totVectors
+comment
+info
+Lorg/apache/lucene/index/SegmentInfo;
+segInfoStat
+SegmentInfoStatus
+Lorg/apache/lucene/index/CheckIndex$Status$SegmentInfoStatus;
+toLoseDocCount
+reader
+Lorg/apache/lucene/index/SegmentReader;
+i
+nf
+Ljava/text/NumberFormat;
+sis
+Lorg/apache/lucene/index/SegmentInfos;
+result
+numSegments
+segmentsFileName
+input
+Lorg/apache/lucene/store/IndexInput;
+format
+sFormat
+skip
+fixIndex
+(Lorg/apache/lucene/index/CheckIndex$Status;)V
+testAsserts
+()Z
+main
+([Ljava/lang/String;)V
+ie
+Ljava/lang/InterruptedException;
+s
+exitCode
+args
+[Ljava/lang/String;
+indexPath
+class$
+(Ljava/lang/String;)Ljava/lang/Class;
+x1
+Ljava/lang/ClassNotFoundException;
+x0
+<clinit>
+()V
+SourceFile
+CheckIndex.java
+java/lang/ClassNotFoundException
+java/lang/NoClassDefFoundError
+org/apache/lucene/index/CheckIndex
+org/apache/lucene/index/SegmentInfos
+org/apache/lucene/index/CheckIndex$Status
+java/lang/Throwable
+ERROR: could not read any segments file in directory
+ERROR: could not open segments file in directory
+ERROR: could not read segment file version in directory
+
+FORMAT [Lucene Pre-2.1]
+FORMAT_LOCKLESS [Lucene 2.1]
+FORMAT_SINGLE_NORM_FILE [Lucene 2.2]
+FORMAT_SHARED_DOC_STORE [Lucene 2.3]
+FORMAT_CHECKSUM [Lucene 2.4]
+FORMAT_DEL_COUNT [Lucene 2.4]
+FORMAT_HAS_PROX [Lucene 2.4]
+java/lang/StringBuffer
+int=
+ [newer version of Lucene than this tool]
+ [Lucene 1.3 or prior]
+Segments file=
+ numSegments=
+ version=
+~~Checking only these segments:
+ 
+:
+~~ERROR: this index appears to be created by a newer version of Lucene than this tool was compiled on; please re-compile this tool on the matching version of Lucene; exiting
+org/apache/lucene/index/CheckIndex$Status$SegmentInfoStatus
+  
+ of 
+: name=
+ docCount=
+    compound=
+    hasProx=
+    numFiles=
+    size (MB)=
+    docStoreOffset=
+    docStoreSegment=
+    docStoreIsCompoundFile=
+    no deletions
+    has deletions [delFileName=
+]
+    test: open reader.........
+java/lang/RuntimeException
+delete count mismatch: info=
+ vs deletedDocs.count()=
+too many deleted docs: maxDoc()=
+ vs reader=
+OK [
+ deleted docs]
+OK
+    test: fields, norms.......
+java/lang/String
+norms for field "
+" is length 
+ != maxDoc 
+ fields]
+    test: terms, freq, prox...
+org/apache/lucene/index/CheckIndex$MySegmentTermDocs
+term 
+: doc 
+ <= lastDoc 
+ >= maxDoc 
+: freq 
+ is out of bounds
+: pos 
+ < lastPos 
+ docFreq=
+ != num docs seen 
+ + num docs deleted 
+ terms; 
+ terms/docs pairs; 
+ tokens]
+    test: stored fields.......
+docCount=
+ but saw 
+ undeleted docs
+ total field count; avg 
+ fields per doc]
+    test: term vectors........
+ total vector count; avg 
+ term/freq vector fields per doc]
+FAILED
+fixIndex() would remove reference to this segment
+    WARNING: 
+; full exception:
+No problems were detected with this index.~~
+WARNING: 
+ broken segments (containing 
+ documents) detected
+java/lang/IllegalArgumentException
+can only fix an index that was fully checked (this status checked a subset of segments)
+java/lang/AssertionError
+java/util/ArrayList
+-fix
+-segment
+ERROR: missing name for -segment option
+ERROR: unexpected extra argument '
+'
+~~ERROR: index path not specified
+~~Usage: java org.apache.lucene.index.CheckIndex pathToIndex [-fix] [-segment X] [-segment Y]~~~~  -fix: actually write a new segments_N file, removing any problematic segments~~  -segment X: only check the specified segments.  This can be specified multiple~~              times, to check more than one segment, eg '-segment _2 -segment _a'.~~              You can't use this with the -fix option~~~~**WARNING**: -fix should only be used on an emergency basis as it will cause~~documents (perhaps many) to be permanently removed from the index.  Always make~~a backup copy of your index before running this!  Do not run this tool on an index~~that is actively being written to.  You have been warned!~~~~Run without -fix, this tool will open the index, report version information~~and report any exceptions it hits and what action it would take if -fix were~~specified.  With -fix, this tool will remove any segments that have issues and~~write a new segments_N file.  This means all documents contained in the affected~~segments will be removed.~~~~This tool exits with exit code 1 if the index cannot be opened or has any~~corruption, else 0.~~
+~~NOTE: testing will be more thorough if you run java with '-ea:org.apache.lucene...', so assertions are enabled
+ERROR: cannot specify both -fix and -segment
+~~Opening index @ 
+~~
+ERROR: could not open directory "
+"; exiting
+WARNING: would write new segments file, and 
+ documents would be lost, if -fix were specified~~
+ documents will be lost~~
+NOTE: will write new segments file in 5 seconds; this will remove 
+ docs from the index. THIS IS YOUR LAST CHANCE TO CTRL+C!
+java/lang/InterruptedException
+...
+Writing...
+Wrote new segments file "
+"
+org.apache.lucene.index.CheckIndex
+java/lang/Object
+java/io/IOException
+java/lang/Class
+forName
+initCause
+(Ljava/lang/Throwable;)Ljava/lang/Throwable;
+java/io/PrintStream
+println
+clean
+java/text/NumberFormat
+getInstance
+()Ljava/text/NumberFormat;
+read
+missingSegments
+printStackTrace
+size
+()I
+getCurrentSegmentFileName
+()Ljava/lang/String;
+org/apache/lucene/store/Directory
+openInput
+(Ljava/lang/String;)Lorg/apache/lucene/store/IndexInput;
+cantOpenSegments
+org/apache/lucene/store/IndexInput
+readInt
+close
+missingSegmentVersion
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(I)Ljava/lang/StringBuffer;
+toString
+segmentFormat
+partial
+print
+java/util/List
+iterator
+()Ljava/util/Iterator;
+java/util/Iterator
+hasNext
+next
+()Ljava/lang/Object;
+(Ljava/lang/Object;)Ljava/lang/StringBuffer;
+segmentsChecked
+addAll
+(Ljava/util/Collection;)Z
+toolOutOfDate
+clone
+newSegments
+clear
+(I)Lorg/apache/lucene/index/SegmentInfo;
+org/apache/lucene/index/SegmentInfo
+name
+contains
+(Ljava/lang/Object;)Z
+segmentInfos
+add
+getUseCompoundFile
+(Z)Ljava/lang/StringBuffer;
+compound
+getHasProx
+hasProx
+files
+()Ljava/util/List;
+numFiles
+sizeInBytes
+()J
+(D)Ljava/lang/String;
+sizeMB
+D
+getDocStoreOffset
+getDocStoreSegment
+docStoreSegment
+getDocStoreIsCompoundFile
+docStoreCompoundFile
+getDelFileName
+hasDeletions
+deletionsFileName
+org/apache/lucene/index/SegmentReader
+get
+(Lorg/apache/lucene/index/SegmentInfo;)Lorg/apache/lucene/index/SegmentReader;
+deletedDocs
+Lorg/apache/lucene/util/BitVector;
+org/apache/lucene/util/BitVector
+count
+getDelCount
+numDeleted
+org/apache/lucene/index/IndexReader$FieldOption
+FieldOption
+ALL
+Lorg/apache/lucene/index/IndexReader$FieldOption;
+getFieldNames
+(Lorg/apache/lucene/index/IndexReader$FieldOption;)Ljava/util/Collection;
+java/util/Collection
+norms
+(Ljava/lang/String;)[B
+numFields
+terms
+()Lorg/apache/lucene/index/TermEnum;
+()Lorg/apache/lucene/index/TermPositions;
+(Lorg/apache/lucene/index/SegmentReader;)V
+org/apache/lucene/index/TermEnum
+()Lorg/apache/lucene/index/Term;
+org/apache/lucene/index/TermPositions
+seek
+(Lorg/apache/lucene/index/Term;)V
+nextPosition
+(J)Ljava/lang/StringBuffer;
+isDeleted
+(I)Z
+document
+(I)Lorg/apache/lucene/document/Document;
+org/apache/lucene/document/Document
+getFields
+getTermFreqVectors
+(I)[Lorg/apache/lucene/index/TermFreqVector;
+totLoseDocCount
+numBadSegments
+commit
+equals
+java/lang/System
+exit
+(I)V
+org/apache/lucene/store/FSDirectory
+getDirectory
+(Ljava/lang/String;)Lorg/apache/lucene/store/FSDirectory;
+java/lang/Thread
+sleep
+(J)V
+currentThread
+()Ljava/lang/Thread;
+interrupt
+desiredAssertionStatus
+org/apache/lucene/index/IndexReader

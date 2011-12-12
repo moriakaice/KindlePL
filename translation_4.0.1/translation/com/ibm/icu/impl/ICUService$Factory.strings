@@ -1,0 +1,15 @@
+create
+Key
+InnerClasses
+(Lcom/ibm/icu/impl/ICUService$Key;Lcom/ibm/icu/impl/ICUService;)Ljava/lang/Object;
+updateVisibleIDs
+(Ljava/util/Map;)V
+getDisplayName
+(Ljava/lang/String;Lcom/ibm/icu/util/ULocale;)Ljava/lang/String;
+SourceFile
+ICUService.java
+com/ibm/icu/impl/ICUService$Factory
+Factory
+java/lang/Object
+com/ibm/icu/impl/ICUService$Key
+com/ibm/icu/impl/ICUService

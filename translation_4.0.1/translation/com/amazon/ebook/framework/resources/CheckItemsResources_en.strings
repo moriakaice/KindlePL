@@ -1,0 +1,20 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/resources/CheckItemsResources_en;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+item.date.format
+{0,date,'EEE, MMM d, yyyy - h:mm a'}
+com/amazon/ebook/framework/resources/CheckItemsResources_en
+java/util/ListResourceBundle
+f
+a
+ujc

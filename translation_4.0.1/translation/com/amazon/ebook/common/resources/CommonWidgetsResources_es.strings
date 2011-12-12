@@ -1,0 +1,27 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/common/resources/CommonWidgetsResources_es;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+selectable.underlined.text.cursor.height
+java/lang/Integer
+audible.length.format
+java/text/ChoiceFormat
+0#{0} seg.|60#{1} min. {0} seg.|3600#{2} hr. {1} min. {0} seg.
+truncated.string.ellipsis
+...
+com/amazon/ebook/common/resources/CommonWidgetsResources_es
+java/util/ListResourceBundle
+(I)V
+(Ljava/lang/String;)V
+f
+a
+rpd

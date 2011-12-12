@@ -1,0 +1,16 @@
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lorg/apache/lucene/index/DocFieldConsumerPerField;
+processFields
+([Lorg/apache/lucene/document/Fieldable;I)V
+Exceptions
+abort
+SourceFile
+DocFieldConsumerPerField.java
+org/apache/lucene/index/DocFieldConsumerPerField
+java/lang/Object
+java/io/IOException

@@ -1,0 +1,70 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/impl/resources/DevicePolicyManagerResources_de;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+device.policy.will.reboot.message
+Dieser Kindle wird neu gestartet. Dieser Prozess beginnt in Kürze. Bitte warten Sie, bis der Neustart abgeschlossen ist. Schalten Sie das Gerät während des Vorgangs nicht aus.
+device.policy.default.devicetype
+ein verwaltetes Gerät
+device.policy.default.feature
+Diese Funktion
+device.policy.default.contact
+Systemadministrator kontaktieren
+device.policy.password.required.template
+java/text/MessageFormat
+Dieser Kindle ist {0} und benötigt ein Passwort. Für weitere Informationen: {1}.
+device.policy.disabled.template
+Dieser Kindle ist {0}. {1} wurde gesperrt. Für weitere Informationen: {2}.
+device.policy.factory.reset.template
+Dieser Kindle ist {0}. Er wird auf die Werkseinstellungen zurückgesetzt, wodurch alle heruntergeladenen und übertragenen Inhalte gelöscht werden. Dieser Prozess beginnt in Kürze. Schalten Sie Ihren Kindle nicht aus und verwenden Sie das Gerät nicht, bis der Vorgang abgeschlossen ist. Für weitere Informationen: {1}.
+device.policy.default.password.hint
+Standardpasswort aktiviert
+device.policy.disabled.name.registration
+Anmeldung
+device.policy.disabled.name.deregistration
+Abmeldung
+device.policy.disabled.name.editdevicename
+Gerätename
+device.policy.disabled.name.wifisettings
+Wi-Fi-Einstellungen einrichten
+device.policy.disabled.name.managesocialnetworks
+Soziale Netzwerke einrichten
+device.policy.disabled.name.togglepopularhighlights
+Beliebte Markierungen einrichten
+device.policy.disabled.name.togglepublicnotes
+Öffentliche Notizen einrichten
+device.policy.disabled.name.toggleannotationsbackup
+Anmerkungssicherung einrichten
+device.policy.disabled.name.editpersonalinfo
+Persönliche Info
+device.policy.disabled.name.changelanguage
+Gerätesprache einrichten
+device.policy.disabled.name.changeprimarydictionary
+Wörterbuch einrichten
+device.policy.disabled.name.turnonpassword
+Passwort einrichten
+device.policy.disabled.name.browser
+Der Webbrowser
+device.policy.disabled.name.kindlestore
+Der Kindle-Shop
+device.policy.disabled.name.activecontent
+Active Content
+device.policy.disabled.name.mp3
+Der MP3-Player
+device.policy.disabled.name.games
+Dieses Spiel
+com/amazon/ebook/framework/impl/resources/DevicePolicyManagerResources_de
+java/util/ListResourceBundle
+(Ljava/lang/String;)V
+f
+a
+fgd

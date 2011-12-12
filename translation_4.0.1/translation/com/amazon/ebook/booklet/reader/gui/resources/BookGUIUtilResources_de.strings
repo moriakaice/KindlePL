@@ -1,0 +1,45 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/resources/BookGUIUtilResources_de;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+default.opening.string
+Wird geöffnet...
+default.opening.foreground.color
+default.opening.background.color
+turing.screen.size
+java/lang/Integer
+go.to.location.hint
+Geben Sie eine Position ein (1 - {0}).
+go.to.location.hint.nokeyboard
+Drücken Sie {0} , um eine Position einzugeben (1 - {1}).
+go.to.page.hint
+Geben Sie eine Seite ein ({0}).
+go.to.page.or.location.hint
+Geben Sie eine Seite ({0}) oder eine Position (1 - {1}) ein.
+go.to.page.or.location.hint.nokeyboard
+Drücken Sie {0} , um eine Seite oder Position einzugeben.
+search.result.characters.offset
+string.separator
+  •  
+book.content.horizontal.margin
+book.content.line.spacing
+book.content.line.spacing.alt
+com/amazon/ebook/booklet/reader/gui/resources/BookGUIUtilResources_de
+java/util/ListResourceBundle
+Ljava/awt/Color;
+(I)V
+f
+a
+uqe
+C
+I
+com/amazon/ebook/framework/gui/c

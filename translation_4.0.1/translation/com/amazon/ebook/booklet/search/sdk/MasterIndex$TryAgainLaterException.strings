@@ -1,0 +1,17 @@
+serialVersionUID
+J
+ConstantValue
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+TryAgainLaterException
+InnerClasses
+Lcom/amazon/ebook/booklet/search/sdk/MasterIndex$TryAgainLaterException;
+SourceFile
+com/amazon/ebook/booklet/search/sdk/MasterIndex$TryAgainLaterException
+java/lang/Exception
+a
+sid
+com/amazon/ebook/booklet/search/sdk/ac

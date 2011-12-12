@@ -1,0 +1,81 @@
+entity
+Ljava/util/HashMap;
+<init>
+(Ljava/lang/String;)V
+Code
+nextCDATA
+()Ljava/lang/String;
+Exceptions
+nextContent
+()Ljava/lang/Object;
+nextEntity
+(C)Ljava/lang/Object;
+nextMeta
+nextToken
+<clinit>
+()V
+java/lang/StringBuffer
+Unclosed CDATA.
+Missing ';' in XML entity: &
+;
+Misshaped meta tag.
+Unterminated string.
+Misshaped element.
+Misplaced '<'.
+Bad character in a name.
+java/util/HashMap
+amp
+apos
+gt
+lt
+quot
+org/json/XMLTokener
+org/json/JSONTokener
+org/json/JSONException
+next
+()C
+syntaxError
+(Ljava/lang/String;)Lorg/json/JSONException;
+append
+(C)Ljava/lang/StringBuffer;
+length
+()I
+charAt
+(I)C
+setLength
+(I)V
+toString
+java/lang/Character
+isWhitespace
+(C)Z
+org/json/XML
+LT
+Ljava/lang/Character;
+back
+java/lang/String
+trim
+(Ljava/lang/Object;)Ljava/lang/StringBuffer;
+isLetterOrDigit
+toLowerCase
+(C)C
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+get
+(Ljava/lang/Object;)Ljava/lang/Object;
+GT
+SLASH
+EQ
+BANG
+QUEST
+java/lang/Boolean
+TRUE
+Ljava/lang/Boolean;
+AMP
+put
+(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+APOS
+QUOT
+Lorg/json/XMLTokener;
+Ljava/lang/String;
+LocalVariableTable
+C
+a

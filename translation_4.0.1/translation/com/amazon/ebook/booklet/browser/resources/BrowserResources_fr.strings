@@ -1,0 +1,71 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/browser/resources/BrowserResources_fr;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+bookmark.overwrite.prompt.msg
+Un signet a déjà été placé sur une autre page portant le même titre. Voulez-vous la remplacer ?
+bookmark.remove_oldest.prompt.msg
+Vous avez atteint la limite de création de signets. Voulez-vous supprimer les signets les plus anciens pour sauvegarder celui-ci ?
+messages.error.communication_error
+Votre Kindle ne peut pas se connecter pour l’instant. Veuillez réessayer ultérieurement.
+messages.error.bad_download_type
+Le navigateur Web ne peut pas télécharger ce type de fichier. Seuls les fichiers portant l’extension .AZW, .PRC, .MOBI ou .TXT peuvent être téléchargés sur votre Kindle.
+messages.error.bad_protocol
+Le navigateur Web ne peut pas télécharger de fichiers à l’aide de ce protocole. Seuls les protocoles HTTP et HTTPS sont pris en charge.
+messages.error.new_window_suppressed
+Le navigateur Web n’a pas pu ouvrir ce lien car l’ouverture de plusieurs fenêtres n’est pas prise en charge.
+messages.error.ssl_failed
+Le navigateur Web ne peut pas établir de connexion sécurisée avec ce site Web.
+messages.error.out_of_memory1
+Le navigateur Web a été redémarré car sa mémoire était insuffisante.
+messages.error.out_of_memory2
+messages.error.other
+Votre Kindle ne peut pas charger la page demandée.
+messages.error.wireless_off
+Le réseau sans fil est désactivé. Activez-le à partir du menu et réessayez.
+messages.error.upload_declined
+Le navigateur Web ne prend pas en charge les téléchargements de fichiers.
+messages.error.print_declined
+L’impression n’est pas disponible avec le navigateur Web.
+registration.dialog.title
+Vous devez commencer par enregistrer votre Kindle.
+not_registered.dialog.title
+Enregistrement requis
+not_registered.dialog.body
+Pour une navigation à l’aide d’un réseau 3G sans fil, vous devez d’abord enregistrer votre Kindle sur votre compte utilisateur Amazon. Allez sur la page Paramètres pour vous enregistrer.
+search.internet.url.pattern
+http://www.google.fr/search?q={0}
+search.wiki.url.pattern
+http://fr.wikipedia.org/wiki?search={0}
+internet.amazon.social.pattern
+https://kindle.amazon.com/social
+download.dialog.title
+Télécharger le fichier
+download.dialog.body
+Êtes-vous sûr de vouloir télécharger {0} ? Une fois le téléchargement terminé, le fichier apparaîtra sur votre écran d’accueil.
+download.complete.alert.body
+Le navigateur Web a téléchargé {0}.
+download.error.alert.body
+Le navigateur Web n’a pas pu télécharger {0}. Veuillez réessayer ultérieurement.
+http_authentication.dialog.title
+Authentification requise
+http_authentication.dialog.description
+Le site {0} sur {1} requiert un nom d’utilisateur et un mot de passe.
+ssl_exception.dialog.title
+Certificat non valide
+ssl_exception.dialog.body
+Le navigateur Web ne peut pas établir de connexion sécurisée vers le site Web {0}. Voulez-vous continuer ?
+com/amazon/ebook/booklet/browser/resources/BrowserResources_fr
+java/util/ListResourceBundle
+f
+a
+ckg

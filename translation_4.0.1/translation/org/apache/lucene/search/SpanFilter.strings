@@ -1,0 +1,15 @@
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lorg/apache/lucene/search/SpanFilter;
+bitSpans
+(Lorg/apache/lucene/index/IndexReader;)Lorg/apache/lucene/search/SpanFilterResult;
+Exceptions
+SourceFile
+SpanFilter.java
+org/apache/lucene/search/SpanFilter
+org/apache/lucene/search/Filter
+java/io/IOException

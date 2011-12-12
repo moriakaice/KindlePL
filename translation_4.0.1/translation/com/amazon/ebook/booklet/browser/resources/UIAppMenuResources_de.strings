@@ -1,0 +1,40 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/browser/resources/UIAppMenuResources_de;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+open.history.view.label
+Verlauf
+open.bookmarks.view.label
+Lesezeichen
+open.settings.view.label
+Browser-Einstellungen
+bookmark.this.page.label
+Lesezeichen setzen
+enter.url.label
+URL eingeben
+article_mode.set.label
+Artikel-Modus
+article_mode.clear.label
+Web-Modus
+zoom.in.label
+Vergrößern
+zoom.out.label
+Verkleinern
+screen.rotation.label
+Anzeige drehen
+font.size.label
+Schriftgröße
+com/amazon/ebook/booklet/browser/resources/UIAppMenuResources_de
+java/util/ListResourceBundle
+f
+a
+tkg

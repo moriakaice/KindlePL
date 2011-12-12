@@ -1,0 +1,16 @@
+ECharacterDirection
+InnerClasses
+ECharacterCategory
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lcom/ibm/icu/lang/UCharacterEnums;
+SourceFile
+UCharacterEnums.java
+com/ibm/icu/lang/UCharacterEnums
+java/lang/Object
+com/ibm/icu/lang/UCharacterEnums$ECharacterDirection
+com/ibm/icu/lang/UCharacterEnums$ECharacterCategory

@@ -1,0 +1,174 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/resources/WifiPopupResources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+dim.width
+java/lang/Integer
+dim.height
+dim.x
+dim.y
+dim.landscape.height
+dim.landscape.x
+dim.landscape.y
+dim.net.height
+dim.net.effectiveHeight
+dim.overlay.width
+action.item.cursor.height
+margin.left
+margin.right
+margin.top
+margin.body.top
+margin.line.top
+margin.lock
+margin.name
+margin.requireWifiText
+margin.landscape.newNetworkPromptBottomMargin
+margin.landscape.PasswordPromptBottomMargin
+margin.landscape.wpsPasswordPromptBottomMargin
+margin.landscape.wpsPasswordPromptBottom
+text.connect
+connect
+text.disconnect
+forget
+text.connecting
+connecting...
+text.newNetwork
+enter other Wi-Fi network
+text.rescanning
+scanning...
+text.rescanLink
+rescan
+text.secureNetwork.accessible
+secure
+text.openNetwork.accessible
+open
+text.connectionRequired
+A Wi-Fi connection is required to complete this task. Connect to a Wi-Fi network or try again later.
+text.button.advanced
+advanced
+message.enterPassword
+Enter Wi-Fi password for {0}:
+message.hidePassword
+hide
+message.showPassword
+show
+message.password
+Password:
+message.unableToConnectHeader
+Unable to Connect to Wi-Fi Network~~~~
+message.unableToConnect
+Your Kindle is unable to connect to the Wi-Fi network "{0}". 
+message.manuallyEnterSettingsUnsecure
+Would you like to try again or manually set up this network?
+message.manuallyEnterSettingsSecure
+Would you like to enter the password again or manually set up this network?
+message.availableNetworks
+Wi-Fi Networks: {0}
+message.pageNumber
+Page {0} of {1}
+font.title
+font.wifiRequiredText
+font.networkName
+font.action
+font.newNetworkLinkFont
+font.hidePassword
+font.action.connecting
+font.pageNumber
+color.connecting
+enter.new.wifi.network.overlay.header
+Enter other Wi-Fi network
+enter.new.wifi.network.overlay.ssid.label
+Network name:
+enter.new.wifi.network.overlay.password.label
+enter.new.wifi.network.overlay.left.margin
+enter.new.wifi.network.overlay.right.margin
+enter.new.wifi.network.overlay.top.margin
+enter.new.wifi.network.overlay.line.spacing
+enter.new.wifi.network.overlay.height
+enter.new.wifi.network.label.font
+enter.new.wifi.network.header.font
+enter.new.wifi.network.field.font
+text.field.y.offset.from.lable.y
+button.enter.network.info.text
+set up network
+button.enter.password.again.text
+enter password again
+button.enter.try.again.text
+try again
+captive.title
+Sign-in required
+captive.msg
+The Wi-Fi network you are connecting to requires you to sign in before accessing the Internet.~~~~Do you wish to go to Web Browser to sign in?
+captive.button.text
+go to browser
+new.network.widget.action.overlay.width
+text.error.101
+The password you entered is incorrect or invalid.~~
+text.error.102
+There is no Wi-Fi Profile configured for this network.~~
+text.error.103
+Wi-Fi network connection failed.~~
+text.error.104
+Wi-Fi is not available right now. If the problem persists, please restart your device.~~
+text.error.105
+text.error.106
+Local network connection failed.~~
+text.error.107
+Internet connection failed.~~
+text.error.109
+WPS connection failed.~~
+text.error.110
+WPS connection failed. Try entering the password again.~~
+text.error.111
+Invalid Configuration.~~
+text.error.112
+The security type you entered does not match the security type of the Wi-Fi network you are trying to connect to.~~
+text.error.113
+Access point rejected connection request. MAC filtering might be on.~~
+text.error.201
+The name of the Wi-Fi network is too long.~~
+text.error.202
+text.error.203
+Enterprise Wi-Fi networks are not supported on Kindle. Try connecting to another network.~~
+text.error.204
+The password you entered is longer than allowed by the Wi-Fi network. Try entering the password again.~~
+text.error.205
+The password you entered is missing one or more characters. Try entering the password again.~~
+text.error.206
+text.error.207
+Peer-to-peer Wi-Fi networks are not supported on Kindle. Try connecting to another network.~~
+text.msg.unsupportedNetwork
+Unsupported Wi-Fi network~~~~Enterprise or peer-to-peer Wi-Fi networks are not supported. Try connecting to another network.
+wps.footer.spacing
+wps.footer.additionalSpacing
+wps.font.footer
+wps.message.connection
+You can also connect without entering a password. First, press the WPS button on your wireless router, and then select the WPS setup button above.
+wps.footer.bg.color
+wps.footer.fg.color
+com/amazon/ebook/framework/resources/WifiPopupResources
+java/util/ListResourceBundle
+(I)V
+getInstance
+(IZZ)Ljava/awt/Font;
+(I)Ljava/awt/Font;
+Ljava/awt/Color;
+f
+a
+ylc
+K
+l
+Evb
+Kwb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/gui/c
+com/amazon/ebook/framework/font/h

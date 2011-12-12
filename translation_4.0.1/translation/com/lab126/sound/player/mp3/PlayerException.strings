@@ -1,0 +1,16 @@
+serialVersionUID
+J
+ConstantValue
+<init>
+(Ljava/lang/String;)V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/lab126/sound/player/mp3/PlayerException;
+Ljava/lang/String;
+()V
+SourceFile
+com/lab126/sound/player/mp3/PlayerException
+java/lang/Exception
+a
+bx

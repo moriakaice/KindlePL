@@ -1,0 +1,141 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/common/gui/overlay/resources/PageActionsOverlayResources_fr;
+getContents
+()[[Ljava/lang/Object;
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+font.size.menu.justification
+java/lang/Integer
+tts.onoff
+Text-to-Speech
+tts.onoff.on
+activer
+tts.onoff.off
+désactiver
+tts.onoff.play
+lecture
+tts.onoff.pause
+pause
+tts.speech.rate
+Débit de lecture
+tts.speech.rate.low
+plus lent
+tts.speech.rate.default
+par défaut
+tts.speech.rate.high
+plus rapide
+tts.speech.voice
+Voix
+tts.speech.voice.female
+féminine
+tts.speech.voice.male
+masculine
+font.family
+Police
+font.family.option.1
+normale
+font.family.option.2
+condensée
+font.family.option.3
+sans serif
+font.family.alt.option.1
+std
+font.family.alt.option.2
+sans
+font.family.alt.option.3
+mono
+font.family.alt.option.4
+alt
+line.spacing
+Interlignage
+line.spacing.option.1
+réduit
+line.spacing.option.2
+moyen
+line.spacing.option.3
+large
+line.spacing.alt.option.1
+112
+line.spacing.alt.option.2
+125-small
+line.spacing.alt.option.3
+136-med
+line.spacing.alt.option.4
+150-lg
+line.spacing.alt.option.5
+162
+contrast.label
+Contraste
+contrast.option.1
+   -2   
+contrast.option.2
+   -1   
+contrast.option.3
+    0    
+contrast.option.4
+   +1   
+contrast.option.5
+   +2   
+contrast.menu.justification
+word.per.line
+Mots par ligne
+word.per.line.option.1
+le moins possible
+word.per.line.option.2
+moins
+word.per.line.option.3
+auto.crop.onoff
+Rognage automatique
+auto.crop.onoff.on
+auto.crop.onoff.off
+auto.crop.onoff.best.effort
+effort optimal
+justification
+Justification
+justification.left
+Gauche
+justification.full
+Complète
+zoom.level
+Zoom
+zoom.level.option.actual.size
+taille réelle
+zoom.level.option.fit.page
+ajuster à la page
+zoom.level.option.fit.width
+ajuster à la largeur
+zoom.level.option.fit.screen
+ajuster à l’écran
+zoom.level.option.2
+150 %
+zoom.level.option.3
+200 %
+zoom.level.option.4
+300 %
+zoom.level.menu.justification
+accessibility.title.spoken
+Page Preferences
+embed.font.label.font
+embed.font.label.title
+Ce livre utilise des polices personnalisées non modifiables
+embed.font.label.color
+com/amazon/ebook/common/gui/overlay/resources/PageActionsOverlayResources_fr
+java/util/ListResourceBundle
+(I)V
+getInstance
+(IZ)Ljava/awt/Font;
+Ljava/awt/Color;
+f
+a
+brd
+J
+dwb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/gui/c
+com/amazon/ebook/framework/font/h

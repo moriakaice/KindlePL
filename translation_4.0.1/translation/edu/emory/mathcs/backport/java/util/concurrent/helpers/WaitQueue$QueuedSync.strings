@@ -1,0 +1,14 @@
+recheck
+WaitNode
+InnerClasses
+(Ledu/emory/mathcs/backport/java/util/concurrent/helpers/WaitQueue$WaitNode;)Z
+takeOver
+(Ledu/emory/mathcs/backport/java/util/concurrent/helpers/WaitQueue$WaitNode;)V
+SourceFile
+edu/emory/mathcs/backport/java/util/concurrent/helpers/WaitQueue$QueuedSync
+QueuedSync
+java/lang/Object
+edu/emory/mathcs/backport/java/util/concurrent/helpers/WaitQueue$WaitNode
+edu/emory/mathcs/backport/java/util/concurrent/helpers/WaitQueue
+c
+LocalVariableTable

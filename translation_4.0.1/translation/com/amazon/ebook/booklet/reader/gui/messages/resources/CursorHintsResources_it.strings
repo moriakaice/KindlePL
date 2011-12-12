@@ -1,0 +1,93 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/messages/resources/CursorHintsResources_it;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+annotation.disable
+Inserimento di annotazioni disabilitato
+annotation.disable.sample
+Inserimento di annotazioni disabilitato per contenuto~~campione
+annotation.disable.feed
+Inserimento di annotazioni disabilitato per i blog
+annotation.disable.low.disk.space
+Inserimento di annotazioni disabilitato - Memoria piena
+add.note
+Iniziare a digitare per creare una nota
+add.note.nokeyboard
+Premere {0} per creare una nota
+java/lang/String
+keyboard_icon.gif
+usual.cursor.interaction
+Iniziare a digitare per creare una nota oppure clicca per~~iniziare a evidenziare
+usual.cursor.interaction.nokeyboard
+Premere {0} per la definizione completa, l’evidenziazione o~~la nota
+5way_icon.gif
+usual.cursor.interaction.nokeyboard.defonly
+Premere {0} per la definizione completa
+usual.cursor.interaction.nokeyboard.nodef
+Premere {0} per l’evidenziazione o la nota
+create.highlight
+Spostare il cursore per evidenziare {0}
+blanck_trans.gif
+end.highlight.nokeyboard
+Premere {0} per terminare l’evidenziazione
+end.highlight.sharing.nokeyboard
+Premere {0} per terminare l’evidenziazione, condividere o~~creare una nota
+end.highlight.sharing.disabled
+Cliccare per terminare l’evidenziazione o premere Indietro~~per annullare
+end.highlight.sharing.enabled
+Clicca per terminare l’evidenziazione, {0}~~tweettare/condividere o clicca su Indietro per annullare
+Home_Icon_AltReturn.gif
+highlight.hover.sharing.disabled
+Iniziare a digitare per creare una nota o {0} per~~eliminare l’evidenziazione
+Home_Icon_Delete.gif
+highlight.hover.sharing.disabled.nokeyboard
+Premere {0} per la nota o eliminare l’evidenziazione
+highlight.hover.sharing.enabled
+Digitare per creare la nota, {0} per eliminare~~l’evidenziazione, {1} per condividere
+highlight.hover.sharing.enabled.nokeyboard
+Premere {0} per la nota, eliminare o condividere~~l’evidenziazione
+highlight.hover.annotation.view.nokeyboard
+Premere {0} per passare a, condividere o~~eliminare l’evidenziazione
+highlight.hover.annotation.view.nokeyboard.no.sharing
+Premere {0} per selezionare o eliminare un’evidenziazione
+bookmark.hover.annotation.view.nokeyboard
+Premere {0} per passare a o eliminare il segnalibro
+highlight.hover.annotation.view.sharing.enabled
+{0} elimina   {1} condividi
+highlight.hover.annotation.view.sharing.disabled
+{0} elimina
+link.hover
+Iniziare a digitare per creare una nota o cliccare per~~seguire il link
+link.hover.nokeyboard
+Premere {0} per seguire il link
+link.hover.nokeyboard.notes
+Premere {0} per seguire il link o creare una nota
+link.hover.nokeyboard.notes.delete
+Premere {0} per seguire il link o eliminare una nota
+link.hover.nokeyboard.def
+Premere {0} per la definizione completa o seguire il link
+link.hover.nokeyboard.def.notes
+Premere {0} per la definizione completa, seguire il link~~o creare una nota
+link.hover.nokeyboard.def.notes.delete
+Premere {0} per la definizione completa, seguire il link o~~eliminare la nota
+link.hover.image
+Premere {0} per ingrandire l’immagine
+subscribed.highlights.hint.widget.nokeyboard
+Premere {0} per selezionare un’evidenziazione
+com/amazon/ebook/booklet/reader/gui/messages/resources/CursorHintsResources_it
+java/util/ListResourceBundle
+(Ljava/lang/String;I)V
+(Ljava/lang/String;[Ljava/lang/String;I)V
+f
+a
+sze
+com/amazon/ebook/booklet/reader/gui/infobox/y

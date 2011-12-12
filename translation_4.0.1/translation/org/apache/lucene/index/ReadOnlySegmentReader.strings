@@ -1,0 +1,24 @@
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lorg/apache/lucene/index/ReadOnlySegmentReader;
+noWrite
+acquireWriteLock
+isDeleted
+(I)Z
+n
+I
+SourceFile
+ReadOnlySegmentReader.java
+java/lang/UnsupportedOperationException
+This IndexReader cannot make any changes to the index (it was opened with readOnly = true)
+org/apache/lucene/index/ReadOnlySegmentReader
+org/apache/lucene/index/SegmentReader
+(Ljava/lang/String;)V
+deletedDocs
+Lorg/apache/lucene/util/BitVector;
+org/apache/lucene/util/BitVector
+get

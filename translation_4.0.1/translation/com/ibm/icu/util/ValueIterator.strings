@@ -1,0 +1,13 @@
+Element
+InnerClasses
+next
+(Lcom/ibm/icu/util/ValueIterator$Element;)Z
+reset
+()V
+setRange
+(II)V
+SourceFile
+ValueIterator.java
+com/ibm/icu/util/ValueIterator
+java/lang/Object
+com/ibm/icu/util/ValueIterator$Element

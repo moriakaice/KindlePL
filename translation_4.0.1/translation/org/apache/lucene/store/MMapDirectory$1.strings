@@ -1,0 +1,8 @@
+SourceFile
+MMapDirectory.java
+Synthetic
+org/apache/lucene/store/MMapDirectory$1
+
+InnerClasses
+java/lang/Object
+org/apache/lucene/store/MMapDirectory

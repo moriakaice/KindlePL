@@ -1,0 +1,31 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/view/endactions/resources/RatingWidgetResources_fr;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+rating.text
+Votre évaluation : 
+font.style
+java/lang/Integer
+steps.away.from.current.font.size
+padding.between.stars.and.underline
+spoken.description
+java/text/MessageFormat
+{0,choice,1#Votre évaluation : {0} étoile|2#Votre évaluation : {0} étoiles}
+spoken.description.short
+{0,choice,1#{0} étoile|2#{0} étoiles}
+com/amazon/ebook/booklet/reader/gui/view/endactions/resources/RatingWidgetResources_fr
+java/util/ListResourceBundle
+(I)V
+(Ljava/lang/String;)V
+f
+a
+cpe

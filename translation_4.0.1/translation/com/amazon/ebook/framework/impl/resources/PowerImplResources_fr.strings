@@ -1,0 +1,31 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/impl/resources/PowerImplResources_fr;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+pb.battery.low.msg
+Votre batterie est faible. Rechargez votre Kindle. Pour prolonger votre lecture, essayez de désactiver le réseau sans fil.
+pb.battery.low.wanoff.msg
+Votre batterie est faible. Rechargez votre Kindle.
+pb.battery.depleted.msg
+Votre batterie est presque épuisée et votre Kindle va bientôt s’arrêter. Pour continuer à utiliser votre Kindle, connectez-le à une source d’alimentation.
+pb.battery.error.msg.pattern
+Votre batterie fonctionne hors de sa plage de température recommandée ou a besoin d’être remplacée. Si le problème persiste, contactez le service client de Kindle : www.kindle.com/support.
+pb.battery.temprange.msg.pattern
+pb.battery.default.cs.phone.array.dnt
+java/lang/String
+1-866-321-8851
+1-206-266-0927
+com/amazon/ebook/framework/impl/resources/PowerImplResources_fr
+java/util/ListResourceBundle
+f
+a
+fmc

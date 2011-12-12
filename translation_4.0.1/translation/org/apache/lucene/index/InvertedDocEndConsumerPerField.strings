@@ -1,0 +1,13 @@
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lorg/apache/lucene/index/InvertedDocEndConsumerPerField;
+finish
+abort
+SourceFile
+InvertedDocEndConsumerPerField.java
+org/apache/lucene/index/InvertedDocEndConsumerPerField
+java/lang/Object

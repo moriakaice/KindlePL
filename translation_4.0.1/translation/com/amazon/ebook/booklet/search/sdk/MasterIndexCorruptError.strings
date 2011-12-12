@@ -1,0 +1,15 @@
+serialVersionUID
+J
+ConstantValue
+<init>
+(Ljava/lang/String;)V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/search/sdk/MasterIndexCorruptError;
+Ljava/lang/String;
+SourceFile
+com/amazon/ebook/booklet/search/sdk/MasterIndexCorruptError
+java/lang/Error
+a
+skd

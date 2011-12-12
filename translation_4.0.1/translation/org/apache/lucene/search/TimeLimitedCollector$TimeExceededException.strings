@@ -1,0 +1,44 @@
+timeAllowed
+J
+timeElapsed
+lastDocCollected
+I
+<init>
+(JJI)V
+Code
+LineNumberTable
+LocalVariableTable
+this
+TimeExceededException
+InnerClasses
+Lorg/apache/lucene/search/TimeLimitedCollector$TimeExceededException;
+getTimeAllowed
+()J
+getTimeElapsed
+getLastDocCollected
+()I
+
+(JJILorg/apache/lucene/search/TimeLimitedCollector$1;)V
+x0
+x1
+x2
+x3
+Lorg/apache/lucene/search/TimeLimitedCollector$1;
+Synthetic
+SourceFile
+TimeLimitedCollector.java
+java/lang/StringBuffer
+Elapsed time: 
+Exceeded allowed search time: 
+ ms.
+org/apache/lucene/search/TimeLimitedCollector$TimeExceededException
+java/lang/RuntimeException
+org/apache/lucene/search/TimeLimitedCollector$1
+()V
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(J)Ljava/lang/StringBuffer;
+toString
+()Ljava/lang/String;
+(Ljava/lang/String;)V
+org/apache/lucene/search/TimeLimitedCollector

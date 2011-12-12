@@ -1,0 +1,9 @@
+getReason
+()Lcom/amazon/kindle/kindlet/net/NetworkDisabledReason;
+getLocalizedMessage
+()Ljava/lang/String;
+SourceFile
+com/amazon/kindle/kindlet/net/NetworkDisabledDetails
+java/lang/Object
+ko
+LocalVariableTable

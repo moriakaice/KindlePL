@@ -1,0 +1,7 @@
+accept
+(Ljava/lang/String;)Lorg/apache/lucene/document/FieldSelectorResult;
+SourceFile
+FieldSelector.java
+org/apache/lucene/document/FieldSelector
+java/lang/Object
+java/io/Serializable

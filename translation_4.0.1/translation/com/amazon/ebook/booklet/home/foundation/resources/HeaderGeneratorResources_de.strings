@@ -1,0 +1,69 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/HeaderGeneratorResources_de;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+home.header.filter.sound
+Filtern nach
+home.header.filter.prompt.format
+{0}{1}
+home.header.filter.all
+Alle meine Inhalte
+home.header.filter.all.format
+0#{0,number,integer} Inhalte|1#{0,number,integer} Inhalt|2#{0,number,integer} Inhalte
+home.header.filter.books
+Bücher
+home.header.filter.books.format
+0#{0,number,integer} Bücher|1#{0,number,integer} Buch|2#{0,number,integer} Bücher
+home.header.filter.collections
+Sammlungen
+home.header.filter.collections.format
+0#{0,number,integer} Sammlungen|1#{0,number,integer} Sammlung|2#{0,number,integer} Sammlungen
+home.header.filter.pdocs
+Persönliche Dokumente
+home.header.filter.pdocs.format
+0#{0,number,integer} persönliche Dokumente|1#{0,number,integer} persönliches Dokument|2#{0,number,integer} persönliche Dokumente
+home.header.filter.subs
+Abonnements
+home.header.filter.subs.format
+0#{0,number,integer} Abonnements|1#{0,number,integer} Abonnement|2#{0,number,integer} Abonnements
+home.header.no.options
+
+home.header.sort.sound
+sort by 
+home.header.sort.prompt.format
+home.header.sort.author
+Autor
+home.header.sort.author.label
+Nach Autor
+home.header.sort.collections
+home.header.sort.collections.label
+Nach Sammlung
+home.header.sort.collectionsonly
+Nur Sammlungen
+home.header.sort.collectionsonly.label
+Nur nach Sammlung
+home.header.sort.recent
+Zuletzt verwendet
+home.header.sort.recent.label
+home.header.sort.relevance
+Relevanz
+home.header.sort.relevance.label
+Nach Relevanz
+home.header.sort.title
+Titel
+home.header.sort.title.label
+Nach Titel
+com/amazon/ebook/booklet/home/foundation/resources/HeaderGeneratorResources_de
+java/util/ListResourceBundle
+f
+a
+whg

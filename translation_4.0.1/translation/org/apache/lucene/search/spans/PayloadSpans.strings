@@ -1,0 +1,11 @@
+getPayload
+()Ljava/util/Collection;
+Exceptions
+isPayloadAvailable
+()Z
+SourceFile
+PayloadSpans.java
+org/apache/lucene/search/spans/PayloadSpans
+java/lang/Object
+org/apache/lucene/search/spans/Spans
+java/io/IOException

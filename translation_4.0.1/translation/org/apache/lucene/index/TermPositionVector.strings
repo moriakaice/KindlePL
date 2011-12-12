@@ -1,0 +1,9 @@
+getTermPositions
+(I)[I
+getOffsets
+(I)[Lorg/apache/lucene/index/TermVectorOffsetInfo;
+SourceFile
+TermPositionVector.java
+org/apache/lucene/index/TermPositionVector
+java/lang/Object
+org/apache/lucene/index/TermFreqVector

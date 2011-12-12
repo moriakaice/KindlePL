@@ -1,0 +1,106 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/ExperimentalResources_pt;
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+exp.label
+Experimental
+exp.text
+We are working on these experimental prototypes. Do you find them useful? Should we continue working on them? We would love to hear what you think, so please send your comments to {0}
+exp.text.message.format
+java/text/MessageFormat
+Estamos desenvolvendo estes protótipos experimentais. Você os acha úteis? Devemos continuar os desenvolvendo? Adoraríamos ouvir a sua opinião. Por isso, visite www.kindle.com/support e nos diga o que você acha.
+exp.font
+exp.text.x
+java/lang/Integer
+exp.text.margin
+exp.text.spacing
+exp.text.offset
+exp.widget.label.font
+exp.widget.desc.font
+exp.widget.link.font
+exp.widget.desc.y
+exp.widget.desc.spacing
+exp.widget.base.buffer
+exp.widget.left.margin
+exp.widget.right.margin
+exp.widget.offset
+exp.link.line.offset
+feedback.email
+kindle-feedback@amazon.com
+exp.cursor.disabled.color
+bw.widget.label
+Navegador da web
+bw.widget.cursor.label
+iniciar navegador
+bw.widget.desc
+Select this item to launch Web Browser and browse, choose a bookmark, or enter a URL.
+bw.widget.desc.pattern
+Estamos desenvolvendo um navegador da Web experimental. Você acha que ele é útil? Devemos continuar o desenvolvendo? Adoraríamos ouvir a sua opinião. Por isso, visite www.kindle.com/support e nos diga o que você acha.
+mp3.widget.label
+Reproduzir MP3
+mp3.widget.cursor.label.play
+reproduzir música
+mp3.widget.cursor.label.pause
+pausar música
+mp3.widget.desc
+Selecione este item para ouvir música ou podcasts enquanto lê. Mantenha a tecla ’ALT’ pressionada e pressione a tecla de espaço para parar ou reproduzir ou a tecla ’F’ para ir para a próxima faixa. Para usar este recurso, você deve copiar arquivos MP3 do computador para a pasta de música do Kindle.
+mp3.not.found.alert.text
+Arquivos MP3 não encontrados~~~~Para reproduzir arquivos MP3, você deve primeiro copiá-los de seu computador para a pasta "music" do seu Kindle.
+t2s.widget.label
+Texto-voz
+t2s.widget.cursor.label
+
+t2s.widget.desc
+Inicie o sistema de texto-voz no menu Texto enquanto está lendo, e seu Kindle começará a ler para você (onde for permitido pelo detentor dos direitos). Mantenha a tecla ’Shift’ pressionada e pressione a tecla ’SYM’ para parar ou reproduzir.
+exp.view.sound
+Itens experimentais
+exp.pause.sound
+, 
+exp.menu.initial.focus
+exp.widget.height.default
+exp.widget.cursor.height
+exp.widget.cursor.draw.color
+exp.widget.cursor.erase.color
+experimental.list.item.prompt.format
+{0}, {1}
+kindledx-feedback@amazon.com
+kindle-feedback@amazon.com or kindle-feedback@amazon.co.uk
+com/amazon/ebook/booklet/home/foundation/resources/ExperimentalResources_pt
+com/amazon/ebook/framework/device/util/DeviceResourceBundle
+(Ljava/lang/String;)V
+getInstance
+(IZZ)Ljava/awt/Font;
+(I)V
+Ljava/awt/Color;
+f
+K
+l
+L
+I
+m
+a
+J
+F
+e
+GMb
+ANb
+inb
+aMb
+Dnb
+vOb
+TMb
+cob
+EMb
+tdg
+Kwb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/gui/c
+com/amazon/ebook/framework/font/h

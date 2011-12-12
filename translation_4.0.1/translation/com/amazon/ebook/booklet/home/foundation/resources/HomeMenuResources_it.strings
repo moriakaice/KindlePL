@@ -1,0 +1,37 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/HomeMenuResources_it;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+home.bare.menu.default.item
+java/lang/Integer
+home.app.menu.main.menu.label.create.new.collection
+Crea nuova raccolta
+home.app.menu.main.menu.label.ad.list
+Visualizza offerte speciali
+home.app.menu.settings.menu.label.search.my.items
+Cerca
+home.app.menu.settings.menu.label.archived
+Visualizza elementi archiviati
+home.standard.menu.default.item
+home.app.menu.main.menu.label.view.collections
+View My Collections
+home.app.menu.change.font.size.label
+Modifica dimensioni carattere
+home.app.menu.change.screen.orientation.label
+Rotazione schermo
+home.adList.menu.default.item
+com/amazon/ebook/booklet/home/foundation/resources/HomeMenuResources_it
+java/util/ListResourceBundle
+(I)V
+f
+a
+reg

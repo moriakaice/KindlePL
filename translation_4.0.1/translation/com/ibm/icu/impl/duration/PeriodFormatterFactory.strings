@@ -1,0 +1,15 @@
+setLocale
+(Ljava/lang/String;)Lcom/ibm/icu/impl/duration/PeriodFormatterFactory;
+setDisplayLimit
+(Z)Lcom/ibm/icu/impl/duration/PeriodFormatterFactory;
+setDisplayPastFuture
+setSeparatorVariant
+(I)Lcom/ibm/icu/impl/duration/PeriodFormatterFactory;
+setUnitVariant
+setCountVariant
+getFormatter
+()Lcom/ibm/icu/impl/duration/PeriodFormatter;
+SourceFile
+PeriodFormatterFactory.java
+com/ibm/icu/impl/duration/PeriodFormatterFactory
+java/lang/Object

@@ -1,0 +1,14 @@
+nextPosition
+()I
+Exceptions
+getPayloadLength
+getPayload
+([BI)[B
+isPayloadAvailable
+()Z
+SourceFile
+TermPositions.java
+org/apache/lucene/index/TermPositions
+java/lang/Object
+org/apache/lucene/index/TermDocs
+java/io/IOException

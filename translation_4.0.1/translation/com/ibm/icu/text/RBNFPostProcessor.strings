@@ -1,0 +1,8 @@
+init
+(Lcom/ibm/icu/text/RuleBasedNumberFormat;Ljava/lang/String;)V
+process
+(Ljava/lang/StringBuffer;Lcom/ibm/icu/text/NFRuleSet;)V
+SourceFile
+RBNFPostProcessor.java
+com/ibm/icu/text/RBNFPostProcessor
+java/lang/Object

@@ -1,0 +1,22 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/impl/resources/UDLUriHandlerResources_pt;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+unknown.title
+(título ausente)
+unknown.author
+
+com/amazon/ebook/framework/impl/resources/UDLUriHandlerResources_pt
+java/util/ListResourceBundle
+f
+a
+koc

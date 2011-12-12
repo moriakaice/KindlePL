@@ -1,0 +1,45 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/ActionArchiveResources_fr;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+downloading.items.format
+0#Téléchargement de {0} élément...|1#Téléchargement de {0} élément...|2#Téléchargement de {0} éléments...
+downloaded.items.format
+0#{0} élément téléchargé...|1#{0} élément téléchargé...|2#{0} éléments téléchargés...
+download.task.manager.one.item
+item
+download.task.manager.multiple.items
+items
+download.task.manager.downloading.message
+Downloading {0} {1}...
+download.task.manager.downloaded.message
+Downloaded {0} {1}...
+add.to.home.action.text
+ajouter à la page d’accueil
+add.to.home.action.text.offset
+java/lang/Integer
+add.to.home.action.button.y.offset
+yml.default.download.error.msg
+Votre téléchargement n’a pas abouti. Veuillez réessayer.
+yml.download.error.notenoughspace
+« {0} » n’a pas pu être téléchargé car il n’y a plus assez d’espace mémoire sur votre Kindle. Vous pouvez liberer de l’espace mémoire en supprimant des éléments du répertoire principal.
+yml.download.wan.off
+Votre réseau sans fil est désactivé. Activez-le et réessayez.
+yml.additem.sound
+yml.download.action.turn.on.wifi.text
+Activer le réseau sans fil et télécharger
+com/amazon/ebook/booklet/home/foundation/resources/ActionArchiveResources_fr
+java/util/ListResourceBundle
+(I)V
+f
+a
+oeg

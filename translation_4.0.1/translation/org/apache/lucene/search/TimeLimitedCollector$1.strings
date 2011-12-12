@@ -1,0 +1,8 @@
+SourceFile
+TimeLimitedCollector.java
+Synthetic
+org/apache/lucene/search/TimeLimitedCollector$1
+
+InnerClasses
+java/lang/Object
+org/apache/lucene/search/TimeLimitedCollector

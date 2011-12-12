@@ -1,0 +1,107 @@
+TermVector
+InnerClasses
+Index
+Store
+stringValue
+()Ljava/lang/String;
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lorg/apache/lucene/document/Field;
+readerValue
+()Ljava/io/Reader;
+binaryValue
+()[B
+data
+[B
+ret
+Deprecated
+tokenStreamValue
+()Lorg/apache/lucene/analysis/TokenStream;
+setValue
+(Ljava/lang/String;)V
+value
+Ljava/lang/String;
+(Ljava/io/Reader;)V
+Ljava/io/Reader;
+([B)V
+([BII)V
+offset
+I
+length
+(Lorg/apache/lucene/analysis/TokenStream;)V
+Lorg/apache/lucene/analysis/TokenStream;
+<init>
+(Ljava/lang/String;Ljava/lang/String;Lorg/apache/lucene/document/Field$Store;Lorg/apache/lucene/document/Field$Index;)V
+name
+store
+Lorg/apache/lucene/document/Field$Store;
+index
+Lorg/apache/lucene/document/Field$Index;
+(Ljava/lang/String;Ljava/lang/String;Lorg/apache/lucene/document/Field$Store;Lorg/apache/lucene/document/Field$Index;Lorg/apache/lucene/document/Field$TermVector;)V
+termVector
+Lorg/apache/lucene/document/Field$TermVector;
+(Ljava/lang/String;Ljava/io/Reader;)V
+reader
+(Ljava/lang/String;Ljava/io/Reader;Lorg/apache/lucene/document/Field$TermVector;)V
+(Ljava/lang/String;Lorg/apache/lucene/analysis/TokenStream;)V
+tokenStream
+(Ljava/lang/String;Lorg/apache/lucene/analysis/TokenStream;Lorg/apache/lucene/document/Field$TermVector;)V
+(Ljava/lang/String;[BLorg/apache/lucene/document/Field$Store;)V
+(Ljava/lang/String;[BIILorg/apache/lucene/document/Field$Store;)V
+SourceFile
+Field.java
+java/lang/String
+java/io/Reader
+org/apache/lucene/analysis/TokenStream
+java/lang/NullPointerException
+name cannot be null
+value cannot be null
+java/lang/IllegalArgumentException
+name and value cannot both be empty
+it doesn't make sense to have a field that is neither indexed nor stored
+cannot store term vector information for a field that is not indexed
+java/lang/StringBuffer
+unknown store parameter 
+unknown index parameter 
+reader cannot be null
+tokenStream cannot be null
+binary values can't be unstored
+org/apache/lucene/document/Field
+org/apache/lucene/document/AbstractField
+org/apache/lucene/document/Fieldable
+java/io/Serializable
+org/apache/lucene/document/Field$TermVector
+org/apache/lucene/document/Field$Index
+org/apache/lucene/document/Field$Store
+fieldsData
+Ljava/lang/Object;
+isBinary
+Z
+binaryOffset
+binaryLength
+java/lang/System
+arraycopy
+(Ljava/lang/Object;ILjava/lang/Object;II)V
+NO
+()V
+()I
+intern
+YES
+isStored
+isCompressed
+COMPRESS
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(Ljava/lang/Object;)Ljava/lang/StringBuffer;
+toString
+isIndexed
+isTokenized
+ANALYZED
+NOT_ANALYZED
+NOT_ANALYZED_NO_NORMS
+omitNorms
+ANALYZED_NO_NORMS
+setStoreTermVector
+(Lorg/apache/lucene/document/Field$TermVector;)V

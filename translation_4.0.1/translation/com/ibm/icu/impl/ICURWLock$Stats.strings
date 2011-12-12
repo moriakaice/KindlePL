@@ -1,0 +1,47 @@
+_rc
+I
+_mrc
+_wrc
+_wc
+_wwc
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Stats
+InnerClasses
+Lcom/ibm/icu/impl/ICURWLock$Stats;
+(IIIII)V
+rc
+mrc
+wrc
+wc
+wwc
+(Lcom/ibm/icu/impl/ICURWLock$Stats;)V
+rhs
+toString
+()Ljava/lang/String;
+
+(Lcom/ibm/icu/impl/ICURWLock$1;)V
+x0
+Lcom/ibm/icu/impl/ICURWLock$1;
+Synthetic
+(Lcom/ibm/icu/impl/ICURWLock$Stats;Lcom/ibm/icu/impl/ICURWLock$1;)V
+x1
+SourceFile
+ICURWLock.java
+java/lang/StringBuffer
+ rc: 
+ mrc: 
+ wrc: 
+ wc: 
+ wwc: 
+com/ibm/icu/impl/ICURWLock$Stats
+java/lang/Object
+com/ibm/icu/impl/ICURWLock$1
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(I)Ljava/lang/StringBuffer;
+com/ibm/icu/impl/ICURWLock

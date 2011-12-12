@@ -1,0 +1,15 @@
+serialVersionUID
+J
+ConstantValue
+<init>
+(Ljava/lang/String;)V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/pl/config/ConfigurationException;
+Ljava/lang/String;
+SourceFile
+com/amazon/ebook/pl/config/ConfigurationException
+java/lang/RuntimeException
+a
+nic

@@ -1,0 +1,12 @@
+SHORT
+I
+ConstantValue
+LONG
+COUNT
+SourceFile
+UProperty.java
+com/ibm/icu/lang/UProperty$NameChoice
+NameChoice
+InnerClasses
+java/lang/Object
+com/ibm/icu/lang/UProperty

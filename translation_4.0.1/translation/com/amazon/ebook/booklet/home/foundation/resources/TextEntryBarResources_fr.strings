@@ -1,0 +1,39 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/TextEntryBarResources_fr;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+teb.addcollection.button.label
+créer
+teb.addcollection.bar.shortcut.text
+Commencez la saisie pour créer une collection
+teb.addcollection.already.added.alert.title
+Ce nom de collection existe déjà
+teb.addcollection.already.added.alert.body
+Le nom de collection que vous avez saisi existe déjà. Veuillez entrer un autre nom.
+teb.addcollection.prefill.title
+
+teb.editcollection.button.label
+sauvegarder
+teb.editcollection.already.added.alert.title
+teb.editcollection.already.added.alert.body
+teb.font
+teb.prefill.title
+com/amazon/ebook/booklet/home/foundation/resources/TextEntryBarResources_fr
+java/util/ListResourceBundle
+getInstance
+(IZ)Ljava/awt/Font;
+f
+a
+hzf
+dwb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/font/h

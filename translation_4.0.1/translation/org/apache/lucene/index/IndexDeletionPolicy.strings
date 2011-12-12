@@ -1,0 +1,9 @@
+onInit
+(Ljava/util/List;)V
+Exceptions
+onCommit
+SourceFile
+IndexDeletionPolicy.java
+org/apache/lucene/index/IndexDeletionPolicy
+java/lang/Object
+java/io/IOException

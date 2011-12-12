@@ -1,0 +1,581 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/SettingsResources_fr;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+settings.header.text
+Paramètres
+settings.view.footer.buffer
+java/lang/Integer
+settings.view.x.offset
+settings.view.y.offset
+settings.view.sound
+settings
+settings.view.411.x.margin
+settings.footer.version.format
+Version: {0}
+settings.footer.page.format
+Page {0,number,integer} of {1,number,integer}
+settings.footer.version.message.format
+java/text/MessageFormat
+Version : {0}
+settings.footer.page.message.format
+Page {0,number,integer} sur {1,number,integer}
+settings.footer.bar.date.format
+settings.footer.bar.x
+settings.footer.bar.right.margin.of.date
+settings.footer.font
+settings.footer.right.text.background.color
+settings.footer.right.text.foreground.color
+settings.widget.spacing
+settings.page.default.height
+settings.left.x.margin
+settings.right.x.margin
+settings.widget.offset
+settings.widget.header.offset
+settings.widget.footer.ext.buffer
+settings.widget.header.spacing
+settings.widget.header.desc.spacing
+settings.widget.desc.spacing
+settings.widget.desc.footer.spacing
+settings.widget.max.num.desc.lines
+settings.widget.footer.init.spacing
+settings.widget.footer.spacing
+settings.widget.link.x.spacing
+settings.widget.header.font
+settings.widget.desc.font
+settings.widget.footer.font
+settings.widget.link.font
+settings.widget.link.disabled.color
+settings.widget.header.draw.color
+settings.widget.desc.draw.color
+settings.widget.footer.draw.color
+settings.widget.prompt.with.cursor.text
+{0}, {1}
+settings.widget.prompt.without.cursor.text
+{0}
+settings.widget.header.default.text
+
+settings.widget.cursor.height
+settings.list.item.widget.link.x.spacing
+settings.list.item.widget.link.x.margin
+settings.list.item.widget.link.line.offset
+settings.list.item.widget.link.font
+settings.list.item.draw.color
+settings.list.item.erase.color
+settings.desc.body
+Les pages suivantes contiennent des paramètres permettant de personnaliser votre Kindle. Appuyez sur les boutons Page suivante et Page précédente pour afficher tous les paramètres.
+settings.desc.body.registered
+The following pages contain settings to personalize your Kindle experience. Press the Next and Previous page buttons to see all the settings.
+settings.desc.body.not.registered
+This page contains settings to personalize your Kindle experience.
+settings.desc.cursor.text
+settings.wifi.header
+Réseaux Wi-Fi
+settings.wifi.subheader.not.connected
+non connecté
+settings.wifi.body
+Connectez-vous à un réseau Wi-Fi pour acheter des livres et utiliser d’autres fonctionnalités Kindle.
+settings.wifi.footer.template
+Available Wi-Fi Networks ({0})~~Network: {1}
+settings.wifi.footer.message.format
+Réseaux Wi-Fi disponibles ({0,number,integer})~~Réseau : {1}
+settings.wifi.cursor
+voir
+settings.wifi.height
+settings.wifi.max.num.footer.lines
+settings.wifi.subheader.font
+settings.reg.height
+settings.reg.link.offset
+settings.reg.header
+Enregistrement
+settings.reg.body
+Ce périphérique et les éléments achetés dans la Boutique Kindle sont enregistrés au nom de l’utilisateur Amazon indiqué ci-dessous.
+settings.dereg.body
+not registered
+settings.reg.cursor
+s’enregistrer
+settings.dereg.cursor
+désenregistrer
+settings.reg.max.num.desc.lines
+settings.reg.max.num.footer.lines
+settings.reg.footer.date.template
+Registered on {0}
+settings.reg.footer.date.format
+settings.reg.footer.format.with.name
+Registered User: {0}
+settings.reg.footer.format.with.name.message.format
+Utilisateur enregistré : {0}
+settings.reg.footer.format.without.name
+Registered User: 
+settings.device.info.header
+Infos sur le périphérique
+settings.device.info.footer.wifi.mac.address.message.format
+Adresse MAC Wi-Fi : {0}
+settings.device.info.footer.serial.number.message.format
+Numéro de série : {0}
+settings.device.info.footer.network.capability.message.format
+Fonction réseau : {0}
+settings.device.info.footer.system.tag.message.format
+Balise système : {0}
+settings.device.info.footer.managed.device.message.format
+ID stratégie : {0}
+settings.device.info.sn.default
+Non disponible
+settings.device.info.wifi.mac.address.default
+settings.device.info.network.capability.wifi
+Wi-Fi
+settings.device.info.network.capability.3g
+3G
+settings.device.info.network.capability.wifiand3g
+Wi-Fi et 3G
+settings.device.info.cursor.text
+settings.device.name.header
+Nom du périphérique
+settings.device.name.body
+Editez le nom qui apparaît sur la page d’accueil.
+settings.device.name.footer.template
+Name: {0}
+settings.device.name.footer.message.format
+Nom : {0}
+settings.device.name.cursor.text
+éditer
+settings.device.name.max.num.footer.lines
+settings.device.text.font
+device.name.button.submit.unsel
+Butn_Submit1.gif
+device.name.button.submit
+Butn_Submit2.gif
+settings.device.time.header
+Heure du périphérique
+settings.device.time.body
+Définissez l’heure sur votre Kindle.
+settings.device.time.cursor.edit
+settings.device.time.cursor.set
+définir
+settings.device.time.cursor.set.manually
+définir manuellement
+settings.device.time.cursor.set.automatically
+définir automatiquement
+settings.device.time.max.num.footer.lines
+settings.pwd.header
+Mot de passe du périphérique
+settings.pwd.body
+Limitez l’accès à votre Kindle en définissant un mot de passe.
+settings.pwd.text.on
+On
+settings.pwd.text.off
+Off
+settings.pwd.cursor.on
+activer
+settings.pwd.cursor.off
+désactiver
+settings.pwd.cursor.edit
+settings.pwd.title.text.buffer
+settings.pwd.hint.template
+Password hint: {0}
+settings.pwd.hint.message.format
+Indice pour le mot de passe : {0}
+settings.pwd.max.num.footer.lines
+settings.pwd.text.font
+settings.phl.header
+Passages les plus surlignés
+settings.phl.body
+Affichez les passages les plus fréquemment surlignés par les autres utilisateurs Kindle.
+settings.phl.text.on
+Show
+settings.phl.text.off
+Hide
+settings.phl.cursor.on
+settings.phl.cursor.off
+settings.phl.title.text.buffer
+settings.phl.text.font
+settings.phl.highlighters.cursor.on
+show
+settings.phl.highlighters.cursor.off
+hide
+settings.phl.highlighters.spoken.header
+Popular Highlights
+settings.sa.header
+Notes publiques
+settings.sa.text.on
+settings.sa.text.off
+settings.sa.body
+Show highlights and notes from other people that you follow on kindle.amazon.com.
+settings.sa.body.message.format
+Affichez les passages surlignés et les notes des autres personnes que vous suivez sur {0}.
+settings.sa.default.kindle.home.site.dnt
+kindle.amazon.com
+settings.accessibility.header
+Guide vocal
+settings.accessibility.body
+Naviguez dans votre Kindle à l’aide de menus vocaux, d’éléments sélectionnables et de descriptions.
+settings.accessibility.cursor.enable
+settings.accessibility.cursor.disable
+settings.email.header
+Envoyer à l’adresse e-mail Kindle
+settings.email.body.message.format
+Vous pouvez envoyer des documents à votre Kindle en utilisant l’adresse e-mail ci-dessous. Visitez {0} pour changer vos paramètres.
+settings.email.body.no.myk.url
+Vous pouvez envoyer des documents à votre Kindle en utilisant l’adresse e-mail ci-dessous.
+settings.email.cursor.text
+settings.email.max.num.footer.lines
+settings.email.max.num.desc.lines
+settings.pi.header
+Infos personnelles
+settings.pi.default.font
+settings.pi.default.text
+- aucune info personnelle -
+settings.pi.cursor
+settings.pi.max.num.footer.lines
+settings.sharing.cursor
+gérer
+settings.sharing.header
+Réseaux sociaux
+settings.sharing.body
+Partagez des notes et des surlignements avec vos amis à l’aide de vos comptes de réseaux sociaux (comme Twitter ou Facebook).
+settings.annotations.enable.cursor
+settings.annotations.disable.cursor
+settings.annotations.header
+Sauvegarde des annotations
+settings.annotations.body
+Sauvegardez automatiquement les annotations de votre périphérique, la dernière page lue et les collections sur Amazon.
+settings.menu.default.item
+settings.menu.update
+Mettre à jour votre Kindle
+settings.menu.dictionary
+Changer le dictionnaire principal
+settings.menu.enable.annotations
+Enable Annotations Backup
+settings.menu.disable.annotations
+Disable Annotations Backup
+settings.menu.enable.accessibility
+Voice Guide: Turn on/off
+settings.menu.disable.accessibility
+Turn off Accessible Mode
+settings.menu.enable.popular.highlights
+Enable Popular Highlights
+settings.menu.disable.popular.highlights
+Disable Popular Highlights
+settings.menu.restart
+Redémarrer
+settings.menu.legal
+Juridique
+settings.deregister.handler.clear.pi.text
+settings.deregistration.server.error.text
+Une erreur s’est produite lors du désenregistrement de votre périphérique. Réessayez ultérieurement.
+settings.legal.header
+À propos du Kindle
+settings.legal.page.format
+{0} of {1}
+settings.legal.page.message.format
+{0} sur {1}
+settings.legal.page.sound.format
+Page {0} of {1}
+settings.legal.sound.format
+{0}, Page {1,number,integer} sur {2,number,integer}, {3}
+settings.legal.y.margin
+settings.legal.cp.line.height
+settings.legal.cp.line.spacing
+settings.legal.cp.x.margin
+settings.legal.cp.y.margin
+settings.legal.java.height
+settings.legal.java.imgheight
+settings.legal.cp.header.font
+settings.legal.cp.body.font
+settings.legal.draw.color
+settings.legal.cp.image.x.offset
+settings.legal.space.sound
+ 
+settings.legal.java.img.y.padding
+settings.legal.cp.line.spacing.padding
+settings.legal.overlay.x.margin
+settings.legal.overlay.y.margin
+settings.pwd.enter
+Mot de passe : 
+settings.pwd.confirm
+Confirm Password: 
+settings.pwd.set
+Set Password
+settings.pwd.edit
+Edit Password
+settings.pwd.didntmatch
+Passwords did not match. Please try again.
+settings.pwd.incorrect
+Mot de passe incorrect. Réessayez.
+settings.pwd.incorrect.sound
+Incorrect password.  Please try again. Enter Password: 
+settings.pwd.x.buffer
+settings.pwd.y.buffer
+settings.pwd.line.spacing
+settings.pwd.overlay.height
+settings.pwd.incorrect.height
+settings.pwd.font
+settings.pwd.text.draw.color
+settings.pwd.textfield.y.offset
+settings.pwd.textfield.y.padding
+settings.pwd.2.set.body
+Définissez un mot de passe pour protéger votre Kindle. Si vous oubliez votre mot de passe, vous pouvez réinitialiser votre Kindle. Cette opération supprimera également tout son contenu pour empêcher d’autres personnes d’y accéder.
+settings.pwd.2.y.body
+settings.pwd.2.set.title
+Définir un mot de passe
+settings.pwd.2.edit.title
+Éditer le mot de passe
+settings.pwd.2.didnt.match
+Les mots de passe ne correspondent pas.
+settings.pwd.2.enter
+settings.pwd.2.confirm
+Confirmation :
+settings.pwd.2.enter.new
+settings.pwd.2.hint
+Saisir un indice : 
+settings.pwd.2.hint.x
+settings.pwd.2.hint.helper
+Saisissez un indice relatif à votre mot de passe.
+settings.pwd.2.x.buffer
+settings.pwd.2.y.margin
+settings.pwd.2.ui.component.y.spacing
+settings.pwd.2.enter.x
+settings.pwd.2.height
+settings.pwd.2.font
+settings.pwd.2.main.font
+settings.pwd.2.hint.max.chars
+settings.pwd.2.hint.helper.font
+settings.pwd.2.min.chars
+settings.pwd.2.text.draw.color
+settings.pwd.2.hint.prompt
+settings.pwd.2.length.error.format
+Votre mot de passe doit contenir au moins {0, number, integer} caractères. Veuillez essayer à nouveau.
+settings.oobe.wifi.header
+Se connecter à un réseau Wi-Fi
+settings.oobe.wifi.body
+Pour enregistrer votre Kindle, faire des achats ou accéder à des éléments dans la Boutique Kindle, ou pour afficher des sites Web, vous devez d’abord vous connecter à un réseau Wi-Fi.~~~~Vous pourrez toujours configurer une connexion Wi-Fi ultérieurement via la page Paramètres.
+settings.oobe.wifi.set.up.button
+configurer
+settings.oobe.wifi.remind.me.later.button
+configurer ultérieurement
+settings.oobe.wifi.overlay.width
+settings.611.x.margin
+settings.diags.overlay.page.number.pattern.dnt
+{0,number,integer} sur {1,number,integer}
+settings.diags.overlay.close.button.label.dnt
+fermer
+settings.611.y.margin
+settings.611.empty.string
+settings.611.border
+settings.611.refresh.rate
+settings.611.inner.margin
+settings.611.line.spacing
+settings.611.bounds
+java/awt/Rectangle
+settings.611.data.area.x
+settings.611.data.area.y
+settings.611.data.area.line.height
+settings.611.data.area.left.margin
+settings.611.data.area.right.margin
+settings.611.data.area.top.margin
+settings.611.data.area.bottom.margin
+settings.611.label.x
+settings.611.label.y
+settings.611.label.height
+settings.611.page.number.x
+settings.611.page.number.height
+settings.611.page.number.font
+settings.611.data.area.font
+settings.611.content.background.color
+settings.611.content.foreground.color
+settings.611.title
+611 Page
+settings.611.refresh.time
+settings.611.label.font
+settings.611.wirelessdatacp.data.default.str
+settings.611.diagnostic.data.search.arg.format
+   {0}: 
+settings.711.title
+711 Page
+settings.711.label.font
+settings.711.refresh.time
+settings.711.nowifi.str
+The device does not have WiFi
+settings.711.wirelessdatacp.data.default.str
+settings.711.cert.path.dnt
+certs/client.p12
+settings.711.registered
+Yes(1)
+settings.711.not.registered
+No(0)
+settings.711.has.cert
+settings.711.does.not.have.cert
+settings.711.info.pattern
+********* 1- Device *********~~1.1 DSN: {0}~~1.2 Version: {1}~~1.3 Registration: {2}~~1.4 Certificate: {3}~~1.5 Time: {4}~~~~{5}
+settings.711.date.formatter.dnt
+java/text/SimpleDateFormat
+yyyy-MM-dd HH:mm:ss z
+settings.711.info.message.format.dnt
+~~{0}~~~~{1}
+settings.711.title.dnt
+settings.711.nowifi.str.dnt
+settings.411.server.up.string
+UP
+settings.411.server.down.string
+DOWN
+settings.411.title
+411 Page
+settings.411.msid.template
+IMSI: {0}
+settings.411.esn.template
+Radio Serial Number: {0}
+settings.411.mac.template
+MAC Address: {0}
+settings.411.prl.version.template
+Roaming Version Number: {0}
+settings.411.waveform.version.template
+Waveform Version: {0}
+settings.411.ota.current.update.version.template
+OTA Current / Update Version: {0} / {1}
+settings.411.unknown.return
+(unknown)
+settings.411.certificate.found
+Certificate: FOUND
+settings.411.certificate.missing
+Certificate: MISSING
+settings.411.data.retrieved.message
+Retrieving data...
+settings.411.serial.number.template
+Serial Number: {0}
+settings.411.server.up.template
+The {0} server is {1}
+settings.411.device.registered.yes
+Device Registered? YES
+settings.411.device.registered.no
+Device Registered? NO
+settings.411.cert.path
+settings.411.margin
+settings.411.line.spacing
+settings.411.x
+settings.411.y
+settings.411.width
+settings.411.height
+settings.411.y.margin
+settings.411.draw.color
+settings.411.pause.sound
+, 
+settings.411.line.y.padding
+settings.411.label.font
+settings.411.info.dnt
+~~{0}~~~~********* 2- Device Status *********~~2.1 Server info: The FIRS, WEBSITE, TODO, CDE server is {1}, {2}, {3}, {4}~~2.2 Waveform Version : {5}~~2.3 Kindle Store Website : {6}~~2.4 OTA State: {7, choice, 0#OTA Current|1#OTA Update Available}~~2.5 OTA Software Version : {8}~~2.6 Available OTA Version : {9}
+settings.411.up.down.format.dnt
+0#DOWN|1#UP
+settings.411.title.dnt
+settings.411.data.retrieved.message.dnt
+settings.device.title
+Définir le nom du périphérique
+settings.device.title.font
+settings.device.textbox.font
+settings.device.numlines
+settings.device.name.max.characters
+settings.device.overlay.height
+settings.device.x.offset
+settings.device.textbox.x.offset
+settings.device.textbox.y.buffer
+settings.device.textbox.y.offset
+settings.device.y.offset
+settings.device.title.y.offset
+settings.device.max.chars
+settings.device.save.button.label
+sauvegarder
+settings.device.textbox.font.draw.color
+settings.device.name.overlay.font.draw.color
+settings.deregistration.header
+Désenregistrer votre Kindle
+settings.deregistration.body
+Votre Kindle va être désenregistré de votre compte Amazon et de nombreuses fonctions seront inactives. Après le désenregistrement, vous pourrez enregistrer votre périphérique sur un autre compte Amazon.
+settings.deregistration.button.text
+switch.wireless.provider.overlay.label
+Switching Wireless Providers
+switch.wireless.provider.overlay.body
+Your current provider is {0}.~~Your Kindle will lose its connection during this process. Manually switching wireless providers may take serveral minutes to complete, and your Kindle may not successfully reconnect to the Amazon Whispernet network. Do you wish to continue?
+set_time_and_date.content_panel.title.text
+set_time_and_date.content_panel.auto_sync.text
+set automatically
+set_time_and_date.content_panel.title.font
+set_time_and_date.content_panel.seperators.font
+set_time_and_date.content_panel.seperators.insets
+java/awt/Insets
+set_time_and_date.content_panel.content.insets
+set_time_and_date.content_panel.field.spacing
+set_time_and_date.content_panel.field.wide.spacing
+set_time_and_date.content_panel.margin.left
+set_time_and_date.content_panel.margin.right
+set_time_and_date.content_panel.margin.bottom
+set_time_and_date.content_panel.ampm.lowercase
+java/lang/Boolean
+set_time_and_date.content_panel.separator.day_and_year
+,
+set_time_and_date.content_panel.auto_sync.label.offset.y
+set_time_and_date.content_panel.auto_sync.spacing
+set_time_and_date.content_panel.draw.color
+set_time_and_date.content_panel.string.for.spinner.content.width
+00
+time.date.change.warning.overlay.message
+Vous êtes sur le point de modifier la date de plus d’un jour sur votre Kindle. Une date incorrecte peut empêcher votre Kindle de fonctionner correctement. Voulez-vous continuer ?
+settings.pause.sound
+settings.longpause.sound
+. 
+selectdict.view.sound
+select dictionary
+settings.registration.body
+An Amazon account is required to register your Kindle. If you do not have an account, go to www.amazon.com/sign-in to create one. For UK customers, go to www.amazon.co.uk/sign-in.~~~~By registering your Kindle, you agree to the Kindle License Agreement and Terms of Use, which can be found in the Appendix of the Kindle User's Guide.~~~~Enter the e-mail address and password associated with your Amazon account. To enter "@" symbol, press the "SYM" key.
+settings.language.header
+Langue du périphérique
+settings.language.body
+Définissez la langue pour votre Kindle.
+settings.language.cursor
+settings.dictionaries.header
+Dictionnaires
+settings.dictionaries.body
+Sélectionnez les dictionnaires par défaut pour votre Kindle.
+settings.dictionaries.cursor
+settings.flashing.page.turn.enable.cursor
+settings.flashing.page.turn.disable.cursor
+settings.flashing.page.turn.header
+Actualisation de la page
+settings.flashing.page.turn.body
+Actualiser l’affichage E Ink chaque fois qu’une page est tournée.
+com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_fr
+java/util/ListResourceBundle
+(I)V
+(Ljava/lang/String;)V
+java/text/DateFormat
+getDateInstance
+(I)Ljava/text/DateFormat;
+getInstance
+(I)Ljava/awt/Font;
+Ljava/awt/Color;
+(IZZ)Ljava/awt/Font;
+(IIII)V
+java/util/Locale
+US
+Ljava/util/Locale;
+(Ljava/lang/String;Ljava/util/Locale;)V
+(IZ)Ljava/awt/Font;
+(Z)V
+f
+a
+kib
+dwb
+L
+Kwb
+K
+Evb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/gui/c
+com/amazon/ebook/framework/font/h

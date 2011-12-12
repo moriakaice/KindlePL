@@ -1,0 +1,25 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/metadata/endactions/resources/MessageTruncationHelperResources_en_GB;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+choice.pattern.requires.stars
+choice.patterns
+java/lang/String
+finished {0}
+finished {0} by {1}
+finished {0} and gave it {2,choice,1#{2} star|2#{2} stars}
+finished {0} by {1} and gave it {2,choice,1#{2} star|2#{2} stars}
+com/amazon/ebook/booklet/reader/metadata/endactions/resources/MessageTruncationHelperResources_en_GB
+java/util/ListResourceBundle
+f
+a
+ztd

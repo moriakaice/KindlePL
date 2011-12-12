@@ -1,0 +1,38 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/search/resources/PluginResources_it;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+tip.search.terms
+java/lang/String
+mancia
+tip
+tip.compact.format.pattern
+Mancia per {0,number,currency}: {1,number,percent} = {2,number,currency}, {3,number,percent} = {4,number,currency}, {5,number,percent} = {6,number,currency}, {7,number,percent} = {8,number,currency}
+tip.verbose.format.pattern
+Mancia per {0,number,currency}:~~{1,number,percent} = {2,number,currency}, totale {3,number,currency}~~{4,number,percent} = {5,number,currency}, totale {6,number,currency}~~{7,number,percent} = {8,number,currency}, totale {9,number,currency}~~{10,number,percent} = {11,number,currency}, totale {12,number,currency}
+time.format.pattern
+Attualmente: {0,date,medium} {0,time,medium}
+time.zone.format.pattern
+ Fuso orario: {2}
+time.verbose.format.pattern
+Data: {0,date,full}~~Ora: {0,time,long}~~ID area: {1}~~Fuso orario: {2}
+time.search.terms
+mostraora
+mostradata
+che ore sono?
+ora
+data
+com/amazon/ebook/booklet/search/resources/PluginResources_it
+java/util/ListResourceBundle
+f
+a
+bod

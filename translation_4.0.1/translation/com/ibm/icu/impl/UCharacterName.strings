@@ -1,0 +1,280 @@
+AlgorithmName
+InnerClasses
+LINES_PER_GROUP_
+I
+ConstantValue
+m_groupcount_
+m_groupsize_
+m_tokentable_
+[C
+m_tokenstring_
+[B
+m_groupinfo_
+m_groupstring_
+m_algorithm_
+[Lcom/ibm/icu/impl/UCharacterName$AlgorithmName;
+m_groupoffsets_
+m_grouplengths_
+NAME_FILE_NAME_
+Ljava/lang/String;
+GROUP_SHIFT_
+GROUP_MASK_
+NAME_BUFFER_SIZE_
+OFFSET_HIGH_OFFSET_
+OFFSET_LOW_OFFSET_
+SINGLE_NIBBLE_MAX_
+m_nameSet_
+[I
+m_ISOCommentSet_
+m_utilStringBuffer_
+Ljava/lang/StringBuffer;
+m_utilIntBuffer_
+m_maxISOCommentLength_
+m_maxNameLength_
+INSTANCE_
+Lcom/ibm/icu/impl/UCharacterName;
+TYPE_NAMES_
+[Ljava/lang/String;
+UNKNOWN_TYPE_NAME_
+NON_CHARACTER_
+LEAD_SURROGATE_
+TRAIL_SURROGATE_
+EXTENDED_CATEGORY_
+getInstance
+()Lcom/ibm/icu/impl/UCharacterName;
+Code
+LineNumberTable
+LocalVariableTable
+e
+Ljava/io/IOException;
+Ljava/lang/Exception;
+getName
+(II)Ljava/lang/String;
+this
+ch
+choice
+result
+getCharFromName
+(ILjava/lang/String;)I
+count
+name
+upperCaseName
+getGroupLengths
+(I[C[C)I
+shift
+i
+index
+offsets
+lengths
+length
+C
+b
+B
+n
+stringoffset
+getGroupName
+(III)Ljava/lang/String;
+oldindex
+token
+getExtendedName
+(I)Ljava/lang/String;
+getGroup
+(I)I
+gindex
+codepoint
+endGroup
+msb
+getExtendedOr10Name
+chStr
+zeros
+type
+getGroupMSB
+getCodepointMSB
+getGroupLimit
+getGroupMin
+getGroupOffset
+getGroupMinFromCodepoint
+getAlgorithmLength
+()I
+getAlgorithmStart
+getAlgorithmEnd
+getAlgorithmName
+offset
+group
+getMaxCharNameLength
+getMaxISOCommentLength
+getCharNameCharacters
+(Lcom/ibm/icu/text/UnicodeSet;)V
+set
+Lcom/ibm/icu/text/UnicodeSet;
+getISOCommentCharacters
+setToken
+([C[B)Z
+tokenstring
+setAlgorithm
+([Lcom/ibm/icu/impl/UCharacterName$AlgorithmName;)Z
+alg
+setGroupCountSize
+(II)Z
+size
+setGroup
+groupstring
+<init>
+()V
+is
+Ljava/io/InputStream;
+Ljava/io/BufferedInputStream;
+reader
+Lcom/ibm/icu/impl/UCharacterNameReader;
+Exceptions
+getAlgName
+getGroupChar
+(Ljava/lang/String;I)I
+startgpstrindex
+(I[CLjava/lang/String;I)I
+len
+nindex
+namelen
+getType
+getExtendedChar
+Ljava/lang/NumberFormatException;
+startIndex
+endIndex
+add
+([IC)V
+contains
+([IC)Z
+([ILjava/lang/String;)I
+str
+([ILjava/lang/StringBuffer;)I
+addAlgorithmName
+maxlength
+addExtendedName
+addGroupName
+(II[B[I)[I
+tlength
+tokenlength
+resultnlength
+resultplength
+(I)V
+lineoffset
+parsed
+linenumber
+maxisolength
+tokenlengths
+initNameSetsLengths
+()Z
+extra
+convert
+([ILcom/ibm/icu/text/UnicodeSet;)V
+c
+uset
+access$200
+x0
+x1
+Synthetic
+access$300
+<clinit>
+SourceFile
+UCharacterName.java
+com/ibm/icu/impl/UCharacterName
+java/io/IOException
+java/util/MissingResourceException
+Could not construct UCharacterName. Missing unames.icu
+
+java/lang/Exception
+unknown
+java/lang/StringBuffer
+data/icudt40b/unames.icu
+java/io/BufferedInputStream
+com/ibm/icu/impl/UCharacterNameReader
+java/lang/NumberFormatException
+0123456789ABCDEF<>-
+java/lang/String
+unassigned
+uppercase letter
+lowercase letter
+titlecase letter
+modifier letter
+other letter
+non spacing mark
+enclosing mark
+combining spacing mark
+decimal digit number
+letter number
+other number
+space separator
+line separator
+paragraph separator
+control
+format
+private use area
+surrogate
+dash punctuation
+start punctuation
+end punctuation
+connector punctuation
+other punctuation
+math symbol
+currency symbol
+modifier symbol
+other symbol
+initial punctuation
+final punctuation
+noncharacter
+lead surrogate
+trail surrogate
+java/lang/Object
+com/ibm/icu/impl/UCharacterName$AlgorithmName
+(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+getMessage
+()Ljava/lang/String;
+toLowerCase
+toUpperCase
+getChar
+(Ljava/lang/String;)I
+com/ibm/icu/impl/UCharacterUtility
+toInt
+(CC)I
+skipByteSubString
+([BIIB)I
+delete
+(II)Ljava/lang/StringBuffer;
+append
+(I)Ljava/lang/StringBuffer;
+(C)Ljava/lang/StringBuffer;
+getNullTermByteSubString
+(Ljava/lang/StringBuffer;[BI)I
+toString
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+java/lang/Integer
+toHexString
+access$000
+(Lcom/ibm/icu/impl/UCharacterName$AlgorithmName;)I
+access$100
+appendName
+(ILjava/lang/StringBuffer;)V
+com/ibm/icu/impl/ICUData
+getRequiredStream
+(Ljava/lang/String;)Ljava/io/InputStream;
+(Ljava/io/InputStream;I)V
+(Ljava/io/InputStream;)V
+read
+(Lcom/ibm/icu/impl/UCharacterName;)V
+close
+(I)Z
+charAt
+(I)C
+compareNullTermByteSubString
+(Ljava/lang/String;[BII)I
+isNonCharacter
+com/ibm/icu/lang/UCharacter
+lastIndexOf
+substring
+parseInt
+compareTo
+([II)I
+com/ibm/icu/text/UnicodeSet
+clear
+()Lcom/ibm/icu/text/UnicodeSet;
+(I)Lcom/ibm/icu/text/UnicodeSet;

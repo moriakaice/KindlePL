@@ -1,0 +1,119 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/socializer/resources/SocializerResources_de;
+getContents
+()[[Ljava/lang/Object;
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+share.note.success
+Nachricht gesendet
+share.note.processing
+
+share.highlight.success
+share.highlight.processing
+share.finished.reading.status.success
+share.finished.reading.status.processing
+first.time.sharing.title
+Soziale Netzwerke nicht registriert
+first.time.sharing.message
+Möglicherweise sind Sie bei keinem sozialen Netzwerk angemeldet. Wählen Sie „Anmelden“, um die Webseite zur Verwaltung Ihrer sozialen Netzwerke zu öffnen. Hier können Sie Ihre Kontoinformationen eingeben. Wählen Sie anschließend „Weiterlesen“ um zu diesem Inhalt zurückkehren.
+no.external.accounts.title
+no.external.accounts.message
+Ihr Kindle ist bei keinem sozialen Netzwerk angemeldet. Wählen Sie „Anmelden“, um die Webseite zur Verwaltung Ihrer sozialen Netzwerke zu öffnen. Hier können Sie Ihre Kontoinformationen eingeben. Wählen Sie anschließend „Weiterlesen“ um zu diesem Inhalt zurückkehren.
+authentication.error.title
+Ungültige soziale Netzwerke
+authentication.error.message
+Mindestens eines der für Ihren Kindle angemeldeten sozialen Netzwerke ist nicht ordnungsgemäß eingerichtet. Durch Auswahl der nachstehenden Option „Konten verwalten“ wird die Webseite zur Verwaltung Ihrer sozialen Netzwerke geöffnet, auf der Sie Ihre Kontoinformationen eingeben können. Wenn Sie die erforderlichen Änderungen vorgenommen haben, wählen Sie „Weiterlesen“ um zu diesem Inhalt zurückkehren.
+server.unavailable.title
+Weiterempfehlen nicht möglich, bitte später versuchen
+server.unavailable.message
+Das Weiterempfehlen ist derzeit nicht verfügbar. Bitte versuchen Sie es später erneut.
+sharing.not.supported.title
+Weiterempfehlen wird nicht unterstützt.
+sharing.not.supported.message
+Dieser Inhalt unterstützt kein Weiterempfehlen.
+sharing.limit.reached.title
+Maximale Anzahl gespeicherter Einträge erreicht
+sharing.limit.reached.message
+Weiterempfehlen nicht möglich. Sie haben die maximale Anzahl gespeicherter Einträge für diesen Inhalt erreicht.
+sharing.pdf.password.protected.title
+Passwortgeschützte PDF-Datei
+sharing.pdf.password.protected.message
+Weiterempfehlen nicht möglich. Dies ist eine passwortgeschützte PDF-Datei.
+sharing.limit.by.publisher.reached.message.no.publisher.name
+Weiterempfehlen nicht möglich. Sie haben die vom Herausgeber festgelegte maximale Anzahl gespeicherter Einträge für diesen Inhalt erreicht.
+sharing.limit.by.publisher.reached.message
+Weiterempfehlen nicht möglich. Sie haben die vom Herausgeber festgelegte maximale Anzahl gespeicherter Einträge für diesen Inhalt erreicht: {0}.
+unknown.error.title
+Kommunikationsfehler, bitte später versuchen
+unknown.error.message
+Beim Weiterempfehlen ist ein Kommunikationsfehler aufgetreten. Bitte versuchen Sie es später erneut.
+failure.title
+Weiterempfehlen fehlgeschlagen
+failure.message
+Beim Weiterempfehlen ist ein nicht behebbarer Fehler aufgetreten. Das Weiterempfehlen wurde abgebrochen.
+empty.note.title
+Leere Nachricht
+empty.note.message
+Leere Nachrichten oder Nachrichten, die ausschließlich Leerzeichen enthalten, können nicht weiterempfohlen werden.
+wireless.unavailable.title
+Wi-Fi nicht verfügbar, bitte später versuchen
+wireless.unavailable.message
+Eine Wi-Fi-Verbindung ist derzeit nicht verfügbar. Bitte versuchen Sie es später erneut.
+note.too.long
+java/text/MessageFormat
+{0,choice,1#Ihre Nachricht ist zum Weiterempfehlen zu lang. Bitte löschen Sie ein Zeichen.|2#Ihre Nachricht ist zum Weiterempfehlen zu lang. Bitte löschen Sie {0} Zeichen.}
+browser.return.menu.button.text
+Weiterlesen
+register.button.text
+Anmelden
+manage.accounts.button.text
+Konten verwalten
+cancel.button.text
+Abbrechen
+close.button.text
+Schließen
+append.to.shortened.string
+...
+note.context.char.size
+java/lang/Integer
+note.context.word.size
+share.button.text
+Weiterempfehlen
+social.message.button.width
+social.message.input.line.num
+social.message.title
+Nachricht eingeben
+social.message.subtitle.book.type
+Der Nachricht wird ein Link zum Buch hinzugefügt.
+social.message.subtitle.highlight.type
+Der Nachricht wird ein Link zur Markierung hinzugefügt.
+social.message.counter.format
+{0,choice,-2#{1} Zeichen zu viel |-1#{1} Zeichen zu viel | 0#{1} Zeichen übrig | 1#{1} Zeichen übrig | 2#{1} Zeichen übrig}
+title.subtitle.content.panel.default.font
+title.subtitle.content.panel.title.subtitle.spacing
+title.subtitle.content.panel.title.text.spacing
+title.subtitle.content.panel.input.bottom.margin
+left.corner.message.feature.panel.left.margin
+left.corner.message.feature.panel.color
+left.corner.message.feature.panel.font
+com/amazon/ebook/booklet/reader/socializer/resources/SocializerResources_de
+java/util/ListResourceBundle
+(Ljava/lang/String;)V
+(I)V
+getInstance
+(I)Ljava/awt/Font;
+Ljava/awt/Color;
+f
+a
+qwd
+l
+Evb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/gui/c
+com/amazon/ebook/framework/font/h

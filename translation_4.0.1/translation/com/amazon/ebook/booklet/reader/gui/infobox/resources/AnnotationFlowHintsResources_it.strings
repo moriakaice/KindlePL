@@ -1,0 +1,35 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/infobox/resources/AnnotationFlowHintsResources_it;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+hint.move.to.desired.location.nokeyboard
+Spostate il cursore in una posizione e premete {0} per~~iniziare a evidenziare o premete {1} per creare una nota
+java/lang/String
+5way_icon.gif
+keyboard_icon.gif
+hint.move.to.desired.location
+Spostare il cursore su una posizione, quindi~~iniziare a digitare per creare una nota oppure~~clicca per iniziare a evidenziare
+hint.note.or.highlight
+Iniziare a digitare per creare una nota oppure cliccare per~~iniziare a evidenziare
+hint.start.selection
+Spostare il cursore per evidenziare~~Premere {0} per terminare l’evidenziazione
+hint.end.selection
+Cliccare per terminare l’evidenziazione
+com/amazon/ebook/booklet/reader/gui/infobox/resources/AnnotationFlowHintsResources_it
+java/util/ListResourceBundle
+(Ljava/lang/String;[Ljava/lang/String;I)V
+(Ljava/lang/String;I)V
+(Ljava/lang/String;)V
+f
+a
+ngf
+com/amazon/ebook/booklet/reader/gui/infobox/y

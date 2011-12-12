@@ -1,0 +1,35 @@
+Message shared	Zarządzaj udostępnionymi
+Social Networks Not Registered	Sieci społecznościowe nie zarejestrowane
+You may not be registered with any social networks. Selecting 'register' below will open the "Manage Your Social Networks" web page so you can enter your account information. When your registration is complete, select 'Continue Reading' to return to this item.	Możesz nie być zarejestrowany w żadnej sieci społecznościowej. Zaznaczającz 'rejestruj' poniżej otworzy stronę "Zarządzaj swoimi sieciami społecznościowymi", na której możesz wprowadzić dane konta. Gdy zakończysz rejestracje, zaznacz 'Kontynuuj czytanie' aby wrócić do rego elementu.
+Your Kindle is not registered with any social networks. Selecting 'register' below will open the "Manage Your Social Networks" web page so you can enter your account information. When your registration is complete, select 'Continue reading' to return to this item.	Nie jesteś zarejestrowany w żadnej sieci społecznościowej. Zaznaczającz 'rejestruj' poniżej otworzy stronę "Zarządzaj swoimi sieciami społecznościowymi", na której możesz wprowadzić dane konta. Gdy zakończysz rejestracje, zaznacz 'Kontynuuj czytanie' aby wrócić do rego elementu.
+Invalid Social Networks	Niewłaściwe sieci społecznościowe
+One or more of the social networks registered to your Kindle are not configured properly. Selecting 'manage accounts' below will open the "Manage Your Social Networks" web page so you can enter your account information. When your changes are complete, select 'Continue reading' to return to this item.	Jedna lub więcej sieci społecznościowych jest skonfigurowana niepoprwanie. Zaznaczającz 'zarządzaj' poniżej otworzy stronę "Zarządzaj swoimi sieciami społecznościowymi", na której możesz wprowadzić dane konta. Gdy wprowadzisz zmiany, zaznacz 'Kontynuuj czytanie' aby wrócić do rego elementu.
+Sharing unavailable. Try later	Udostępnianie niedostępne. Spróbuj później
+The sharing service is currently unavailable. Please try again later.	Usługa udostępniania jest aktualnie niedostępna. Spróbuj ponownie później.
+Sharing Not Supported	Udostępnianie nie wspierane.
+This content does not support sharing.	Ten dokument nie wspiera udostępniania.
+Clipping Limit Reached	Limit wycinków osiągnięty
+Unable to share. You have reached the clipping limit for this item.	Nie można udostępnić. Przekroczono limit wycinków dla tego elementu.
+Password Protected PDF File	Plik PDF chroniony hasłem
+Unable to share. This is a password protected PDF file.	Nie można udostępnić. Ten plik PDF jest chroniony hasłem.
+Unable to share. You have reached the clipping limit for this item set by the publisher.	Nie można udostępnić. Przekroczono limit wycinków dla tego elementu ustanowiony przez wydawcę.
+Unable to share. You have reached the clipping limit for this item set by the publisher, {0}.	Nie można udostępnić. Przekroczono limit wycinków dla tego elementu ustanowiony przez wydawcę, {0}.
+Communication error. Try later	Błąd połączenia. Spróbuj ponownie później
+The sharing service encountered a communication error. Please try again later.	Błąd połączenia. Spróbuj ponownie później
+Sharing Failed	Udostępnianie nie powiodło się
+The sharing service encountered an unrecoverable error. Sharing aborted.	Błąd połączenia. Udostępnianie anulowane.
+Empty Message	Pusta wiadomość
+You cannot share an empty message or a message containing only whitespace.	Nie możesz udostępnić pustej notatki.
+Wireless unavailable. Try later	Łączność bezprzewodowa niedostępna. Spróbuj później
+Wireless connectivity is currently unavailable. Please try again later.	Łączność bezprzewodowa niedostępna. Spróbuj ponownie później
+{0,choice,1#Your message is too long to share. Please remove one character.|2#Your message is too long to share. Please remove {0} characters.}	{0,choice,1#Twoja notatka jest za długa. Usuń 1 znak.|2#Twoja notatka jest za długa. Usuń {0} znaki.}
+Continue reading	Kontynuuj czytanie
+register	rejestruj
+manage accounts	zarządzaj kontami
+cancel	anuluj
+close	zamknij
+share	udostępnij
+Enter Your Message	Wpisz swoją wiadomość
+A link to the book will be appended to your message.	Link do książki zostanie dodany do Twojej wiadomości.
+A link to your highlight will be appended to your message.	Link do Twojego podkreślenia będzie dodany do Twojej wiadomości.
+{0,choice,-2#{1} characters over |-1#{1} character over | 0#{1} characters left | 1#{1} character left | 2#{1} characters left}	{0,choice,-2#{1} pozostało znaków |-1#{1} poznostał znak | 0#{1} pozostało znaków | 1#{1} pozostał znak | 2#{1} pozostało znaków}

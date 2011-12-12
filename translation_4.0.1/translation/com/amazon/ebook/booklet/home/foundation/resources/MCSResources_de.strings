@@ -1,0 +1,97 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/MCSResources_de;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+switch.wireless.provider.overlay.label
+Mobilfunk-Anbieter wird gewechselt
+switch.wireless.provider.overlay.body.without.current.provider
+Während dieses Vorgangs hat Ihr Kindle keine Verbindung. Der manuelle Wechsel des Mobilfunk-Anbieters kann mehrere Minuten dauern und Ihr Kindle kann anschließend möglicherweise keine neue Verbindung zum Amazon Whispernet-Netzwerk herstellen. Möchten Sie fortfahren?
+wireless.provider.page.footer.text
+
+wireless.provider.page.header.text
+Verfügbare Mobilfunk-Anbieter
+wireless.provider.page.scanning.text.1
+Es wird nach verfügbaren Mobilfunk-Anbietern gesucht.
+wireless.provider.page.scanning.text.2
+Dieser Vorgang kann einige Minuten dauern...
+wireless.provider.page.switch.automatically.text
+Automatisch wechseln (empfohlen)
+wireless.provider.main.item.name.with.technology.pattern
+{0} ({1})
+wireless.technology.gsm
+2G
+wireless.technology.gsm.compact
+wireless.technology.utran
+3G
+wireless.technology.gsm.egprs
+EDGE
+wireless.technology.utran_hsdpa
+3G+
+wireless.technology.utran.hsupa
+wireless.technology.utran.hsdpa.hsupa
+wireless.provider.page.scanning.font
+wireless.provider.main.item.font
+wireless.provider.populating.page.instruction.text.font
+default.menu.item.index.for.mcs
+java/lang/Integer
+wireless.provider.populating.page.item.x.margin
+wireless.provider.main.item.text.line.y.margin
+mcs.max.wait.timer
+java/lang/Long
+mcs.defer.screen.saver.timer
+mcs.item.cursor.height
+wireless.provider.populating.page.instruction.text
+Wählen Sie „Automatisch wechseln“, damit Ihr Kindle automatisch einen geeigneten Mobilfunk-Anbieter auswählt (Standardeinstellung).
+mcs.connected.sound
+connected
+mcs.not.connected.sound
+Nicht verbunden
+mcs.2g.sound
+two g
+mcs.3g.sound
+three g
+mcs.edge.sound
+edge
+mcs.3gplus.sound
+three g plus
+mcs.scanning.view.sound
+MCS-Scan-Ansicht
+mcs.populating.view.sound
+MCS-Daten-Ansicht
+mcs.pause.sound
+, 
+mcs.util.get.default.button
+mcs.table.row.height.default
+mcs.footer.bar.x
+mcs.list.item.font.draw.color
+mcs.list.item.cursor.erase.color
+mcs.list.item.prompt.format
+{0}, {1}, {2}
+mcs.list.item.access.default.sound
+mcs.list.item.carrier.scan
+Carrier-Scan
+mcs.populating.view.screen.cursor.x
+com/amazon/ebook/booklet/home/foundation/resources/MCSResources_de
+java/util/ListResourceBundle
+getInstance
+(IZZ)Ljava/awt/Font;
+(I)V
+(J)V
+Ljava/awt/Color;
+f
+a
+ldg
+K
+Kwb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/gui/c
+com/amazon/ebook/framework/font/h

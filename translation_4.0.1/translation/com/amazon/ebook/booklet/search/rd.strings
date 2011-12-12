@@ -1,0 +1,44 @@
+<init>
+(Ljava/lang/String;)V
+Code
+LineNumberTable
+LocalVariableTable
+
+InnerClasses
+Ljava/lang/String;
+Ljava/lang/StringBuffer;
+I
+SourceFile
+java/lang/StringBuffer
+Command = 
+~~==== stdout ====~~
+==== stderr ====~~
+Exit code = 
+PrivateCommand
+()V
+getBookletContext
+exec
+(Ljava/lang/String;Ljava/lang/StringBuffer;Ljava/lang/StringBuffer;)I
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+toString
+()Ljava/lang/String;
+java/lang/Integer
+(I)Ljava/lang/String;
+nnb
+a
+Lcom/amazon/ebook/booklet/search/rd;
+com/amazon/ebook/booklet/search/rd
+ace
+VRB
+sTB
+tG
+()Lcom/amazon/ebook/framework/service/d;
+()Lcom/amazon/ebook/framework/a/h;
+XUA
+()Lcom/amazon/ebook/booklet/search/ib;
+com/amazon/ebook/booklet/search/pi
+com/amazon/ebook/framework/service/d
+com/amazon/ebook/framework/a/h
+com/amazon/ebook/booklet/search/ib
+com/amazon/ebook/booklet/search/gd

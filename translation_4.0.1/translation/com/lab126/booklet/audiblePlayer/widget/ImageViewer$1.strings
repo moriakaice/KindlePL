@@ -1,0 +1,17 @@
+this$0
+Synthetic
+<init>
+Code
+LineNumberTable
+LocalVariableTable
+
+InnerClasses
+Lcom/lab126/booklet/audiblePlayer/widget/ImageViewer$1;
+SourceFile
+com/lab126/booklet/audiblePlayer/widget/ImageViewer$1
+java/awt/Component
+()V
+Lcom/lab126/booklet/audiblePlayer/widget/b;
+(Lcom/lab126/booklet/audiblePlayer/widget/b;)V
+a
+nkb

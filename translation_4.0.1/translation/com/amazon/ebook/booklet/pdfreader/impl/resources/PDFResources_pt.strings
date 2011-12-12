@@ -1,0 +1,41 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/pdfreader/impl/resources/PDFResources_pt;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+pdf.search.vertical.margin.percent
+java/lang/Double
+pdf.search.vertical.move.percent
+pdf.continuous.overlap
+java/lang/Integer
+landscape.left.border.width
+landscape.top.border.height
+currentpage.with.pagename.pattern
+Página atual {0} de {1}
+currentpage.without.pagename.pattern
+Página atual {0,number,integer} de {1,number,integer}
+opening.msg.choice.pattern
+0#Abrindo a página {0,number,integer}|1#Abrindo a página {0,number,integer} de {1,number,integer}
+metadata.delimiters
+ /><
+custom.end.location.label.pattern
+{0,number,integer} de {1,number,integer}
+position.toString.pattern
+{0}.{1} ({2} {3}) : {4} {5}, {6} {7}
+text.position.toString.pattern
+PDFTextPositionData x = {0} y = {1} w = {2} h = {3} word -{4}- loc = {5}
+com/amazon/ebook/booklet/pdfreader/impl/resources/PDFResources_pt
+java/util/ListResourceBundle
+(D)V
+(I)V
+f
+a
+gef

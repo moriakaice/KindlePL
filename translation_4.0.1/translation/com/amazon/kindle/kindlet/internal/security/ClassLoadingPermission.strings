@@ -1,0 +1,25 @@
+serialVersionUID
+J
+ConstantValue
+<init>
+(Ljava/lang/String;)V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/kindle/kindlet/internal/security/ClassLoadingPermission;
+Ljava/lang/String;
+(Ljava/lang/String;Ljava/lang/String;)V
+(Ljava/lang/String;)Z
+SourceFile
+java/lang/IllegalArgumentException
+Not a valid string for package prefix
+com/amazon/kindle/kindlet/internal/security/ClassLoadingPermission
+java/security/BasicPermission
+java/lang/String
+trim
+()Ljava/lang/String;
+length
+()I
+txA
+a
+nlb

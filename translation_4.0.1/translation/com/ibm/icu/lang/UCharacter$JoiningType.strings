@@ -1,0 +1,16 @@
+NON_JOINING
+I
+ConstantValue
+JOIN_CAUSING
+DUAL_JOINING
+LEFT_JOINING
+RIGHT_JOINING
+TRANSPARENT
+COUNT
+SourceFile
+UCharacter.java
+com/ibm/icu/lang/UCharacter$JoiningType
+JoiningType
+InnerClasses
+java/lang/Object
+com/ibm/icu/lang/UCharacter

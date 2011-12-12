@@ -1,0 +1,28 @@
+m_state
+Lcom/amazon/kindle/kindlet/internal/lifecycle/State;
+m_intendedState
+<init>
+(Lcom/amazon/kindle/kindlet/internal/lifecycle/State;Lcom/amazon/kindle/kindlet/internal/lifecycle/State;)V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/kindle/kindlet/internal/lifecycle/IllegalStateTransition;
+getState
+()Lcom/amazon/kindle/kindlet/internal/lifecycle/State;
+SourceFile
+java/lang/StringBuffer
+Transition from 
+ to 
+ is illegal.
+com/amazon/kindle/kindlet/internal/lifecycle/IllegalStateTransition
+com/amazon/kindle/kindlet/internal/KindletContainerException
+()V
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(Ljava/lang/Object;)Ljava/lang/StringBuffer;
+toString
+()Ljava/lang/String;
+(Ljava/lang/String;)V
+KzA
+a
+ywb

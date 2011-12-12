@@ -1,0 +1,42 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/resources/MetadataResources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+ebook
+EBook
+newspaper
+Newspaper
+magazine
+Magazine
+now_now
+Now Now
+feed
+News feed
+message
+Message
+dictionary
+Dictionary
+group
+Group
+dynamicapp
+Widget
+kcollection
+Collection
+audible
+Audible Book
+audio
+Audio
+com/amazon/ebook/framework/resources/MetadataResources
+java/util/ListResourceBundle
+f
+a
+ctc

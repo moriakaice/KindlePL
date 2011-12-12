@@ -1,0 +1,64 @@
+Synthetic
+<init>
+Code
+LineNumberTable
+LocalVariableTable
+UploadAnnotsScheduleThread
+InnerClasses
+run
+()V
+Lcom/amazon/ebook/framework/device/comm/CommunicationException;
+J
+Ljava/lang/InterruptedException;
+
+SourceFile
+com/amazon/ebook/framework/device/comm/CommunicationException
+Error uploading in schedule
+Annots ScheduleThread - Waiting...
+Annots ScheduleThread - Waking up
+java/lang/StringBuffer
+Annots ScheduleThread - Waiting for 
+ ms
+java/lang/InterruptedException
+java/lang/Object
+java/lang/Runnable
+java/lang/System
+currentTimeMillis
+()J
+(Z)Z
+(Ljava/lang/String;)V
+wait
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(J)Ljava/lang/StringBuffer;
+toString
+()Ljava/lang/String;
+(J)V
+f
+Lcom/amazon/ebook/framework/impl/ws/y;
+(Lcom/amazon/ebook/framework/impl/ws/y;Lcom/amazon/ebook/framework/impl/ws/o;)V
+a
+Lcom/amazon/ebook/framework/impl/ws/p;
+Lcom/amazon/ebook/framework/impl/ws/o;
+(Lcom/amazon/ebook/framework/impl/ws/y;)V
+com/amazon/ebook/framework/impl/ws/p
+wkc
+yqb
+(Lcom/amazon/ebook/framework/impl/ws/y;Ljava/lang/Runnable;)Ljava/lang/Runnable;
+eYA
+BPb
+(Lcom/amazon/ebook/framework/impl/ws/y;J)J
+yLb
+(Lcom/amazon/ebook/util/log/w;[Ljava/lang/String;Ljava/lang/String;)V
+U
+Lcom/amazon/ebook/util/log/w;
+vHb
+()Lcom/amazon/ebook/util/log/b;
+jqb
+Trb
+(Lcom/amazon/ebook/framework/impl/ws/y;)J
+spb
+(Lcom/amazon/ebook/framework/impl/ws/y;)Ljava/lang/Runnable;
+com/amazon/ebook/util/log/b
+com/amazon/ebook/framework/impl/ws/y
+com/amazon/ebook/framework/impl/ws/o

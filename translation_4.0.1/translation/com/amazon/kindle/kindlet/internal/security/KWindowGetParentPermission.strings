@@ -1,0 +1,13 @@
+<init>
+(Ljava/lang/String;)V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/kindle/kindlet/internal/security/KWindowGetParentPermission;
+Ljava/lang/String;
+(Ljava/lang/String;Ljava/lang/String;)V
+SourceFile
+com/amazon/kindle/kindlet/internal/security/KWindowGetParentPermission
+java/security/BasicPermission
+a
+rdb

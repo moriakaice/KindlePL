@@ -1,0 +1,8 @@
+readLock
+()Ledu/emory/mathcs/backport/java/util/concurrent/locks/Lock;
+writeLock
+SourceFile
+edu/emory/mathcs/backport/java/util/concurrent/locks/ReadWriteLock
+java/lang/Object
+j
+LocalVariableTable

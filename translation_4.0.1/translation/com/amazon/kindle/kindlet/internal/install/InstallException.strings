@@ -1,0 +1,16 @@
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/kindle/kindlet/internal/install/InstallException;
+(Ljava/lang/String;)V
+Ljava/lang/String;
+(Ljava/lang/Throwable;)V
+Ljava/lang/Throwable;
+(Ljava/lang/String;Ljava/lang/Throwable;)V
+SourceFile
+com/amazon/kindle/kindlet/internal/install/InstallException
+java/lang/Exception
+a
+rob

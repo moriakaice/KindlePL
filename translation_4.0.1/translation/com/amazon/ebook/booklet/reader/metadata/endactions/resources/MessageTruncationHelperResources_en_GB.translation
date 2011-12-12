@@ -1,0 +1,4 @@
+finished {0}	skończona {0}
+finished {0} by {1}	skończona przez {1}
+finished {0} and gave it {2,choice,1#{2} star|2#{2} stars}	skończona {0} i dała jej {2,choice,1#{2} gwiazdka|2#{2} gwiazdki}
+finished {0} by {1} and gave it {2,choice,1#{2} star|2#{2} stars}	skończona {0} przez {1} i dała jej {2,choice,1#{2} gwiazdka|2#{2} gwiazdki}

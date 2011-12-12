@@ -1,0 +1,117 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/RegistrationResources_es;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+registration.view.header.text
+Configuración
+registration.view.header.text.setup
+Configura tu Kindle
+registration.view.title.text
+Registro
+registration.view.setup.title.text
+Registra tu Kindle
+registration.view.title.font
+registration.view.subtitle.text
+Necesitas tener una cuenta en Amazon para registrar tu Kindle.
+registration.view.setup.subtitle.text
+Ahora que ya te has conectado a la red Wi-Fi, registra tu Kindle en una cuenta de Amazon para comprar libros y utilizar otras funciones.
+registration.view.desc.text
+Al registrarse usted acepta el Acuerdo de Licencia y los términos de uso de Kindle, que se encuentran en www.kindle.com/support.
+registration.view.desc.font
+registration.view.draw.color
+registration.view.x.offset.dnt
+java/lang/Integer
+registration.view.footer.button.text
+terminar
+registration.view.registered.setup.subtitle.text
+Te has conectado a una red Wi-Fi.~~~~Tu Kindle está registrado a nombre de:
+registration.view.user.name.font
+registration.button.spacing
+registration.button.width
+registration.line.spacing.dnt
+registration.bullet.format
+{0,number,#0}. 
+registration.bullet.line.spacing
+registration.instruction.view.title.text
+Crear una cuenta nueva desde un ordenador
+registration.instruction.view.text.1
+En un navegador web, ve a: www.kindle.com/account
+registration.instruction.view.text.2
+Cuando se te pida el número de serie de tu dispositivo, introduce este: {0}
+registration.instruction.view.text.3
+Sigue las instrucciones para crear tu cuenta. El Kindle se registrará con ella automáticamente. 
+registration.instruction.view.text.4
+Una vez completados estos pasos en tu ordenador, selecciona el botón "terminar" (abajo).
+registration.instruction.view.cancel.text
+cancelar
+registration.not.registered.title
+No se ha encontrado ningún registro
+registration.not.registered.message
+Verifica que hayas completado los pasos 1 - 3.
+registration.view.widget.title.font
+registration.view.widget.draw.color
+registration.view.widget.dotted.line.draw.color
+registration.view.widget.desc.font
+registration.view.widget.x.offset
+registration.view.widget.y.padding.dnt
+register.device.widget.title.text
+Si ya tienes una cuenta en Amazon
+register.device.widget.setup.title.text
+Utiliza una cuenta de Amazon existente
+register.device.widget.desc.text
+Si ya tienes una cuenta en Amazon, introduce la dirección de e-mail y la contraseña asociadas a esa cuenta.
+register.device.widget.setup.desc.text
+
+register.device.widget.preregistered.title.text
+Usar esta cuenta
+create.account.widget.title.text
+Si aún no tienes una cuenta en Amazon
+create.account.widget.setup.title.text
+Crea una cuenta desde tu Kindle
+create.account.widget.empty.text
+create.account.widget.desc.text
+Crea una cuenta y registra tu Kindle.
+create.account.widget.setup.desc.text
+Si no tienes acceso a un ordenador, también puedes crear una cuenta directamente desde tu Kindle.
+computer.widget.title.text
+Crea una cuenta desde un ordenador
+computer.widget.desc.text
+Si no tienes una cuenta en Amazon, es más fácil crear una desde un ordenador.
+create.new.account.widget.title.text
+Crear una cuenta nueva
+create.new.account.widget.desc.text
+Si no tienes una cuenta en Amazon, puedes crearla ya.
+change.registration.widget.title.text
+Volver a registrar con una cuenta distinta
+setup.wifi.off.title
+Se necesita conexión Wi-Fi
+setup.wifi.off.message
+Conéctate a una red Wi-Fi o vuelve a intentarlo más tarde.
+setup.wifi.off.cancel
+cerrar
+setup.wifi.off.connect
+conectar
+com/amazon/ebook/booklet/home/foundation/resources/RegistrationResources_es
+java/util/ListResourceBundle
+getInstance
+(I)Ljava/awt/Font;
+Ljava/awt/Color;
+(I)V
+(IZZ)Ljava/awt/Font;
+f
+a
+oyf
+Kwb
+Evb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/gui/c
+com/amazon/ebook/framework/font/h

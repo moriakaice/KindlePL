@@ -1,0 +1,13 @@
+<init>
+(Ljava/lang/String;)V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lorg/apache/lucene/index/CorruptIndexException;
+message
+Ljava/lang/String;
+SourceFile
+CorruptIndexException.java
+org/apache/lucene/index/CorruptIndexException
+java/io/IOException

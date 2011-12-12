@@ -1,0 +1,31 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/mobireader/impl/resources/MobiReaderResources_pt;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+unavailable.document.title.replacement
+O servidor inseriu string vazia como título atualizado
+gui.menu.image.default.choice.pattern
+1#Aplicar zoom na imagem|2#Aplicar zoom na imagem {0,number,integer}
+gui.menu.link.default.choice.pattern
+1#Seguir link|2#Seguir link {0,number,integer}
+fail.retrieve.words.msg
+Não é possível recuperar a definição do dicionário {0} padrão. Vá até configurações e escolha um dicionário diferente.
+minimum.definition.length
+java/lang/Integer
+dictionary.open.failed
+Não é possível abrir o dicionário padrão. Vá até configurações e escolha um dicionário diferente.
+com/amazon/ebook/booklet/mobireader/impl/resources/MobiReaderResources_pt
+java/util/ListResourceBundle
+(I)V
+f
+a
+kif

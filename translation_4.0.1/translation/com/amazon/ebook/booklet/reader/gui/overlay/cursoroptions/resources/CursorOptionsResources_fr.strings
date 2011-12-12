@@ -1,0 +1,36 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/overlay/cursoroptions/resources/CursorOptionsResources_fr;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+full.definition
+définition complète
+cancel
+annuler
+highlight.start
+surligner
+highlight.end
+mettre fin au surlignement
+highlight.delete
+supprimer un surlignement
+note.delete
+supprimer une note
+share
+partager
+create.note
+créer une note
+follow
+suivre le lien
+com/amazon/ebook/booklet/reader/gui/overlay/cursoroptions/resources/CursorOptionsResources_fr
+java/util/ListResourceBundle
+f
+a
+fye

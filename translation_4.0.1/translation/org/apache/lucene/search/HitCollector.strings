@@ -1,0 +1,13 @@
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lorg/apache/lucene/search/HitCollector;
+collect
+(IF)V
+SourceFile
+HitCollector.java
+org/apache/lucene/search/HitCollector
+java/lang/Object

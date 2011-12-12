@@ -1,0 +1,46 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/DeviceCollectionsResources_fr;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+device.collections.header.format
+0#Affichage de {0,number,integer} périphérique|1#Affichage de {0,number,integer} périphérique|2#Affichage des {0,number,integer} périphériques
+device.collections.header.text
+Collections d’un autre périphérique
+device.collections.label
+Ajouter les collections d’un autre périphérique
+device.collection.font
+device.collections.widget.author.label
+
+device.collections.merge.title
+Ajouter des collections
+device.collections.merge.body.template
+Vous êtes sur le point d’ajouter les collections de « {0} » à ce Kindle.~~~~Tout élément présent sur les deux appareils sera automatiquement organisé dans la nouvelle collection. L’ajout d’une collection peut prendre plusieurs minutes si vous possédez un nombre important d’éléments, souhaitez-vous continuer ?
+device.collections.merge.message
+Importation des collections...
+device.collections.merge.width
+java/lang/Integer
+device.collections.get.and.merge.collections.thread.name
+Récupération des collections à partir de la sauvegarde
+device.catalog.item.generation
+device.catalog.item.version
+device.collections.view.sound
+com/amazon/ebook/booklet/home/foundation/resources/DeviceCollectionsResources_fr
+java/util/ListResourceBundle
+getInstance
+(IZZ)Ljava/awt/Font;
+(I)V
+f
+a
+hyf
+Kwb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/font/h

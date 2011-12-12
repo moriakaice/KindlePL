@@ -1,0 +1,34 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/view/endactions/resources/YourStatsResources_it;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+yourstats.header
+Statistiche
+yourstats.body.no_highlights
+java/text/MessageFormat
+{0,choice,0#Non sono state inserite evidenziazioni o note|1#È stata inserita 1 nota|2#Sono state inserite {0} note}
+yourstats.body.one_highlight
+{0,choice,0#È stata inserita 1 evidenziazione|1#Sono state inserite 1 evidenziazione e 1 nota|2#Sono state inserite 1 evidenziazione e {0} note}
+yourstats.body.many_highlights
+{0,choice,0#Sono state inserite {1} evidenziazioni|1#Sono state inserite {1} evidenziazioni e 1 nota|2#Sono state inserite {1} evidenziazioni e {0} note}
+font.style
+java/lang/Integer
+header.steps.away.from.current.font.size
+bullet.right.padding.adjustment
+bullet.steps.away.from.current.font.size
+com/amazon/ebook/booklet/reader/gui/view/endactions/resources/YourStatsResources_it
+java/util/ListResourceBundle
+(Ljava/lang/String;)V
+(I)V
+f
+a
+gye

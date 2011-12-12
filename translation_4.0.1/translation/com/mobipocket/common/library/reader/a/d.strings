@@ -1,0 +1,62 @@
+Ljava/util/Hashtable;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+getInstance
+I
+[I
+Z
+(I)V
+removeAll
+<clinit>
+SourceFile
+java/util/Hashtable
+java/lang/StringBuffer
+Adding user defined engine for the following language 
+java/lang/Integer
+The hyphenation engine to add is wrong. It returns null for the languagesID
+Trying to add NULL hyphenation engine
+The hyphenation engine to add is wrong. The LanguagesID returned isn't equalt to the given languageID
+the languageID to remove is negative. Can't do that
+Clearing all user defined hyphenation engine
+Looking for an hyphenationEngine for the following language ID :
+No User Hyphenation engine found for language ID :
+SDK core default hyphenation engine found for language ID :
+User Hyphenation engine found default languageID
+SDK core default hyphenation engine found default language ID will be used
+User Hyphenation engine found for language ID 
+java/lang/Object
+()[I
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(I)Ljava/lang/StringBuffer;
+toString
+()Ljava/lang/String;
+(ILjava/lang/String;)V
+put
+(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+remove
+(Ljava/lang/Object;)Ljava/lang/Object;
+clear
+get
+f
+Lcom/mobipocket/common/library/reader/a/d;
+K
+Lcom/mobipocket/common/library/reader/a/h;
+l
+zdA
+(I)Lcom/mobipocket/common/library/reader/a/h;
+a
+TBA
+wBA
+(ILcom/mobipocket/common/library/reader/a/h;)Z
+()Lcom/mobipocket/common/library/reader/a/d;
+com/mobipocket/common/library/reader/a/d
+bs
+mBA
+vA
+com/mobipocket/common/d/d
+com/mobipocket/common/library/reader/a/h
+com/mobipocket/common/library/reader/a/c

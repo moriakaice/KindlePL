@@ -1,0 +1,16 @@
+value
+Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+this
+CreationPlaceholder
+InnerClasses
+Lorg/apache/lucene/search/FieldCacheImpl$CreationPlaceholder;
+SourceFile
+FieldCacheImpl.java
+org/apache/lucene/search/FieldCacheImpl$CreationPlaceholder
+java/lang/Object
+org/apache/lucene/search/FieldCacheImpl

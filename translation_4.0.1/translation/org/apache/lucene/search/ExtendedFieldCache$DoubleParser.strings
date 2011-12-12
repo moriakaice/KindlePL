@@ -1,0 +1,9 @@
+parseDouble
+(Ljava/lang/String;)D
+SourceFile
+ExtendedFieldCache.java
+org/apache/lucene/search/ExtendedFieldCache$DoubleParser
+DoubleParser
+InnerClasses
+java/lang/Object
+org/apache/lucene/search/ExtendedFieldCache

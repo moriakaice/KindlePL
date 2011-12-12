@@ -1,0 +1,112 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/oobe/resources/OOBEResources_it;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+setup.draw.color
+setup.clear.color
+setup.gray.color
+setup.header.font
+setup.body.font
+setup.wifi.img
+01_LANGUAGE.png
+setup.registration.img
+02_WiFi.png
+setup.complete.img
+03_REGISTRATION.png
+setup.line.width
+java/lang/Integer
+setup.line.spacing
+setup.line.spacing.offset
+setup.line.left.margin
+setup.button.spacing
+setup.header.spacing
+setup.button.fixed.width
+setup.title
+Configura il Kindle
+setup.wifi.header
+Benvenuto nel Kindle
+setup.wifi.body
+Per acquistare libri e utilizzare la maggior parte delle funzioni, è necessario stabilire una connessione a una rete Wi-Fi ed effettuare la registrazione del Kindle. È possibile eseguire questa operazione con pochi semplici passaggi.~~
+setup.wifi.button.connect
+connetti a wi-fi
+setup.wifi.button.skip
+configura piu’ tardi
+setup.wifi.skipped.header
+Configura piu’ tardi
+setup.wifi.skipped.skip.button
+setup.wifi.skipped.body
+È possibile completare la configurazione in un secondo momento selezionando "Configura il Kindle" dalla Homepage.~~Ignorare la configurazione?
+setup.wifi.skipped.cancel
+annulla
+setup.wifi.complete.header
+Wi-Fi connesso
+setup.wifi.complete.body
+La connessione Wi-Fi è stata configurata correttamente e adesso sei connesso a {0}.~~~~ Clicca su "registra il kindle" per continuare la configurazione del Kindle.
+setup.wifi.complete.button.next
+registra il kindle
+setup.wifi.error.title
+Impossibile connettersi ad Amazon
+setup.wifi.error.body
+È possibile registrare il dispositivo più tardi selezionando "Configura il Kindle" dalla Homepage o dalla pagina Impostazioni.
+setup.complete.header
+Configurazione completata
+setup.complete.body
+Congratulazioni, la configurazione è stata completata.~~~~Iniziare esplorando il Negozio Kindle oppure leggere ulteriori informazioni su come utilizzare il Kindle nella relativa Manuale dell’utente. Clicca sul pulsante  per andare alla home page e accedere agli Elementi archiviati.
+setup.complete.button.viewguide
+maggiori informazioni
+setup.complete.button.shop
+acquista nel negozio kindle
+setup.complete.already.body
+La configurazione è stata completata. È possibile cambiare le reti Wi-Fi o la registrazione tramite la pagina Impostazioni. Per accedere a Impostazioni, premere {0}, quindi {1} e selezionare "Impostazioni".
+setup.complete.already.button
+torna alla Homepage
+setup.status.welcome
+Benvenuto
+setup.status.wifi
+Wi-Fi
+setup.status.registration
+Registrazione
+setup.userguide.error.title
+Impossibile trovare il Manuale utente
+setup.userguide.error.body
+Impossibile aprire il Manuale dell’utente del Kindle perché è stato rimosso dal Kindle. Per leggerlo, accedere agli elementi archiviati e scaricarlo.
+setup.userguide.error.button
+vai alla home page
+setup.wifi.off.title
+Connessione Wi-Fi necessaria
+setup.wifi.off.message
+È necessaria una connessione Wi-Fi per completare questa operazione. Eseguire la connessione a una rete Wi-Fi o riprovare più tardi.
+setup.wifi.off.cancel
+chiudi
+setup.wifi.off.connect
+connetti
+setup.loading.message
+Apertura delle impostazioni di configurazione del Kindle in corso, attendere...
+setup.loading.margin
+setup.loading.font
+com/amazon/ebook/booklet/oobe/resources/OOBEResources_it
+java/util/ListResourceBundle
+Ljava/awt/Color;
+getInstance
+(IZZ)Ljava/awt/Font;
+(I)Ljava/awt/Font;
+(I)V
+f
+a
+oef
+Evb
+Kwb
+()Lcom/amazon/ebook/framework/font/h;
+l
+K
+com/amazon/ebook/framework/font/h
+com/amazon/ebook/framework/gui/c

@@ -1,0 +1,9 @@
+contains
+(I)Z
+SourceFile
+UnicodeSet.java
+com/ibm/icu/text/UnicodeSet$Filter
+Filter
+InnerClasses
+java/lang/Object
+com/ibm/icu/text/UnicodeSet

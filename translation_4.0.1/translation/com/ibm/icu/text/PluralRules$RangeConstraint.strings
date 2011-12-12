@@ -1,0 +1,53 @@
+serialVersionUID
+J
+ConstantValue
+mod
+I
+inRange
+Z
+integersOnly
+lowerBound
+upperBound
+isFulfilled
+(D)Z
+Code
+LineNumberTable
+LocalVariableTable
+this
+RangeConstraint
+InnerClasses
+Lcom/ibm/icu/text/PluralRules$RangeConstraint;
+n
+D
+<init>
+(IZZJJ)V
+updateRepeatLimit
+(I)I
+limit
+mylimit
+toString
+()Ljava/lang/String;
+SourceFile
+PluralRules.java
+java/lang/StringBuffer
+[mod: 
+ inRange: 
+ integersOnly: 
+ low: 
+ high: 
+]
+com/ibm/icu/text/PluralRules$RangeConstraint
+java/lang/Object
+com/ibm/icu/text/PluralRules$Constraint
+Constraint
+java/io/Serializable
+()V
+java/lang/Math
+max
+(II)I
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(I)Ljava/lang/StringBuffer;
+(Z)Ljava/lang/StringBuffer;
+(J)Ljava/lang/StringBuffer;
+com/ibm/icu/text/PluralRules

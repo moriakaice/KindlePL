@@ -1,0 +1,32 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/view/pagefooter/resources/PageFooterUIPDFBookResources_es;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+footer.choice.limits
+footer.choice.formats.location
+java/lang/String
+
+Posición {1}
+Posiciones {1}
+footer.choice.formats.page
+Página {1}
+Páginas {1}-{2}
+footer.last_location
+({0})
+color.foreground
+com/amazon/ebook/booklet/reader/gui/view/pagefooter/resources/PageFooterUIPDFBookResources_es
+java/util/ListResourceBundle
+Ljava/awt/Color;
+f
+a
+rfe
+com/amazon/ebook/framework/gui/c

@@ -1,0 +1,9 @@
+parseFloat
+(Ljava/lang/String;)F
+SourceFile
+FieldCache.java
+org/apache/lucene/search/FieldCache$FloatParser
+FloatParser
+InnerClasses
+java/lang/Object
+org/apache/lucene/search/FieldCache

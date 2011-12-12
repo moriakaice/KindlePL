@@ -1,0 +1,40 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/kindle/kindlet/internal/KindletBookletResources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+kindlet.crash.startup.message.pattern
+An error occurred while trying to open this item. If the problem persists, please contact Kindle Customer Service at {0}.
+kindlet.crash.shutdown.message.pattern
+An error occurred while trying to close this item. If the problem persists, please contact Kindle Customer Service at {0}.
+kindlet.crash.general.message.pattern
+An error occurred with this item. If the problem persists, please contact Kindle Customer Service at {0}.
+kindlet.remove.message
+The item that was open is now unavailable because it was removed from your Kindle while in USB drive mode. To access this item, download it again from Archived Items.
+kindlet.restart.framework.message
+The item failed to close properly. Your Kindle needs to restart. Unless you close this dialog box your device will restart in {0,number,integer} seconds.
+kindlet.restart.framework.button
+restart
+kindlet.restartnow.framework.message
+An error occurred with the item. Your Kindle will restart in {0,number,integer} seconds.
+kindlet.upgrade.required.pattern
+The item you attempted to open requires a newer version of Kindle software. Please update your Kindle from Settings or the Kindle Support web page. For additional help, contact Kindle Customer Service at {0}.
+kindlet.crash.lowmemory.message
+An error occurred with the item. It will close and your Kindle might restart.
+kindlet.crash.unknown
+An error occurred and the item will close.
+kindlet.capability.fail.pattern
+Your Kindle does not meet the minimum requirements to run this item. Please contact Kindle Customer Service at {0}.
+com/amazon/kindle/kindlet/internal/KindletBookletResources
+java/util/ListResourceBundle
+f
+a
+hvb

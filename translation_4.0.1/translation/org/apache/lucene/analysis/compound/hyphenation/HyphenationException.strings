@@ -1,0 +1,13 @@
+<init>
+(Ljava/lang/String;)V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lorg/apache/lucene/analysis/compound/hyphenation/HyphenationException;
+msg
+Ljava/lang/String;
+SourceFile
+HyphenationException.java
+org/apache/lucene/analysis/compound/hyphenation/HyphenationException
+java/lang/Exception

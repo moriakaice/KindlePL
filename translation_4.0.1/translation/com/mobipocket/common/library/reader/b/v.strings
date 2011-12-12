@@ -1,0 +1,60 @@
+I
+ConstantValue
+[[B
+[I
+<init>
+Code
+LineNumberTable
+LocalVariableTable
+Ljava/lang/Exception;
+[B
+Exceptions
+([BII)[I
+([B[BI)I
+[Z
+SourceFile
+java/io/IOException
+File corrupted
+File corrupted OR book not supported
+java/lang/Exception
+read error
+ERROR
+ERROR currentCodeLength[nbRecurs]
+error codeLength!!!!
+Too many recursion
+error
+java/lang/Object
+()V
+(I)[B
+([BZ)V
+(Ljava/lang/String;)V
+()I
+(I)V
+(ILjava/lang/String;Ljava/lang/Throwable;)V
+(IZLjava/lang/String;)V
+(ILjava/lang/String;)V
+f
+K
+l
+L
+m
+a
+J
+F
+hdA
+Lcom/mobipocket/common/library/reader/b/v;
+xbA
+(Lcom/mobipocket/common/b/d;II)V
+Lcom/mobipocket/common/b/d;
+Lcom/mobipocket/common/library/reader/book/h;
+com/mobipocket/common/library/reader/b/v
+xw
+mBA
+RbA
+FCA
+jbA
+xU
+Gp
+com/mobipocket/common/d/d
+com/mobipocket/common/b/d
+com/mobipocket/common/library/reader/book/h

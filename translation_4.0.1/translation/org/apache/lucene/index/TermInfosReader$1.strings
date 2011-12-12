@@ -1,0 +1,8 @@
+SourceFile
+TermInfosReader.java
+Synthetic
+org/apache/lucene/index/TermInfosReader$1
+
+InnerClasses
+java/lang/Object
+org/apache/lucene/index/TermInfosReader

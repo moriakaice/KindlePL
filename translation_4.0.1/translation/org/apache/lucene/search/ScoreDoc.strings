@@ -1,0 +1,17 @@
+score
+F
+doc
+I
+<init>
+(IF)V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lorg/apache/lucene/search/ScoreDoc;
+SourceFile
+ScoreDoc.java
+org/apache/lucene/search/ScoreDoc
+java/lang/Object
+java/io/Serializable
+()V

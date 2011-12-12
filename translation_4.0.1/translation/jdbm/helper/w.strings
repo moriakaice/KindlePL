@@ -1,0 +1,71 @@
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+(Ljava/lang/String;)[B
+Ljava/io/UnsupportedEncodingException;
+Ljava/lang/String;
+(B)[B
+B
+(S)[B
+S
+[B
+(I)[B
+I
+(J)[B
+J
+([B)Ljava/lang/String;
+([B)I
+([B)J
+([BI)I
+([BII)V
+([BIJ)V
+main
+([Ljava/lang/String;)V
+[Ljava/lang/String;
+SourceFile
+UTF8
+java/io/UnsupportedEncodingException
+java/lang/Error
+Platform doesn't support UTF8 encoding
+java/lang/String
+java/lang/StringBuffer
+int value of 5 is: 
+int value of -1 is: 
+int value of 22111000 is: 
+long value of 5 is: 
+long value of -1 is: 
+long value of 1112223334445556667 is: 
+java/lang/Object
+getBytes
+printStackTrace
+(Ljava/lang/String;)V
+([BLjava/lang/String;)V
+java/lang/System
+out
+Ljava/io/PrintStream;
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(I)Ljava/lang/StringBuffer;
+toString
+()Ljava/lang/String;
+java/io/PrintStream
+println
+(J)Ljava/lang/StringBuffer;
+a
+PU
+Lt
+bS
+xW
+mW
+OX
+qV
+bV
+oX
+hW
+GW
+kV
+Ljdbm/helper/w;
+jdbm/helper/w
+wp

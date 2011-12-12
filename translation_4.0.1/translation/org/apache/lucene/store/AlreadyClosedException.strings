@@ -1,0 +1,13 @@
+<init>
+(Ljava/lang/String;)V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lorg/apache/lucene/store/AlreadyClosedException;
+message
+Ljava/lang/String;
+SourceFile
+AlreadyClosedException.java
+org/apache/lucene/store/AlreadyClosedException
+java/lang/IllegalStateException

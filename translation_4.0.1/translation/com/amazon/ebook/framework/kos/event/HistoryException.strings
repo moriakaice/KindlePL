@@ -1,0 +1,15 @@
+serialVersionUID
+J
+ConstantValue
+<init>
+(Ljava/lang/String;)V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/kos/event/HistoryException;
+Ljava/lang/String;
+SourceFile
+com/amazon/ebook/framework/kos/event/HistoryException
+java/lang/Exception
+a
+src

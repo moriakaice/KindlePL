@@ -1,0 +1,108 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/CollectionResources_de;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+collection.filter.all.format
+0#Showing All {0,number,integer} Items|1#Showing All {0,number,integer} Item|2#Showing All {0,number,integer} Items
+collection.filter.books.format
+0#Showing All {0,number,integer} Books|1#Showing All {0,number,integer} Book|2#Showing All {0,number,integer} Books
+collection.filter.subs.format
+0#Showing All {0,number,integer} Periodicals|1#Showing All {0,number,integer} Periodical|2#Showing All {0,number,integer} Periodicals
+collection.filter.pdocs.format
+0#Showing All {0,number,integer} Personal Documents|1#Showing All {0,number,integer} Personal Document|2#Showing All {0,number,integer} Personal Documents
+collection.filter.all
+All My Items
+collection.filter.books
+Books
+collection.filter.subs
+Subscriptions
+collection.filter.pdocs
+Personal Docs
+collection.sort.recent.label
+By Most Recent First
+collection.sort.title.label
+By Title
+collection.sort.author.label
+By Author
+collection.sort.recent
+Most Recent First
+collection.sort.title
+Title
+collection.sort.author
+Author
+collection.menuitem.additems.name
+Hinzufügen/Entfernen
+collection.menuitem.edit.collection.name
+Sammlung umbenennen
+collection.menuitem.delete.collection
+Sammlung löschen
+collection.menuitem.create.collection
+Create a New Collection
+collection.menuitem.default.item
+java/lang/Integer
+collection.menuitem.delete.collection.action.confirm.header
+collection.menuitem.delete.collection.action.confirm.body
+Diese Sammlung wird dauerhaft gelöscht, die Inhalte selbst verbleiben jedoch unverändert auf Ihrem Kindle. Möchten Sie fortfahren?
+collection.widget.font
+collection.enter.overlay.height
+collection.enter.overlay.x.margin
+collection.enter.overlay.textbox.x.margin
+collection.enter.overlay.y.margin
+collection.enter.overlay.textbox.y.buffer
+collection.enter.overlay.title.y.margin
+collection.enter.failed.overlay.height
+collection.enter.overlay.line.spacing
+collection.enter.overlay.max.chars
+collection.enter.overlay.save.button.label
+Speichern
+collection.enter.overlay.title
+Sammlungsnamen eingeben
+collection.edit.overlay.title
+Sammlungsnamen bearbeiten
+collection.edit.alreadyexists.overlay.title
+Sammlungsname bereits vorhanden
+collection.edit.alreadyexists.overlay.msg
+Der von Ihnen eingegebene Sammlungsname ist bereits vorhanden. Bitte geben Sie einen anderen Namen ein.
+collection.enter.overlay.title.font
+collection.enter.overlay.main.font
+collection.enter.overlay.field.font
+collection.enter.overlay.font.color
+collection.view.sound.template
+{0} Sammlung
+collection.remove.sound
+Aus Sammlung löschen
+collection.text.offset
+collection.text.line.margin
+collection.line.thickness
+collection.line.x.margin
+collection.label.left.margin
+collection.label.right.margin
+collection.label.font
+collection.view.header.filter.items.format
+0#{0,number,integer} Inhalte|1#{0,number,integer} Inhalt|2#{0,number,integer} Inhalte
+collection.view.header.height
+collection.view.footer.buffer
+com/amazon/ebook/booklet/home/foundation/resources/CollectionResources_de
+java/util/ListResourceBundle
+(I)V
+getInstance
+(IZZ)Ljava/awt/Font;
+(I)Ljava/awt/Font;
+Ljava/awt/Color;
+f
+a
+qig
+Evb
+Kwb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/gui/c
+com/amazon/ebook/framework/font/h

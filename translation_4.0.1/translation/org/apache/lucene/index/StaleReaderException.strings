@@ -1,0 +1,13 @@
+<init>
+(Ljava/lang/String;)V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lorg/apache/lucene/index/StaleReaderException;
+message
+Ljava/lang/String;
+SourceFile
+StaleReaderException.java
+org/apache/lucene/index/StaleReaderException
+java/io/IOException

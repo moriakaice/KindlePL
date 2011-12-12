@@ -1,0 +1,16 @@
+getField
+()Ljava/lang/String;
+size
+()I
+getTerms
+()[Ljava/lang/String;
+getTermFrequencies
+()[I
+indexOf
+(Ljava/lang/String;)I
+indexesOf
+([Ljava/lang/String;II)[I
+SourceFile
+TermFreqVector.java
+org/apache/lucene/index/TermFreqVector
+java/lang/Object

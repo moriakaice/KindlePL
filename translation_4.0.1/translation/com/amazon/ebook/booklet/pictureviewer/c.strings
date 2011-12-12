@@ -1,0 +1,12 @@
+<init>
+()V
+Code
+getName
+()Ljava/lang/String;
+getImage
+()Ljava/awt/Image;
+java/lang/Object
+LocalVariableTable
+a
+Lcom/amazon/ebook/booklet/pictureviewer/c;
+com/amazon/ebook/booklet/pictureviewer/c

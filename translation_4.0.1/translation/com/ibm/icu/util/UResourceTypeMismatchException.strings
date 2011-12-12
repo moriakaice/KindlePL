@@ -1,0 +1,16 @@
+serialVersionUID
+J
+ConstantValue
+<init>
+(Ljava/lang/String;)V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lcom/ibm/icu/util/UResourceTypeMismatchException;
+msg
+Ljava/lang/String;
+SourceFile
+UResourceTypeMismatchException.java
+com/ibm/icu/util/UResourceTypeMismatchException
+java/lang/RuntimeException

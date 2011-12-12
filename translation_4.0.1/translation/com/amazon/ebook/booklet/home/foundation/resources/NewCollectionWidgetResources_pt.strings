@@ -1,0 +1,26 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/NewCollectionWidgetResources_pt;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+new.collection.widget.font
+new.collection.widget.text
+Criar nova coleção
+com/amazon/ebook/booklet/home/foundation/resources/NewCollectionWidgetResources_pt
+java/util/ListResourceBundle
+getInstance
+(IZZ)Ljava/awt/Font;
+f
+a
+idg
+Kwb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/font/h
