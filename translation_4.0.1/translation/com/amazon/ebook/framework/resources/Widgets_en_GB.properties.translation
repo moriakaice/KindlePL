@@ -7,9 +7,9 @@ button.activate.text=activate	button.activate.text=aktywuj
 button.submit.text=wyślij
 button.clear.text=wyczyść
 button.save.text=zapisz
-button.close.setting.text=Zamknij Ustawienia
-button.close.bookmark.text=Zamknij Zakładki
-button.close.history.text=Zamknij Historię
+button.close.setting.text=Zamknij ustawienia
+button.close.bookmark.text=Zamknij zakładki
+button.close.history.text=Zamknij historię
 button.join.text=dołącz
 button.unsubscribe.text=wypisz się
 label.user=Nazwa użytkownika:
