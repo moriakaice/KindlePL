@@ -1,7 +1,7 @@
 Special Offers and Sponsors	Specjalne Oferty i Sponsorzy
 Pending Orders	Oczekujące Zamówienia
 (choosing an item turns wireless on)	(wybranie elementu uruchamia połączenie bezprzewodowe)
-0#Showing {0,number,integer} Items|1#Showing {0,number,integer} Item|2#Showing All {0,number,integer} Items.....0#Wyświetlanie {0,number,integer} Rzeczy|1#	Wyświetlanie {0,number,integer} Rzecz|2#Wyświetlanie Wszystkie {0,number,integer} Rzeczy
+0#Showing {0,number,integer} Items|1#Showing {0,number,integer} Item|2#Showing All {0,number,integer} Items	0#Wyświetlanie {0,number,integer} elementów|1#Wyświetlanie {0,number,integer} elementu|2#Wyświetlanie {0,number,integer} elementów
 Special offers and sponsors, choosing an item turns wireless on	Specjalne oferty i sponsorzy, wybranie elementu uruchamia połączenie bezprzewodowe
 Show Detail Page	Wyświetl stronę z szczegółami
 item {0,number,integer} of {1,number,integer}	element {0,number,integer} z {1,number,integer}

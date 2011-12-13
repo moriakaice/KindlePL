@@ -1,5 +1,5 @@
-Move cursor to a location and then press {0} to start a ~~highlight or press {1} to create a note	Przesuń kursor do lokacji i naciśnij {0} aby zacząć ~~podkreślanie lub naciśnij {1} aby stworzyć notatke
-Move cursor to a location and then~~begin typing to create a note or click to start a highlight	Przesuń kursor do lokacji i~~zacznij pisać aby stworzyć notatke lub kliknij aby zacząć podkreślanie
-Begin typing to create a note or click to start a highlight	Zacznij pisać aby stworzyć notatke lub kliknij aby zacząć podkreślanie
-Move cursor to highlight~~Press {0} to end highlight	Przesuń kursor aby podkreślić~~Naciśnij {0} aby zakończyć podkreślanie
-Click to end highlight	Kliknij aby zakończyć podświetlanie
+Move cursor to a location and then press {0} to start a ~~highlight or press {1} to create a note	Wskaż kursorem miejsce i naciśnij {0} by zacząć ~~podkreślanie lub naciśnij {1} by stworzyć notatkę
+Move cursor to a location and then~~begin typing to create a note or click to start a highlight	Wskaż kursorem miejsce~~i zacznij pisać by stworzyć notatkę lub kliknij [pad] by podświetlić
+Begin typing to create a note or click to start a highlight	Pisz, by dodać notatkę lub kliknij, by zaznaczyć
+Move cursor to highlight~~Press {0} to end highlight	Przesuń kursor by podświetlić~~Kliknij {0} by zakończyć
+Click to end highlight	Kliknij by zakończyć

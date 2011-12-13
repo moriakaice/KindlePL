@@ -1,15 +1,15 @@
-Sections & Articles  •  {0}	Sekcje i artykuły  •  {0}
+Sections & Articles  •  {0}	Rozdziały i artykuły  •  {0}
 {0,choice,0#Article|0<Articles} {1} {0,choice,0#|0<- {2} }of {3}	{0,choice,0#Artykuł|0<Artykuły} {1} {0,choice,0#|0<- {2} }z {3}
-{0,choice,0#Section|0<Sections} {1} {0,choice,0#|0<- {2} }of {3}	{0,choice,0#Sekcja|0<Sekcje} {1} {0,choice,0#|0<- {2} }z {3}
+{0,choice,0#Section|0<Sections} {1} {0,choice,0#|0<- {2} }of {3}	{0,choice,0#Rozdział|0<Rozdziały} {1} {0,choice,0#|0<- {2} }z {3}
 Item {0} of {1}	Element {0} z {1}
 Displaying article {0,choice,0#headline|0<headlines} {1} {0,choice,0#|0<to {2} }of {3}	Wyświetlanie artykułu {0,choice,0#headline|0<headlines} {1} {0,choice,0#|0<to {2} }z {3}
 Displaying {0,choice,0#section|0<sections} {1} {0,choice,0#|0<to {2} }of {3}	Wyświetlanie {0,choice,0#section|0<sections} {1} {0,choice,0#|0<to {2} }z {3}
-Section {0} {1}Item {2} of {3}	Sekcja {0} {1}Element {2} z {3}
-View Sections and Articles	Wyświetl sekcje i artykuły
+Section {0} {1}Item {2} of {3}	Rozdział {0} {1}Element {2} z {3}
+View Sections and Articles	Wyświetl rozdziały i artykuły
 prev	poprzedni
 next	następny
-previous sections	poprzednie sekcje
-next sections	następne sekcje
+previous sections	poprzednie rozdziały
+next sections	następne rozdziały
 previous articles	poprzednie artykuły
 next articles	następne artykuły
 View Articles List	Wyświetl listę artykułów

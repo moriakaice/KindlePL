@@ -1,7 +1,7 @@
 Archived Items	Elementy archiwalne
-0#Showing {0,number,integer} Archived Items|1#Showing {0,number,integer} Archived Item|2#Showing {0,number,integer}	0#Wyświetlanie {0,number,integer} Elementy archiwalne|1#Wyświetlanie {0,number,integer} Element archiwalny|2#Wyświetlanie {0,number,integer} Elementy archiwalne
-By Title	Według tytułu
-By Author	Według autora
+0#Showing {0,number,integer} Archived Items|1#Showing {0,number,integer} Archived Item|2#Showing {0,number,integer}	0#Wyświetlanie {0,number,integer} elementów archiwum|1#Wyświetlanie {0,number,integer} elementu archiwum|2#Wyświetlanie {0,number,integer} elementów archiwume
+By Title	Wg tytułu
+By Author	Wg autora
 Title	Tytuł
 Author	Autor
 Your download was not successful. Please try again.	Pobieranie zakończyło się niepowodzeniem. Spróbuj ponownie.
@@ -11,4 +11,4 @@ A Wi-Fi network connection is required to complete this task. Please connect to 
 view all networks	wyświetl wszystkie sieco
 archived items	elementy archiwalne
 item {0} of {1}	element {0} z {1}
-add to home	dodaj do strony głównej
+add to home	dodaj do katalogu domowego

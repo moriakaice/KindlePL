@@ -1,5 +1,6 @@
-Add Other Device Collections	Dodaj kolekcje innego urządzenia
+0#Showing {0,number,integer} Devices|1#Showing 1 Device|2#Showing {0,number,integer} Devices	0#Wyświetlanie {0,number,integer} urządzeń|1#Wyświetlanie 1 urządzenia|2#Wyświetlanie {0,number,integer} urządzeń
+Add Other Device Collections	Dodaj kolekcję z innego urządzenia
 Add Collections	Dodaj kolekcje
-You are about to add the collections from "{0}" to this Kindle.~~~~Any items that are currently on both devices will automatically be organised into the new collections. Adding the collections may take a few minutes if you have a large number of items, do you wish to continue?	Dodajesz kolekcje z "{0}" do tego Kindle.~~~~Wszystkie elementy znajdujące się na obu urządzeniach zostaną automatycznie zorganizowane w noe kolekcje. Dodawanie kolekcji może zająć chwile jeśli masz dużo dokumentów. Czy chcesz kontynuować?
+You are about to add the collections from "{0}" to this Kindle.~~~~Any items that are currently on both devices will automatically be organised into the new collections. Adding the collections may take a few minutes if you have a large number of items, do you wish to continue?	Masz zamiar dodać kolekcję z "{0}" do tego Kindle'a.~~~~Wszystkie elementy, które znajdują się na obu urządzeniach zostaną automatycznie uszeregowane w nowe kolekcje. Prosimy o zapoznanie się z instrukcją, by dowiedzieć się więcej na temat dodawania nowych kolekcji z innego Kindle'a. Ten proces może potrwać kilka minut, chcesz kontynuować?
 Importing collections...	Importowanie kolekcji...
 Fetching collections from backup	Dodawanie kolekcji z kopii zapasowej

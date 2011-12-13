@@ -1,28 +1,28 @@
-Annotating is disabled	Adnotacje są wyłączone
-Annotating is disabled for sample content	Adnotacje są wyłączone dla testowych treści
-Annotating is disabled for blogs	Adnotacje są wyłączone dla blogów
-Annotating is disabled - Memory is full	Adnotacje są wyłączone - Pamięć pełna
-Begin typing to create a note	Zacznij pisać, aby stworzyć notatkę
+Annotating is disabled	Dodawanie adnotacji wyłączone
+Annotating is disabled for sample content	Dodawanie adnotacji wyłączone dla próbek
+Annotating is disabled for blogs	Dodawanie adnotacji wyłączone dla blogów
+Annotating is disabled - Memory is full	Dodawanie adnotacji wyłączone - pamięć pełna
+Begin typing to create a note	Pisz, by utworzyć notatkę
 Press {0} to create a note	 Naciśnij {0}, aby stworzyć notatkę
-Begin typing to create a note or click to start a highlight	Zacznij pisać, aby stworzyć notatkę lub kliknij, aby zacząć podkreślenie
-Press {0} for full definition, highlight, or note	Naciśnij {0}, aby zobaczyć pełną definicję, podkreślić, lub notować
+Begin typing to create a note or click to start a highlight	Pisz, by dodać notatkę lub kliknij, by zaznaczyć
+Press {0} for full definition, highlight, or note	Naciśnij {0}, aby zobaczyć pełną definicję, zaznaczyć, lub notować
 Press {0} for full definition	Naciśnij {0}, aby zobaczyć pełną definicję
-Press {0} for highlight or note	Naciśnij {0}, aby podrkeślić lub notować
-Move cursor to create a highlight {0}	Przesuń kursor, aby stworzyć podkreślenie {0}
-Press {0} to end highlight	Naciśnij {0}, aby zakończyć podkreślenie
+Press {0} for highlight or note	Naciśnij {0}, aby zaznaczyć lub notować
+Move cursor to create a highlight	Przesuń kursor, by zaznaczyć
+Press {0} to end highlight	Naciśnij {0}, aby zakończyć zaznaczenie
 Press {0} to end highlight, share or create note	Naciśnij {0} aby zakończyć podkreślanie, udostępnić lub stworzyć notatkę
-Click to end highlight or press Back to cancel	Kliknij, aby zakończyć podkreślanie lub naciśnij Wstecz, aby anulować
-Click to end highlight, {0} to tweet/share, or Back to cancel	Kliknij, aby zakończyć podkreślanie, {0}, aby udostępnić lub Wstecz, aby anulować
-Begin typing to create a note or {0} to delete highlight	Zacznij pisać, aby stworzyć notatkę lub {0} aby usunąć podkreślenie
-Press {0} for note or delete highlight	Naciśnij {0}, aby notować lub usunąć podkreślenie
-Type to create note, {0} to delete highlight, {1} to share	Pisz, aby stworzyć notatkę, {0}, aby usunąć podkreślenie
+Click to end highlight or press Back to cancel	Kliknij, by zakoń. zaznacz. lub Back by zrezygnować
+Click to end highlight, {0} to tweet/share, or Back to cancel	Kliknij, by zakoń. zaznacz., {0} by twit./udost., lub Back by zrezygnować
+Begin typing to create a note or {0} to delete highlight	Pisz, by utw. notatkę lub {0} by skasować zaznacz.
+Press {0} for note or delete highlight	Naciśnij {0}, aby notować lub usunąć zaznacz.
+Type to create note, {0} to delete highlight, {1} to share	Pisz, by utw. notatkę, {0} by skasować zaznacz., {1} by udost.
 Press {0} for note, delete highlight, or share highlight	Naciśnij {0}, aby notować, usunąć podkreślenie, lub udostępnić podkreślenie
-Press {0} to go to, share or delete highlight	Naciśnij {0}, aby przejść do, udostępnić lub usunąć podkreślenie
+Press {0} to go to, share or delete highlight	Naciśnij {0}, aby przejść do, udostępnić lub usunąć zaznacz.
 Press {0} to go to or delete highlight	Naciśnij {0}, aby przejść do lub usunąć podkreślenie
 Press {0} to go to or delete bookmark	Naciśnij {0}, aby przejść do lub usunąć zakładkę
 {0} delete   {1} share	{0} usuń   {1} udostępnij
-{0} delete	{0} udostępnij
-Begin typing to create a note or click to follow the link	Zacznij pisać, aby stworzyć notatkę lub kliknij, aby przejść do odnośnika
+{0} delete	{0} skasuj
+Begin typing to create a note or click to follow the link	Pisz, by utw. notatkę lub kliknij, by przejść do adresu
 Press {0} to follow the link	Naciśnij {0}, aby przejść do odnośnika
 Press {0} to follow the link or create note	Naciśnij {0}, aby przejść do odnośnika lub stworzyć notatkę
 Press {0} to follow the link or delete note	Naciśnij {0}, aby przejść do odnośnika lub usunąć notatkę

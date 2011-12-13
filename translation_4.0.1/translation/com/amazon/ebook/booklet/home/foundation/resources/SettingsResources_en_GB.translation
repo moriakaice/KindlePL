@@ -2,95 +2,94 @@ Settings	Ustawienia
 settings	ustawienia
 Version: {0}	Wersja: {0}
 Page {0,number,integer} of {1,number,integer}	Strona {0,number,integer} z {1,number,integer}
-The following pages contain settings to personalise your Kindle experience. Press the Next and Previous page buttons to see all the settings.	Te strony zawierają ustawienia umożliwiające personalizację Twojego Kindle. Użyj przycisków Następna/Poprzednia strona, aby zobaczyć wszystkie ustawienia.
-This page contains settings to personalize your Kindle experience.	Ta strona zawiera ustawiena umożliwiające personalizacje Kindle.
+The following pages contain settings to personalise your Kindle experience. Press the Next and Previous page buttons to see all the settings.	Te strony zawierają ustawienia dotyczące personalizacji Twojego Kindle. Użyj przycisków Dalej oraz Wstecz, by zobaczyć wszystkie ustawienia.
+This page contains settings to personalize your Kindle experience.	Ta strona zawiera ustawienia dotyczące personalizacji Twojego Kindle.
 Wi-Fi Networks	Sieci Wi-Fi
-not connected	nie połączono
+not connected	nie połączony
 Join a Wi-Fi network to buy books and use other Kindle features.	Połącz się z siecią Wi-Fi, aby kupować książki i używać innych funkcji Kindle.
 Available Wi-Fi Networks ({0})~~Network: {1}	Dostępne sieci Wi-Fi ({0})~~Sieć: {1}
 Available Wi-Fi Networks ({0,number,integer})~~Network: {1}	Dostępne sieci Wi-Fi ({0,number,integer})~~Sieć: {1}
 view	wyświetl
 Registration	Rejestracja
-This device and any content purchased in the Kindle Store are registered to the Amazon user shown below.	To urządzenie wraz zawartością kupioną w Kindle Store są zarejestrowane na poniższego użytkownika Amazon.
-not registered	nie zarejestrowany
+This device and any content purchased in the Kindle Store are registered to the Amazon user shown below.	To urządzenie oraz każda zawartość zakupiona poprzez Kindle Store jest zarejestrowana dla użytkownika Amazon podanego poniżej.
 register	rejestruj
-deregister	derejestruj
+deregister	wyrejestruj
 Registered on {0}	Zarejestrowany dnia {0}
 Registered User: {0}	Zarejestrowany użytkownik: {0}
 Registered User: 	Zarejestrowany użytkownik: 
 Device Info	Informacje o urządzeniu
 Wi-Fi MAC Address: {0}	Adres MAC Wi-Fi
 Serial Number: {0}	Numer seryjny: {0}
-Network Capability: {0}	Możliwa łączność: {0}
+Network Capability: {0}	Możliwości sieci: {0}
 System Tag: {0}	Oznaczenie systemu: {0}
 Unavailable	Niedostępne
 Wi-Fi and 3G	Wif-Fi i 3G
 Device Name	Nazwa urządzenia
-Personalise your Kindle by giving it a name that appears on the Home page.	Spersonalizuj swojego Kindle dając mu nazwę, która wyświetli się na stronie głównej.
+Personalise your Kindle by giving it a name that appears on the Home page.	Spersonalizuj swój Kindle poprzez nadanie mu nazwy, która pojawi się w katalogu domowym.
 Name: {0}	Nazwa: {0}
 edit	edytuj
-Device Time	Czas urządzenia
+Device Time	Czas
 Set the time on your Kindle.	Ustaw czas w swoim Kindle.
 set	ustaw
 set manually	ustaw ręcznie
 set automatically	ustaw automatycznie
 Device Password	Hasło urządzenia
-Restrict access to your Kindle by creating a password.	Zastrzeż dostęp do Twojego Kindle tworząc hasło.
-On	Włączone
-Off	Wyłączone
-turn on	Włącz
-turn off	Wyłącz
+Restrict access to your Kindle by creating a password.	Ogranicz dostęp do swojego Kindle poprzez ustanowienie hasła.
+On	Wł.
+Off	Wył.
+turn on	włącz
+turn off	wyłącz
 Password hint: {0}	Podpowiedź do hasła: {0}
-Popular Highlights	Popularne podkreślenia
-Display the passages that are most frequently highlighted by other Kindle users.	Wyświetla frazy najczęściej podświetlane przez innych użytkowników
-Show	Wyświetl
+Popular Highlights	Popularne fragmenty  
+Display the passages that are most frequently highlighted by other Kindle users.	Wyświetlaj fragmenty zaznaczane najczęściej przez innych użytkowników Kindle.
+Show	Pokaż
 Hide	Ukryj
-show	wyświetl
+show	pokaż
 hide	ukryj
 Public Notes	Publiczne notatki
-Show highlights and notes from other people that you follow on kindle.amazon.com.	Wyświetl notatki i podkreślenia innych osób, które śledzisz na kindle.amazon.com
-Show highlights and notes from other people whom you follow on {0}.	Wyświetl notatki i podkreślenia innych osób, które śledzisz na {0}. 
+Show highlights and notes from other people that you follow on kindle.amazon.com.	Pokaż zaznaczenia i notatki osób, które obserwujesz na kindle.amazon.com.
+Show highlights and notes from other people whom you follow on {0}.	Wyświetl notatki i zaznaczenia osób, które śledzisz na {0}. 
 Voice Guide	Wsparcie głosowe
 Send-to-Kindle Email	Email Wyślij-do-Kindle
 You can send documents to your Kindle by using the email address below. Go to {0} to change your settings.	Możesz wysyłać dokumenty na Kindle używając adresu podanego poniżej. Przejdź do {0}, aby zmienić swoje ustawienia.
 You can send documents to your Kindle by using the email address below.	Możesz wysyłać dokumenty na Kindle używając adresu podanego poniżej.
 Personal Info	Informacje Personalne
-- no personal info -	- brak informacji personalnych -
+- no personal info -	- brak informacji osobistej -
 manage	zarządzaj
-Social Networks	Sieci społecznościowe
-Share notes and highlights with friends using your social network accounts (such as Twitter or Facebook).	Udostępniaj notatki i podkreślenia swoim znajomym za pomocą kont sieci społecznościowych (takimi jak Twitter czy Facebook).
+Social Networks	Portale społecznościowe
+Share notes and highlights with friends using your social network accounts (such as Twitter or Facebook).	Udostępnij notatki oraz fragmenty używając portali społecznościowych (np.: Twitter lub Facebook).
 Annotations Backup	Kopia zapasowa adnotacji
-Automatically backup your device annotations, last page read and collections at Amazon.	Automatycznie kopiuj adnotacje, ostatnio czytaną stronę i kolekcje swojego urządzenia na Amazon.
+Automatically backup your device annotations, last page read and collections at Amazon.	Automatycznie twórz kopię zapasową adnotacji, ostatnio czytanych stron oraz kolekcji na stronie Amazon.
 Update Your Kindle	Zaktualizuj Kindle
 Change Primary Dictionary	Zmień domyślny słownik
-Enable Annotations Backup	Włącz kopie zapasową adnotacji
+Enable Annotations Backup	Włącz tworzenie kopii zapasowej adnotacji
 Disable Annotations Backup	Wyłącz kopie zapasową adnotacji
-Enable Popular Highlights	Włącz popularne podkreślenia
-Disable Popular Highlights	Wyłącz popularne podkreślenia
-Legal	Legalność
+Enable Popular Highlights	Włącz popularne fragmenty
+Disable Popular Highlights	Wyłącz popularne fragmenty podkreślenia
+Legal	Prawa autorskie
 There was an error while deregistering your device. Please try again later.	Wystąpił błąd w czasie derejestracji Twojego urządzenia. Spróbuj ponownie później.
 About Kindle	O Kindle
 {0} of {1}	{0} z {1}
 Page {0} of {1}	Strona {0} z {1}
 {0}, Page {1,number,integer} of {2,number,integer}, {3}	{0}, Strona {1,number,integer} z {2,number,integer}, {3}
-Enter Password: 	Wprowadź hasło: 
+Enter Password: 	Podaj hasło: 
 Confirm Password: 	Potwierdź hasło: 
 Set Password	Ustaw hasło
 Edit Password	Edytuj hasło
 Passwords did not match. Please try again.	Hasła nie zgadzają się. Spróbuj ponownie.
-Incorrect password. Please try again.	Niepoprawne hasło. Spróbuj ponownie.
+Incorrect password. Please try again.	Podane hasła nie pasują do siebie. Spróbuj ponownie.
 Incorrect password.  Please try again. Enter Password: 	Niepoprawne hasło. Spróbuj ponownie. Wprowadź hasło: 
-Create a password to protect your Kindle. If you forget your password, you can reset your Kindle, which will also remove all content to prevent other people from accessing it.	Stwórz hasło, aby chronić swojego Kindle. Jeśli zapomnisz hasło możesz zresetować swojego Kindle, co również usunie jego zawartość, aby uniemożliwić innym dostęp do niej.
-Enter New Password: 	Wprowadź nowe hasło: 
-Enter Password Hint: 	Wprowadź podpowiedź do hasła:
-Enter a phrase that can help you remember your password	Wprowadź fraze pozwalającą zapamiętać hasło
+Create a password to protect your Kindle. If you forget your password, you can reset your Kindle, which will also remove all content to prevent other people from accessing it.	Stwórz hasło, by chronić swój Kindle. Jeśli zapomnisz hasła, możesz zresetować urządzenie, co jednocześnie spowoduje usunięcie całej zawartości, by chronić ją przed dostępem innych.
+Enter New Password: 	Podaj nowe hasło: 
+Enter Password Hint: 	Podaj wskazówkę do hasła: 
+Enter a phrase that can help you remember your password	Wprowadź fraze, która pozwoli Ci przypomnieć sobie hasło
 Your password must contain at least {0, number, integer} characters. Please try again.	Twoje hasło musi zawierać co najmniej {0, number, integer} znaków. Spróbuj ponownie.
 Join a Wi-Fi Network	Dołącz do sieci Wi-Fi
-To register your Kindle, shop or browse for content in the Kindle Store or view Web sites, first connect to a Wi-Fi network.~~~~You can always set up a Wi-Fi connection later through the Settings page.	Aby zarejestrować swojego Kindle, robić zakupy w Kindle Store lub przeglądać internet połącz się z siecią Wi-Fi.~~~~Możesz zawsze ustawić połączenie Wi-Fi później z poziomu Ustawień.
+To register your Kindle, shop or browse for content in the Kindle Store or view Web sites, first connect to a Wi-Fi network.~~~~You can always set up a Wi-Fi connection later through the Settings page.	By zarejestrować swój Kindle, kupować oraz przeglądać zawartość Kindle Store lub przeglądać strony WWW, musisz najpierw podłączyć się do sieci Wi-Fi.~~~~Możesz ustawić połączenie Wi-Fi później poprzez stronę ustawień.
 join a network	dołącz do sieci
 remind me later	przypomnij później
 close	zamknij
-Set Device Name	Ustaw nazwe urządzenia
+Set Device Name	Ustaw nazwę urządzenia
 save	zapisz
 Deregister Your Kindle	Derejestruj Kindle
 Your Kindle will be deregistered from your Amazon account and many features will not work. After deregistering, you can register your device to another Amazon account.	Twój Kindle zostanie derejestrowany z Twojego konta Amazon i wiele funkcji przestanie działać. Po derejestracji możesz zarejestrować swoje urządzenie na inne konto Amazon.

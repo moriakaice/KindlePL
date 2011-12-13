@@ -1,25 +1,25 @@
 Typeface	Czcionka
-regular	normalna
-condensed	wąska
-sans serif	szeryfowa
+regular	regularna
+condensed	zagęszczona
+sans serif	bezszeryfowa
 Line Spacing	Interlinia
 small	mała
 medium	średnia
 large	duża
 Contrast	Kontrast
-lightest	najjaśniejszy
-lighter	jaśniejszy
-darker	ciemniejszy
-darkest	najciemniejszy
-Words per Line	Ilość słów w lini
+lightest	-2
+lighter	-1
+darker	+1
+darkest	+2
+Words per Line	Słów w linii
 fewest	najmniej
 fewer	mniej
-Auto-Crop	Automatyczne przycięcie
+Auto-Crop	Auto-przycięcie
 best effort	najlepsza próba
 Justification	Justowanie
-Left	Lewo
+Left	Do lewej
 Full	Pełne
-Zoom	Przybliżenie
+Zoom	Przybliż
 actual size	aktualny rozmiar
 fit to page	dopasuj do strony
 fit to width	dopasuj do szerokości

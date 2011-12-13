@@ -10,7 +10,7 @@ Books	Książki
 0#Showing {0,number,integer} Books|1#Showing {0,number,integer} Book|2#Showing {0,number,integer} Books	0#Wyświetlanie {0,number,integer} Książek|1#Wyświetlanie {0,number,integer} Książkę|2#Wyświetlanie {0,number,integer} Książek
 Periodicals: Current Issues	 Czasopisma : Aktualne Wydania
 0#Showing {0,number,integer} Current Issues|1#Showing {0,number,integer} Current Issue|2#Showing {0,number,integer} Current Issues	0#Wyświetlanie {0,number,integer} Aktualnych wydań|1#Wyświetlanie {0,number,integer} Aktualne wydanie|2#Wyświetlanie {0,number,integer} Aktualnych wydań
-Personal Docs	Dokumenty osobiste
+Personal Docs	Moje dokumenty
 0#Showing {0,number,integer} Personal Docs|1#Showing {0,number,integer} Personal Doc|2#Showing {0,number,integer} Personal Docs	0#Wyświetlanie {0,number,integer} Dokumentów osobistych|1#Wyświetlanie {0,number,integer} Dokument osobisty|2#Wyświetlanie {0,number,integer} Dokumentów osobistych
 Unassigned Items	Elementy nieprzypisane
 No Archived Items	Brak elementów archiwalnych

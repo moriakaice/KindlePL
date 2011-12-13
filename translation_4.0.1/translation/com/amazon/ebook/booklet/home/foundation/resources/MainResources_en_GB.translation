@@ -1,3 +1,5 @@
 View Downloading Items	Wyświetl pobierane elementy
 collection	kolekcja
-Home	Strona główna
+0#items|1#item|2#items	0#elementy|1#element|2#elementy
+0#Showing {0,number,integer} Items|1#Showing {0,number,integer} Item|2#Showing {0,number,integer} Items	0#Wyświetlanie {0,number,integer} elementów|1#Wyświetlanie {0,number,integer} elementu|2#Wyświetlanie {0,number,integer} elementów
+Home	Katalog domowy

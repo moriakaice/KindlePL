@@ -1,22 +1,22 @@
-Another page with the same title is already bookmarked. Do you wish to overwrite it?	Inna strona o tym samym tytule jest już w zakładkach. Czy chcesz ją nadpisać?
-You have reached the limit of bookmarks you can create. Would you like to delete the oldest bookmark in order to save this one?	Przekroczyłeś limit zakładek możliwych do stworzenia. Czy chcesz usunąć najstarszą zakładkę aby zapisać obecną? 
-Your Kindle is unable to connect at this time. Please try again later.	Twój Kindle nie mógł się połączyć. Spróbuj ponownie później.
-Web Browser cannot download this kind of file. Only files with the extension .AZW, .PRC, .MOBI or .TXT can be downloaded to your Kindle.	Przeglądarka nie może pobrać tego typu pliku. Jedynie pliki z rozszerzeniami .AZW, .PRC, .MOBI lub .TXT mogą zostać pobrane na Twojego Kindle.
-Web Browser cannot download files using this protocol. Only HTTP and HTTPS protocols are supported.	 Przeglądarka nie może pobierać plików używając tego protokołu. Jedynie protokoły HTTP i HTTPS są wspierane.
-Web Browser could not open this link because opening multiple windows is not supported.	Przeglądarka nie mogła otworzyć tego odnośnika, ponieważ otwieranie kilku okien nie jest wspierane.
-Web Browser is unable to establish a secure connection with this web site.	Przeglądarka nie mogła nawiązać bezpiecznego połączenia z tą stroną.
-Web Browser was restarted because it ran out of memory.	Przeglądarka została uruchomiona ponownie, ponieważ zabrakło pamięci.
-Your Kindle is unable to load the requested page.	Twój Kindle nie mógł wczytać żądanej strony
-Wireless is turned off. Please turn your wireless on from the menu and try again.	Połączenie bezprzewodowe jest wyłączone. Włącz połączenie bezprzewodowe z opcji i spróbuj ponownie.
-Web Browser does not support file uploads.	Przeglądarka nie wspiera pobierania plików.
-Printing is not available with Web Browser.	Drukowanie za pomocą przeglądarki nie jest możliwe.
-You must first register your Kindle.	Musisz zarejestrować swojego Kindle.
+Another page with the same title is already bookmarked. Do you want to overwrite it?	Inna strona o tym samym tytule jest już w zakładkach. Czy chcesz ją zastąpić?
+You have reached the limit of bookmarks you can create. Would you like to delete the oldest bookmark in order to save this one?	Osiągnięto limit zakładek, jakie można otworzyć. Chcesz usunąć najstarszą zakładkę, żeby zapisać tę? 
+Your Kindle is unable to connect at this time. Please try again later.	Twój Kindle nie może się połączyć w tej chwili. Proszę spróbować później.
+Web Browser cannot download this kind of file. Only files with the extension .AZW, .PRC, .MOBI or .TXT can be downloaded to your Kindle.		Przeglądarka nie może pobrać tego pliku. Tylko pliki: .AZW, .PRC, .MOBI, .TXT można pobierać do Kindle.
+Web Browser cannot download files using this protocol. Only HTTP and HTTPS protocols are supported.	Przeglądarka nie może pobrać plików przy pomocy tego protokołu. Tylko protokoły HTTP i HTTPS są obsługiwane.
+Web Browser could not open this link because opening multiple windows is not supported.	Przeglądarka nie może otworzyć linku, ponieważ otwieranie wielu jej okien nie jest obsługiwane.
+Web Browser is unable to establish a secure connection with this web site.	Nie można ustanowić bezpiecznego połączenia dla tej strony www.
+Web Browser was restarted because it ran out of memory.	Przeglądarka została zrestartowana, ponieważ było zbyt mało wolnej pamięci.
+Your Kindle is unable to load the requested page.	Twój Kindle nie może załadować żądanej strony.
+Wireless is turned off. Please turn your wireless on from the menu and try again.	Połączenie bezprzewodowe jest wyłączone. Proszę włączyć połączenie bezprzewodowe i spróbować ponownie.
+Web Browser does not support file 	Przeglądarka nie obsługuje wysyłania plików.
+Printing is not available with Web Browser.	Przeglądarka nie obsługuje drukowania.
+You must first register your Kindle.	Musisz najpierw zarejestrować swojego Kindle.
 Registration Required	Wymagana Rejestracja
 Download file	Pobierz plik
-Are you sure you want to download {0}? Once the download is complete, the file will appear in your Home screen.	Czy na pewno chcesz pobrać {0}? Kiedy pobieranie zostanie ukończone, plik pojawi się na ekranie głównym.
-Web Browser successfully downloaded {0}.	Pobieranie {0} zakończyło się sukcesem.
-Web Browser was unable to download {0}. Please try again later.	Pobieranie {0} zakończyło się niepowodzeniem. Spróbuj ponownie później.
+Are you sure you want to download {0}? Once the download is complete, the file will appear in your Home screen.	Pobrać {0}? Po zakończeniu plik pojawi się w katalogu domowym. Kontynuować?
+Web Browser successfully downloaded {0}.	Przeglądarka internetowa pomyślnie pobrała {0}.
+Web Browser was unable to download {0}. Please try again later.	Przeglądarka nie mogła pobrać {0}. Proszę spróbować później.
 Authentication Required	Wymagane uwierzytelnianie
 The site {0} at {1} requires a username and password.	Strona {0} w {1} wymaga nazwy użytkownika i hasła.
-Invalid Certificate	Niewłaściwy Certyfikat
-Web Browser is unable to establish a secure connection to the website {0}. Do you still want to proceed?	Przeglądarka nie mogła nawiązać bezpiecznego połączenia z stroną {0}. Czy chcesz kontynuować?
+Invalid Certificate	Nieważny certyfikat
+Web Browser is unable to establish a secure connection to the website {0}. Do you still want to proceed?Nie można ustanowić bezpiecznego połączenia dla strony {0}. Kontynuować?

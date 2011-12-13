@@ -1,11 +1,11 @@
 connect	połącz
-forget	zapomnij
+forget	rozłącz
 connecting...	łączenie...
 enter other Wi-Fi network	wprowadź inną sieć Wi-Fi
-scanning...	skanuje...
-rescan	skanuj ponownie
-secure	bezpieczne
-open	otwórz
+scanning...	szukam...
+rescan	szukaj ponownie
+secure	zabezpieczona
+open	otwarta
 A Wi-Fi connection is required to complete this task. Connect to a Wi-Fi network or try again later.	Połączenie Wi-Fi jest wymagane, aby dokończyć to zadanie. Połącz się z siecią Wi-Fi lub spróbuj ponownie później.
 advanced	zaawansowane
 Enter Wi-Fi password for {0}:	Wprowadź hasło Wi-Fi dla {0}:
