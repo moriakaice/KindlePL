@@ -1,8 +1,0 @@
-addMachinePID
-(Ljava/lang/String;)V
-Exceptions
-com/amazon/ebook/mobi8sdk/BookSecurityManager
-java/lang/Object
-com/amazon/ebook/mobi8sdk/Disposable
-com/amazon/ebook/mobi8sdk/Mobi8SDKException
-LocalVariableTable

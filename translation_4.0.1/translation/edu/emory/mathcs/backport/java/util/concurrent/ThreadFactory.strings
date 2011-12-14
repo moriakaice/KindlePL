@@ -1,7 +1,0 @@
-newThread
-(Ljava/lang/Runnable;)Ljava/lang/Thread;
-SourceFile
-edu/emory/mathcs/backport/java/util/concurrent/ThreadFactory
-java/lang/Object
-ab
-LocalVariableTable

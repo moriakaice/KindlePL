@@ -1,3 +1,0 @@
-Currently: {0,date,medium} {0,time,medium}	Obecnie: {0,date,medium} {0,time,medium}
- Time Zone: {2}	 Strefa czasowa: {2}
-Date: {0,date,full}~~Time: {0,time,full}~~Zone ID: {1}~~Time Zone: {2}	Data: {0,date,full}~~Godzina: {0,time,full}~~ID Strefy: {1}~~Strefa czasowa: {2}

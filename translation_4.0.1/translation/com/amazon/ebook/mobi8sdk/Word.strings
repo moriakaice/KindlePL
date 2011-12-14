@@ -1,9 +1,0 @@
-get
-()Ljava/lang/String;
-getPosition
-()J
-getEndPosition
-com/amazon/ebook/mobi8sdk/Word
-java/lang/Object
-com/amazon/ebook/mobi8sdk/Disposable
-LocalVariableTable

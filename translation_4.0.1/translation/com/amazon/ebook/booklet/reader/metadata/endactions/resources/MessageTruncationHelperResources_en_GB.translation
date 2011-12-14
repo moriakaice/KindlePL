@@ -1,4 +1,0 @@
-finished {0}	skończył {0}
-finished {0} by {1}	skończył {1}
-finished {0} and gave it {2,choice,1#{2} star|2#{2} stars}	skończył {0} i dał mu {2,choice,1#{2} gwiazdkę|2#{2} gwiazdki}
-finished {0} by {1} and gave it {2,choice,1#{2} star|2#{2} stars}	skończył {0} - {1} i dał mu {2,choice,1#{2} gwiazdkę|2#{2} gwiazdki}

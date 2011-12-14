@@ -1,4 +1,0 @@
-Your Stats	Twoje statystyki
-{0,choice,0#You have no highlights or notes|1#You have 1 note|2#You have {0} notes}	{0,choice,0#Nie masz żadnych zaznaczeń lub notatek|1#Masz 1 notatkę|2#Masz {0} notatek}
-{0,choice,0#You have 1 highlight|1#You have 1 highlight and 1 note|2#You have 1 highlight and {0} notes}	{0,choice,0#Masz 1 zaznaczenie|1#Masz 1 zaznaczenie i 1 notatkę|2#Masz 1 zaznaczenie i {0} notatek}
-{0,choice,0#You have {1} highlights|1#You have {1} highlights and 1 note|2#You have {1} highlights and {0} notes}	{0,choice,0#Masz {1} zaznaczeń|1#Masz {1} zaznaczeń i 1 notatkę|2#Masz {1} zaznaczeń i {0} notatek}

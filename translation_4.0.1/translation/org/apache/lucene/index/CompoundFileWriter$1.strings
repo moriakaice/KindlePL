@@ -1,8 +1,0 @@
-SourceFile
-CompoundFileWriter.java
-Synthetic
-org/apache/lucene/index/CompoundFileWriter$1
-
-InnerClasses
-java/lang/Object
-org/apache/lucene/index/CompoundFileWriter

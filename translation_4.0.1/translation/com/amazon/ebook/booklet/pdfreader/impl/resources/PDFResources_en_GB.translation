@@ -1,4 +1,0 @@
-Current page {0} of {1}	Obecna strona {0} z {1}
-Current page {0,number,integer} of {1,number,integer}	Obecna strona {0,number,integer} z {1,number,integer}
-0#Opening Page {0,number,integer}|1#Opening Page {0,number,integer} of {1,number,integer}	0#Otwieranie strony {0,number,integer}|1#Otwieranie strony {0,number,integer} z {1,number,integer}
-{0,number,integer} of {1,number,integer}	{0,number,integer} z {1,number,integer}

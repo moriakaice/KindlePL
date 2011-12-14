@@ -1,9 +1,0 @@
-SourceFile
-java/lang/Object
-IJ
-(Lcom/amazon/ebook/framework/gui/foundation/db;I)V
-UK
-(Ljava/awt/Graphics;Lcom/amazon/ebook/framework/gui/foundation/db;Ljava/awt/Rectangle;)V
-com/amazon/ebook/framework/gui/foundation/r
-lf
-LocalVariableTable

@@ -1,6 +1,0 @@
-transform
-(Ljava/lang/String;)Ljava/lang/String;
-SourceFile
-StringTransform.java
-com/ibm/icu/text/StringTransform
-java/lang/Object

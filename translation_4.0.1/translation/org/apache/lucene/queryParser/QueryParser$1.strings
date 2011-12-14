@@ -1,8 +1,0 @@
-SourceFile
-QueryParser.java
-Synthetic
-org/apache/lucene/queryParser/QueryParser$1
-
-InnerClasses
-java/lang/Object
-org/apache/lucene/queryParser/QueryParser

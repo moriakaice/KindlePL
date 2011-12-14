@@ -1,8 +1,0 @@
-SourceFile
-Synthetic
-edu/emory/mathcs/backport/java/util/concurrent/LinkedBlockingQueue$1
-
-InnerClasses
-java/lang/Object
-edu/emory/mathcs/backport/java/util/concurrent/LinkedBlockingQueue
-iz

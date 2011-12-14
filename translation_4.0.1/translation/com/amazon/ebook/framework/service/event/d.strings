@@ -1,7 +1,0 @@
-onPowerStateChange
-SourceFile
-java/lang/Object
-(Lcom/amazon/ebook/framework/service/event/p;)V
-com/amazon/ebook/framework/service/event/d
-pk
-LocalVariableTable

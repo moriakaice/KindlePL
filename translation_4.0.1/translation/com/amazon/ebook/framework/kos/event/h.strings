@@ -1,9 +1,0 @@
-bookletEventHandler
-getBookletEventIDs
-()[I
-SourceFile
-java/lang/Object
-(Lcom/amazon/ebook/framework/kos/event/b;)V
-com/amazon/ebook/framework/kos/event/h
-ld
-LocalVariableTable

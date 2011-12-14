@@ -1,8 +1,0 @@
-onStorageAvailabilityChange
-SourceFile
-java/lang/Object
-(Lcom/amazon/ebook/pl/service/event/fb;)V
-com/amazon/ebook/pl/service/event/c
-gc
-com/amazon/ebook/pl/service/event/h
-LocalVariableTable

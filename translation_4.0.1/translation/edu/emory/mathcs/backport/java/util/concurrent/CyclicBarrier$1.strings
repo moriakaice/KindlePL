@@ -1,8 +1,0 @@
-SourceFile
-Synthetic
-edu/emory/mathcs/backport/java/util/concurrent/CyclicBarrier$1
-
-InnerClasses
-java/lang/Object
-edu/emory/mathcs/backport/java/util/concurrent/CyclicBarrier
-rt

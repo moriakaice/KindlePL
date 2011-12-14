@@ -1,8 +1,0 @@
-1 CONSTANT_Class[7](name_index = 4)
-2 CONSTANT_Class[7](name_index = 5)
-3 CONSTANT_Utf8[1]("SourceFile")
-4 CONSTANT_Utf8[1]("java/lang/Object")
-5 CONSTANT_Utf8[1]("java/awt/event/KeyListener")
-6 CONSTANT_Utf8[1]("com/amazon/ebook/framework/gui/event/b")
-7 CONSTANT_Class[7](name_index = 6)
-8 CONSTANT_Utf8[1]("be")

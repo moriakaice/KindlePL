@@ -1,9 +1,0 @@
-SourceFile
-java/lang/Object
-le
-(Lcom/amazon/kindle/kindlet/internal/b/h;)Lcom/amazon/ebook/util/log/e;
-if
-(Lcom/amazon/kindle/kindlet/internal/b/h;)V
-com/amazon/kindle/kindlet/internal/b/d
-mf
-LocalVariableTable
