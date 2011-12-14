@@ -1,0 +1,16 @@
+()Ljava/util/List;
+(Ljava/net/URI;)V
+()V
+SourceFile
+java/lang/Object
+Vk
+(Ljava/lang/String;)Lcom/amazon/ebook/framework/kos/content/p;
+bm
+(Ljava/net/URI;)Lcom/amazon/ebook/framework/kos/content/p;
+Ok
+mk
+Ym
+Em
+com/amazon/ebook/framework/kos/content/catalog/v
+ip
+LocalVariableTable

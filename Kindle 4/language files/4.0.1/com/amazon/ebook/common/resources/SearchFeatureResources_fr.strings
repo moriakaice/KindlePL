@@ -1,0 +1,42 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/common/resources/SearchFeatureResources_fr;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+button.search.all.label
+ mes éléments
+button.search.all.spoken
+Search my items
+button.search.store.label
+boutique
+button.search.store.spoken
+Search kindle store
+button.search.google.label
+google
+button.search.google.spoken
+Search google
+button.find.definition.label
+dictionnaire
+button.find.definition.spoken
+Search dictionary
+button.search.wikipedia.label
+wikipédia
+button.search.wikipedia.spoken
+Search wikipedia
+button.goto.web.label
+aller à
+button.goto.web.spoken
+Go to the web
+com/amazon/ebook/common/resources/SearchFeatureResources_fr
+java/util/ListResourceBundle
+f
+a
+sod

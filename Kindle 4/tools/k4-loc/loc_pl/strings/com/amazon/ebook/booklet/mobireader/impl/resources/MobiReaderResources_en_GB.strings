@@ -1,0 +1,31 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/mobireader/impl/resources/MobiReaderResources_en_GB;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+unavailable.document.title.replacement
+Server inserted empty string as updated title
+gui.menu.image.default.choice.pattern
+1#Zoom Image|2#Zoom Image {0,number,integer}
+gui.menu.link.default.choice.pattern
+1#Follow Link|2#Follow Link {0,number,integer}
+fail.retrieve.words.msg
+Unable to retrieve the definition from the default {0} dictionary, please go to Settings and choose a different dictionary.
+minimum.definition.length
+java/lang/Integer
+dictionary.open.failed
+Unable to open the default dictionary, please go to Settings and choose a different dictionary.
+com/amazon/ebook/booklet/mobireader/impl/resources/MobiReaderResources_en_GB
+java/util/ListResourceBundle
+(I)V
+f
+a
+vff

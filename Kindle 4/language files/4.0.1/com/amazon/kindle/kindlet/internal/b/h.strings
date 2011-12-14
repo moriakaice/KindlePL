@@ -1,0 +1,16 @@
+I
+ConstantValue
+getName
+()Ljava/lang/String;
+()[Ljava/lang/String;
+getLevel
+()I
+SourceFile
+java/lang/Object
+f
+K
+LE
+rg
+com/amazon/kindle/kindlet/internal/b/h
+no
+LocalVariableTable

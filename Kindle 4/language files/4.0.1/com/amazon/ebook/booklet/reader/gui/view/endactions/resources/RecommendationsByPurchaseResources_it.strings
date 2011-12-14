@@ -1,0 +1,26 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/view/endactions/resources/RecommendationsByPurchaseResources_it;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+title
+I clienti che hanno acquistato questo libro hanno acquistato anche
+recommendation.format
+java/text/MessageFormat
+{0} di {1}
+ref.tag
+r_eap_{0,number,integer}
+com/amazon/ebook/booklet/reader/gui/view/endactions/resources/RecommendationsByPurchaseResources_it
+java/util/ListResourceBundle
+(Ljava/lang/String;)V
+f
+a
+kze

@@ -1,0 +1,47 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/menu/resources/ReaderAppMenuResources_fr;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+clip.this.article.finish
+Article extrait
+menu.go.to
+Aller à...
+menu.my.notes.and.marks
+Afficher notes et surlignements
+menu.popular.highlights
+Passages les plus surlignés
+most.popular.highlights.max
+java/lang/Integer
+most.popular.highlights.label
+Afficher les passages les plus surlignés
+menu.item.horizontal.justification
+menu.item.spacer.height
+menu.font.display
+Modifier la taille de la police
+menu.screen.rotation
+Rotation de l’écran
+menu.zoom.contrast
+Zoom et contraste
+menu.item.top.margin
+menu.item.bottom.margin
+menu.item.landscape.font
+com/amazon/ebook/booklet/reader/gui/menu/resources/ReaderAppMenuResources_fr
+java/util/ListResourceBundle
+(I)V
+getInstance
+(I)Ljava/awt/Font;
+f
+a
+cqe
+Evb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/font/h

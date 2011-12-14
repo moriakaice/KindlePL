@@ -1,0 +1,16 @@
+serialVersionUID
+J
+ConstantValue
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/device/comm/ws/AuthenticationFailedException;
+SourceFile
+
+com/amazon/ebook/framework/device/comm/ws/AuthenticationFailedException
+com/amazon/ebook/framework/device/comm/CommunicationException
+(Ljava/lang/String;)V
+a
+ord

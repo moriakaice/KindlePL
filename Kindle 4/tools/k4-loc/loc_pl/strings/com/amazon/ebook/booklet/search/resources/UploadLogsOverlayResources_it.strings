@@ -1,0 +1,60 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/search/resources/UploadLogsOverlayResources_it;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+settings.ul.height.portrait
+java/lang/Integer
+settings.ul.width.portrait
+settings.ul.left.margin
+settings.ul.right.margin
+settings.ul.y.margin
+settings.ul.main.title
+Carica registri
+settings.ul.main.description
+Caricare i registri sul server per segnalare i problemi.
+settings.error.communication
+Il Kindle non è in grado di eseguire la connessione in questo momento. Riprovare più tardi. I dettagli dell’errore sono stati salvati e non è necessario reinserire il messaggio.
+settings.error.wireless.off
+La connessione wireless del Kindle è disattivata. I dettagli dell’errore sono stati salvati e non è necessario reinserire il messaggio.
+settings.error.cancelled
+Caricamento registro annullato
+settings.error.unknown
+Impossibile caricare i registri del dispositivo, eccezione sconosciuta. Se si desidera riprovare, i dettagli dell’errore sono stati salvati e non è necessario reinserire il messaggio.
+settings.error.title
+Caricamento registro non riuscito
+settings.error.overlay.button.retry
+Riprova
+settings.ul.details.title
+Dettagli errore
+settings.ul.details.description
+Includere tutti i dettagli che potrebbero essere utili, come una descrizione del problema e l’operazione eseguita quando si è verificato il problema.
+settings.ul.font.main.title
+settings.ul.font.section.title
+settings.ul.font.section.description
+settings.ul.font.section.input
+settings.ul.spacing.title.and.description
+settings.ul.spacing.description.and.input
+settings.ul.spacing.input.and.title
+settings.ul.spacing.type.gap
+settings.ul.margins.right
+settings.ul.margins.left
+com/amazon/ebook/booklet/search/resources/UploadLogsOverlayResources_it
+java/util/ListResourceBundle
+(I)V
+getInstance
+(I)Ljava/awt/Font;
+f
+a
+bld
+Evb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/font/h

@@ -1,0 +1,38 @@
+[B
+I
+([B)I
+Code
+LineNumberTable
+LocalVariableTable
+<init>
+([BII)V
+B
+(II)I
+(I)I
+SourceFile
+Error : unsynchronized
+strange.. more = big error
+error !!!
+not optimisated
+The translation table length is invalid. Will generate wrong file positions.
+HUFFDIC not optimisated --> normal if a jump
+ERROR
+strange
+Position requested is inside a multibytes character: normal only if gotoPage/calculatePreviousPage.
+java/lang/Object
+()V
+(IZLjava/lang/String;)V
+(ILjava/lang/String;)V
+f
+K
+l
+VbA
+a
+Lcom/mobipocket/common/library/reader/b/h;
+rbA
+YBA
+com/mobipocket/common/library/reader/b/h
+wx
+mBA
+RbA
+com/mobipocket/common/d/d

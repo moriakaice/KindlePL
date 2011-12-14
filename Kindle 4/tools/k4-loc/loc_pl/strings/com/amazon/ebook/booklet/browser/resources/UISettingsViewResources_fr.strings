@@ -1,0 +1,32 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/browser/resources/UISettingsViewResources_fr;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+clear.cache.label
+Effacer le cache
+clear.history.label
+Effacer l’historique
+clear.cookies.label
+Effacer les cookies
+enable.js.label
+Activer Javascript
+disable.js.label
+Désactiver Javascript
+enable.images.label
+Activer les images
+disable.images.label
+Désactiver les images
+com/amazon/ebook/booklet/browser/resources/UISettingsViewResources_fr
+java/util/ListResourceBundle
+f
+a
+oqg

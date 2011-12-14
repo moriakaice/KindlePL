@@ -1,0 +1,460 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/resources/ReaderResources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+reader.default.alert
+The selected item could not be opened. If you purchased this item from Amazon, delete the item and download it from Archived Items.
+font.families
+java/lang/String
+serif
+condensed
+sansserif
+mobireader.default.font.size.list
+topazreader.default.font.zoom.factors
+annotation.disk.space.low.limit
+java/lang/Integer
+gui.header.title.show
+java/lang/Boolean
+gui.header.title.x
+gui.header.title.maxWidth
+gui.header.authors.show
+gui.header.authors.maxWidth
+gui.header.x
+gui.header.height
+gui.header.baseline
+gui.header.selection.label
+Select range of text to highlight. Press select wheel when done.
+gui.header.table_scrolling_label
+Use Next Page and Prev Page to pan table
+gui.gutter.width
+gui.gutter.gap
+gui.prompt.height
+gui.footer.x
+gui.footer.y
+gui.footer.height
+gui.footer.page_number.show
+gui.footer.relative_position.show
+gui.footer.rightMargin
+gui.lookup.x
+gui.lookup.height
+gui.icon.bookmark_plain
+/img/FionaUIIcons_BookmarkPlain.gif
+gui.icon.bookmark.x
+gui.icon.bookmark.y
+gui.icon.bookmark.width
+gui.icon.bookmark.height
+gui.icon.bookmark_with_description
+/img/FionaUIIcons_BookmarkNote.gif
+gui.icon.bookmark_with_description.x
+gui.icon.bookmark_with_description.y
+gui.icon.bookmark_with_description.width
+gui.icon.bookmark_with_description.height
+gui.icon.highlighted_note
+/img/FionaUIIcons_NoteIcon.gif
+gui.icon.highlighted_note.width
+gui.icon.highlighted_note.height
+gui.icon.zoom.limit
+gui.menu.context.toc
+Table of Contents
+gui.menu.context.first_page
+Go to First Page
+gui.menu.context.go_to_user_location
+Go to Location...
+gui.menu.context.go_to_page
+Go to Page...
+gui.menu.context.product_details_page
+Book Description
+gui.menu.context.search_this
+Search This Book
+gui.menu.context.search_this_document
+Search This Document
+gui.menu.context.search_this_issue
+Search This Issue
+gui.menu.context.search_this_blog
+Search This Blog
+gui.menu.context.search_this_sample
+Search This Sample
+gui.menu.context.clip_this_article
+Clip This Article
+gui.menu.context.keep_this_issue
+Keep This Issue
+gui.menu.context.go_to_my_annotations
+My Notes & Marks
+gui.menu.context.go_to_my_bookmarks
+My Bookmarks
+gui.menu.context.place_cursor
+Add a Note or Highlight
+gui.menu.context.place_cursor_in_page
+Place Cursor in Page
+gui.menu.context.add_bookmark
+Add a Bookmark
+gui.menu.context.remove_bookmark
+Delete Bookmark
+gui.menu.context.my_annotations
+gui.menu.context.show_annotations
+Show Annotations
+gui.menu.context.hide_annotations
+Hide Annotations
+gui.menu.context.save_page_as_clipping
+Save Page as Clipping
+gui.menu.context.go_home
+Home
+gui.menu.context.go_to_section
+Go to Sections List
+gui.menu.context.go_to_cover
+Cover
+gui.menu.context.go_to_start
+Go to Beginning
+gui.menu.context.go_to_front_page
+Go to Front Page
+gui.menu.context.go_to_articles_list
+Go to Articles List
+gui.menu.context.go_to_first_article
+Go to First Article
+gui.menu.context.go_to_bookmark
+Go to Bookmark...
+gui.menu.context.buy_now
+Buy This Book Now
+gui.menu.context.see_details
+See Details
+gui.menu.context.search_index_view
+Index
+gui.menu.context.close_index_view
+Close Index
+gui.menu.context.mark_as_favorite
+Keep This Item
+gui.menu.context.unmark_as_favorite
+Do Not Keep This Issue
+gui.menu.context.show_info
+Show Info
+gui.menu.context.delete_book
+Delete This Item
+gui.menu.context.clip_article
+Clip Article
+gui.menu.context.document_orientation
+Portrait/Landscape
+gui.menu.context.document_reflow
+Reflow Text/No Reflow
+gui.menu.bookmark.delete_bookmark
+gui.menu.bookmark.delete_note
+Delete Note
+gui.menu.bookmark.add_description
+Add Note
+gui.menu.bookmark.edit_description
+Edit Note
+gui.menu.selection.lookup
+Lookup
+gui.menu.selection.add_highlight
+Add Highlight...
+gui.menu.selection.add_note
+gui.menu.selection.edit_note
+gui.menu.selection.delete_highlight
+Delete Highlight
+gui.menu.selection.delete_note
+gui.menu.selection.save_clipping
+Save Clipping
+gui.menu.image.prefix
+Zoom Image
+gui.menu.link.prefix
+Follow Link
+gui.overlay.my_bookmarks.title
+Go to Bookmark
+gui.overlay.my_bookmarks.font.family
+SansSerif
+gui.overlay.my_bookmarks.font.size
+gui.overlay.my_bookmarks.x
+gui.overlay.my_bookmarks.y
+gui.overlay.my_bookmarks.width
+gui.overlay.my_bookmarks.height
+gui.overlay.lookup.x
+gui.overlay.lookup.y
+gui.overlay.lookup.width
+gui.overlay.lookup.height
+gui.overlay.lookup.defintion.height
+gui.overlay.lookup.scroll.x
+gui.overlay.lookup.scroll.width
+gui.overlay.my_bookmarks.table.x
+gui.overlay.my_bookmarks.table.y
+gui.overlay.my_bookmarks.table.width
+gui.overlay.my_bookmarks.table.height
+gui.overlay.my_bookmarks.col.0.width
+gui.overlay.my_bookmarks.col.0.rightMargin
+gui.overlay.my_bookmarks.col.1.width
+gui.overlay.my_bookmarks.col.2.width
+gui.overlay.my_bookmarks.page_number.font.size
+gui.overlay.my_annotations.title
+gui.overlay.my_annotations.vertical_gap
+gui.overlay.my_annotations.horizontal_gap
+gui.overlay.edit_description.x
+gui.overlay.edit_description.y
+gui.overlay.edit_description.width
+gui.overlay.edit_description.height
+gui.overlay.edit_description.entry.height
+gui.overlay.edit_description.done.label
+Done
+gui.overlay.sections.title
+Section List
+gui.overlay.sections.table.x
+gui.overlay.sections.table.y
+gui.overlay.sections.table.width
+gui.overlay.sections.table.height
+gui.overlay.sections.x
+gui.overlay.sections.y
+gui.overlay.sections.width
+gui.overlay.sections.height
+gui.overlay.book_info.x
+gui.overlay.book_info.y
+gui.overlay.book_info.width
+gui.overlay.book_info.height
+gui.overlay.book_info.title
+Book Info
+gui.overlay.book_info.table.x
+gui.overlay.book_info.table.y
+gui.overlay.book_info.table.width
+gui.overlay.book_info.table.height
+gui.overlay.book_info.col.0.width
+gui.overlay.book_info.col.0.rightMargin
+gui.overlay.book_info.col.1.width
+gui.wrap.speed_bump
+gui.overlay.password.title
+This item is password protected.
+gui.overlay.password.example
+Please enter the password:
+gui.button.label.ok
+ok
+gui.button.label.go_home
+go home
+gui.alert.generic.title
+
+gui.alert.generic.x
+gui.alert.generic.y
+gui.alert.generic.width
+gui.alert.generic.height
+gui.alert.clipping.limit.warning
+Unable to save clipping. You have reached the clipping limit for this item.
+gui.alert.clipping.publisher_limit.warning
+java/text/MessageFormat
+Unable to save clipping. You have reached the clipping limit set by the publisher{0,choice,0#|1#, {1}}.
+gui.alert.invalid_pid
+This item cannot be opened because it is licensed to a different user. Delete the item and download it from your Archived Items or purchase a copy from the Kindle Store.
+gui.alert.invalid_password
+Password is invalid for this document.
+gui.alert.annotation.out_of_space
+Your Kindle memory is full and the note or mark could not be saved. Please make more Kindle memory available by removing content from Home.
+gui.alert.unexpected
+The selected item could not be opened. If you purchased this item from Amazon, delete the item and redownload it from Archived Items available in Home.
+gui.alert.unhandled_security
+gui.alert.book_is_gone
+The item you were reading has been removed and is no longer available on your Kindle.
+gui.alert.font_size_change_unsupported_in_Section_List_View
+Sorry, you cannot change the size of text in the Section list.
+gui.overlay.password_prompt.msg
+Enter the password for this document.
+gui.alert.low_disk_space_for_annotation
+There is not enough Kindle memory to add/share notes or marks on this document. Please make more Kindle memory available by removing content from Home.
+gui.alert.low_disk_space_for_annotation.sd
+You will not be able to add/share notes or marks to this item because you do not have enough SD memory card space available. Please make more SD memory card space available by removing items.
+gui.alert.low_disk_space_for_annotation.internal
+gui.alert.invalid_book
+gui.alert.password_unsupported
+The selected item could not be opened because it is password protected.
+gui.alert.not_enough_memory
+The selected item could not be opened. The title is too large for available memory. Please call Amazon Customer Service for help in resolving this issue at 1-866-321-8851 or 1-206-266-0927.  For UK customers, please call +44(0)800 496 2449.
+gui.alert.cannot_open_book
+The selected item could not be opened. If you purchased this item from Amazon, you can try redownloading the item from Archived Items in Home. For additional help, please call Amazon Customer Service at 1-866-321-8851 or 1-206-266-0927.  For UK customers, please call +44(0)800 496 2449.
+gui.alert.missing_metadata
+The selected item is missing important metadata and may cause system instability.  Please call Amazon Customer Service at 1-866-321-8851 or 1-206-266-0927.  For UK customers, please call +44(0)800 496 2449.
+gui.alert.book_not_indexed
+Your search can not be completed as this item has not yet been indexed. Please try again later.
+gui.alert.not_enough_space_for_search
+There is not enough Kindle memory to complete the search. Please make more Kindle memory available by removing content from Home.
+gui.alert.no_more_matches_found
+No more matches found for "{0}".
+gui.alert.no_match_found
+No match found for "{0}".
+gui.alert.enter_valid_search
+Please enter a search word.
+gui.alert.enable_journaling
+To sync to furthest page read, Annotations Backup must be turned on. Go to Settings and turn on Annotations Backup, then try again.
+gui.alert.enable_journaling.spoken
+To sync to furthest page red, Annotations Backup must be turned on. Go to Settings and turn on Annotations Backup, then try again.
+gui.inst.progress_bar
+Press Prev/Next Page keys to navigate between bookmarks.
+gui.shortcut.allow.jump_location
+gui.tocview.toc
+gui.tocview.sections
+Sections
+gui.tocview.articles
+java/text/ChoiceFormat
+1#{0,number,integer} Article|2#{0,number,integer} Articles
+clipping.line_separtor
+----------------------------------------------------
+clipping.file
+My Clippings.txt
+gui.pdf.spinner.delay
+java/lang/Long
+gui.pdf.spinner.period
+platform.screen.dpi
+topaz.stylesheet
+reflow.tss
+topaz.allow.manual.zoom
+topaz.max_mem_allowed
+booklet.saved_setting
+saved_settings
+booklet.font_size
+booklet.font_family
+booklet.line_spacing
+booklet.leftMargin
+booklet.rightMargin
+booklet.yMargin
+home.progress_meter.max_length
+link.prefix.xyml.buy
+https://www.amazon.com/gp/g7g/fws/anchor/buyEbook.xml
+link.prefix.xyml.detail
+https://www.amazon.com/gp/g7g/fws/anchor/detailPageEbook.xml
+link.prefix.xyml.book.asin.symbol
+asin=
+link.prefix.xyml.book.asin.dummy
+XXXXXX
+quick_lookup.disable
+quick_lookup.antialias.disable
+quick_lookup.activation_delay
+quick_lookup.always_clean_up_previous_def
+prompt.selection.begin
+Move cursor to make selection, or begin typing to create a note
+prompt.selection.during
+Click to save highlight
+prompt.selection.begin.location.prefix
+*:
+prompt.selection.begin.selecting.prefix
+Selecting
+prompt.shortcut.create.note
+create note?
+booklet.sdk.0
+com.amazon.ebook.booklet.mobireader.impl.reader.eb
+booklet.sdk.1
+com.amazon.ebook.booklet.topazreader.impl.l
+booklet.sdk.2
+com.amazon.ebook.booklet.pdfreader.impl.cb
+booklet.sdk.3
+pdf.auto.crop.max.wait.time
+gui.image.loading.x
+gui.image.loading.y
+gui.image.loading
+Zooming...
+gui.image.font
+preview.download.title
+Downloading
+preview.download.str1
+Now downloading the book...
+preview.download.str2
+It will automatically open when the download is complete.
+preview.download.font
+preview.download.side.margin
+preview.download.line.margin
+gui.button.label.go_to_last_page
+go to last page
+gui.alert.beyond.TSC
+To continue reading, please wait until the rest of the book finishes downloading.
+gui.reader.location
+Location 
+gui.reader.locations
+Locations 
+gui.reader.page
+Page 
+gui.reader.currentpage
+Current page {0} of {1}
+gui.reader.opening
+Opening... 
+gui.reader.pdfsecurityhandler
+This PDF is protected with DRM or encryption and cannot be read on your Kindle.
+gui.reader.pdfpasswordprotected
+This PDF is password protected and cannot be read on your Kindle.
+gui.reader.pdfunabletopen
+This PDF cannot be opened due to embedded features not yet supported by Kindle.
+gui.reader.unsupported_pdf_feature
+gui.reader.pdf.error.elements.missing
+Some elements on this page could not be displayed.
+gui.menu.context.sync_last_location
+Sync to Furthest Page Read
+gui.menu.context.sync_last_location.spoken
+Sync to Furthest Page Red
+gui.overlay.sync_position.title
+gui.overlay.sync_position.title.spoken
+gui.overlay.sync_position.body.pattern
+You are currently at location {0}. The furthest read location is {1} from "{2}" at {3} {4}. Go to that location?
+gui.overlay.sync_position.body.pattern.spoken
+You are currently at location {0}. The furthest red location is {1} from "{2}" at {3} {4}. Go to that location?
+gui.overlay.sync_position.body.date.choice.limits
+gui.overlay.sync_position.body.date.choice.formats
+on {5}
+yesterday
+today
+gui.overlay.sync_position.body.time.formatter
+gui.overlay.sync_position.body.date.formatter
+gui.overlay.sync_position.min_location_change
+gui.overlay.sync_last_location.title
+Syncing to Furthest Page Read...
+gui.overlay.sync_last_location.title.spoken
+Syncing to Furthest Page Red...
+gui.overlay.sync_last_location.message
+Retrieving furthest page read...
+gui.overlay.sync_last_location.message.spoken
+Retrieving furthest page red...
+gui.alert.sync_last_location.error
+Unable to retrieve the furthest location read. If this is the first time you opened this book, your device will update your location when you close the book or your device goes to sleep.
+gui.alert.sync_last_location.error.spoken
+Unable to retrieve the furthest location red. If this is the first time you opened this book, your device will update your location when you close the book or your device goes to sleep.
+gui.alert.sync_last_location.same_location
+Already at furthest read location.
+gui.alert.sync_last_location.same_location.spoken
+Already at furthest red location.
+gui.reader_position
+Loc. {0} 
+gui.reader_pdf_position
+Page {0} 
+gui.reader_pdf_position_range
+Page {0}-{1}
+gui.reader_clipping_note
+Note {0}
+gui.reader_clipping_highlight
+Highlight {0}
+gui.reader_clipping_bookmark
+Bookmark {0}
+gui.reader_clipping_clipping
+Clipping {0}
+gui.reader_clipping_clipping_reach_limit
+You have reached the clipping limit
+gui.reader_clipping_clipping_password_protected
+This item is password protected
+gui.reader_clipping_clipping_copy_protected
+This item is copy protected
+gui.reader_clipping_clipping_publisher
+ set by the publisher
+gui.reader_clipping_clipping_item
+ for this item
+accessibility.delay1
+com/amazon/ebook/booklet/reader/resources/ReaderResources
+java/util/ListResourceBundle
+(I)V
+(Z)V
+(Ljava/lang/String;)V
+(J)V
+(IZ)Ljava/awt/Font;
+java/text/DateFormat
+getTimeInstance
+(I)Ljava/text/DateFormat;
+getDateInstance
+a
+htc
+()Lcom/amazon/ebook/framework/c/a;
+com/amazon/ebook/framework/c/a

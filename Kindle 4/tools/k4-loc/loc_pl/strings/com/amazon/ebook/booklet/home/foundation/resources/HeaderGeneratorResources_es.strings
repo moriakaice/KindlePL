@@ -1,0 +1,69 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/HeaderGeneratorResources_es;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+home.header.filter.sound
+filtrar por 
+home.header.filter.prompt.format
+{0}{1}
+home.header.filter.all
+Todo mi contenido
+home.header.filter.all.format
+0#Mostrando los {0,number,integer} elementos|1#Mostrando {0,number,integer} elemento|2#Mostrando los {0,number,integer} elementos
+home.header.filter.books
+Libros
+home.header.filter.books.format
+0#Mostrando {0,number,integer} libros|1#Mostrando {0,number,integer} libro|2#Mostrando {0,number,integer} libros
+home.header.filter.collections
+Colecciones
+home.header.filter.collections.format
+0#Mostrando {0,number,integer} colecciones|1#Mostrando {0,number,integer} colección|2#Mostrando las {0,number,integer} colecciones
+home.header.filter.pdocs
+Documentos personales
+home.header.filter.pdocs.format
+0#Mostrando {0,number,integer} documentos personales|1#Mostrando {0,number,integer} documento personal|2#Mostrando {0,number,integer} documentos personales
+home.header.filter.subs
+Suscripciones
+home.header.filter.subs.format
+0#Mostrando {0,number,integer} suscripciones|1#Mostrando {0,number,integer} suscripción|2#Mostrando {0,number,integer} suscripciones
+home.header.no.options
+
+home.header.sort.sound
+ordenar por 
+home.header.sort.prompt.format
+home.header.sort.author
+Autor
+home.header.sort.author.label
+Por autor
+home.header.sort.collections
+home.header.sort.collections.label
+Por colecciones
+home.header.sort.collectionsonly
+Sólo colecciones
+home.header.sort.collectionsonly.label
+Sólo por colecciones
+home.header.sort.recent
+Más reciente
+home.header.sort.recent.label
+home.header.sort.relevance
+Relevancia
+home.header.sort.relevance.label
+Por relevancia
+home.header.sort.title
+Título
+home.header.sort.title.label
+Por título
+com/amazon/ebook/booklet/home/foundation/resources/HeaderGeneratorResources_es
+java/util/ListResourceBundle
+f
+a
+xhg

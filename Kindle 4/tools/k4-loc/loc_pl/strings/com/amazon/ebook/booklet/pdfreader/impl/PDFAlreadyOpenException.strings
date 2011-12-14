@@ -1,0 +1,16 @@
+serialVersionUID
+J
+ConstantValue
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/pdfreader/impl/PDFAlreadyOpenException;
+(Ljava/lang/String;)V
+Ljava/lang/String;
+SourceFile
+com/amazon/ebook/booklet/pdfreader/impl/PDFAlreadyOpenException
+java/lang/Exception
+a
+pdf

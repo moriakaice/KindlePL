@@ -1,0 +1,32 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/BackIssuesResources_pt;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+backissues.header.format
+Edições passadas: {0}
+backissues.filter.format
+0#Exibindo {0,number,integer} edições passadas|1#Exibindo {0,number,integer} edição passada|2#Exibindo {0,number,integer} edições passadas
+backissues.sort.recent.label
+Por mais recentes
+backissues.sort.title.label
+Por título
+backissues.sort.recent
+Mais recentes
+backissues.sort.title
+Título
+backissues.view.sound
+Edições passadas
+com/amazon/ebook/booklet/home/foundation/resources/BackIssuesResources_pt
+java/util/ListResourceBundle
+f
+a
+kgg

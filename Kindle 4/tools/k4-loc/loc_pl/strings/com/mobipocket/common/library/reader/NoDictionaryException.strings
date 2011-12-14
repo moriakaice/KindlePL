@@ -1,0 +1,12 @@
+<init>
+(Ljava/lang/String;)V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/mobipocket/common/library/reader/NoDictionaryException;
+Ljava/lang/String;
+SourceFile
+com/mobipocket/common/library/reader/NoDictionaryException
+java/lang/Exception
+a
+tt

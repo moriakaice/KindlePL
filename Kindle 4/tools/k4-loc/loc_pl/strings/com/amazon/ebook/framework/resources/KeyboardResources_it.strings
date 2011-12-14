@@ -1,0 +1,24 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/resources/KeyboardResources_it;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+symbols.open.hint
+Premere {0} per digitare
+symbols.close.hint
+Premere {0} per chiudere la tastiera
+symbols.close.key.label
+Fatto
+com/amazon/ebook/framework/resources/KeyboardResources_it
+java/util/ListResourceBundle
+f
+a
+vjc

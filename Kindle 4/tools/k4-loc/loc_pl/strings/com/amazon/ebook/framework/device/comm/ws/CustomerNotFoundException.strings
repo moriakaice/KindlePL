@@ -1,0 +1,15 @@
+serialVersionUID
+J
+ConstantValue
+<init>
+(Ljava/lang/String;)V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/device/comm/ws/CustomerNotFoundException;
+Ljava/lang/String;
+SourceFile
+com/amazon/ebook/framework/device/comm/ws/CustomerNotFoundException
+com/amazon/ebook/framework/device/comm/CommunicationException
+a
+ogd

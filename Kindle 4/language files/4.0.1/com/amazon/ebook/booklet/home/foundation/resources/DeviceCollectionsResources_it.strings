@@ -1,0 +1,45 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/DeviceCollectionsResources_it;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+device.collections.header.format
+0#Visualizzazione di {0,number,integer} dispositivi|1#Visualizzazione di {0,number,integer} dispositivo|2#Visualizzazione di {0,number,integer} dispositivi
+device.collections.header.text
+Aggiungi raccolte da altro dispositivo
+device.collections.label
+device.collection.font
+device.collections.widget.author.label
+
+device.collections.merge.title
+Aggiungi raccolte
+device.collections.merge.body.template
+Stai per aggiungere le collezioni da "{0}" a questo Kindle.~~~~Tutti gli articoli che sono attualmente su entrambi i dispositivi verranno automaticamente organizzati in nuove collezioni. L’operazione può richiedere alcuni minuti se hai un gran numero di elementi. Vuoi continuare?
+device.collections.merge.message
+Importazione raccolte in corso...
+device.collections.merge.width
+java/lang/Integer
+device.collections.get.and.merge.collections.thread.name
+Acquisizione delle raccolte dal backup
+device.catalog.item.generation
+device.catalog.item.version
+device.collections.view.sound
+com/amazon/ebook/booklet/home/foundation/resources/DeviceCollectionsResources_it
+java/util/ListResourceBundle
+getInstance
+(IZZ)Ljava/awt/Font;
+(I)V
+f
+a
+pig
+Kwb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/font/h

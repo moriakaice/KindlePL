@@ -1,0 +1,14 @@
+formatDurationFromNowTo
+(Ljava/util/Date;)Ljava/lang/String;
+formatDurationFromNow
+(J)Ljava/lang/String;
+formatDurationFrom
+(JJ)Ljava/lang/String;
+withLocale
+(Ljava/lang/String;)Lcom/ibm/icu/impl/duration/DurationFormatter;
+withTimeZone
+(Ljava/util/TimeZone;)Lcom/ibm/icu/impl/duration/DurationFormatter;
+SourceFile
+DurationFormatter.java
+com/ibm/icu/impl/duration/DurationFormatter
+java/lang/Object

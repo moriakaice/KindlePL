@@ -1,0 +1,55 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/lab126/booklet/audiblePlayer/resources/OTAResources;
+getContents
+()[[Ljava/lang/Object;
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+ota.activation.overlay.drm.error.caption
+The selected audiobook could not be opened on your Kindle because your Kindle is not authorized with Audible.com. Please select "activate" to authorize your device.
+ota.activation.overlay.username.label
+Username:
+ota.activation.overlay.drm.error.title
+Device activation error
+ota.activation.overlay.username.msg
+Please enter your Audible login information
+ota.activation.task.wireless.off.error.message
+Your Kindle is unable to connect at this time. Please try again later.
+ota.activation.task.unregistered.device.error.message
+In order to play an audiobook, you must first register your Kindle to your Amazon account. Please go to Settings to register.
+ota.activation.task.activating.msg
+Please wait.
+ota.activation.task.activating.title
+Activating device...
+DB_CONNECT_ERROR
+We are experiencing technical difficulties. Please try again later.
+NO_ACCOUNT_ERROR
+The e-mail address or password you entered do not match any accounts on record. Please make sure you correctly enter the e-mail address and password associated with your Audible account. Please try registering again or call Kindle Customer Service for help in resolving this issue at 1-800-539-5170 (US) or 1-973-820-0400 (Intl).
+BAD_LOGIN_ERROR
+NO_GROUP_ID
+NO_GROUPID_ERROR
+PURCHASE_AUTHORIZATION
+SIGNATURE_GENERATION_FAILURE
+INVALID_PLAYER_ID
+We are experiencing technical difficulties. Please try again later or call Kindle Customer Service for help in resolving this issue at 1-800-539-5170 (US) or 1-973-820-0400 (Intl).
+SIGNATURE_GENERATION_FAILURE1
+SIGNATURE_GENERATION_FAILURE2
+ACTIVATION_LIMIT_MSG: You have reached the maximum number of devices / desktops that can be concurrently activated in your account. Please deactivate those no longer in use. For additional help, please contact Customer Service
+You have reached the maximum number of devices that can be concurrently activated in your account. Please deactivate those no longer in use. For additional help, please call Kindle Customer Service at 1-800-539-5170 (US) or 1-973-820-0400 (Intl).
+default.error.message
+ota.username.ok.cancel.handler.password.label
+Password:
+ota.username.ok.cancel.handler.username.empty.alert
+Username cannot be empty. Please try again.
+ota.password.ok.cancel.handler.password.empty.alert
+Password cannot be empty. Please try again.
+com/lab126/booklet/audiblePlayer/resources/OTAResources
+java/util/ListResourceBundle
+f
+a
+lmb

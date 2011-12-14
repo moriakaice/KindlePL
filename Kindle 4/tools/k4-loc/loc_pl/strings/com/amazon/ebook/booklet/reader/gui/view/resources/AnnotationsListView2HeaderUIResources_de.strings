@@ -1,0 +1,81 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/view/resources/AnnotationsListView2HeaderUIResources_de;
+getContents
+()[[Ljava/lang/Object;
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+format.caption.show.all.plural
+{0} Anmerkungen
+format.caption.show.all.singular
+{0} Anmerkung
+format.caption.show.all.none
+Es sind keine Anmerkungen vorhanden.
+format.caption.show.bookmark.plural
+{0} Lesezeichen
+format.caption.show.bookmark.singular
+format.caption.show.bookmark.none
+Es sind keine Lesezeichen vorhanden.
+format.caption.show.note.plural
+{0} Notizen
+format.caption.show.note.singular
+{0} Notiz
+format.caption.show.note.none
+Es sind keine Notizen vorhanden.
+format.caption.show.highlight.plural
+{0} Markierungen
+format.caption.show.highlight.singular
+{0} Markierung
+format.caption.show.highlight.none
+Es sind keine Markierungen vorhanden.
+format.caption.show.popular.highlight.plural
+{0} beliebte Markierungen
+format.caption.show.popular.highlight.singular
+{0} beliebte Markierung
+format.caption.show.popular.highlight.none
+Es sind keine beliebten Markierungen vorhanden.
+format.caption.show.subscribed.note.plural
+{0} abonnierte Anmerkungen
+format.caption.show.subscribed.note.singular
+{0} abonnierte Anmerkung
+format.caption.show.subscribed.note.none
+Es sind keine abonnierten Anmerkungen vorhanden.
+label.show.all
+Alle Anmerkungen
+label.show.bookmarks
+Lesezeichen
+label.show.notes
+Notizen
+label.show.highlights
+Markierungen
+label.sort.by.location
+Nach Position
+label.sort.by.most.popular
+Nach Beliebtheit
+label.sort.option.location
+Position
+label.sort.option.popular
+Beliebtheit
+label.speak.header
+{0,choice,0#Anzeige|1#Sortieren nach} {1}
+label.arrow.gap
+java/lang/Integer
+label.default.font
+label.sort.alignment
+color.background
+color.foreground
+com/amazon/ebook/booklet/reader/gui/view/resources/AnnotationsListView2HeaderUIResources_de
+java/util/ListResourceBundle
+(I)V
+Ljava/awt/Color;
+f
+a
+zme
+I
+C
+com/amazon/ebook/framework/gui/c

@@ -1,0 +1,11 @@
+create
+(Lcom/amazon/kindle/kindlet/KindletContext;)V
+start
+()V
+stop
+destroy
+SourceFile
+com/amazon/kindle/kindlet/Kindlet
+java/lang/Object
+ym
+LocalVariableTable

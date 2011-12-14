@@ -1,0 +1,49 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/YMLResources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+yml.header
+Archived Items
+yml.filter.format
+java/text/ChoiceFormat
+0#Showing {0,number,integer} Archived Items|1#Showing {0,number,integer} Archived Item|2#Showing {0,number,integer} Archived Items
+yml.sort.title.label
+By Title
+yml.sort.author.label
+By Author
+yml.sort.title
+Title
+yml.sort.author
+Author
+yml.default.download.error.msg
+Your download was not successful. Please try again.
+yml.download.error.notenoughspace
+"{0}" could not be downloaded due to insufficient Kindle memory. Please free up space by removing content from Home.
+yml.wifi.required.overlay.title
+Wi-Fi Network Required
+yml.wifi.required.overlay.body
+A Wi-Fi network connection is required to complete this task. Please connect to a Wi-Fi network.
+yml.wifi.required.overlay.viewall.button
+view all networks
+yml.view.sound
+archived items
+yml.pause.sound
+, 
+yml.additem.sound
+add to home
+yml.item.position.sound.template
+item {0} of {1}
+com/amazon/ebook/booklet/home/foundation/resources/YMLResources
+java/util/ListResourceBundle
+(Ljava/lang/String;)V
+a
+vnd

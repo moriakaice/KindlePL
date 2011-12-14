@@ -1,0 +1,57 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/search/resources/UploadLogsOverlayResources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+settings.ul.height.portrait
+java/lang/Integer
+settings.ul.width.portrait
+settings.ul.left.margin
+settings.ul.right.margin
+settings.ul.y.margin
+settings.ul.main.title
+Upload Logs
+settings.ul.main.description
+Upload logs to the server to report problems.
+settings.error.communication
+Your Kindle is unable to connect at this time. Please try again later. The bug details have been saved, you do not need to reenter the message.
+settings.error.wireless.off
+Your Kindle wireless is turned off. The bug details have been saved, you do not need to reenter the message.
+settings.error.cancelled
+Log upload cancelled
+settings.error.unknown
+Unable to upload device logs, unknown exception. If you wish to try again, the bug details have been saved, you do not need to reenter the message.
+settings.error.title
+Upload Logs Unsuccessful
+settings.error.overlay.button.retry
+Retry
+settings.ul.details.title
+Bug Details
+settings.ul.details.description
+Please include any details that may be useful, such as a description of the problem and what you were doing when the problem occured.
+settings.ul.font.main.title
+settings.ul.font.section.title
+settings.ul.font.section.description
+settings.ul.font.section.input
+settings.ul.spacing.title.and.description
+settings.ul.spacing.description.and.input
+settings.ul.spacing.input.and.title
+settings.ul.spacing.type.gap
+settings.ul.margins.right
+settings.ul.margins.left
+com/amazon/ebook/booklet/search/resources/UploadLogsOverlayResources
+java/util/ListResourceBundle
+(I)V
+(I)Ljava/awt/Font;
+a
+opc
+()Lcom/amazon/ebook/framework/c/a;
+com/amazon/ebook/framework/c/a

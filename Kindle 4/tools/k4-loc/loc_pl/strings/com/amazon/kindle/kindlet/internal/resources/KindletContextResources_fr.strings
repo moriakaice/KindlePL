@@ -1,0 +1,20 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/kindle/kindlet/internal/resources/KindletContextResources_fr;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+kindlet.title.subtitle.format
+{0} : {1}
+com/amazon/kindle/kindlet/internal/resources/KindletContextResources_fr
+java/util/ListResourceBundle
+f
+a
+teb

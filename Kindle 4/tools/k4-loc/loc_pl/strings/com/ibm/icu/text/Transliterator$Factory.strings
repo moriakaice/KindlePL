@@ -1,0 +1,9 @@
+getInstance
+(Ljava/lang/String;)Lcom/ibm/icu/text/Transliterator;
+SourceFile
+Transliterator.java
+com/ibm/icu/text/Transliterator$Factory
+Factory
+InnerClasses
+java/lang/Object
+com/ibm/icu/text/Transliterator

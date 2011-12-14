@@ -1,0 +1,109 @@
+Z
+<init>
+Code
+()V
+onStart
+(Ljava/lang/String;)V
+(Z)V
+onPaused
+(I)V
+run
+resumeMusic
+()Z
+pauseMusic
+stopMusic
+skipCurrentSong
+<clinit>
+PlayingTask
+set player state to PLAYING
+set player state to PAUSE
+Start playing background music task...
+java/lang/StringBuffer
+The index of the current song is 
+Playing the background music starting at song 
+ at position 
+Cannot find the index of the current song 
+Playing the background music from the beginning of the list.
+Open song 
+file://
+com/amazon/ebook/framework/service/media/event/AudioException
+Failed to play song 
+java/lang/InterruptedException
+Failed to resume music
+Failed to pauseMusic()
+Failed to stop music
+Cannot skip to the next song because it is playing at the last one of the list
+getBookletContext
+java/lang/Object
+notifyAll
+()I
+()Ljava/util/List;
+java/util/List
+iterator
+()Ljava/util/Iterator;
+()Ljava/io/File;
+java/io/File
+getName
+()Ljava/lang/String;
+size
+get
+(I)Ljava/lang/Object;
+java/lang/String
+equals
+(Ljava/lang/Object;)Z
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(I)Ljava/lang/StringBuffer;
+toString
+java/util/Iterator
+next
+()Ljava/lang/Object;
+hasNext
+getAbsolutePath
+(Ljava/lang/String;Ljava/lang/Throwable;)V
+wait
+ProcessingTask
+InnerClasses
+indexOf
+(Ljava/lang/Object;)I
+LocalVariableTable
+Ljava/lang/String;
+I
+a
+Lcom/amazon/ebook/framework/service/media/c;
+A
+Lcom/lab126/booklet/audioPlayer/g;
+b
+Lcom/lab126/booklet/audioPlayer/c;
+B
+c
+C
+d
+Lcom/amazon/ebook/util/b/e;
+F
+()Lcom/lab126/booklet/audioPlayer/c;
+Lcom/lab126/booklet/audioPlayer/b;
+g
+G
+h
+H
+(Lcom/lab126/booklet/audioPlayer/g;)V
+com/lab126/booklet/audioPlayer/b
+com/amazon/ebook/framework/service/media/event/b
+(Ljava/lang/String;)Lcom/amazon/ebook/util/b/e;
+E
+D
+(Lcom/amazon/ebook/framework/service/media/event/b;)V
+e
+Lcom/lab126/booklet/audioPlayer/d;
+f
+(Lcom/lab126/booklet/audioPlayer/c;)V
+()Lcom/amazon/ebook/framework/service/media/c;
+()Lcom/amazon/ebook/framework/b/a;
+com/lab126/booklet/audioPlayer/d
+com/amazon/ebook/framework/service/media/c
+com/amazon/ebook/util/b/e
+com/amazon/ebook/framework/b/a
+com/lab126/booklet/audioPlayer/g
+com/amazon/ebook/framework/kos/a/b
+com/lab126/booklet/audioPlayer/c

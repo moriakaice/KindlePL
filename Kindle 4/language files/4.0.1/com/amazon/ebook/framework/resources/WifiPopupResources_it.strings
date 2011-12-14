@@ -1,0 +1,175 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/resources/WifiPopupResources_it;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+dim.width
+java/lang/Integer
+dim.height
+dim.x
+dim.y
+dim.landscape.height
+dim.landscape.x
+dim.landscape.y
+dim.net.height
+dim.net.effectiveHeight
+dim.overlay.width
+action.item.cursor.height
+margin.left
+margin.right
+margin.top
+margin.body.top
+margin.line.top
+margin.lock
+margin.name
+margin.requireWifiText
+margin.landscape.newNetworkPromptBottomMargin
+margin.landscape.PasswordPromptBottomMargin
+margin.landscape.wpsPasswordPromptBottomMargin
+margin.landscape.wpsPasswordPromptBottom
+text.connect
+connetti
+text.disconnect
+ignora
+text.connecting
+connessione in corso...
+text.newNetwork
+immetti un’altra rete Wi-Fi
+text.rescanning
+ricerca in corso...
+text.rescanLink
+riesegui ricerca
+text.secureNetwork.accessible
+sicuro
+text.openNetwork.accessible
+apri
+text.connectionRequired
+È necessaria una connessione Wi-Fi per completare questa operazione. Connettersi a una rete Wi-Fi o riprovare più tardi.
+text.button.advanced
+avanzate
+message.enterPassword
+Inserisci password Wi-Fi per {0}:
+message.hidePassword
+nascondi
+message.showPassword
+mostra
+message.password
+Password:
+message.unableToConnectHeader
+Impossibile stabilire la connessione~~alla rete Wi-Fi~~~~
+message.unableToConnect
+Il Kindle non è in grado di stabilire la connessione alla rete Wi-Fi "{0}". 
+message.manuallyEnterSettingsUnsecure
+Riprovare o configurare la rete manualmente?
+message.manuallyEnterSettingsSecure
+Immettere nuovamente la password o configurare manualmente la rete?
+message.availableNetworks
+Reti Wi-Fi : {0}
+message.pageNumber
+Pagina {0} di {1}
+font.title
+font.wifiRequiredText
+font.networkName
+font.action
+font.newNetworkLinkFont
+font.hidePassword
+font.action.connecting
+font.pageNumber
+color.connecting
+enter.new.wifi.network.overlay.header
+Inserisci un’altra rete Wi-Fi
+enter.new.wifi.network.overlay.ssid.label
+Nome rete:
+enter.new.wifi.network.overlay.password.label
+enter.new.wifi.network.overlay.left.margin
+enter.new.wifi.network.overlay.right.margin
+enter.new.wifi.network.overlay.top.margin
+enter.new.wifi.network.overlay.line.spacing
+enter.new.wifi.network.overlay.height
+enter.new.wifi.network.label.font
+enter.new.wifi.network.header.font
+enter.new.wifi.network.field.font
+text.field.y.offset.from.lable.y
+button.enter.network.info.text
+configura rete
+button.enter.password.again.text
+riprova
+button.enter.try.again.text
+captive.title
+Registrazione necessaria
+captive.msg
+Per eseguire la connessione alla rete Wi-Fi, è necessario effettuare la registrazione prima di accedere a Internet.~~~~Passare al Web Browser per effettuare la registrazione?
+captive.button.text
+vai al browser
+new.network.widget.action.overlay.width
+text.error.101
+La password inserita è errata o non valida.~~
+text.error.102
+Nessun profilo Wi-Fi configurato per questa rete.~~
+text.error.103
+Connessione alla rete Wi-Fi non riuscita.~~
+text.error.104
+Connessione Wi-Fi attualmente non disponibile. Se il problema persiste, riavviare il dispositivo.~~
+text.error.105
+text.error.106
+Connessione alla rete locale non riuscita.~~
+text.error.107
+Connessione a Internet non riuscita.~~
+text.error.109
+Connessione a WPS non riuscita.~~
+text.error.110
+Connessione a WPS non riuscita. Riprovare a immettere la password.~~
+text.error.111
+Configurazione non valida.~~
+text.error.112
+Il tipo di sicurezza che avete inserito non corrisponde al tipo di sicurezza della rete Wi-Fi con la quale state tentando di connettervi.~~
+text.error.113
+L’access point ha rifiutato la richiesta di connessione. Potrebbe essere attivo il filtro MAC.~~
+text.error.201
+Nome della rete Wi-Fi troppo lungo.~~
+text.error.202
+La password immessa è errata o non valida.~~
+text.error.203
+Reti Wi-Fi aziendali non supportate nel Kindle. Provare a eseguire la connessione a un’altra rete.~~
+text.error.204
+La lunghezza della password inserita è superiore alla lunghezza massima consentita dalla rete Wi-Fi. Provare a inserire nuovamente la password.~~
+text.error.205
+Nella password inserita mancano uno o più caratteri. Provare a inserire nuovamente la password.~~
+text.error.206
+Il tipo di protezione immesso non corrisponde a quello della rete Wi-Fi alla quale si sta tentando di eseguire la connessione.~~
+text.error.207
+Reti Wi-Fi peer-to-peer non supportate nel Kindle. Provare a eseguire la connessione a un’altra rete.~~
+text.msg.unsupportedNetwork
+Rete Wi-Fi non supportata~~~~La rete Wi-Fi aziendale o peer-to-peer non è supportata. Provare a eseguire la connessione con un’altra rete.
+wps.footer.spacing
+wps.footer.additionalSpacing
+wps.font.footer
+wps.message.connection
+Puoi anche eseguire la connessione senza inserire una password. Premere innanzitutto il pulsante WPS sul router, quindi selezionare il pulsante di configurazione WPS in alto.
+wps.footer.bg.color
+wps.footer.fg.color
+com/amazon/ebook/framework/resources/WifiPopupResources_it
+java/util/ListResourceBundle
+(I)V
+getInstance
+(IZZ)Ljava/awt/Font;
+(I)Ljava/awt/Font;
+Ljava/awt/Color;
+f
+a
+nrc
+K
+l
+Evb
+Kwb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/gui/c
+com/amazon/ebook/framework/font/h

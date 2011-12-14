@@ -1,0 +1,216 @@
+I
+J
+Ljava/lang/String;
+MyFileHook
+InnerClasses
+<init>
+Code
+LineNumberTable
+LocalVariableTable
+()V
+e
+Lcom/amazon/ebook/booklet/topazreader/TopazException;
+Z
+setBounds
+(IIII)V
+x
+y
+width
+height
+Exceptions
+drawPage
+runPreLayout
+haltPreLayout
+setStyleSheet
+(Ljava/lang/String;)V
+setZoom
+(I)V
+zoom
+getZoom
+()I
+setLineSpacing
+setJustifyAllowed
+(Z)V
+setPage
+getPage
+jumpToBeginning
+testTOC
+()Z
+jumpToTOC
+nextPage
+previousPage
+lastPageNum
+getBookLength
+getPosition
+setPosition
+getNumLines
+getLineX
+(I)I
+getLineY
+getLineW
+getLineH
+getLineBL
+getLineCallbacks
+getLineElementCallbackLabel
+(III)Ljava/lang/String;
+getLineElementCallbackType
+runCallback
+getLineID
+getLineEndID
+getText
+(II)Ljava/lang/String;
+isBooknoteContinued
+([Ljava/lang/String;)V
+[Ljava/lang/String;
+Ljava/util/ArrayList;
+i
+Lcom/amazon/ebook/booklet/topazreader/impl/TopazPosition;
+Ljava/awt/Rectangle;
+Ljava/util/List;
+()Ljava/lang/String;
+()J
+(J)V
+<clinit>
+SourceFile
+java/lang/IllegalArgumentException
+Invalid mgr pointer
+java/lang/StringBuffer
+ManagedTopazObject::close:: close native file started...
+ManagedTopazObject::close:: close native file finishes...
+com/amazon/ebook/booklet/topazreader/TopazException
+
+ManagedTopazObject::purgeWordIterator::close native iteraetor started...
+ManagedTopazObject::purgeWordIterator::close native iteraetor finishes...
+com/amazon/ebook/booklet/topazreader/impl/TopazRuntimeException
+mgr is no longer valid
+Topaz drawPage
+runPrelayout enters.............
+runPrelayout exits.............
+FINISH
+haltPreLayout enters.............
+haltPreLayout exits.............
+nextPage enters.......
+nextPage exits.......
+previousPage enters......
+previousPage exits......
+Unknown error
+com/amazon/ebook/booklet/topazreader/impl/TopazIllegalOperationException
+Request line ID is invalid relative to the total number lines on the page
+com/amazon/ebook/booklet/topazreader/impl/TopazManagerLimitException
+the manager instance is NOT valid!
+Fail to use device class PID
+Fail to estabilsh DRM key
+com/amazon/ebook/booklet/topazreader/TopazDRMException
+java/util/ArrayList
+closeWordIterator()
+MangedTopazObject
+java/lang/Object
+UtilHook
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+toString
+com/amazon/ebook/booklet/topazreader/impl/Topaz
+closeFile
+(Ljava/lang/String;Ljava/lang/Throwable;)V
+closeIterator
+(JIIII)V
+(JLjava/lang/String;)V
+(JI)V
+(J)I
+(JZ)V
+(J)Z
+(JI)I
+(JIII)Ljava/lang/String;
+(JII)Ljava/lang/String;
+newIterator
+(J)J
+(JI)J
+setPID
+(JLjava/lang/String;)Z
+getBookletContext
+getDeviceClassID
+getNumLineElements
+getWordIDForLineElement
+(JII)I
+getTextForLineElement
+add
+(Ljava/lang/Object;)Z
+com/amazon/ebook/booklet/topazreader/impl/TopazPosition
+getRectForLineElement
+(JII)Ljava/awt/Rectangle;
+java/awt/Rectangle
+getLineElementCallbacks
+java/lang/String
+equals
+(IIIZZ)V
+java/util/List
+a
+A
+Lcom/amazon/ebook/util/c/l;
+b
+B
+Lcom/amazon/ebook/booklet/topazreader/impl/a;
+c
+C
+d
+D
+Lcom/amazon/ebook/util/b/e;
+Lcom/amazon/ebook/booklet/topazreader/impl/s;
+(ILcom/amazon/ebook/booklet/topazreader/impl/l;)Lcom/amazon/ebook/booklet/reader/sdk/w;
+Lcom/amazon/ebook/booklet/topazreader/impl/l;
+Lcom/amazon/ebook/booklet/reader/sdk/w;
+Lcom/amazon/ebook/booklet/reader/sdk/y;
+Lcom/amazon/ebook/booklet/topazreader/impl/h;
+Lcom/amazon/ebook/booklet/topazreader/impl/f;
+(ILcom/amazon/ebook/booklet/topazreader/impl/l;)Ljava/util/ArrayList;
+(Lcom/amazon/ebook/booklet/topazreader/impl/l;I)Lcom/amazon/ebook/booklet/topazreader/impl/a;
+(Lcom/amazon/ebook/booklet/topazreader/impl/l;)Lcom/amazon/ebook/booklet/topazreader/impl/a;
+E
+Lcom/amazon/ebook/util/b/d;
+f
+(Lcom/amazon/ebook/booklet/topazreader/impl/l;)V
+F
+g
+G
+h
+H
+j
+(Lcom/amazon/ebook/booklet/topazreader/impl/e;JLjava/lang/String;)V
+Lcom/amazon/ebook/booklet/topazreader/impl/e;
+Lcom/amazon/ebook/booklet/topazreader/impl/g;
+com/amazon/ebook/booklet/topazreader/impl/s
+wmc
+(Ljava/lang/String;)Lcom/amazon/ebook/util/b/e;
+(Lcom/amazon/ebook/util/b/i;[Ljava/lang/String;Ljava/lang/String;Ljava/lang/Throwable;)V
+(Lcom/amazon/ebook/booklet/reader/sdk/s;)Z
+(Lcom/amazon/ebook/booklet/topazreader/impl/TopazPosition;Lcom/amazon/ebook/booklet/topazreader/impl/TopazPosition;Lcom/amazon/ebook/booklet/reader/sdk/y;Ljava/util/List;)Lcom/amazon/ebook/booklet/topazreader/impl/h;
+()Lcom/amazon/ebook/booklet/reader/sdk/y;
+(ILcom/amazon/ebook/booklet/topazreader/impl/l;)Lcom/amazon/ebook/booklet/topazreader/impl/TopazPosition;
+()Lcom/amazon/ebook/booklet/reader/sdk/w;
+(Lcom/amazon/ebook/booklet/topazreader/impl/l;ILjava/lang/String;)V
+()Lcom/amazon/ebook/framework/service/b;
+()Lcom/amazon/ebook/framework/b/a;
+hc
+()Lcom/amazon/ebook/booklet/reader/yb;
+(Lcom/amazon/ebook/booklet/topazreader/impl/l;Lcom/amazon/ebook/booklet/topazreader/impl/s;J)V
+(Ljava/lang/String;Lcom/amazon/ebook/util/b/e;)V
+(Lcom/amazon/ebook/booklet/topazreader/impl/s;Ljava/lang/String;)Z
+()Lcom/amazon/ebook/booklet/topazreader/impl/e;
+(Lcom/amazon/ebook/util/c/c;)Lcom/amazon/ebook/util/c/l;
+(Lcom/amazon/ebook/booklet/topazreader/impl/s;Ljava/lang/String;)V
+com/amazon/ebook/util/c/c
+com/amazon/ebook/booklet/topazreader/impl/h
+com/amazon/ebook/booklet/reader/sdk/y
+com/amazon/ebook/booklet/reader/sdk/w
+com/amazon/ebook/framework/service/b
+com/amazon/ebook/framework/b/a
+com/amazon/ebook/booklet/reader/yb
+com/amazon/ebook/booklet/topazreader/impl/e
+com/amazon/ebook/util/b/e
+com/amazon/ebook/util/c/m
+com/amazon/ebook/util/c/l
+com/amazon/ebook/booklet/topazreader/impl/f
+com/amazon/ebook/booklet/topazreader/impl/b
+com/amazon/ebook/booklet/topazreader/impl/a
+com/amazon/ebook/util/b/d
+com/amazon/ebook/booklet/topazreader/impl/g

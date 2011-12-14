@@ -1,0 +1,8 @@
+SourceFile
+ICURWLock.java
+Synthetic
+com/ibm/icu/impl/ICURWLock$1
+
+InnerClasses
+java/lang/Object
+com/ibm/icu/impl/ICURWLock

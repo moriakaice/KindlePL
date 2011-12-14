@@ -1,0 +1,21 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/metadata/endactions/resources/EndActionsUpdatesHandlerResources_fr;
+getContents
+()[[Ljava/lang/Object;
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+unable.to.rate.book.message
+L’évaluation n’est pas activée pour ce livre
+unable.to.save.rating.message
+Impossible de sauvegarder l’évaluation. Veuillez réessayer
+com/amazon/ebook/booklet/reader/metadata/endactions/resources/EndActionsUpdatesHandlerResources_fr
+java/util/ListResourceBundle
+f
+a
+zud

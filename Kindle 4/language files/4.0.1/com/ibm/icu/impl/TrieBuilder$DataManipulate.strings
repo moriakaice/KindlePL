@@ -1,0 +1,9 @@
+getFoldedValue
+(II)I
+SourceFile
+TrieBuilder.java
+com/ibm/icu/impl/TrieBuilder$DataManipulate
+DataManipulate
+InnerClasses
+java/lang/Object
+com/ibm/icu/impl/TrieBuilder

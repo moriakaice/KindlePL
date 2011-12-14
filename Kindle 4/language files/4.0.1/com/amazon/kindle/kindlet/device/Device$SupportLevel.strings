@@ -1,0 +1,33 @@
+SUPPORTED
+SupportLevel
+InnerClasses
+Lcom/amazon/kindle/kindlet/device/Device$SupportLevel;
+NOT_SUPPORTED
+NOT_RECOGNIZED
+I
+<init>
+(I)V
+Code
+LineNumberTable
+LocalVariableTable
+this
+equals
+(Ljava/lang/Object;)Z
+that
+Ljava/lang/Object;
+hashCode
+()I
+toString
+()Ljava/lang/String;
+<clinit>
+()V
+SourceFile
+com/amazon/kindle/kindlet/device/Device$SupportLevel
+supported
+not supported
+not recognized
+java/lang/Object
+com/amazon/kindle/kindlet/device/Device
+f
+a
+xo

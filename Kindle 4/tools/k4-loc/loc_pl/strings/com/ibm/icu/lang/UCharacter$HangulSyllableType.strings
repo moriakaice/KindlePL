@@ -1,0 +1,16 @@
+NOT_APPLICABLE
+I
+ConstantValue
+LEADING_JAMO
+VOWEL_JAMO
+TRAILING_JAMO
+LV_SYLLABLE
+LVT_SYLLABLE
+COUNT
+SourceFile
+UCharacter.java
+com/ibm/icu/lang/UCharacter$HangulSyllableType
+HangulSyllableType
+InnerClasses
+java/lang/Object
+com/ibm/icu/lang/UCharacter

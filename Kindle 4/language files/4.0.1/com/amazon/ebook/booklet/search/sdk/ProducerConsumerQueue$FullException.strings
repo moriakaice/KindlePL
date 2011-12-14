@@ -1,0 +1,19 @@
+serialVersionUID
+J
+ConstantValue
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+FullException
+InnerClasses
+Lcom/amazon/ebook/booklet/search/sdk/ProducerConsumerQueue$FullException;
+SourceFile
+Timeout expired and Queue is still full.
+com/amazon/ebook/booklet/search/sdk/ProducerConsumerQueue$FullException
+java/lang/Exception
+(Ljava/lang/String;)V
+a
+lqd
+com/amazon/ebook/booklet/search/sdk/tc

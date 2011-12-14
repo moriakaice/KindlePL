@@ -1,0 +1,16 @@
+serialVersionUID
+J
+ConstantValue
+<init>
+(Ljava/lang/String;)V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/gui/GraphicsException;
+Ljava/lang/String;
+()V
+SourceFile
+com/amazon/ebook/framework/gui/GraphicsException
+java/lang/Exception
+a
+tnd

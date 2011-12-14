@@ -1,0 +1,49 @@
+Ljava/util/WeakHashMap;
+<init>
+()V
+Code
+add
+(Ljava/lang/Object;)V
+remove
+toString
+()Ljava/lang/String;
+<clinit>
+java/util/WeakHashMap
+java/lang/Long
+ResourceMonitor::remove the given object is never being tracked.
+java/lang/StringBuffer
+Loading image took 
+ ms
+ResourceMonitor is currently tracking 
+ objects
+ResourceMonitor
+java/lang/Object
+java/lang/System
+currentTimeMillis
+()J
+(J)V
+put
+(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+(Ljava/lang/Object;)Ljava/lang/Object;
+(Ljava/lang/String;)V
+longValue
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(J)Ljava/lang/StringBuffer;
+size
+()I
+(I)Ljava/lang/StringBuffer;
+getInstance
+LocalVariableTable
+Ljava/lang/Object;
+f
+Lcom/amazon/ebook/util/log/b;
+K
+a
+Lcom/amazon/ebook/booklet/pictureviewer/a/h;
+com/amazon/ebook/booklet/pictureviewer/a/h
+(Ljava/lang/String;)Lcom/amazon/ebook/util/log/b;
+Ywc
+XyA
+com/amazon/ebook/booklet/pictureviewer/x
+com/amazon/ebook/util/log/b

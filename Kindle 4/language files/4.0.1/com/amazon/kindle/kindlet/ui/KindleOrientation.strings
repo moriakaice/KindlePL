@@ -1,0 +1,17 @@
+PORTRAIT
+I
+ConstantValue
+LANDSCAPE
+INVERTED_PORTRAIT
+INVERTED_LANDSCAPE
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/kindle/kindlet/ui/KindleOrientation;
+SourceFile
+com/amazon/kindle/kindlet/ui/KindleOrientation
+java/lang/Object
+a
+vcb

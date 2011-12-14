@@ -1,0 +1,106 @@
+Ljava/util/Properties;
+Ljava/io/File;
+Ljava/lang/Boolean;
+Ljava/lang/String;
+ConstantValue
+<init>
+Code
+LineNumberTable
+LocalVariableTable
+application
+Exceptions
+()Ljava/lang/Long;
+e
+Ljava/lang/NumberFormatException;
+()Ljava/lang/Boolean;
+()V
+I
+version
+load
+Ljava/io/FileInputStream;
+Ljava/io/OutputStream;
+toString
+()Ljava/lang/String;
+SourceFile
+RuntimeMetaData
+java/lang/IllegalArgumentException
+application is null.
+meta data file does not exist
+java/util/Properties
+kindlet.lastRanAt
+java/lang/NumberFormatException
+getLastAccessTimeFail
+kindlet.lastRanAt key in Kindlet's metadata is not a valid Long!
+java/lang/String
+java/lang/Object
+java/lang/Long
+kindlet.version
+updateMetadataFail
+Application version is not an integer.
+java/io/FileInputStream
+java/io/FileOutputStream
+Kindlet MetaData Values
+Saving to application data directory.
+file
+java/lang/StringBuffer
+ lastAccessTime=
+ isNew=
+ Current Version=
+java/io/IOException
+(Ljava/lang/String;)V
+java/lang/Boolean
+TRUE
+getProperty
+(Ljava/lang/String;)Ljava/lang/String;
+valueOf
+(Ljava/lang/String;)Ljava/lang/Long;
+(Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;[Ljava/lang/Object;)V
+()Ljava/io/File;
+java/io/File
+exists
+()Z
+lastModified
+()J
+(J)V
+(I)Ljava/lang/String;
+(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+java/lang/Integer
+parseInt
+(Ljava/lang/String;)I
+put
+(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+(Z)Ljava/lang/Boolean;
+(Ljava/io/File;)V
+(Ljava/io/InputStream;)V
+close
+java/lang/System
+currentTimeMillis
+(J)Ljava/lang/String;
+store
+(Ljava/io/OutputStream;Ljava/lang/String;)V
+java/io/OutputStream
+FALSE
+(Ljava/lang/String;[Ljava/lang/String;[Ljava/lang/Object;)V
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(Ljava/lang/Object;)Ljava/lang/StringBuffer;
+a
+A
+b
+B
+c
+Lcom/amazon/kindle/kindlet/internal/install/e;
+C
+d
+Lcom/amazon/kindle/kindlet/internal/d/d;
+Lcom/amazon/kindle/kindlet/internal/c/d;
+(Lcom/amazon/kindle/kindlet/internal/install/e;Ljava/io/File;)V
+com/amazon/kindle/kindlet/internal/c/d
+rkb
+E
+()Lcom/amazon/kindle/kindlet/internal/install/b;
+(Ljava/lang/String;)Lcom/amazon/kindle/kindlet/internal/d/d;
+com/amazon/kindle/kindlet/internal/install/b
+com/amazon/kindle/kindlet/internal/install/e
+com/amazon/kindle/kindlet/internal/d/d
+com/amazon/kindle/kindlet/internal/d/b

@@ -1,0 +1,16 @@
+NEUTRAL
+I
+ConstantValue
+AMBIGUOUS
+HALFWIDTH
+FULLWIDTH
+NARROW
+WIDE
+COUNT
+SourceFile
+UCharacter.java
+com/ibm/icu/lang/UCharacter$EastAsianWidth
+EastAsianWidth
+InnerClasses
+java/lang/Object
+com/ibm/icu/lang/UCharacter

@@ -1,0 +1,306 @@
+UpdateHandler
+InnerClasses
+UpdateFile
+Ljava/util/ResourceBundle;
+Ljava/lang/String;
+ConstantValue
+Z
+I
+Ljava/util/Comparator;
+Code
+LineNumberTable
+LocalVariableTable
+<init>
+()V
+()Z
+()J
+e
+Ljava/lang/Exception;
+applyUpdate
+()Ljava/lang/String;
+Ljava/io/BufferedReader;
+Ljava/lang/NumberFormatException;
+J
+Lcom/amazon/ebook/framework/device/comm/CommunicationException;
+(Ljava/lang/String;)Ljava/lang/String;
+update
+InvalidUpdateException
+Lcom/amazon/ebook/framework/impl/device/mario/VersionManagerImpl$UpdateFile$InvalidUpdateException;
+Ljava/io/IOException;
+Ljava/lang/SecurityException;
+Ljava/io/File;
+[Lcom/amazon/ebook/framework/impl/device/mario/d;
+Ljava/util/List;
+(Ljava/lang/String;)Ljava/util/ArrayList;
+[Ljava/io/File;
+Ljava/util/ArrayList;
+Ljava/lang/Throwable;
+Ljava/io/FileWriter;
+Exceptions
+access$000
+Synthetic
+access$100
+access$200
+<clinit>
+SourceFile
+java/lang/String
+
+java/lang/Exception
+java/lang/StringBuffer
+VersionManagerImpl.applyUpdate _start_  lastBooklet is 
+um.no.update.msg
+um.apply.update.title
+um.apply.update.msg
+Error applying update.
+VersionManagerImpl.applyUpdate _start_
+VersionManagerImpl.applySilentUpdate _start_
+VersionManagerImpl.applySilentUpdate _end_
+java/io/BufferedReader
+java/io/FileReader
+~~otaVersion~~
+Error getting pretty version string.
+Error getting version string.
+Unknown Version: 0-0-0
+java/lang/NumberFormatException
+Error getting software version string.
+hardware.wan
+com/amazon/ebook/framework/device/comm/CommunicationException
+java/io/File
+com/amazon/ebook/framework/impl/device/mario/VersionManagerImpl$UpdateFile$InvalidUpdateException
+Downloaded update file is invalid.
+java/io/IOException
+I/O issue with the downloaded update file.
+VersionManagerImpl.leave _start_
+VersionManagerImpl.leave _end_
+Error deleting signal file.
+.framework_update
+java/lang/SecurityException
+could not delete file 
+: unsatisfied credentials
+Error generating update signal filename.
+java/util/ArrayList
+ appears to be a valid update file that is not applicable to this device, deleting.
+Looking for updates in 
+ appears to be a valid update file applicable to this device.
+ does not appear to be a valid update file, ignoring (
+).
+VersionManagerImpl.apply _start_
+com/amazon/ebook/framework/impl/device/KindleSystemImpl
+VersionManagerImpl.apply update file count = 
+java/io/FileWriter
+VersionManagerImpl.apply add 
+  to 
+ priority = 
+VersionManagerImpl.apply failed result =  
+um.battery.low.msg
+VersionManagerImpl.apply sleep
+VersionManagerImpl.apply wakeup
+java/lang/Throwable
+VersionManagerImpl.apply failed 
+VersionManagerImpl.apply _end_
+com.amazon.ebook.framework.resources.SystemMessages
+VersionManagerImpl
+ExceptionCaught
+UpdatingSilently
+ManualUpdateStart
+SoftwareVersion
+base
+pretty
+ota
+valueOf
+(J)Ljava/lang/String;
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(Ljava/lang/Object;)Ljava/lang/StringBuffer;
+toString
+(Ljava/lang/String;)V
+getUIManager
+java/util/ResourceBundle
+getString
+(Ljava/lang/String;I)V
+OkCancelHandler
+(Ljava/io/Reader;)V
+readLine
+trim
+indexOf
+(Ljava/lang/String;)I
+substring
+(II)Ljava/lang/String;
+java/lang/Long
+length
+()I
+(I)Ljava/lang/String;
+close
+lastIndexOf
+(I)I
+charAt
+(I)C
+java/lang/Character
+isDigit
+(C)Z
+parseLong
+(Ljava/lang/String;)J
+(Ljava/lang/String;)Z
+(Ljava/io/File;Z)V
+delete
+createTempFile
+(Ljava/lang/String;Ljava/lang/String;)Ljava/io/File;
+getParent
+separator
+java/util/List
+size
+java/util/Collections
+sort
+(Ljava/util/List;Ljava/util/Comparator;)V
+toArray
+([Ljava/lang/Object;)[Ljava/lang/Object;
+add
+(Ljava/lang/Object;)Z
+getPath
+exists
+isDirectory
+listFiles
+()[Ljava/io/File;
+isFile
+(Ljava/io/File;)V
+getMessage
+fireOTAUpdateEvent
+(Z)V
+(I)Ljava/lang/StringBuffer;
+write
+java/lang/Object
+(I)V
+com/amazon/ebook/framework/impl/gui/SystemBarImpl
+getInstance
+()Lcom/amazon/ebook/framework/gui/widgets/KWSystemBar;
+com/amazon/ebook/framework/gui/widgets/KWSystemBar
+(Z)I
+java/lang/Thread
+sleep
+(J)V
+getBundle
+(Ljava/lang/String;)Ljava/util/ResourceBundle;
+(Ljava/lang/String;[Ljava/lang/String;)V
+f
+K
+Lcom/amazon/ebook/framework/h;
+l
+Lcom/amazon/ebook/framework/a/h;
+L
+Lcom/amazon/ebook/pl/h;
+m
+a
+F
+Lcom/amazon/ebook/util/log/w;
+g
+k
+h
+Lcom/amazon/ebook/util/log/b;
+j
+()Lcom/amazon/ebook/framework/a/h;
+()Lcom/amazon/ebook/pl/h;
+()Lcom/amazon/ebook/util/log/b;
+sVb
+Lcom/amazon/ebook/framework/impl/device/mario/c;
+[Lcom/amazon/ebook/framework/impl/device/mario/d;
+Axb
+Lcom/amazon/ebook/framework/impl/device/mario/d;
+gvb
+()Lcom/amazon/ebook/framework/impl/device/mario/d;
+hwb
+Lvb
+Awb
+()[Lcom/amazon/ebook/framework/impl/device/mario/d;
+gVb
+Hwb
+GWb
+xwb
+wh
+Yj
+Ch
+uj
+Xvb
+BVb
+Dvb
+GVb
+dXb
+dH
+bxb
+bi
+JWb
+(Lcom/amazon/ebook/pl/h;Lcom/amazon/ebook/framework/a/h;)V
+com/amazon/ebook/framework/impl/device/mario/c
+hzc
+com/amazon/ebook/framework/service/v
+(Ljava/lang/String;)Lcom/amazon/ebook/util/log/b;
+je
+yLb
+(Lcom/amazon/ebook/util/log/w;[Ljava/lang/String;Ljava/lang/String;)V
+kd
+sc
+()Lcom/amazon/ebook/pl/service/f;
+VE
+Ic
+tG
+()Lcom/amazon/ebook/framework/service/d;
+bWb
+Rj
+avb
+EXb
+M
+PD
+AC
+Jh
+()Lcom/amazon/ebook/framework/service/h;
+KA
+OVb
+Ewb
+XWb
+ih
+()Lcom/amazon/ebook/framework/service/comm/wan/d;
+wi
+()Lcom/amazon/ebook/framework/service/comm/h;
+Uh
+dFB
+CEB
+PKb
+(Lcom/amazon/ebook/util/log/w;[Ljava/lang/String;Ljava/lang/String;Ljava/lang/Throwable;)V
+U
+KXb
+(Lcom/amazon/ebook/framework/h;Lcom/amazon/ebook/framework/gui/overlays/Overlay;)V
+PIB
+(Ljava/lang/String;Ljava/lang/String;Lcom/amazon/ebook/framework/gui/overlays/v;)Lcom/amazon/ebook/framework/gui/overlays/Overlay;
+(Lcom/amazon/ebook/framework/impl/device/mario/c;)V
+owb
+(Lcom/amazon/ebook/framework/gui/foundation/jb;)V
+()Lcom/amazon/ebook/framework/gui/v;
+eYA
+clb
+DK
+()Lcom/amazon/ebook/framework/h;
+Syb
+EI
+()Lcom/amazon/ebook/framework/service/c;
+Cvb
+NJb
+Lcom/amazon/ebook/framework/impl/device/v;
+com/amazon/ebook/framework/gui/overlays/f
+com/amazon/ebook/framework/gui/overlays/v
+com/amazon/ebook/pl/service/f
+com/amazon/ebook/pl/h
+com/amazon/ebook/framework/service/h
+com/amazon/ebook/framework/service/comm/wan/d
+com/amazon/ebook/framework/service/comm/h
+com/amazon/ebook/framework/impl/m
+com/amazon/ebook/framework/gui/overlays/nb
+com/amazon/ebook/framework/gui/v
+com/amazon/ebook/framework/impl/j
+com/amazon/ebook/framework/a/h
+com/amazon/ebook/util/log/b
+com/amazon/ebook/framework/impl/device/v
+com/amazon/ebook/framework/impl/device/mario/v
+com/amazon/ebook/util/log/w
+com/amazon/ebook/framework/impl/device/mario/d
+com/amazon/ebook/framework/impl/device/mario/h
+com/amazon/ebook/framework/gui/foundation/jb
+com/amazon/ebook/framework/impl/device/tb

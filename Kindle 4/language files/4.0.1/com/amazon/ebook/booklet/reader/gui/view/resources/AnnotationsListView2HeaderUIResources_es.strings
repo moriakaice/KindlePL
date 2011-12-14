@@ -1,0 +1,81 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/view/resources/AnnotationsListView2HeaderUIResources_es;
+getContents
+()[[Ljava/lang/Object;
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+format.caption.show.all.plural
+Mostrando {0} anotaciones y/o marcadores
+format.caption.show.all.singular
+Mostrando {0} nota o marcador
+format.caption.show.all.none
+No hay notas ni marcadores
+format.caption.show.bookmark.plural
+Mostrando {0} marcadores
+format.caption.show.bookmark.singular
+Mostrando {0} marcador
+format.caption.show.bookmark.none
+No hay marcadores
+format.caption.show.note.plural
+Mostrando {0} notas
+format.caption.show.note.singular
+Mostrando {0} nota
+format.caption.show.note.none
+No hay notas
+format.caption.show.highlight.plural
+Mostrando {0} subrayado
+format.caption.show.highlight.singular
+format.caption.show.highlight.none
+No hay subrayados
+format.caption.show.popular.highlight.plural
+Mostrando {0} subrayados populares
+format.caption.show.popular.highlight.singular
+Mostrando {0} subrayado popular
+format.caption.show.popular.highlight.none
+No hay subrayados populares
+format.caption.show.subscribed.note.plural
+Mostrando {0} anotaciones por suscripción
+format.caption.show.subscribed.note.singular
+Mostrando {0} anotación por suscripción
+format.caption.show.subscribed.note.none
+No hay anotaciones por suscripción
+label.show.all
+Todos
+label.show.bookmarks
+Marcadores
+label.show.notes
+Notas
+label.show.highlights
+Subrayados
+label.sort.by.location
+Por posición
+label.sort.by.most.popular
+Por popularidad
+label.sort.option.location
+Posición
+label.sort.option.popular
+Más popular
+label.speak.header
+{0,choice,0#Mostrar|1#Ordenar por} {1}
+label.arrow.gap
+java/lang/Integer
+label.default.font
+label.sort.alignment
+color.background
+color.foreground
+com/amazon/ebook/booklet/reader/gui/view/resources/AnnotationsListView2HeaderUIResources_es
+java/util/ListResourceBundle
+(I)V
+Ljava/awt/Color;
+f
+a
+coe
+I
+C
+com/amazon/ebook/framework/gui/c

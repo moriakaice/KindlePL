@@ -1,0 +1,43 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/MainActionResources_en_GB;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+pre.delete.action.delete.button.sound
+delete
+pre.delete.action.remove.button.sound
+remove from device
+delete.collection.action.confirm.header
+Delete Collection
+delete.collection.action.confirm.body
+This collection will be permanently deleted, but the contents will not be affected and will remain on your Kindle. Do you wish to continue?
+delete.collection.action.delete.text
+delete.collection.action.button.y.offset
+java/lang/Integer
+audible.content.handler.supported.file.extension.mp3
+mp3
+delete.action.delete.text
+delete.action.remove.text
+delete.action.remove.from.collection.text
+remove from collection
+delete.action.button.y.offset
+delete.action.confirm.header
+Delete Item
+delete.action.confirm.body
+This item will be permanently deleted. Do you wish to continue?
+delete.action.confirm.body.kindleapp
+This item and its settings will be permanently deleted. Do you wish to continue?
+com/amazon/ebook/booklet/home/foundation/resources/MainActionResources_en_GB
+java/util/ListResourceBundle
+(I)V
+f
+a
+uig

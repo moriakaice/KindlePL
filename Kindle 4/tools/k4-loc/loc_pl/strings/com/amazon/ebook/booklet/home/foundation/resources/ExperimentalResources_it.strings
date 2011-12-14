@@ -1,0 +1,106 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/ExperimentalResources_it;
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+exp.label
+Sperimentale
+exp.text
+We are working on these experimental prototypes. Do you find them useful? Should we continue working on them? We would love to hear what you think, so please send your comments to {0}
+exp.text.message.format
+java/text/MessageFormat
+Stiamo lavorando su questi prototipi sperimentali. Sono utili? Dovremmo continuare a lavorarci? Vorremmo conoscere le opinioni degli utenti, vi invitiamo a visitare www.kindle.com/support per inviare ogni commento.
+exp.font
+exp.text.x
+java/lang/Integer
+exp.text.margin
+exp.text.spacing
+exp.text.offset
+exp.widget.label.font
+exp.widget.desc.font
+exp.widget.link.font
+exp.widget.desc.y
+exp.widget.desc.spacing
+exp.widget.base.buffer
+exp.widget.left.margin
+exp.widget.right.margin
+exp.widget.offset
+exp.link.line.offset
+feedback.email
+kindle-feedback@amazon.com
+exp.cursor.disabled.color
+bw.widget.label
+Web Browser
+bw.widget.cursor.label
+avvia browser
+bw.widget.desc
+Select this item to launch Web Browser and browse, choose a bookmark, or enter a URL.
+bw.widget.desc.pattern
+Stiamo lavorando su un browser Web sperimentale. È utile? Dovremmo continuare a lavorarci? Vorremmo conoscere le opinioni degli utenti, vi invitiamo a visitare www.kindle.com/support per inviare ogni commento.
+mp3.widget.label
+Riproduci MP3
+mp3.widget.cursor.label.play
+riproduci musica
+mp3.widget.cursor.label.pause
+metti in pausa musica
+mp3.widget.desc
+Selezionare questo elemento per ascoltare musica o podcast durante la lettura. Tenere premuto il tasto ’ALT’ e premere la barra spaziatrice per interrompere o eseguire la riproduzione oppure premere il tasto ’F’ per passare alla traccia successiva. Per utilizzare questa funzione, è necessario copiare i file MP3 dal computer in uso alla cartella ’musica’ del Kindle.
+mp3.not.found.alert.text
+Nessun file MP3 trovato~~~~Per riprodurre i file MP3, è necessario prima copiarli dal computer alla cartella "musica" del Kindle.
+t2s.widget.label
+Text-to-Speech
+t2s.widget.cursor.label
+
+t2s.widget.desc
+Start Text-to-Speech in the Text menu while you are reading and your Kindle will start reading to you (where allowed by the rights holder). Hold down the 'Shift' key and press the 'SYM' key to stop or play.
+exp.view.sound
+Elementi sperimentali
+exp.pause.sound
+, 
+exp.menu.initial.focus
+exp.widget.height.default
+exp.widget.cursor.height
+exp.widget.cursor.draw.color
+exp.widget.cursor.erase.color
+experimental.list.item.prompt.format
+{0}, {1}
+kindledx-feedback@amazon.com
+kindle-feedback@amazon.com or kindle-feedback@amazon.co.uk
+com/amazon/ebook/booklet/home/foundation/resources/ExperimentalResources_it
+com/amazon/ebook/framework/device/util/DeviceResourceBundle
+(Ljava/lang/String;)V
+getInstance
+(IZZ)Ljava/awt/Font;
+(I)V
+Ljava/awt/Color;
+f
+K
+l
+L
+I
+m
+a
+J
+F
+e
+GMb
+ANb
+inb
+aMb
+Dnb
+vOb
+TMb
+cob
+EMb
+mzf
+Kwb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/gui/c
+com/amazon/ebook/framework/font/h

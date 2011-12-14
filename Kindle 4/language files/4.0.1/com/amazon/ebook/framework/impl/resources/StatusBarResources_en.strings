@@ -1,0 +1,22 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/impl/resources/StatusBarResources_en;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+clock.date.format
+java/text/SimpleDateFormat
+h:mm a
+com/amazon/ebook/framework/impl/resources/StatusBarResources_en
+java/util/ListResourceBundle
+(Ljava/lang/String;)V
+f
+a
+cnc

@@ -1,0 +1,51 @@
+<init>
+Code
+LineNumberTable
+LocalVariableTable
+Ljava/awt/Graphics;
+J
+Ljava/awt/Rectangle;
+<clinit>
+()V
+SourceFile
+java/lang/StringBuffer
+RepaintQuickPreviewInstruction::perform took 
+ms to finish painting in framebuffer
+Something really strange has happend since the definitino drawing did not affected any pixels
+RepaintQuickPreviewInstruction::perform is affecting bounds: 
+ms to finish transfering the bytes to the controller
+RepaintQuickPreviewInstruction End: 
+RepaintQuickPreviewInstruction
+java/lang/System
+currentTimeMillis
+()J
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(J)Ljava/lang/StringBuffer;
+toString
+()Ljava/lang/String;
+(Ljava/lang/String;)V
+(Ljava/lang/Object;)Ljava/lang/StringBuffer;
+(Ljava/awt/Rectangle;)V
+(Z)V
+a
+Lcom/amazon/ebook/booklet/reader/yb;
+A
+Lcom/amazon/ebook/util/b/e;
+(Ljava/awt/Graphics;Lcom/amazon/ebook/framework/gui/foundation/l;)V
+Lcom/amazon/ebook/booklet/reader/e/a;
+Lcom/amazon/ebook/framework/gui/foundation/l;
+(Lcom/amazon/ebook/booklet/reader/yb;)Lcom/amazon/ebook/booklet/reader/e/a;
+(Lcom/amazon/ebook/booklet/reader/yb;)V
+com/amazon/ebook/booklet/reader/e/a
+duc
+d
+(Ljava/lang/String;)Lcom/amazon/ebook/util/b/e;
+B
+c
+(Ljava/awt/Graphics;Lcom/amazon/ebook/booklet/reader/yb;)Ljava/awt/Rectangle;
+com/amazon/ebook/booklet/reader/yb
+com/amazon/ebook/framework/gui/foundation/l
+com/amazon/ebook/util/b/e
+com/amazon/ebook/booklet/reader/gui/infobox/a
+com/amazon/ebook/booklet/reader/d/a

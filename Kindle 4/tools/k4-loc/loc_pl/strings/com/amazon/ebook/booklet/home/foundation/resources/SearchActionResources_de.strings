@@ -1,0 +1,26 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/SearchActionResources_de;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+go.to.page.action.message.format
+java/text/MessageFormat
+Mit  zur Seite {0,number,integer} springen
+go.to.letter.action.titles.message.format
+Mit  zu {0} Titeln springen
+go.to.letter.action.authors.message.format
+Mit  zu {0} Autoren springen
+com/amazon/ebook/booklet/home/foundation/resources/SearchActionResources_de
+java/util/ListResourceBundle
+(Ljava/lang/String;)V
+f
+a
+hfg

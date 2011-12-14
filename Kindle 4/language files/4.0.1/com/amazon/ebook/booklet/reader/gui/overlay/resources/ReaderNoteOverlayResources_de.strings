@@ -1,0 +1,34 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/overlay/resources/ReaderNoteOverlayResources_de;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+save.note.button.text
+Speichern
+save.and.share.button.text
+Speichern & Weiterempfehlen
+delete.button.text
+Entfernen
+button.width
+java/lang/Integer
+shortcut.text
+
+clear.text
+empty.note.error
+Sie können keine leere Notiz speichern.
+button.number.new.note
+button.number.existing.note
+com/amazon/ebook/booklet/reader/gui/overlay/resources/ReaderNoteOverlayResources_de
+java/util/ListResourceBundle
+(I)V
+f
+a
+iye

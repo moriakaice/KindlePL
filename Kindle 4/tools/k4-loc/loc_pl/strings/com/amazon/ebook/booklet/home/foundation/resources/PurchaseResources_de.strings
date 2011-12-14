@@ -1,0 +1,27 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/PurchaseResources_de;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+pendingPurchasesOverlay.overlay.width
+java/lang/Integer
+pendingPurchasesOverlay.header.text
+Offene Bestellungen
+pendingPurchasesOverlay.body.text
+Sie haben derzeit eine oder mehrere ausstehende AmazonLocal-Bestellungen. Möchten Sie Ihre Bestellungen jetzt überprüfen?
+pendingPurchasesOverlay.button.label.later
+Später
+com/amazon/ebook/booklet/home/foundation/resources/PurchaseResources_de
+java/util/ListResourceBundle
+(I)V
+f
+a
+fnc

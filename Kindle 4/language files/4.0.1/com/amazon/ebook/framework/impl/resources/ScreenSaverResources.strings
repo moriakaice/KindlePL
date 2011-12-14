@@ -1,0 +1,22 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/impl/resources/ScreenSaverResources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+screensaver.show.spoken
+screen saver
+display.off.spoken
+turning off
+com/amazon/ebook/framework/impl/resources/ScreenSaverResources
+java/util/ListResourceBundle
+f
+a
+loc

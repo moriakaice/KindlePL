@@ -1,0 +1,25 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/search/resources/SearchResources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+command.help.pattern
+Supported shortcuts: {0}
+search.entry.bar.font
+command.time.format.pattern
+{0,date,full}~~{0,time,full}~~{0,date,zzz}
+com/amazon/ebook/booklet/search/resources/SearchResources
+java/util/ListResourceBundle
+(IZ)Ljava/awt/Font;
+a
+ppc
+()Lcom/amazon/ebook/framework/c/a;
+com/amazon/ebook/framework/c/a

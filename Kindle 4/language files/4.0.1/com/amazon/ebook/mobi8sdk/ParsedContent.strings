@@ -1,0 +1,9 @@
+getContent
+()Ljava/lang/String;
+getStartPosition
+()J
+getEndPosition
+com/amazon/ebook/mobi8sdk/ParsedContent
+java/lang/Object
+com/amazon/ebook/mobi8sdk/Disposable
+LocalVariableTable

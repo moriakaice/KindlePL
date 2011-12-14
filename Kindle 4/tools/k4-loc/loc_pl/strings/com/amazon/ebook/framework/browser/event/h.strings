@@ -1,0 +1,15 @@
+pageLoadStarted
+(Lcom/amazon/ebook/framework/browser/event/PageLoadEvent;)V
+pageLoadProgress
+pageLoadCompleted
+pageLoadRequestDeclined
+fileUploadDeclined
+()V
+printDeclined
+locationWithinPageChanged
+(Ljava/net/URI;)V
+SourceFile
+java/lang/Object
+com/amazon/ebook/framework/browser/event/h
+yn
+LocalVariableTable

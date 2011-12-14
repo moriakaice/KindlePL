@@ -1,0 +1,13 @@
+<init>
+(Ljava/lang/Object;)V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lcom/amazon/kindle/kindlet/ui/KMenuEvent;
+source
+Ljava/lang/Object;
+SourceFile
+com/amazon/kindle/kindlet/ui/KMenuEvent
+java/util/EventObject
+ubb

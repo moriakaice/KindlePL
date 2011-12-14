@@ -1,0 +1,68 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lcom/amazon/kindle/kindlet/ui/resources/UIResources_it;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+font.style.plain
+Semplice
+font.style.bold
+Grassetto
+font.style.italic
+Corsivo
+font.style.bold.italic
+Grassetto corsivo
+font.family.sansserif
+Sans Serif
+font.family.serif
+Serif
+font.family.monospaced
+Spaziatura fissa
+color.white
+Bianco
+color.black
+Nero
+color.lightgray
+Grigio chiaro
+color.darkgray
+Grigio scuro
+color.gray1
+Grigio 1
+color.gray2
+Grigio 2
+color.gray3
+Grigio 3
+color.gray4
+Grigio 4
+color.gray5
+Grigio 5
+color.gray6
+Grigio 6
+color.gray7
+Grigio 7
+color.gray8
+Grigio 8
+color.gray9
+Grigio 9
+color.gray10
+Grigio 10
+color.gray11
+Grigio 11
+color.gray12
+Grigio 12
+color.gray13
+Grigio 13
+color.gray14
+Grigio 14
+com/amazon/kindle/kindlet/ui/resources/UIResources_it
+java/util/ListResourceBundle
+f
+ehb

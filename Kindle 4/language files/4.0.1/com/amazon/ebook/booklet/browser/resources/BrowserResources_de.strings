@@ -1,0 +1,71 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/browser/resources/BrowserResources_de;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+bookmark.overwrite.prompt.msg
+Es gibt bereits ein Lesezeichen für eine andere Seite mit demselben Titel. Möchten Sie es überschreiben?
+bookmark.remove_oldest.prompt.msg
+Sie haben die maximale Anzahl an Lesezeichen erreicht. Möchten Sie das älteste Lesezeichen löschen, um dieses speichern zu können?
+messages.error.communication_error
+Eine Verbindung ist derzeit nicht möglich. Bitte versuchen Sie es später erneut.
+messages.error.bad_download_type
+Der Webbrowser kann diese Datei nicht herunterladen. Nur Dateien mit der Erweiterung .AZW, .PRC, .MOBI oder .TXT können auf Ihren Kindle heruntergeladen werden.
+messages.error.bad_protocol
+Der Webbrowser kann mit diesem Protokoll keine Dateien herunterladen. Es werden nur die Protokolle HTTP und HTTPS unterstützt.
+messages.error.new_window_suppressed
+Der Webbrowser kann diesen Link nicht öffnen, da das Öffnen mehrerer Fenster nicht unterstützt wird.
+messages.error.ssl_failed
+Der Webbrowser kann keine sichere Verbindung zu dieser Website herstellen.
+messages.error.out_of_memory1
+Der Webbrowser wurde neu gestartet, weil kein Speicherplatz mehr verfügbar war.
+messages.error.out_of_memory2
+messages.error.other
+Ihr Kindle kann die angeforderte Seite nicht laden.
+messages.error.wireless_off
+Wi-Fi ist deaktiviert. Bitte aktivieren Sie Wi-Fi über das Menü und versuchen Sie es erneut.
+messages.error.upload_declined
+Der Webbrowser unterstützt das Hochladen von Dateien nicht.
+messages.error.print_declined
+Der Webbrowser unterstützt das Drucken nicht.
+registration.dialog.title
+Sie müssen Ihren Kindle erst anmelden.
+not_registered.dialog.title
+Anmeldung erforderlich
+not_registered.dialog.body
+Zum Browsen mithilfe von 3G Wireless müssen Sie Ihren Kindle zuerst bei Ihrem Amazon-Benutzerkonto anmelden. Wechseln Sie hierzu zu „Einstellungen“.
+search.internet.url.pattern
+http://www.google.de/search?q={0}
+search.wiki.url.pattern
+http://de.wikipedia.org/wiki?search={0}
+internet.amazon.social.pattern
+https://kindle.amazon.com/social
+download.dialog.title
+Datei herunterladen
+download.dialog.body
+Möchten Sie {0} herunterladen? Nach dem Download wird die Datei auf der Startseite angezeigt. Möchten Sie fortfahren?
+download.complete.alert.body
+Webbrowser hat {0} erfolgreich heruntergeladen.
+download.error.alert.body
+Der Webbrowser konnte {0} nicht herunterladen. Bitte versuchen Sie es später erneut.
+http_authentication.dialog.title
+Authentifizierung erforderlich
+http_authentication.dialog.description
+Für die Site {0} unter {1} sind ein Benutzername und ein Passwort erforderlich.
+ssl_exception.dialog.title
+Ungültiges Zertifikat
+ssl_exception.dialog.body
+Der Webbrowser kann keine sichere Verbindung zur Website {0} herstellen. Möchten Sie dennoch fortfahren?
+com/amazon/ebook/booklet/browser/resources/BrowserResources_de
+java/util/ListResourceBundle
+f
+a
+ntg

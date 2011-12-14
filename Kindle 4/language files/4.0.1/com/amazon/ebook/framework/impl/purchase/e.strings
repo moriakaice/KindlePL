@@ -1,0 +1,544 @@
+
+InnerClasses
+PurchaseProcessingResult
+SyncHash
+ExecutePendingTask
+ExecuteOnFailureNotifications
+ExecuteOnCancelNotifications
+ExecuteOnPurchaseNotifications
+Ljava/text/MessageFormat;
+Ljava/lang/String;
+ConstantValue
+J
+I
+Z
+Ljava/lang/Boolean;
+Ljava/util/HashMap;
+Ljava/util/List;
+Ljava/util/Map;
+<init>
+Code
+LineNumberTable
+LocalVariableTable
+()Ljava/lang/String;
+initialize
+()V
+()Z
+(ZLjava/lang/String;Ljava/lang/String;I)V
+asin
+quantity
+Exceptions
+cancel
+(ZLjava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+orderId
+reset
+Ljava/io/File;
+requestId
+Ljava/lang/Object;
+Ljava/util/Iterator;
+PurchaseState
+(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Z
+(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Z
+recoverable
+()Ljava/util/Map;
+(Ljava/lang/String;Ljava/lang/String;I)V
+e
+Lcom/amazon/ebook/framework/BookletException;
+(Ljava/lang/String;Ljava/lang/String;)V
+(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+Ljava/util/Collection;
+(Ljava/lang/String;)Z
+Ljava/io/IOException;
+errorCode
+errorTitle
+errorMessage
+Lorg/json/simple/JSONObject;
+[Ljava/lang/String;
+(Lorg/json/simple/JSONObject;Ljava/lang/String;)Ljava/lang/String;
+Entry
+Ljava/util/Map$Entry;
+[Ljava/lang/Object;
+Ljava/lang/StringBuffer;
+i
+(Ljava/lang/String;Ljava/util/HashMap;)Ljava/lang/Object;
+(Ljava/lang/String;Ljava/util/HashMap;)V
+json
+[Ljava/io/File;
+Ljava/io/Writer;
+next
+(Ljava/io/File;)V
+Synthetic
+<clinit>
+SourceFile
+java/util/HashMap
+java/util/LinkedList
+Attempted to call purchase() before HttpEndpointPurchaseManagerImpl is initialized
+Attempted to call cancel before HttpEndpointPurchaseManagerImpl is initialized
+java/io/File
+java/lang/String
+Attempted to call recordPurchase() before HttpEndpointPurchaseManagerImpl is initialized
+Attempted to call removePurchaseRecord() before HttpEndpointPurchaseManagerImpl is initialized or with a null orderId
+Attempted to call updatePurchaseRecord() before HttpEndpointPurchaseManagerImpl is initialized or with an empty orderId or emty asin
+Failed to replace the purchase record
+Attempted to call handleConfirmation() before HttpEndpointPurchaseManagerImpl is initialized
+ok
+buy
+failure
+Attempted to call executePendingRequests() before HttpEndpointPurchaseManagerImpl is initialized
+setting executingPendingRequests to true and scheduling the pending task run
+com/amazon/ebook/framework/purchase/PurchaseException
+Interactive purchase failed due to invalid input
+xml
+com/amazon/ebook/framework/BookletException
+Interactive purchase failed
+Interactive cancel failed due to invalid inputs
+Failed to persist purchase result
+Interactive cancel attempted on non-existent order
+Non-interactive purchase failed due to invalid input
+Request with the id already exists
+Reached the pending request limit
+Buy action for this request id already exists
+Buy action failed to be persisted
+Non-interactive cancel failed due to invalid input
+Order id is need to cancel this purchase
+Cancel action for this request id already exists
+Cancel action failed to be persisted
+java/lang/StringBuffer
+count of pending requests is 
+PurchaseActionRequestIdComparator
+Could not get registration digest value
+Purchase request 
+ with request URL 
+ is already in the transfer manager, so we won't send it off again
+prch
+.resp
+java/io/IOException
+setting executingPendingRequests to false
+request transfer completed for action with request ID 
+Purchase action is missing
+notifying that failure occurred
+deleting the pending request file
+notifying that failure occurred, request removed
+calling executePendingRequests() again
+status
+error
+The Ember endpoint returned a parseable error while processing the order
+Some attributes were missing during parsing of the JSON response file
+Failed to update the purchase record
+Response file was null.
+Response file does not exist.
+Response file could not be read or was empty.
+JSON parser returned a null object
+org/json/simple/JSONObject
+JSON parser returned an object of class 
+, but we were expecting a JSONObject
+Unable to delete the request file
+false
+Failed to remove the purchase action.
+device.tz.country
+X-Amzn-XFSN
+X-Amzn-Serial-Number
+X-Amzn-Transport-Method
+X-Amzn-Current-Country
+java/util/Map$Entry
+java/lang/Object
+~~
+State directory not present
+Failed to load purchased state
+Failed to load action state
+Error writing state file
+Error closing state file
+EMPTY
+Error deleting purchase state file
+Error deleting purchase state directory
+HttpEndpointPurchaseManagerImpl
+PurchaseEventPostFailure
+PurchaseRecordsLoadFailure
+PurchaseActionsLoadFailure
+RequestCompletionProcessError
+filePath
+RequestCompletionMissingAttributesError
+parsedOrderId
+parsedAsin
+parsedRequestId
+RequestCompletionJsonResponseError
+RequestDeferredProcessError
+RequestProcessError
+PurchaseInitializationError
+CancelInitializationError
+RecordPurchaseInitializationError
+RemovePurchaseRecordInitializationError
+UpdatePurchaseRecordInitializationError
+HandleConfirmationInitializationError
+ExecutePendingRequestsInitializationError
+PurchaseRecordReplaceError
+CancelingCanceledPurchaseInfo
+StateDirectoryMissingError
+LoadPurchaseStateError
+LoadActionStateError
+StateFileWritingError
+StateFileClosingError
+PurchaseListenerCallError
+StateFileDeleteError
+file
+java/text/MessageFormat
+{0}: {1}{2}
+responseType
+java/lang/Boolean
+FALSE
+java/util/Collections
+synchronizedList
+(Ljava/util/List;)Ljava/util/List;
+getInstance
+(Ljava/lang/String;)V
+exists
+getParentFile
+()Ljava/io/File;
+isEmpty
+keySet
+()Ljava/util/Set;
+java/util/Set
+iterator
+()Ljava/util/Iterator;
+java/util/Iterator
+hasNext
+()Ljava/lang/Object;
+getTransferRequest
+clear
+(Ljava/util/HashMap;Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+equals
+(Ljava/lang/Object;)Z
+(Ljava/util/HashMap;Ljava/lang/Object;)Ljava/lang/Object;
+(Ljava/util/HashMap;Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
+()J
+(Ljava/util/HashMap;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)Z
+equalsIgnoreCase
+TRUE
+unmodifiableMap
+(Ljava/util/Map;)Ljava/util/Map;
+(Ljava/util/HashMap;)Z
+java/util/List
+add
+remove
+getAmazonServices
+java/lang/Integer
+toString
+(I)Ljava/lang/String;
+getBookletServices
+(Ljava/lang/String;Ljava/lang/Throwable;)V
+(Ljava/util/HashMap;Ljava/lang/Object;)Z
+(Ljava/util/HashMap;)I
+getXFSN
+PurchaseActionType
+(Ljava/lang/String;)Ljava/lang/String;
+getType
+java/util/Map
+values
+()Ljava/util/Collection;
+java/util/Collection
+(Ljava/util/Collection;)V
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+size
+()I
+(I)Ljava/lang/StringBuffer;
+sort
+(Ljava/util/List;Ljava/util/Comparator;)V
+createTempFile
+(Ljava/lang/String;Ljava/lang/String;)Ljava/io/File;
+getCanonicalPath
+download
+getPath
+(Ljava/io/File;)Ljava/lang/String;
+org/json/simple/JSONValue
+parse
+(Ljava/lang/String;)Ljava/lang/Object;
+getClass
+()Ljava/lang/Class;
+java/lang/Class
+getName
+delete
+get
+(Ljava/lang/Object;)Ljava/lang/Object;
+trim
+getDeviceSerialID
+Connection
+name
+java/util/Locale
+US
+Ljava/util/Locale;
+toUpperCase
+(Ljava/util/Locale;)Ljava/lang/String;
+getPreferences
+(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+put
+(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+entrySet
+getKey
+getValue
+format
+(Ljava/lang/Object;)Ljava/lang/String;
+intern
+mkdirs
+listFiles
+()[Ljava/io/File;
+()Lorg/json/simple/JSONObject;
+(Ljava/io/File;)Ljava/io/Writer;
+writeJSONString
+(Ljava/io/Writer;)V
+java/io/Writer
+close
+isFile
+isDirectory
+(Ljava/lang/String;[Ljava/lang/String;)V
+(I)V
+f
+K
+l
+L
+m
+a
+Lcom/amazon/ebook/framework/impl/booklet/h;
+F
+g
+k
+h
+j
+D
+b
+M
+A
+c
+C
+B
+d
+G
+E
+H
+t
+n
+q
+S
+W
+V
+x
+U
+Lcom/amazon/ebook/util/log/w;
+T
+R
+w
+o
+z
+v
+O
+X
+u
+s
+P
+Q
+Y
+N
+y
+r
+p
+AA
+BA
+JA
+GA
+gA
+mA
+KA
+Lcom/amazon/ebook/util/log/b;
+lsb
+()Lcom/amazon/ebook/util/log/b;
+yRb
+()Lcom/amazon/ebook/util/log/w;
+BSb
+(Lcom/amazon/ebook/framework/purchase/h;Z)V
+Lcom/amazon/ebook/framework/impl/purchase/e;
+Lcom/amazon/ebook/framework/purchase/h;
+Tsb
+lUb
+Qsb
+(Lcom/amazon/ebook/framework/purchase/c;)V
+Lcom/amazon/ebook/framework/purchase/c;
+DTb
+Jtb
+(Lcom/amazon/ebook/framework/purchase/b;Ljava/lang/String;Ljava/lang/String;)Lcom/amazon/ebook/framework/purchase/b;
+Lcom/amazon/ebook/framework/purchase/b;
+gUb
+(Lcom/amazon/ebook/framework/purchase/b;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+sUb
+(Lcom/amazon/ebook/framework/purchase/h;)Z
+SSb
+MSb
+(Lcom/amazon/ebook/framework/purchase/c;)Z
+ytb
+yTb
+rsb
+isb
+otb
+hub
+psb
+csb
+(Lcom/amazon/ebook/framework/purchase/h;)V
+Asb
+bub
+ASb
+wub
+(Lcom/amazon/ebook/framework/purchase/h;Ljava/io/File;)Lorg/json/simple/JSONObject;
+eUb
+(Lcom/amazon/ebook/framework/purchase/h;Ljava/io/File;)Lcom/amazon/ebook/framework/impl/purchase/p;
+dSb
+(Lcom/amazon/ebook/framework/purchase/h;Ljava/io/File;)V
+Lcom/amazon/ebook/framework/impl/purchase/p;
+nTb
+Lcom/amazon/ebook/pl/service/b;
+FJ
+Lcom/amazon/ebook/pl/service/p;
+oub
+(Ljava/lang/String;)Lcom/amazon/ebook/framework/purchase/c;
+OUb
+hsb
+Uub
+XTb
+Lcom/amazon/ebook/framework/kos/event/b;
+qh
+(Lcom/amazon/ebook/framework/purchase/v;)V
+Lcom/amazon/ebook/framework/purchase/v;
+hj
+WG
+ki
+yH
+vi
+oI
+TG
+(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/amazon/ebook/framework/purchase/b;)Z
+DH
+kH
+BTb
+Yh
+RH
+oH
+uD
+stb
+aSb
+(Lcom/amazon/ebook/framework/impl/booklet/h;)V
+com/amazon/ebook/framework/impl/purchase/e
+sxc
+com/amazon/ebook/framework/purchase/d
+(Ljava/lang/String;)Lcom/amazon/ebook/util/log/b;
+(Lcom/amazon/ebook/framework/impl/purchase/e;Lcom/amazon/ebook/framework/purchase/h;Z)V
+Ikb
+(Lcom/amazon/ebook/util/log/w;[Ljava/lang/String;Ljava/lang/String;)V
+(Lcom/amazon/ebook/framework/impl/purchase/e;Lcom/amazon/ebook/framework/purchase/c;)V
+PI
+llb
+Nb
+Jh
+()Lcom/amazon/ebook/framework/service/h;
+pMb
+(Lorg/json/simple/JSONObject;)Lcom/amazon/ebook/framework/purchase/h;
+(Lorg/json/simple/JSONObject;)Lcom/amazon/ebook/framework/purchase/c;
+nMA
+()Lcom/amazon/ebook/util/file/p;
+VG
+()Lcom/amazon/ebook/framework/service/comm/c;
+wi
+()Lcom/amazon/ebook/framework/service/comm/h;
+(Ljava/lang/String;)Lcom/amazon/ebook/framework/ad/h;
+aI
+()Lcom/amazon/ebook/framework/ad/b/d;
+snb
+rDb
+jh
+(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;ILjava/util/List;ILjava/lang/String;Lcom/amazon/ebook/pl/service/event/w;)Lcom/amazon/ebook/pl/service/p;
+(Lcom/amazon/ebook/framework/impl/purchase/e;Lcom/amazon/ebook/framework/purchase/h;)V
+GI
+II
+vh
+Lcom/amazon/ebook/framework/purchase/y;
+()Lcom/amazon/ebook/framework/purchase/y;
+NTb
+(Lcom/amazon/ebook/framework/purchase/y;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+OGb
+oUb
+lSb
+knb
+lJb
+(Lcom/amazon/ebook/util/log/w;)V
+PKb
+(Lcom/amazon/ebook/util/log/w;[Ljava/lang/String;Ljava/lang/String;Ljava/lang/Throwable;)V
+Ll
+(Lcom/amazon/ebook/framework/kos/event/b;)V
+rL
+(ILjava/lang/Object;Z)Lcom/amazon/ebook/framework/kos/event/b;
+()Lcom/amazon/ebook/framework/service/b;
+bIb
+(Lcom/amazon/ebook/util/file/p;Ljava/lang/String;[Ljava/lang/String;)Ljava/lang/String;
+tG
+()Lcom/amazon/ebook/framework/service/d;
+Sub
+cGb
+(Lcom/amazon/ebook/util/d/c;J)V
+(Lcom/amazon/ebook/framework/impl/purchase/e;Lcom/amazon/ebook/framework/impl/purchase/w;)V
+()Lcom/amazon/ebook/util/d/v;
+eYA
+clb
+yLb
+PUb
+(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/amazon/ebook/framework/purchase/b;J)V
+Ei
+ITb
+fsb
+Lx
+()Lcom/amazon/ebook/framework/purchase/b;
+ySb
+(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/amazon/ebook/framework/purchase/b;)V
+eyA
+(Lcom/amazon/ebook/pl/service/p;)Lcom/amazon/ebook/pl/service/p;
+(Ljava/lang/String;)Lcom/amazon/ebook/pl/service/p;
+Jc
+()Lcom/amazon/ebook/pl/service/b;
+tH
+()Lcom/amazon/ebook/pl/h;
+ukb
+(Lcom/amazon/ebook/util/log/w;Ljava/lang/String;)V
+aJb
+QfB
+wDB
+()Lcom/amazon/ebook/framework/impl/m;
+com/amazon/ebook/util/file/l
+com/amazon/ebook/framework/service/h
+com/amazon/ebook/util/file/p
+com/amazon/ebook/framework/service/comm/c
+com/amazon/ebook/framework/service/comm/h
+com/amazon/ebook/framework/ad/b/d
+com/amazon/ebook/framework/purchase/p
+com/amazon/ebook/util/unicode/h
+com/amazon/ebook/util/c/h
+com/amazon/ebook/framework/purchase/y
+com/amazon/ebook/framework/service/b
+com/amazon/ebook/util/net/d
+com/amazon/ebook/framework/service/d
+com/amazon/ebook/util/d/v
+com/amazon/ebook/util/text/o
+com/amazon/ebook/pl/service/b
+com/amazon/ebook/pl/h
+com/amazon/ebook/framework/impl/booklet/h
+com/amazon/ebook/util/log/b
+com/amazon/ebook/framework/impl/m
+com/amazon/ebook/framework/impl/purchase/c
+com/amazon/ebook/framework/impl/purchase/p
+com/amazon/ebook/framework/impl/purchase/w
+com/amazon/ebook/util/log/w
+com/amazon/ebook/framework/impl/purchase/y
+com/amazon/ebook/framework/impl/purchase/u
+com/amazon/ebook/framework/impl/purchase/o
+com/amazon/ebook/framework/purchase/b
+com/amazon/ebook/framework/impl/purchase/h
+com/amazon/ebook/framework/impl/purchase/d
+com/amazon/ebook/framework/purchase/h
+com/amazon/ebook/framework/impl/purchase/v
+com/amazon/ebook/framework/impl/purchase/b
+com/amazon/ebook/framework/purchase/c

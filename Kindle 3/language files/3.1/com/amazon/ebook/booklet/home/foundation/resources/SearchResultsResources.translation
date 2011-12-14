@@ -1,0 +1,9 @@
+Your search cannot be completed due to insufficient Kindle memory. Please free up memory by removing content from Home.	Twoje wyszukiwanie nie może zostać ukończone z powodu niewystarczającej pamięci. Zwolnij miejsce na urządzeniu poprzez usunięcie niektórych książek z katalogu domowego.
+Items Not Yet Indexed	Elementy jeszcze niezindeksowane
+archiv	archiwum
+back	wstecz
+0#Search Results: All {0,number,integer} Items|1#Search Results: All {0,number,integer} Item|2#Search Results: All {0,number,integer} Items	0#Wyniki wyszukiwania: {0} elementów|1#Wyniki wyszukiwania: {0} element|2#Wyniki wyszukiwania: {0} elemety
+0#Search Results: {0,number,integer} Books|1#Search Results: {0,number,integer} Book|2#Search Results: {0,number,integer} Books	0#Wyniki wyszukiwania: {0} książek|1#Wyniki wyszukiwania: {0} książka|2#Wyniki wyszukiwania: {0} książki
+0#Search Results: {0,number,integer} Collections|1#Search Results: {0,number,integer} Collection|2#Search Results: {0,number,integer} Collections	0#Wyniki wyszukiwania: {0} kolekcji|1#Wyniki wyszukiwania: {0} kolekcja|2#Wyniki wyszukiwania: {0} kolekcje
+0#Search Results: {0,number,integer} Periodicals|1#Search Results: {0,number,integer} Periodical|2#Search Results: {0,number,integer} Periodicals	0#Wyniki wyszukiwania: {0} czasopism|1#Wyniki wyszukiwania: {0} czasopismo|2#Wyniki wyszukiwania: {0} czasopisma
+0#Search Results: {0,number,integer} Personal Docs|1#Search Results: {0,number,integer} Personal Doc|2#Search Results: {0,number,integer} Personal Docs	0#Wyniki wyszukiwania: {0} dokumentów|1#Wyniki wyszukiwania: {0} dokument|2#Wyniki wyszukiwania: {0} dokumenty

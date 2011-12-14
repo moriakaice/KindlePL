@@ -1,0 +1,42 @@
+
+InnerClasses
+Synthetic
+<init>
+Code
+LineNumberTable
+LocalVariableTable
+run
+()V
+SourceFile
+scheduleWaitForAudioPlaying.run() - begin.
+Timeout on waiting for audio server's audio_playing response.
+scheduleWaitForAudioPlaying.run() - end.
+java/lang/Object
+java/lang/Runnable
+(Ljava/lang/String;)V
+Z
+I
+a
+Lcom/amazon/ebook/booklet/reader/plugin/tts/k;
+Lcom/amazon/ebook/booklet/reader/plugin/tts/j;
+(Lcom/amazon/ebook/booklet/reader/plugin/tts/k;)V
+com/amazon/ebook/booklet/reader/plugin/tts/j
+utc
+(Lcom/amazon/ebook/booklet/reader/plugin/tts/l;Ljava/lang/String;)V
+J
+D
+(Lcom/amazon/ebook/util/b/i;[Ljava/lang/String;Ljava/lang/String;)V
+c
+C
+(Lcom/amazon/ebook/booklet/reader/plugin/tts/k;)I
+h
+B
+(Lcom/amazon/ebook/booklet/reader/plugin/tts/l;)Lcom/amazon/ebook/booklet/reader/plugin/tts/b;
+A
+(Lcom/amazon/ebook/booklet/reader/plugin/tts/k;)Lcom/amazon/ebook/booklet/reader/plugin/tts/l;
+d
+Lcom/amazon/ebook/util/b/e;
+com/amazon/ebook/booklet/reader/plugin/tts/b
+com/amazon/ebook/util/b/e
+com/amazon/ebook/booklet/reader/plugin/tts/l
+com/amazon/ebook/booklet/reader/plugin/tts/k

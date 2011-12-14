@@ -1,0 +1,33 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/plugin/resources/TTSResources_pt;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+tts.no.text.msg
+Não há mais texto a ser lido neste item. Saindo do sistema de texto-voz.
+tts.unknown.error.msg
+O sistema de texto-voz encontrou um erro inesperado. Se o problema continuar, por favor, reinicie o dispositivo em Configurações.
+tts.player.decrease.speech.rate.text
+Mais devagar
+tts.player.increase.speech.rate.text
+Mais rápido
+tts.player.window.offset.from.bottom
+java/lang/Integer
+tts.foreground.color
+com/amazon/ebook/booklet/reader/plugin/resources/TTSResources_pt
+java/util/ListResourceBundle
+(I)V
+Ljava/awt/Color;
+f
+a
+dbe
+l
+com/amazon/ebook/framework/gui/c

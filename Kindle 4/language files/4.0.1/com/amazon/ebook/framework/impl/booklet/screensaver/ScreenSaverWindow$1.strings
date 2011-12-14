@@ -1,0 +1,17 @@
+this$0
+Lcom/amazon/ebook/framework/impl/booklet/screensaver/ScreenSaverWindow;
+Synthetic
+<init>
+(Lcom/amazon/ebook/framework/impl/booklet/screensaver/ScreenSaverWindow;)V
+Code
+LineNumberTable
+LocalVariableTable
+
+InnerClasses
+Lcom/amazon/ebook/framework/impl/booklet/screensaver/ScreenSaverWindow$1;
+SourceFile
+com/amazon/ebook/framework/impl/booklet/screensaver/ScreenSaverWindow$1
+java/awt/Component
+()V
+a
+zzc

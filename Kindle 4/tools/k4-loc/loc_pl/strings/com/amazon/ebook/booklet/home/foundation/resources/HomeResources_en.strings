@@ -1,0 +1,26 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/HomeResources_en;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+home.menu.personalization.label
+My Kindle
+home.dictionaries.collection.name
+Dictionaries
+download.wan.off
+Your wireless is turned off, please turn it on and try again.
+exceeded.licenses.alert
+This item cannot be currently downloaded because all of its licenses are in use on your other devices.~~~~To download it to this device, you can either delete it from another one of your devices or purchase another copy from the Kindle store.~~~~
+com/amazon/ebook/booklet/home/foundation/resources/HomeResources_en
+java/util/ListResourceBundle
+f
+a
+uhg

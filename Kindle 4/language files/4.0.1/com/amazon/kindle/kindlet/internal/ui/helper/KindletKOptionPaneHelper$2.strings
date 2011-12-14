@@ -1,0 +1,17 @@
+this$0
+Synthetic
+<init>
+Code
+LineNumberTable
+LocalVariableTable
+
+InnerClasses
+Lcom/amazon/kindle/kindlet/internal/ui/helper/KindletKOptionPaneHelper$2;
+SourceFile
+com/amazon/kindle/kindlet/internal/ui/helper/KindletKOptionPaneHelper$2
+java/awt/Component
+()V
+Lcom/amazon/kindle/kindlet/internal/ui/helper/r;
+(Lcom/amazon/kindle/kindlet/internal/ui/helper/r;)V
+a
+fcb

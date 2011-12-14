@@ -1,0 +1,9 @@
+getFoldingOffset
+(I)I
+SourceFile
+Trie.java
+com/ibm/icu/impl/Trie$DataManipulate
+DataManipulate
+InnerClasses
+java/lang/Object
+com/ibm/icu/impl/Trie

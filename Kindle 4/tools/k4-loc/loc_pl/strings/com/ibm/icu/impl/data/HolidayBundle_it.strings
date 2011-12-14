@@ -1,0 +1,51 @@
+fContents
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lcom/ibm/icu/impl/data/HolidayBundle_it;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+HolidayBundle_it.java
+[Ljava/lang/Object;
+java/lang/Object
+All Saints' Day
+Ognissanti
+Armistice Day
+armistizio
+Ascension
+ascensione
+Ash Wednesday
+mercoledì delle ceneri
+Boxing Day
+Santo Stefano
+Christmas
+natale
+Easter Sunday
+pasqua
+Epiphany
+Epifania
+Good Friday
+venerdì santo
+Halloween
+vigilia di Ognissanti
+Maundy Thursday
+giovedì santo
+New Year's Day
+anno nuovo
+Palm Sunday
+domenica delle palme
+Pentecost
+di Pentecoste
+Shrove Tuesday
+martedi grasso
+St. Stephen's Day
+Thanksgiving
+Giorno del Ringraziamento
+com/ibm/icu/impl/data/HolidayBundle_it
+java/util/ListResourceBundle

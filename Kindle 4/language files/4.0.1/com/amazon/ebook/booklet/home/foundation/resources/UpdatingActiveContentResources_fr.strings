@@ -1,0 +1,50 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/UpdatingActiveContentResources_fr;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+update.dialog.title.application
+Mettre à jour
+update.dialog.text.application
+Voulez-vous effectuer une mise à jour à l’aide de la version la plus récente ?
+update.dialog.additionalheight
+java/lang/Integer
+update.dialog.releasenotes
+voir les détails
+update.dialog.releasenotes.highlight.height
+update.dialog.releasenotes.font
+update.dialog.releasenotes.margin.top
+update.dialog.releasenotes.margin.left
+update.connect.disallowed.dialog.title
+Connexion sans fil requise
+update.connect.disallowed.dialog.text
+L’élément Active Content ne peut pas être mis à jour sans connexion sans fil. Activez le réseau sans fil et réessayez.
+update.connect.error.dialog.title
+Connexion impossible
+update.connect.error.dialog.text
+Votre Kindle ne peut pas se connecter pour l’instant. Veuillez réessayer ultérieurement.
+updating.message.header
+Mise à jour en cours...
+updating.message.full
+Vous ne pouvez pas accéder à cet élément tant que la mise à jour n’est pas terminée. Vous pouvez retourner à la page d’accueil, ou l’élément mis à jour s’ouvrira automatiquement si vous choisissez de rester sur cette page.
+updating.view.spoken
+Now updating the selected item. You will not be able to open this item from Home until the update is complete. You may return to Home, or, if you choose to stay on this page, the updated item will open automatically.
+com/amazon/ebook/booklet/home/foundation/resources/UpdatingActiveContentResources_fr
+java/util/ListResourceBundle
+(I)V
+getInstance
+(IZZ)Ljava/awt/Font;
+f
+a
+kfg
+Kwb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/font/h

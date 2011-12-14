@@ -1,0 +1,16 @@
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/purchase/PurchaseException;
+(Ljava/lang/String;)V
+Ljava/lang/String;
+(Ljava/lang/Throwable;)V
+Ljava/lang/Throwable;
+(Ljava/lang/String;Ljava/lang/Throwable;)V
+SourceFile
+com/amazon/ebook/framework/purchase/PurchaseException
+java/lang/Exception
+a
+zlc

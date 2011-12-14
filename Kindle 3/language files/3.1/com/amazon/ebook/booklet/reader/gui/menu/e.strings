@@ -1,0 +1,17 @@
+<init>
+Code
+LineNumberTable
+LocalVariableTable
+MySelectionManager
+InnerClasses
+SourceFile
+(Lcom/amazon/ebook/framework/gui/a/c;Lcom/amazon/ebook/framework/gui/a/j;Lcom/amazon/ebook/framework/gui/a/b;)V
+a
+Lcom/amazon/ebook/booklet/reader/gui/menu/e;
+Lcom/amazon/ebook/framework/gui/a/c;
+Lcom/amazon/ebook/framework/gui/a/j;
+Lcom/amazon/ebook/framework/gui/a/b;
+com/amazon/ebook/booklet/reader/gui/menu/e
+xzc
+com/amazon/ebook/booklet/reader/gui/menu/j
+com/amazon/ebook/framework/gui/a/i

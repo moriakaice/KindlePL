@@ -1,0 +1,14 @@
+select
+(D)Ljava/lang/String;
+getKeywords
+()Ljava/util/Set;
+getRepeatLimit
+()I
+SourceFile
+PluralRules.java
+com/ibm/icu/text/PluralRules$RuleList
+RuleList
+InnerClasses
+java/lang/Object
+java/io/Serializable
+com/ibm/icu/text/PluralRules

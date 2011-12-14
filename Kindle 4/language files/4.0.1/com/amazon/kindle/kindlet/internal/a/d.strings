@@ -1,0 +1,74 @@
+Ljava/lang/String;
+ConstantValue
+<init>
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/kindle/kindlet/internal/portability/net/NetworkWirelessSwitchOffException;
+Lcom/amazon/kindle/kindlet/internal/portability/net/NetworkTypeUnsupportedException;
+Ljava/net/MalformedURLException;
+Lcom/amazon/kindle/kindlet/internal/portability/net/NetworkCommunicationException;
+Ljava/text/ParseException;
+[Ljava/lang/String;
+Exceptions
+SourceFile
+java/lang/IllegalArgumentException
+networkAdapter can't be null.
+WebServiceSubscriptionClient
+java/lang/String
+
+cmd.kdk.subs.status
+com/amazon/kindle/kindlet/internal/portability/net/NetworkWirelessSwitchOffException
+Wireless switch is off.
+java/io/IOException
+User has disabled the wireless network.
+com/amazon/kindle/kindlet/internal/portability/net/NetworkTypeUnsupportedException
+Service unavailable due to missing hardware.
+This device does not have network support.
+java/net/MalformedURLException
+KDKSubscriptionURLBad
+Subscription URL is malformed.
+Configuration error for susbcription URL.
+com/amazon/kindle/kindlet/internal/portability/net/NetworkCommunicationException
+Communication exception connecting to subscription service.
+An error occured while transfering data.
+java/text/ParseException
+KDKSubscriptionServerResponseInvalid
+Could not parse subscription status from server.
+Could not parse server response.
+java/lang/Object
+()V
+(Ljava/lang/String;)V
+getId
+()Ljava/lang/String;
+(Ljava/lang/String;[Ljava/lang/String;ZZ)Ljava/lang/String;
+(Ljava/lang/String;Ljava/lang/Throwable;)V
+(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Throwable;)V
+parse
+f
+Lcom/amazon/kindle/kindlet/internal/d/c;
+K
+Lcom/amazon/kindle/kindlet/internal/portability/net/h;
+l
+be
+(Lcom/amazon/kindle/kindlet/internal/install/p;)Lcom/amazon/kindle/kindlet/internal/a/y;
+a
+Lcom/amazon/kindle/kindlet/internal/a/d;
+Lcom/amazon/kindle/kindlet/internal/install/p;
+Lcom/amazon/kindle/kindlet/internal/a/o;
+(Lcom/amazon/kindle/kindlet/internal/portability/net/h;)V
+com/amazon/kindle/kindlet/internal/a/d
+hhb
+com/amazon/kindle/kindlet/internal/a/h
+(Ljava/lang/String;)Lcom/amazon/kindle/kindlet/internal/a/y;
+vZA
+KA
+HYA
+Ef
+me
+(Ljava/lang/String;)Lcom/amazon/kindle/kindlet/internal/d/c;
+com/amazon/kindle/kindlet/internal/d/c
+com/amazon/kindle/kindlet/internal/portability/net/h
+com/amazon/kindle/kindlet/internal/install/p
+com/amazon/kindle/kindlet/internal/d/d
+com/amazon/kindle/kindlet/internal/a/o

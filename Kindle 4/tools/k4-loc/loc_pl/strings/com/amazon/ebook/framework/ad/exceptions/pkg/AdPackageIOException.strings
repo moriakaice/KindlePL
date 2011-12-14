@@ -1,0 +1,20 @@
+<init>
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/ad/exceptions/pkg/AdPackageIOException;
+Ljava/lang/String;
+SourceFile
+java/lang/StringBuffer
+IOError unzipping ad package: 
+com/amazon/ebook/framework/ad/exceptions/pkg/AdPackageIOException
+com/amazon/ebook/framework/ad/exceptions/pkg/InvalidAdPackageException
+()V
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+toString
+()Ljava/lang/String;
+(Lcom/amazon/ebook/util/log/b;Ljava/lang/String;)V
+a
+Lcom/amazon/ebook/util/log/b;
+gjd

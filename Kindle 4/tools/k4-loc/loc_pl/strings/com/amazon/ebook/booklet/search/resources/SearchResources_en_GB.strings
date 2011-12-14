@@ -1,0 +1,50 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/search/resources/SearchResources_en_GB;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+command.help.pattern
+Supported shortcuts: {0}
+search.entry.bar.font
+command.time.format.pattern
+{0,date,full}~~{0,time,full}~~{0,date,zzz}
+subscribed.note.key.format
+{0}’s Note
+note.key
+Note
+search.internet.url.pattern
+http://www.google.com/search?q={0}
+search.wiki.url.pattern
+http://en.wikipedia.org/wiki?search={0}
+search.virtual.keyboard.y.offset
+java/lang/Integer
+search.menu.change.font.size.label
+Change Font Size
+search.menu.change.screen.orientation.label
+Screen Rotation
+search.menu.initial.focus.index
+search.entry.bar.text.x.offset
+search.entry.bar.text.y.offset
+search.result.note.entry.format
+Note: {0}
+search.result.subscribed.note.entry.format
+Note ({1}): {0}
+com/amazon/ebook/booklet/search/resources/SearchResources_en_GB
+java/util/ListResourceBundle
+getInstance
+(IZ)Ljava/awt/Font;
+(I)V
+f
+a
+gnd
+dwb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/font/h

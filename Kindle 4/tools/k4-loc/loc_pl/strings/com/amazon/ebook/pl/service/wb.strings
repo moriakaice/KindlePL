@@ -1,0 +1,52 @@
+Ljava/lang/String;
+ConstantValue
+SourceFile
+java/lang/Object
+cover
+title
+author
+narrator
+provider
+publication date
+publication date parsed
+description
+chapters offset
+chapter count
+playback position
+total time sec
+audio format
+is format supported
+artist
+album
+comment
+genre
+year
+bitrate
+sample rate
+channel
+track number
+f
+K
+l
+L
+I
+m
+a
+J
+F
+e
+g
+k
+h
+j
+D
+b
+M
+A
+c
+C
+B
+d
+G
+com/amazon/ebook/pl/service/wb
+ek

@@ -1,0 +1,91 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/AdListResources_fr;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+adList.header.text
+Offres spéciales et parrains
+adList.header.pending.transactions.text
+Commandes en cours
+adList.wireless.notice.text
+(le choix d’un élément active le réseau sans fil)
+adList.bottom.margin
+java/lang/Integer
+adList.wireless.notice.font
+adList.filter.format
+java/text/ChoiceFormat
+0#Affichage de {0,number,integer} élément|1#Affichage de {0,number,integer} élément|2#Affichage des {0,number,integer} éléments
+adList.pause.sound
+, 
+adList.view.sound
+Offres spéciales et parrains, le choix d’un élément active le réseau sans fil
+adList.additem.sound
+Afficher page de détails
+adList.item.position.sound.template
+élément {0,number,integer} sur {1,number,integer}
+adList.row.height
+adList.icon.left.margin
+adList.icon.top.margin
+adList.headline.left.margin
+adList.headline.top.margin
+adList.headline.right.margin
+adList.headline.row.height
+adList.subheadline.left.margin
+adList.subheadline.top.margin
+adList.subheadline.row.height
+adList.thumbnail.dimension.max
+java/awt/Dimension
+adList.headline.underline.dotspacing.x
+adList.headline.font
+adList.subheadline.font
+adList.widget.pending.transactions.headline
+Commandes en cours : il faut vous connecter à Amazon pour finir votre achat.
+adList.widget.pending.transactions.subheadline
+Cliquez pour voir vos commandes en cours.
+adList.widget.click.to.connect.headline
+Cliquez pour vous connecter à Amazon et valider les commandes ci-dessous.
+adList.widget.click.to.connect.subheadline
+(Active le réseau sans fil)
+adList.widget.no.pending.transactions.headline
+Toutes les commandes ont été envoyées
+adList.widget.no.pending.transactions.subheadline
+Cliquez pour afficher les offres spéciales.
+adList.overlay.unable.to.connect.title
+Impossible de se connecter
+adList.overlay.unable.to.connect.body
+Nous sommes dans l’incapacité de valider votre commande pour le moment. Veuillez essayer à nouveau ultérieurement.
+adList.item.screen.cursor.x
+adList.item.screen.cursor.height
+adList.item.cursor.spacing
+adList.item.line.width.margin
+adList.item.line.top.margin
+text.color
+divider.color
+highlight.color
+clear.color
+com/amazon/ebook/booklet/home/foundation/resources/AdListResources_fr
+java/util/ListResourceBundle
+(I)V
+getInstance
+(IZZ)Ljava/awt/Font;
+(Ljava/lang/String;)V
+(II)V
+Ljava/awt/Color;
+f
+a
+ufg
+C
+h
+I
+Kwb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/gui/c
+com/amazon/ebook/framework/font/h

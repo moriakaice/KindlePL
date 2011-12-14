@@ -1,0 +1,17 @@
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+(Ljava/lang/String;)[Ljava/awt/Font;
+Ljava/lang/String;
+(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+SourceFile
+java/lang/Object
+BC
+a
+Lcom/amazon/ebook/framework/font/v;
+PC
+com/amazon/ebook/framework/font/v
+phd
+com/amazon/ebook/pl/service/m

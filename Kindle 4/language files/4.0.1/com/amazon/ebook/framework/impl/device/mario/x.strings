@@ -1,0 +1,234 @@
+Ljava/util/List;
+I
+ConstantValue
+Ljava/lang/String;
+[I
+[Ljava/lang/String;
+<init>
+Code
+LineNumberTable
+LocalVariableTable
+()V
+Lcom/amazon/ebook/framework/service/media/event/AudioException;
+()Z
+pause
+e
+(Ljava/lang/String;ZZ)I
+sb
+Ljava/lang/StringBuffer;
+Ljava/io/OutputStreamWriter;
+Ljava/io/BufferedWriter;
+[C
+Ljava/io/IOException;
+Z
+play
+Exceptions
+(I)V
+Ljava/lang/Exception;
+()I
+(Ljava/lang/String;)[Ljava/lang/String;
+()Ljava/lang/String;
+(Ljava/lang/String;)V
+initialize
+Lcom/amazon/ebook/framework/service/media/event/TTSException;
+shutdown
+(I)Ljava/lang/String;
+C
+(Z)V
+Ljava/util/Iterator;
+onBookmark
+onBufferLow
+Synthetic
+<clinit>
+SourceFile
+java/util/ArrayList
+com/amazon/ebook/framework/service/media/event/AudioException
+abort - Exception when stopping audio.
+Error trace:
+pause - Exception when pausing audio
+resume - Exception when resuming audio
+java/lang/StringBuffer
+------TTSManagerImpl.speak[
+]:
+java/io/OutputStreamWriter
+java/io/FileOutputStream
+/var/tmp/ttsUSFifo
+UTF-8
+java/io/BufferedWriter
+speak - wrote to 
+ using 
+ encoding.
+java/io/IOException
+speak - IOException when writing to FIFO
+speak - Exception when trying to play audio
+speak - wrote characters.
+java/lang/Exception
+com/amazon/ebook/framework/service/media/event/TTSException
+TTSManagerImpl fails to addBookmarkCrossingEvent
+en-us
+TTSManagerImpl.setSpeechRate: new rate = 
+TTS_SPEECH_RATE
+TTSManagerImpl.setSpeechRate: Could not set speech rate
+TTSManager.setVoice: TTS support not available
+TTSManager.setVoice: TTS subsystem not ready for use yet
+TTSManager.setVoice: Invalid voiceId
+TTSManagerImpl.setVoice: new voice = 
+TTS_VOICE
+TTSManager.setVoice: Could not set voice
+tts:///var/tmp/ttsUSFifo
+init - Exception when starting audio
+initTTSDaemon - Exception when setting voice
+initTTSDaemon - Exception when setting speech rate
+\Mrk=
+\
+TTSManager.getTextToProcessBytes failed.
+
+InnerClasses
+TTSManagerImpl
+Speak
+java/lang/Object
+java/util/Collections
+synchronizedList
+(Ljava/util/List;)Ljava/util/List;
+stop
+java/util/List
+add
+(Ljava/lang/Object;)Z
+size
+remove
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+java/lang/String
+length
+(I)Ljava/lang/StringBuffer;
+toString
+(Ljava/io/OutputStream;Ljava/lang/String;)V
+(Ljava/io/Writer;)V
+toCharArray
+()[C
+write
+flush
+getEncoding
+close
+(Ljava/lang/String;Ljava/lang/Throwable;)V
+equals
+java/lang/Integer
+setProperty
+(Ljava/lang/String;Ljava/lang/String;)V
+com/amazon/ebook/framework/impl/Framework
+(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+(Ljava/lang/String;I)I
+java/awt/EventQueue
+invokeLater
+(Ljava/lang/Runnable;)V
+iterator
+()Ljava/util/Iterator;
+java/util/Iterator
+hasNext
+next
+()Ljava/lang/Object;
+getInstance
+(Ljava/lang/String;[Ljava/lang/String;)V
+m
+a
+Lcom/amazon/ebook/framework/service/media/v;
+J
+Lcom/amazon/ebook/pl/service/e;
+F
+Lcom/amazon/ebook/pl/h;
+g
+k
+h
+j
+D
+b
+M
+A
+c
+B
+Lcom/amazon/ebook/util/log/w;
+d
+Lcom/amazon/ebook/util/log/b;
+G
+Ovb
+(Lcom/amazon/ebook/framework/impl/device/mario/x;)Ljava/util/List;
+Lcom/amazon/ebook/framework/impl/device/mario/x;
+Qf
+lF
+we
+DF
+EG
+Be
+XF
+Uf
+Tg
+NF
+Sf
+ZE
+fj
+Ci
+JH
+Ywb
+Lcom/amazon/ebook/util/file/p;
+ib
+ij
+XC
+Lj
+oG
+pC
+AI
+tc
+Zj
+BI
+(Lcom/amazon/ebook/framework/service/media/event/c;)V
+Lcom/amazon/ebook/framework/service/media/event/c;
+xi
+Tj
+(Lcom/amazon/ebook/pl/h;Lcom/amazon/ebook/framework/service/media/v;)V
+com/amazon/ebook/framework/impl/device/mario/x
+gfd
+com/amazon/ebook/framework/service/media/d
+com/amazon/ebook/framework/service/media/event/d
+com/amazon/ebook/pl/service/event/p
+(Ljava/lang/String;)Lcom/amazon/ebook/util/log/b;
+(Lcom/amazon/ebook/framework/impl/device/mario/x;I)V
+(Lcom/amazon/ebook/framework/impl/device/mario/x;)V
+Fc
+nH
+cI
+(Lcom/amazon/ebook/framework/service/media/event/d;)V
+FKb
+nMA
+ycB
+()Lcom/amazon/ebook/util/file/p;
+yd
+Bj
+pd
+T
+eYA
+NJb
+(Lcom/amazon/ebook/util/log/w;[Ljava/lang/String;Ljava/lang/String;)V
+Ulb
+(ILcom/amazon/ebook/util/log/w;[Ljava/lang/String;Ljava/lang/String;Ljava/lang/Throwable;)V
+clb
+yLb
+U
+Eb
+(Lcom/amazon/ebook/pl/service/event/p;)V
+qb
+()Lcom/amazon/ebook/pl/service/e;
+com/amazon/ebook/util/file/p
+com/amazon/ebook/framework/impl/o
+com/amazon/ebook/util/log/b
+com/amazon/ebook/framework/service/media/v
+com/amazon/ebook/pl/service/e
+com/amazon/ebook/pl/h
+com/amazon/ebook/util/log/w
+com/amazon/ebook/framework/impl/device/mario/p
+com/amazon/ebook/framework/impl/device/mario/b
+com/amazon/ebook/framework/impl/device/mario/o
+com/amazon/ebook/framework/service/media/event/c
+com/amazon/ebook/framework/impl/device/mario/y
+com/amazon/ebook/framework/impl/device/mario/u
+com/amazon/ebook/framework/impl/device/mario/w
+com/amazon/ebook/framework/impl/device/mario/e

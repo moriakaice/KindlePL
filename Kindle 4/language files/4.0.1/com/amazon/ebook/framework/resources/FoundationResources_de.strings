@@ -1,0 +1,34 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/resources/FoundationResources_de;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+alert.repeat.occurs.pattern
+0# |2#  (tritt noch {0,number,integer} Mal auf...)
+text.area.remains.string
+...
+ellipses
+page.information.pattern
+{0,number,integer} von {1,number,integer}
+widget.foreground.color
+widget.background.color
+outline.selectable.drawing.thickness
+java/lang/Integer
+com/amazon/ebook/framework/resources/FoundationResources_de
+java/util/ListResourceBundle
+java/awt/Color
+black
+Ljava/awt/Color;
+white
+(I)V
+f
+a
+jlc

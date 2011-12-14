@@ -1,0 +1,221 @@
+Ljava/lang/String;
+ConstantValue
+I
+Ljava/text/DateFormat;
+<init>
+Code
+LineNumberTable
+LocalVariableTable
+Ljava/io/IOException;
+Exceptions
+(Ljava/io/File;)V
+Ljava/io/File;
+()Ljava/io/File;
+Z
+Ljava/lang/IllegalArgumentException;
+e
+Lcom/amazon/kindle/kindlet/internal/developer/install/DeveloperCertificateBundleException;
+Lcom/amazon/kindle/kindlet/internal/security/KindletDRMException;
+Ljava/net/URISyntaxException;
+(Ljava/io/File;)Ljava/net/URI;
+()Ljava/util/Date;
+(Ljava/io/File;Ljava/lang/String;)V
+i
+[B
+f
+Ljava/io/BufferedInputStream;
+Ljava/io/FileOutputStream;
+(Ljava/io/File;)Z
+()Ljava/lang/String;
+Lcom/amazon/kindle/kindlet/internal/developer/install/DeveloperCertificateUnregisteredDeviceException;
+<clinit>
+()V
+SourceFile
+DeveloperCertificateInstaller
+java/lang/IllegalArgumentException
+Device booklet context or device storage system is null.
+Kindlet Certificate Manager cannot be null.
+java/io/IOException
+DeveloperCertificateInstallerFail
+Cannot instantiate a DeveloperCertificateVersionManager.
+installAndPublishFail
+No target keystore file defined for developer keystore or DeveloperCertificateVersion Manager not initialized.
+java/lang/StringBuffer
+Read only developer keystore file:
+java/io/File
+-
+java/util/Date
+installAndPublishInfo
+Response Code after installing  KCRT: 
+Updating developer keystore certificate values
+Deleting the developer certificate bundle 
+Could not publish results to the user for the installation. Restoring back the developer keystore
+Unable to delete the staging file for the to-be installed developer.keystore
+getTargetKeyStoreFileFail
+Cannot create target developer keystore parent directory: 
+Cannot delete the keystore file which happens to be a directory= 
+com/amazon/kindle/kindlet/internal/developer/install/DeveloperCertificateBundleException
+com/amazon/kindle/kindlet/internal/security/KindletDRMException
+publishResultInfo
+Added result file for KCRT installation to documents volume as 
+java/net/URISyntaxException
+publishResultFail
+Error in constructing a device-searchable URI for 
+. URISyntaxException: 
+
+java/io/BufferedInputStream
+CertificateInstallTemplate.azw
+Failed reading entire template header; read 
+ but expected 
+Failed reading entire template header; skipped 
+java/io/FileOutputStream
+com/amazon/kindle/kindlet/internal/developer/install/DeveloperCertificateUnregisteredDeviceException
+Unable to obtain unique customer id. Device is unregistered.
+Device is deregistered. Clearing developer keystore.
+onRegistrationInfoChangedFail
+Upon deregistration, version was not updated, as VersionManager is not initialized.
+Upon deregistration, developer.keystore file deleted successfully: 
+Cannot delete target keystore file upon deregistration event: 
+Cannot publish delete target keystore file upon deregistration event: 
+No developer keystore exists that needs to be cleaned upon deregistration event.
+java/text/SimpleDateFormat
+yyyyMMdd_hh_mm_ss_zzz
+success
+success.update
+success.empty.certificate
+invalid.certificate
+invalid.drm.certificate
+expired.certificate
+stale.certificate
+generic.error
+unrecoverable.error
+unregister.device
+uninitializedDeveloperCertificateVersionManager
+cleanupDeveloperKeystoreOnDeviceDeregistration
+failedToCleanDeveloperKeystoreOnDeviceDeregistration
+java/lang/Object
+(Ljava/lang/String;)V
+(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Throwable;)V
+exists
+()Z
+(Ljava/lang/String;Ljava/lang/String;)V
+canWrite
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(Ljava/lang/Object;)Ljava/lang/StringBuffer;
+toString
+getParentFile
+getName
+java/text/DateFormat
+format
+(Ljava/util/Date;)Ljava/lang/String;
+renameTo
+delete
+isDirectory
+(Ljava/io/File;Z)Z
+getNonChecksumedPIDForDevice
+()Ljava/io/InputStream;
+(Ljava/io/InputStream;Ljava/io/File;)Z
+()I
+(Ljava/lang/String;I)Z
+(Ljava/net/URI;Z)V
+getMessage
+getCanonicalPath
+(Ljava/lang/String;)Ljava/net/URI;
+getClass
+()Ljava/lang/Class;
+java/lang/Class
+getResourceAsStream
+(Ljava/lang/String;)Ljava/io/InputStream;
+(Ljava/io/InputStream;)V
+java/lang/String
+getBytes
+()[B
+read
+([B)I
+(I)Ljava/lang/StringBuffer;
+skip
+(J)J
+write
+([B)V
+(I)V
+([BII)V
+(Ljava/io/OutputStream;)V
+(Ljava/lang/String;Ljava/lang/Throwable;)V
+RegistrationInfoEventType
+InnerClasses
+(Ljava/lang/String;)I
+a
+A
+Lcom/amazon/kindle/kindlet/internal/b/d;
+b
+B
+c
+Lcom/amazon/kindle/kindlet/internal/b/b;
+C
+Lcom/amazon/kindle/kindlet/internal/d/d;
+d
+Lcom/amazon/kindle/kindlet/internal/developer/install/f;
+D
+E
+F
+g
+G
+h
+H
+j
+J
+k
+K
+Lcom/amazon/kindle/kindlet/internal/developer/install/a;
+l
+Lcom/amazon/kindle/kindlet/internal/security/a;
+L
+Lcom/amazon/ebook/framework/b/a;
+(Lcom/amazon/ebook/framework/device/comm/ws/e;)V
+Lcom/amazon/kindle/kindlet/internal/developer/install/b;
+Lcom/amazon/ebook/framework/device/comm/ws/e;
+(Lcom/amazon/kindle/kindlet/internal/developer/install/f;)V
+Lcom/amazon/kindle/kindlet/internal/developer/install/e;
+(Ljava/io/File;Ljava/io/File;Lcom/amazon/kindle/kindlet/internal/developer/install/a;)Lcom/amazon/kindle/kindlet/internal/developer/install/f;
+Lcom/amazon/kindle/kindlet/internal/developer/install/c;
+()Lcom/amazon/kindle/kindlet/internal/developer/install/a;
+(Lcom/amazon/ebook/framework/b/a;Lcom/amazon/kindle/kindlet/internal/security/a;)V
+com/amazon/kindle/kindlet/internal/developer/install/b
+zlb
+com/amazon/ebook/framework/device/comm/ws/a
+Lcom/amazon/ebook/framework/device/comm/ws/j;
+()Lcom/amazon/ebook/framework/device/comm/ws/j;
+(Lcom/amazon/ebook/framework/service/a;Ljava/lang/String;)Ljava/io/File;
+()Lcom/amazon/ebook/framework/kos/content/catalog/n;
+(Lcom/amazon/ebook/framework/b/a;Lcom/amazon/kindle/kindlet/internal/developer/install/f;Ljava/util/Date;)V
+()Lcom/amazon/kindle/kindlet/internal/developer/install/f;
+(Lcom/amazon/kindle/kindlet/internal/developer/install/d;)V
+()Lcom/amazon/kindle/kindlet/internal/developer/install/d;
+(Ljava/io/File;Ljava/lang/String;Lcom/amazon/kindle/kindlet/internal/security/a;Lcom/amazon/kindle/kindlet/internal/developer/install/a;)V
+()Lcom/amazon/ebook/framework/service/b;
+(Lcom/amazon/ebook/framework/service/a;)Ljava/lang/String;
+()Lcom/amazon/kindle/kindlet/internal/o;
+(Lcom/amazon/ebook/framework/b/a;)V
+(Lcom/amazon/kindle/kindlet/internal/b/a;)V
+()Lcom/amazon/ebook/framework/service/a;
+(Ljava/lang/String;)Lcom/amazon/kindle/kindlet/internal/b/b;
+(Ljava/lang/String;)Lcom/amazon/kindle/kindlet/internal/d/d;
+com/amazon/ebook/framework/device/comm/ws/j
+com/amazon/ebook/framework/device/comm/ws/e
+com/amazon/ebook/util/f/c
+com/amazon/ebook/framework/kos/content/catalog/n
+com/amazon/ebook/framework/service/b
+com/amazon/kindle/kindlet/internal/util/k
+com/amazon/kindle/kindlet/internal/o
+com/amazon/kindle/kindlet/internal/security/a
+com/amazon/kindle/kindlet/internal/b/b
+com/amazon/kindle/kindlet/internal/d/d
+com/amazon/ebook/framework/b/a
+com/amazon/kindle/kindlet/internal/b/f
+com/amazon/kindle/kindlet/internal/d/b
+com/amazon/kindle/kindlet/internal/b/d
+com/amazon/kindle/kindlet/internal/developer/install/f
+com/amazon/kindle/kindlet/internal/developer/install/e
+com/amazon/kindle/kindlet/internal/developer/install/c
+com/amazon/kindle/kindlet/internal/developer/install/a

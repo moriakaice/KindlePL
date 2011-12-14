@@ -1,0 +1,24 @@
+m_errorCode
+I
+<init>
+(Ljava/lang/String;I)V
+Code
+(Ljava/lang/String;)V
+()V
+getErrorCode
+()I
+getMessage
+()Ljava/lang/String;
+java/lang/StringBuffer
+ [ErrorCode:
+]
+com/amazon/ebook/mobi8sdk/Mobi8SDKException
+java/lang/Exception
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(I)Ljava/lang/StringBuffer;
+toString
+Lcom/amazon/ebook/mobi8sdk/Mobi8SDKException;
+Ljava/lang/String;
+LocalVariableTable
+a

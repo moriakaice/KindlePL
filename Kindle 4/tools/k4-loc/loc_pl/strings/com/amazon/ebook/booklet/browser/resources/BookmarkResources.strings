@@ -1,0 +1,43 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/browser/resources/BookmarkResources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+bookmarks.default.list
+[Ljava/lang/String;
+java/lang/String
+Amazon.com
+http://www.amazon.com
+Wikipedia
+http://en.wikipedia.org
+Google
+http://www.google.com
+Gmail
+http://m.gmail.com
+Yahoo
+http://www.yahoo.com
+Yahoo Mail
+http://m.yahoo.com/mail
+New York Times
+http://www.nytimes.com
+Wall Street Journal
+http://online.wsj.com
+Facebook
+http://touch.facebook.com
+Twitter
+http://mobile.twitter.com
+Internet Movie DB
+http://imdb.com
+com/amazon/ebook/booklet/browser/resources/BookmarkResources
+java/util/ListResourceBundle
+f
+a
+dng

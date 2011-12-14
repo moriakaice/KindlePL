@@ -1,0 +1,16 @@
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lcom/ibm/icu/text/CharsetRecognizer;
+getName
+()Ljava/lang/String;
+getLanguage
+match
+(Lcom/ibm/icu/text/CharsetDetector;)I
+SourceFile
+CharsetRecognizer.java
+com/ibm/icu/text/CharsetRecognizer
+java/lang/Object

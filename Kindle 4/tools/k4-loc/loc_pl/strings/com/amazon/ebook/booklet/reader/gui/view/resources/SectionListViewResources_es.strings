@@ -1,0 +1,38 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/view/resources/SectionListViewResources_es;
+getContents
+()[[Ljava/lang/Object;
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+section.list.view.title
+Lista de secciones
+section.list.header.str1
+ver sección
+section.list.header.str2
+ver artículos
+section.list.article.count.speaking.suffixes
+java/lang/String
+0#artículos|1#artículo|2#artículos
+section.list.article.count.speak.format
+{0} {1}
+section.list.article.count.format
+({0})
+section.name.left.margin.fraction
+java/lang/Double
+toc.menu.item.left.margin.fraction
+toc.menu.item.width.fraction
+column.2.cursor.width.fraction
+gap.between.cursors.fraction
+com/amazon/ebook/booklet/reader/gui/view/resources/SectionListViewResources_es
+java/util/ListResourceBundle
+(Ljava/lang/String;)V
+(D)V
+f
+a
+lne

@@ -1,0 +1,29 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/overlay/gotolocation/resources/GoToInputFeatureResources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+icon.label.cover
+cover	okładka
+icon.label.toc
+table of contents	spis treści
+icon.label.beginning
+beginning	początek
+icon.label.book.info
+book info	opis
+icon.label.location
+location	lokacja
+icon.label.page
+page	strona
+com/amazon/ebook/booklet/reader/gui/overlay/gotolocation/resources/GoToInputFeatureResources
+java/util/ListResourceBundle
+a
+hzc

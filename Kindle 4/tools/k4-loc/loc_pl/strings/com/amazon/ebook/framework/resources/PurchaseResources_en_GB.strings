@@ -1,0 +1,63 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/resources/PurchaseResources_en_GB;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+purchase.general.server.error.title
+Error
+purchase.general.server.error.msg
+Your purchase could not be completed. We are experiencing technical difficulties. Please try again later.
+purchase.general.device.error.title
+purchase.general.device.error.msg
+We are unable to process your request. Please try again later.
+purchase.limit.title
+Purchase Limit Reached
+purchase.limit.msg
+Your purchase could not be completed. You have reached the maximum purchase quantity.
+purchase.expired.offer.title
+Offer Expired
+purchase.expired.offer.msg
+Your purchase could not be completed. This offer has expired
+purchase.offline.default.customer
+customer
+purchase.offline.thankyou.msg
+To complete your AmazonLocal order, connect to a wireless network within the next {0,number,integer} days. We will send a voucher to your Home screen and a notification to your email account once your order has processed. The voucher will contain instructions on how to redeem this deal.
+purchase.offline.thankyou.pendingtext
+You have other pending orders. Click here to view
+purchase.offline.thankyou.canceltext
+Purchased by Accident? Cancel this Order
+purchase.offline.thankyou.headline
+<% customer-name %>, you're almost done.
+purchase.offline.thankyou.subheadline
+Your order will be placed when you connect to wireless.
+purchase.offline.alloffers.text
+View All Special Offers
+purchase.offline.cancelled.headline
+Order Cancelled
+purchase.offline.cancelled.msg
+You have successfully cancelled your order for <% option-title %> from <% merchant-name %>. Your card was not charged.
+purchase.offline.thankyou.template
+<root version="2.0" defaultDiv="offline"><instructions><div name="offline"><text x="40" y="94"><span size="+1"><b><% thankyou-headline %></b></span></text><text x="40" y="120"><span size="-2"><% thankyou-subheadline %></span></text><text x="40" y="170" width="520" height="140" lineSpacing="24"><span size="-2"><% thankyou-msg %></span></text><image x="40" y="340" url="data:image/gif;base64,<% thumb-img %>" /><text x="155" y="356" height="100" width="400" lineSpacing="24"><span size="+1"><b><% deal-title %></b></span><br/><span size="-2"><i><% merchant-name %></i></span></text><text x="95" y="641"><% view-pending-transactions-link %></text><text x="347" y="681"><a href="<% view-special-offers-link %>"><% alloffers-text %></a></text><text x="166" y="721"><a href="<% cancel-link %>"><% cancel-text %></a></text></div></instructions></root>
+purchase.offline.cancel.template
+<root version="2.0" defaultDiv="offline"><instructions><div name="offline"><text x="40" y="94"><span size="+1"><% cancelled-headline %></span></text><text x="40" y="138" width="520" height="200" lineSpacing="24"><span size="-2"><% cancel-msg %></span></text><text x="347" y="665"><a href="<% view-special-offers-link %>"><% alloffers-text %></a></text></div></instructions></root>
+purchase.device.unregistered.title
+Registration Required 
+purchase.device.unregistered.message
+In order to purchase Special Offers, you must first register your Kindle to an Amazon account.
+purchase.device.unregistered.cancel
+cancel
+purchase.device.unregistered.register
+register
+com/amazon/ebook/framework/resources/PurchaseResources_en_GB
+java/util/ListResourceBundle
+f
+a
+omc

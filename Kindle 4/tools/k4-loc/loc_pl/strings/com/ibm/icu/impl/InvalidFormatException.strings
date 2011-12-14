@@ -1,0 +1,17 @@
+serialVersionUID
+J
+ConstantValue
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lcom/ibm/icu/impl/InvalidFormatException;
+(Ljava/lang/String;)V
+message
+Ljava/lang/String;
+SourceFile
+InvalidFormatException.java
+com/ibm/icu/impl/InvalidFormatException
+java/lang/Exception

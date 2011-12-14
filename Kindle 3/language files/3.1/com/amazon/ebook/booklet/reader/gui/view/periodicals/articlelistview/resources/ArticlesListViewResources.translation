@@ -1,0 +1,7 @@
+{0} {0,choice,0#Articles|1#Article|1<Articles}	{0} {0,choice,0#Artykuły|1#Artykuł|1<Artykułów}
+Close Articles List	Zamknij listę artykułów
+View Sections & Articles	Rozdziały i artykuły
+Page {0} of {1}	Strona {0} z {1}
+{0,choice,0#Article|0<Articles} {1} {0,choice,0#|0<- {2} }of {3}	{0,choice,0#Artykuł|0<Artykuły} {1} {0,choice,0#|0<- {2} }z {3}
+Item {0} of {1}	Element {0} z {1}
+Articles List • {0}	Lista artykułów • {0}

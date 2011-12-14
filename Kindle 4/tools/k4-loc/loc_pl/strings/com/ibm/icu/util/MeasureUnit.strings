@@ -1,0 +1,12 @@
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lcom/ibm/icu/util/MeasureUnit;
+Deprecated
+SourceFile
+MeasureUnit.java
+com/ibm/icu/util/MeasureUnit
+java/lang/Object

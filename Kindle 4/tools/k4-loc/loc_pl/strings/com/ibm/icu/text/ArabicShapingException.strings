@@ -1,0 +1,16 @@
+serialVersionUID
+J
+ConstantValue
+<init>
+(Ljava/lang/String;)V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lcom/ibm/icu/text/ArabicShapingException;
+message
+Ljava/lang/String;
+SourceFile
+ArabicShapingException.java
+com/ibm/icu/text/ArabicShapingException
+java/lang/Exception

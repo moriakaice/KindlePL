@@ -1,0 +1,9 @@
+getShort
+(I)S
+SourceFile
+UPropertyAliases.java
+com/ibm/icu/impl/UPropertyAliases$EnumToShort
+EnumToShort
+InnerClasses
+java/lang/Object
+com/ibm/icu/impl/UPropertyAliases

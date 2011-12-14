@@ -1,0 +1,62 @@
+[C
+Ljava/text/DateFormat;
+I
+Ljava/lang/String;
+[B
+<init>
+Code
+LineNumberTable
+LocalVariableTable
+(Ljava/lang/StringBuffer;)V
+Ljava/lang/StringBuffer;
+(Ljava/lang/StringBuffer;[B)V
+B
+<clinit>
+()V
+SourceFile
+java/lang/NullPointerException
+ action="
+ begin="
+ end="
+ pos="
+ timestamp="
+java/util/Date
+ state="
+</
+ />
+java/text/SimpleDateFormat
+yyyy-MM-d'T'HH:mm:ss
+java/lang/Object
+java/lang/StringBuffer
+append
+(C)Ljava/lang/StringBuffer;
+name
+()Ljava/lang/String;
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(I)Ljava/lang/StringBuffer;
+java/text/DateFormat
+format
+(Ljava/util/Date;)Ljava/lang/String;
+(Ljava/lang/StringBuffer;Ljava/lang/String;)V
+(Ljava/lang/String;)V
+f
+K
+l
+L
+m
+Lcom/amazon/ebook/framework/service/d/o;
+a
+Lcom/amazon/ebook/framework/service/d/b;
+J
+F
+FBB
+PAB
+Lcom/amazon/ebook/booklet/reader/journal/p;
+(Lcom/amazon/ebook/framework/service/d/b;Lcom/amazon/ebook/framework/service/d/o;IILjava/lang/String;I[B)V
+com/amazon/ebook/booklet/reader/journal/p
+kxd
+com/amazon/ebook/framework/service/d/c
+UIb
+com/amazon/ebook/booklet/reader/journal/c
+com/amazon/ebook/framework/service/d/o
+com/amazon/ebook/framework/service/d/b

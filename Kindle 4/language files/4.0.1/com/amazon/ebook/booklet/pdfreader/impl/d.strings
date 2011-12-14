@@ -1,0 +1,15 @@
+()[Ljava/awt/Rectangle;
+(I)Ljava/lang/String;
+(Lcom/amazon/ebook/booklet/reader/sdk/Position;Lcom/amazon/ebook/booklet/reader/sdk/Position;)Ljava/lang/String;
+(Lcom/amazon/ebook/booklet/reader/sdk/Position;)Ljava/lang/String;
+SourceFile
+java/lang/Object
+zq
+qP
+xR
+(I)Lcom/amazon/ebook/booklet/reader/sdk/n;
+Eq
+dp
+com/amazon/ebook/booklet/pdfreader/impl/d
+rz
+LocalVariableTable

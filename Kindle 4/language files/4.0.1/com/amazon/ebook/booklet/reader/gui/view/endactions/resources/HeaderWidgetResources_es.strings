@@ -1,0 +1,26 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/view/endactions/resources/HeaderWidgetResources_es;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+text
+Has terminado. Antes de irte…
+font.style
+java/lang/Integer
+steps.away.from.current.font.size
+horizontal.justification
+bottom.margin
+com/amazon/ebook/booklet/reader/gui/view/endactions/resources/HeaderWidgetResources_es
+java/util/ListResourceBundle
+(I)V
+f
+a
+faf

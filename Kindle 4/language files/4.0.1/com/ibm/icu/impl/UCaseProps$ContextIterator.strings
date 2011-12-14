@@ -1,0 +1,11 @@
+reset
+(I)V
+next
+()I
+SourceFile
+UCaseProps.java
+com/ibm/icu/impl/UCaseProps$ContextIterator
+ContextIterator
+InnerClasses
+java/lang/Object
+com/ibm/icu/impl/UCaseProps

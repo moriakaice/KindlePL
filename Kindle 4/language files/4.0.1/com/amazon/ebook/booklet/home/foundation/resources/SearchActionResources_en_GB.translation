@@ -1,0 +1,3 @@
+select  to go to page {0,number,integer}	wybierz , aby przejść do strony {0,number,integrer}
+select  to go to {0} titles	wybierz , by przejść do tytułów {0}
+select  to go to {0} authors	wybierz , by przejść do autorów {0}

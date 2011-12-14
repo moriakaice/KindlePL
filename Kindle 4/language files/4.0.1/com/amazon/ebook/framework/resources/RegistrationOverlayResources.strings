@@ -1,0 +1,90 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/resources/RegistrationOverlayResources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+settings.pause.sound
+, 
+settings.longpause.sound
+.  
+settings.registration.pwd
+Password: 
+settings.registration.email
+E-mail Address: 
+settings.registration.submit
+submit
+settings.registration.forgotPassword
+Forgot your password? Get help at www.kindle.com/support
+settings.registration.createAccount
+create account
+settings.registration.defaultCursor
+Enter E-mail Address
+settings.registration.header
+Amazon Account Information
+settings.registration.leadingBody
+An Amazon account is required to register your Kindle.
+settings.registration.registerTitle
+If you already have an Amazon account:
+settings.registration.registerDescription
+Enter the e-mail address and password associated with your account below. To enter "@" symbol, press the "SYM" key.
+settings.registration.creationTitle
+If you do not have an Amazon account:
+settings.registration.creationDescription
+Click here to create one and register your Kindle
+settings.registration.eulaDescription
+By registering, you agree to the Kindle License Agreement and Terms of Use, found in the Kindle User's Guide.
+settings.registration.draw.color
+settings.registration.failed
+The e-mail address and password you entered do not match any accounts on record. Please try again.
+settings.registration.server.error.text
+There was an error while registering your device. Please try again later.
+settings.registration.height.portrait
+java/lang/Integer
+settings.registration.height.landscape
+settings.registration.height
+settings.registration.height.with.error
+settings.registration.width.landscape
+settings.registration.indent.margin
+settings.registration.left.margin
+settings.registration.right.margin
+settings.registration.creationButton.front.margin
+settings.registration.button.right.margin
+settings.registration.error.y.offset.correction
+settings.registration.button.y.offset.correction
+settings.registration.symbol.y.offset.correction
+settings.registration.y.margin
+settings.registration.textfield.y.offset.correction
+settings.registration.textfield.y.height.correction
+settings.registration.eulabutton.y.offset
+settings.registration.line.spacing
+settings.registration.line.spacing.offset
+settings.registration.line.spacing.between.email.password
+settings.registration.header.font
+settings.registration.title.font
+settings.registration.main.font
+settings.registration.failed.font
+settings.registration.label.font
+settings.registration.field.font
+settings.registration.footer.font
+settings.registration.button.and.footer.spacing
+com/amazon/ebook/framework/resources/RegistrationOverlayResources
+java/util/ListResourceBundle
+Ljava/awt/Color;
+(I)V
+getInstance
+(I)Ljava/awt/Font;
+f
+a
+euc
+Evb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/font/h
+com/amazon/ebook/framework/gui/c

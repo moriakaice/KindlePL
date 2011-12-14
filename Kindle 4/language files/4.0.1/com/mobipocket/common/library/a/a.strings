@@ -1,0 +1,203 @@
+
+InnerClasses
+DownloadableBook
+I
+ConstantValue
+Ljava/io/InputStream;
+[B
+<init>
+Code
+LineNumberTable
+LocalVariableTable
+Ljava/lang/String;
+Ljava/util/Vector;
+Ljava/io/IOException;
+Lcom/mobipocket/common/library/reader/book/ExtraHeaderDataException;
+Z
+()J
+Exceptions
+()[B
+()V
+()I
+SourceFile
+download : ConnectionEvents is null
+the bookOverview given to the download function is not valid
+java/lang/StringBuffer
+download: Downloading infos: 
+XML :
+java/util/Vector
+BookID
+CommerceID
+DrmID
+File
+DownloadLink
+DownloadLink2
+Voucher
+BookTitle
+informations for download are not filled
+No valid URL is contained in the book
+download: Downloading 
+error HTTPConnection failed
+HTTP GET Failed for 
+application/x-mobipocket-ebook
+ContentType is not application/x-mobipocket-ebook for 
+~~but :
+java/io/IOException
+HTTP Connection getInputStream failed 
+Data length is too big (> Integer.MAXVALUE)
+Content-Range
+partial content: 
+error
+HTTP Connection error while retreiving header 
+insert vouchers successfull --> insert Basic extraHeaderDatas
+com/mobipocket/common/library/reader/book/ExtraHeaderDataException
+Error while inserting metadatas, but record is still added
+stream error while closing 
+HTTP Connection error while closing 
+insert vouchers
+HTTP Connection error calling read() 
+PDB without records !!!
+java/lang/Object
+(IZLjava/lang/String;)V
+()Ljava/lang/String;
+java/lang/String
+length
+(ILjava/lang/String;)V
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+toString
+(I)V
+()Z
+(Ljava/lang/String;)V
+equals
+(Ljava/lang/Object;)Z
+size
+addElement
+(Ljava/lang/Object;)V
+elementAt
+(I)Ljava/lang/Object;
+getContentType
+getInputStream
+()Ljava/io/InputStream;
+(ILjava/lang/String;Ljava/lang/Throwable;)V
+getContentLength
+getHeaderField
+(Ljava/lang/String;)Ljava/lang/String;
+indexOf
+(I)I
+substring
+(I)Ljava/lang/String;
+java/lang/Integer
+parseInt
+(Ljava/lang/String;)I
+([B)Ljava/lang/String;
+([B)Z
+close
+(Ljava/lang/String;)Z
+java/io/InputStream
+([B[[B)Z
+([B[B)V
+([B)V
+([BI)I
+skip
+(J)J
+read
+([BII)I
+([B)I
+([BIZ)I
+java/lang/System
+arraycopy
+(Ljava/lang/Object;ILjava/lang/Object;II)V
+f
+K
+l
+L
+m
+a
+J
+Lcom/amazon/a/a/d;
+F
+Lcom/mobipocket/common/b/v;
+e
+aoA
+Lcom/mobipocket/common/library/a/a;
+jMA
+UnA
+WmA
+([B[BLcom/mobipocket/common/library/reader/book/c;)V
+Lcom/mobipocket/common/library/reader/book/c;
+Lcom/mobipocket/common/library/reader/book/x;
+SoA
+([BLcom/mobipocket/common/library/a/j;)V
+Lcom/mobipocket/common/library/a/j;
+rOA
+GoA
+(Lcom/mobipocket/common/library/a/j;Lcom/mobipocket/common/library/a/v;)Ljava/lang/String;
+Lcom/mobipocket/common/library/a/v;
+Lcom/mobipocket/common/b/c;
+UoA
+(Ljava/lang/String;Lcom/mobipocket/common/library/a/v;)Ljava/lang/String;
+LOA
+(Lcom/mobipocket/common/library/a/f;Lcom/mobipocket/common/library/a/v;)[Lcom/mobipocket/common/library/a/j;
+Lcom/mobipocket/common/library/a/f;
+Lcom/mobipocket/common/a/c;
+Lcom/mobipocket/common/a/d;
+[Lcom/mobipocket/common/library/a/j;
+(Lcom/mobipocket/common/b/v;Lcom/amazon/a/a/d;)V
+com/mobipocket/common/library/a/a
+zt
+pdA
+fNA
+IpA
+hgA
+XFA
+(Lcom/mobipocket/common/library/reader/book/c;)V
+AGA
+leA
+ZmA
+(Lcom/mobipocket/common/library/a/j;)[[B
+Cp
+sQ
+RD
+jM
+(Ljava/lang/String;[B)Lcom/mobipocket/common/b/c;
+XO
+IOA
+cb
+FCA
+(Lcom/amazon/a/a/d;Ljava/lang/String;)V
+FDA
+(Lcom/amazon/a/a/d;Ljava/lang/String;)I
+(Lcom/mobipocket/common/library/a/q;)V
+D
+j
+h
+SCA
+pcA
+(Lcom/mobipocket/common/a/p;Z)V
+ZdA
+Ec
+lBA
+(Ljava/lang/String;Lcom/mobipocket/common/a/h;)Ljava/lang/String;
+(Lcom/amazon/a/a/d;)V
+IC
+mBA
+ApA
+RbA
+com/mobipocket/common/library/reader/book/h
+com/mobipocket/common/library/reader/book/v
+com/mobipocket/common/b/c
+com/mobipocket/common/b/v
+com/mobipocket/common/b/w
+com/amazon/a/a/d
+com/mobipocket/common/library/a/v
+com/mobipocket/common/library/a/f
+com/mobipocket/common/d/d
+com/mobipocket/common/library/a/q
+com/mobipocket/common/library/reader/book/x
+com/mobipocket/common/a/b
+com/mobipocket/common/library/a/j
+com/mobipocket/common/library/reader/book/c
+com/mobipocket/common/a/p
+com/mobipocket/common/a/d
+com/mobipocket/common/a/c

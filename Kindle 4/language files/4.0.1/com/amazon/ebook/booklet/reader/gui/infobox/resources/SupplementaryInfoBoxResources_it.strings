@@ -1,0 +1,96 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/infobox/resources/SupplementaryInfoBoxResources_it;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+hint.table.begin.new
+Premere la freccia destra nel {0} per iniziare a scorrere la~~tabella, o premere il centro del {0} per posizionare il cursore~~all’interno della tabella
+java/lang/String
+5way_icon.gif
+hint.table.began.new
+Premete {0} per posizionare il cursore all’interno~~della tabella
+emphasis.font
+font
+clear.footer.color
+bubble.horizontal.margin
+java/lang/Integer
+bubble.vertical.margin
+bubble.vertical.padding
+bubble.divider.height
+bubble.foreground.color
+bubble.background.color
+bubble.border.color
+bubble.top.margin
+bubble.bottom.margin
+bubble.background.width.adjustment
+bubble.background.single.line.height
+bubble.background.multi.line.height.adjustment
+bubble.background.single.line.rounded.corners.arc
+bubble.background.multi.line.rounded.corners.arc
+info.horizontal.margin
+quickdef.line.limit
+annotation.line.limit
+current.annotation.hint.widget.nokeyboard
+Premere {0} per passare a, modificare,     ~~condividere o eliminare la nota
+current.annotation.hint.widget.nokeyboard.no.sharing
+Premere {0} per selezionare, modificare o~~eliminare una nota
+current.annotation.hint.widget.nokeyboard.memory.full
+Premere {0} per selezionare o eliminare una nota
+current.annotation.hint.widget.pcv.nokeyboard
+Premere {0} per modificare, condividere o eliminare la nota
+current.annotation.hint.widget.pcv.nokeyboard.no.sharing
+Premere {0} per modificare o eliminare una nota
+current.annotation.hint.widget.sharing.enabled
+{0} elimina   {1} condividi   {2} modifica
+Home_Icon_Delete.gif
+Home_Icon_AltReturn.gif
+Home_Icon_ReturnArrow.gif
+current.annotation.hint.widget.sharing.disabled
+{0} elimina   {1} modifica
+current.annotation.hint.widget.readonly
+{0} elimina
+subscribed.highlights.hint.widget.nokeyboard
+Premere {0} per selezionare un’evidenziazione
+subscribed.notes.hint.widget.nokeyboard
+Premere {0} per selezionare o visualizzare una nota
+subscribed.notes.book.hint.nokeyboard
+Premere {0} per vedere la nota
+subscribed.notes.hint.widget
+{0} visualizza altri
+subscribed.notes.single.format
+java/text/MessageFormat
+{0}: {1}
+subscribed.notes.multiple.format
+Note da {0}.
+definition.more.hint
+altro {0}
+emphasize.first.word.only
+table_bound_y_adjustment
+textarea.line.justification
+extended.info.textarea.line.justification
+com/amazon/ebook/booklet/reader/gui/infobox/resources/SupplementaryInfoBoxResources_it
+java/util/ListResourceBundle
+(Ljava/lang/String;[Ljava/lang/String;I)V
+getInstance
+(IZ)Ljava/awt/Font;
+java/awt/Color
+WHITE
+Ljava/awt/Color;
+(I)V
+BLACK
+(Ljava/lang/String;)V
+f
+a
+yif
+dwb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/font/h
+com/amazon/ebook/booklet/reader/gui/infobox/y

@@ -1,0 +1,31 @@
+I
+[B
+Ljava/lang/String;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+toString
+()Ljava/lang/String;
+Ljava/lang/StringBuffer;
+SourceFile
+java/lang/StringBuffer
+begin: 
+ end: 
+ pos: 
+ hasState: 
+ user_text: 
+java/lang/Object
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(I)Ljava/lang/StringBuffer;
+(Z)Ljava/lang/StringBuffer;
+f
+K
+l
+L
+a
+Lcom/amazon/ebook/booklet/reader/sdk/jb;
+com/amazon/ebook/booklet/reader/sdk/jb
+js

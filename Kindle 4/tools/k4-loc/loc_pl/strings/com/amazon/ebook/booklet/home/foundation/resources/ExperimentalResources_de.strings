@@ -1,0 +1,106 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/ExperimentalResources_de;
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+exp.label
+Experimentell
+exp.text
+We are working on these experimental prototypes. Do you find them useful? Should we continue working on them? We would love to hear what you think, so please send your comments to {0}
+exp.text.message.format
+java/text/MessageFormat
+Wir arbeiten an folgenden experimentellen Prototypen. Finden Sie sie hilfreich? Sollen wir sie weiterentwickeln? Wir würden gerne Ihre Meinung erfahren. Teilen Sie sie uns bitte unter www.kindle.com/support mit.
+exp.font
+exp.text.x
+java/lang/Integer
+exp.text.margin
+exp.text.spacing
+exp.text.offset
+exp.widget.label.font
+exp.widget.desc.font
+exp.widget.link.font
+exp.widget.desc.y
+exp.widget.desc.spacing
+exp.widget.base.buffer
+exp.widget.left.margin
+exp.widget.right.margin
+exp.widget.offset
+exp.link.line.offset
+feedback.email
+kindle-feedback@amazon.com
+exp.cursor.disabled.color
+bw.widget.label
+Webbrowser
+bw.widget.cursor.label
+Browser starten
+bw.widget.desc
+Select this item to launch Web Browser and browse, choose a bookmark, or enter a URL.
+bw.widget.desc.pattern
+Wir arbeiten an einem experimentellen Webbrowser. Finden Sie ihn hilfreich? Sollten wir die Arbeit daran fortsetzen? Wir würden gerne Ihre Meinung erfahren. Teilen Sie sie uns bitte unter www.kindle.com/support mit.
+mp3.widget.label
+MP3-Wiedergabe
+mp3.widget.cursor.label.play
+Musik-Wiedergabe
+mp3.widget.cursor.label.pause
+Pause
+mp3.widget.desc
+Wählen Sie dieses Element aus, um beim Lesen Musik oder Podcasts wiederzugeben. Halten Sie die Taste „ALT“ gedrückt und wählen Sie zum Anhalten/Wiedergeben die Leertaste oder zum Springen zum nächsten Titel die Taste „F“. Wenn Sie diese Funktion verwenden möchten, kopieren Sie MP3-Dateien von Ihrem Computer in den Musikordner Ihres Kindle.
+mp3.not.found.alert.text
+Keine MP3-Dateien gefunden~~~~Zum Wiedergeben von MP3-Dateien müssen Sie diese zuerst von Ihrem Computer in den „music“-Ordner Ihres Kindle kopieren.
+t2s.widget.label
+Text-to-Speech
+t2s.widget.cursor.label
+
+t2s.widget.desc
+Starten Sie Text-to-Speech im Menü „Text“, während Sie lesen. Ihr Kindle beginnt dann, Ihnen vorzulesen (sofern vom Rechteinhaber gestattet). Halten Sie die Umschalttaste gedrückt und drücken Sie „SYM“, um die Wiedergabe zu starten oder anzuhalten.
+exp.view.sound
+Experimentelle Funktionen
+exp.pause.sound
+, 
+exp.menu.initial.focus
+exp.widget.height.default
+exp.widget.cursor.height
+exp.widget.cursor.draw.color
+exp.widget.cursor.erase.color
+experimental.list.item.prompt.format
+{0}, {1}
+kindledx-feedback@amazon.com
+kindle-feedback@amazon.com or kindle-feedback@amazon.co.uk
+com/amazon/ebook/booklet/home/foundation/resources/ExperimentalResources_de
+com/amazon/ebook/framework/device/util/DeviceResourceBundle
+(Ljava/lang/String;)V
+getInstance
+(IZZ)Ljava/awt/Font;
+(I)V
+Ljava/awt/Color;
+f
+K
+l
+L
+I
+m
+a
+J
+F
+e
+GMb
+ANb
+inb
+aMb
+Dnb
+vOb
+TMb
+cob
+EMb
+kbg
+Kwb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/gui/c
+com/amazon/ebook/framework/font/h

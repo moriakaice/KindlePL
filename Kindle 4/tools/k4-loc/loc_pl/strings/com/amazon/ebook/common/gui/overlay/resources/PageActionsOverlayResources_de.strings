@@ -1,0 +1,140 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/common/gui/overlay/resources/PageActionsOverlayResources_de;
+getContents
+()[[Ljava/lang/Object;
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+font.size.menu.justification
+java/lang/Integer
+tts.onoff
+Text-to-Speech
+tts.onoff.on
+Einschalten
+tts.onoff.off
+Ausschalten
+tts.onoff.play
+Wiedergabe
+tts.onoff.pause
+Pause
+tts.speech.rate
+Sprechgeschwindigkeit
+tts.speech.rate.low
+Langsamer
+tts.speech.rate.default
+Standard
+tts.speech.rate.high
+Schneller
+tts.speech.voice
+Sprechstimme
+tts.speech.voice.female
+Weiblich
+tts.speech.voice.male
+Männlich
+font.family
+Schriftart
+font.family.option.1
+Normal
+font.family.option.2
+Schmal
+font.family.option.3
+Sans Serif
+font.family.alt.option.1
+STD
+font.family.alt.option.2
+Sans
+font.family.alt.option.3
+Mono
+font.family.alt.option.4
+Alt
+line.spacing
+Zeilenabstand
+line.spacing.option.1
+Klein
+line.spacing.option.2
+Mittel
+line.spacing.option.3
+Groß
+line.spacing.alt.option.1
+112
+line.spacing.alt.option.2
+125-small
+line.spacing.alt.option.3
+136-med
+line.spacing.alt.option.4
+150-lg
+line.spacing.alt.option.5
+162
+contrast.label
+Kontrast
+contrast.option.1
+   -2   
+contrast.option.2
+   -1   
+contrast.option.3
+    0    
+contrast.option.4
+   +1   
+contrast.option.5
+   +2   
+contrast.menu.justification
+word.per.line
+Wörter pro Zeile
+word.per.line.option.1
+Wenig
+word.per.line.option.2
+word.per.line.option.3
+auto.crop.onoff
+Automatisch zuschneiden
+auto.crop.onoff.on
+auto.crop.onoff.off
+auto.crop.onoff.best.effort
+Best Effort
+justification
+Ausrichtung
+justification.left
+Links
+justification.full
+Vollständig
+zoom.level
+Zoom
+zoom.level.option.actual.size
+Original
+zoom.level.option.fit.page
+Ganze Seite
+zoom.level.option.fit.width
+Breite anpassen
+zoom.level.option.fit.screen
+Bildschirmanpassung
+zoom.level.option.2
+150%
+zoom.level.option.3
+200%
+zoom.level.option.4
+300%
+zoom.level.menu.justification
+accessibility.title.spoken
+Page Preferences
+embed.font.label.font
+embed.font.label.title
+Manche Schriften in diesem Buch sind nicht veränderbar
+embed.font.label.color
+com/amazon/ebook/common/gui/overlay/resources/PageActionsOverlayResources_de
+java/util/ListResourceBundle
+(I)V
+getInstance
+(IZ)Ljava/awt/Font;
+Ljava/awt/Color;
+f
+a
+zmd
+J
+dwb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/gui/c
+com/amazon/ebook/framework/font/h

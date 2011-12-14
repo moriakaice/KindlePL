@@ -1,0 +1,86 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/resources/GlobalMenuItems_en_GB;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+wireless.switch.on
+Turn Wireless On
+wireless.switch.off
+Turn Wireless Off
+store.body
+Shop in Kindle Store
+settings.body
+Settings
+view.special.offers.body
+View Special Offers
+exp.body
+Experimental
+reset.body
+Reset
+factory.reset.body
+Reset to Factory Defaults
+factory.reset.confirm.body
+You are about to reset your Kindle to factory defaults, which will remove all dictionaries and downloaded or transferred content from the device. You will still be able to download archived items. Do you wish to continue?
+shipping.mode.failed.alert
+Error 2 : Dictionaries missing. Cannot enter shipping mode.
+command.line.public.symbol
+@
+command.line.semiprivate.symbol
+;
+command.line.private.symbol
+~
+search.body
+Search
+check.body
+Sync & Check for Items
+home.body
+Home
+sove.for.later.body
+"Save for Later" Items
+lock.rotation
+locked
+unlock.rotation
+unlocked
+rotation.auto
+auto
+rotation.landscape
+landscape
+rotation.portrait
+portrait
+rotation.landscape.imagename
+ScrnRotate_Icon_Landscpe1.gif
+rotation.portrait.imagename
+ScrnRotate_Icon_Portrait1.gif
+rotation.invlandscape.imagename
+ScrnRotate_Icon_Landscpe2.gif
+rotation.invportrait.imagename
+ScrnRotate_Icon_Portrait2.gif
+rotation.landscape.disabled.imagename
+ScrnRotate_Icon_Landscpe1b.gif
+rotation.portrait.disabled.imagename
+ScrnRotate_Icon_Portrait1b.gif
+rotation.invlandscape.disabled.imagename
+ScrnRotate_Icon_Landscpe2b.gif
+rotation.invportrait.disabled.imagename
+ScrnRotate_Icon_Portrait2b.gif
+rotation.landscape.spoken
+rotation.portrait.spoken
+rotation.invlandscape.spoken
+inverted landscape
+rotation.invportrait.spoken
+inverted portrait
+rotation.header
+Screen Rotation
+com/amazon/ebook/framework/resources/GlobalMenuItems_en_GB
+java/util/ListResourceBundle
+f
+a
+xmc

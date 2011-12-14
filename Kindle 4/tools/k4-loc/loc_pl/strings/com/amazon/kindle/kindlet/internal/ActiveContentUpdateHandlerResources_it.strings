@@ -1,0 +1,37 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/kindle/kindlet/internal/ActiveContentUpdateHandlerResources_it;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+kindlet.update.failure.message.transientFailure.pattern
+Aggiornamento dell''elemento non riuscito. Provare ad eseguire nuovamente l''aggiornamento. Se il problema persiste, contattare il servizio di assistenza clienti Kindle all''indirizzo {0}.
+kindlet.update.failure.message.internalError
+L'aggiornamento di questo elemento non è riuscito. Riprovare a eseguire l'aggiornamento. Se il problema persiste, riavviare il Kindle dal Menu in Impostazioni e riprovare.
+kindlet.update.failure.message.invalidRequest.pattern
+kindlet.update.failure.message.serverError.pattern
+kindlet.update.failure.message.insufficientSpace
+L'aggiornamento di questo elemento non è riuscito a causa di spazio di memorizzazione insufficiente sul Kindle. Liberare spazio rimuovendo contenuto da Home page e riprovare a eseguire l'aggiornamento.
+kindlet.update.failure.message.requireWiFiOrSideload
+L'aggiornamento di questo elemento richiede una connessione Wi-Fi. Connettersi a una rete Wi-Fi e riprovare a eseguire l'aggiornamento.
+kindlet.update.failure.message.requireSideload
+Questo elemento non può essere aggiornato senza wireless. Scaricare l'aggiornamento sul computer e trasferirlo al Kindle tramite USB.
+kindlet.update.failure.message.generic.pattern
+kindlet.update.failure.title
+Aggiornamento non riuscito
+kindlet.update.failure.message.pattern
+{0}~~~~Aprire la versione precedente?
+kindlet.updating.home.message
+Aggiornamento in corso...
+com/amazon/kindle/kindlet/internal/ActiveContentUpdateHandlerResources_it
+java/util/ListResourceBundle
+f
+a
+gsb

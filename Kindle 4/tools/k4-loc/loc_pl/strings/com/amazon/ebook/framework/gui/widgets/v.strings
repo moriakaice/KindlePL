@@ -1,0 +1,12 @@
+getColumns
+()I
+getRows
+(I)V
+SourceFile
+java/lang/Object
+Tp
+aR
+(II)Lcom/amazon/ebook/framework/gui/foundation/n;
+com/amazon/ebook/framework/gui/widgets/v
+zm
+LocalVariableTable

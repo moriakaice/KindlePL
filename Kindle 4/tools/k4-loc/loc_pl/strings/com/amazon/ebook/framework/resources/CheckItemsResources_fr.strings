@@ -1,0 +1,28 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/resources/CheckItemsResources_fr;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+progress.checking
+Vérification en cours...
+wm.cant.connect.msg
+Votre Kindle ne peut pas se connecter pour l’instant. Veuillez réessayer ultérieurement.
+item.body
+Synch. et télecharger
+radio.off.body
+Votre radio est éteinte. Impossible de vérifier la présence de nouveaux éléments
+item.date.format
+{0,date}-{0,time}
+com/amazon/ebook/framework/resources/CheckItemsResources_fr
+java/util/ListResourceBundle
+f
+a
+wsc

@@ -1,0 +1,5 @@
+getInstance
+(Ljava/lang/String;)Lcom/amazon/ebook/mobi8sdk/ILogger;
+com/amazon/ebook/mobi8sdk/ILoggerFactory
+java/lang/Object
+LocalVariableTable

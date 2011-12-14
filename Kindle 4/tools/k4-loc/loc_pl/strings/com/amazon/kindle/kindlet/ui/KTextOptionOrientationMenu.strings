@@ -1,0 +1,12 @@
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lcom/amazon/kindle/kindlet/ui/KTextOptionOrientationMenu;
+SourceFile
+com/amazon/kindle/kindlet/ui/KTextOptionOrientationMenu
+java/lang/Object
+com/amazon/kindle/kindlet/ui/KTextOptionMenu
+fdb

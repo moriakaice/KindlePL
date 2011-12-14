@@ -1,0 +1,80 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/SearchResultsResources_fr;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+sr.matchcount.font
+sr.matchcount.left.offset
+java/lang/Integer
+sr.matchcount.left.width
+sr.matchcount.baseline.offset
+sr.matchcount.format
+({0})
+sr.matchcount.message.format
+java/text/MessageFormat
+({0,number,integer})
+sr.notenoughspace.str
+Votre recherche ne peut pas aboutir car la mémoire de votre Kindle est insuffisante. Libérez de l’espace mémoire en supprimant des éléments du répertoire principal.
+sr.notyetindexed.groupingtitle.str.1
+Éléments non encore indexés
+sr.notyetindexed.groupingtitle.str.2
+
+sr.yml.shortcut.prefix
+archiv
+sr.backissues.shortcut.prefix
+back
+sr.header.filter.all.format
+0#Résultats : {0,number,integer} élément|1#Résultats : {0,number,integer} élément|2#Résultats : {0,number,integer} éléments
+sr.header.filter.books.format
+0#Search Results: {0,number,integer} Books|1#Search Results: {0,number,integer} Book|2#Search Results: {0,number,integer} Books
+sr.header.filter.collections.format
+0#Search Results: {0,number,integer} Collections|1#Search Results: {0,number,integer} Collection|2#Search Results: {0,number,integer} Collections
+sr.header.filter.subs.format
+0#Search Results: {0,number,integer} Periodicals|1#Search Results: {0,number,integer} Periodical|2#Search Results: {0,number,integer} Periodicals
+sr.header.filter.pdocs.format
+0#Search Results: {0,number,integer} Personal Docs|1#Search Results: {0,number,integer} Personal Doc|2#Search Results: {0,number,integer} Personal Docs
+sr.results.sound
+0#{0,number,integer} résultat pour la recherche, |1#{0,number,integer} résultat pour la recherche, |1<{0,number,integer} résultats pour la recherche, 
+sr.view.sound
+résultats de la recherche
+sr.pause.sound
+, 
+sr.archiveditems.citem.text.1
+Archives
+sr.archiveditems.citem.text.2
+ 
+sr.backissues.citem.text.1
+Périodiques : Editions antérieures
+sr.backissues.citem.text.2
+sr.search.term.format
+{0} {1}
+sr.search.term.message.format
+sr.search.results.list.item.font.draw.color
+sr.search.results.list.item.sound.pause
+sr.search.results.list.item.sound.space
+sr.search.results.list.item.sound.collection
+collection
+sr.search.results.list.item.sound.group
+0#élément|1#élément|2#éléments
+com/amazon/ebook/booklet/home/foundation/resources/SearchResultsResources_fr
+java/util/ListResourceBundle
+getInstance
+(I)Ljava/awt/Font;
+(I)V
+(Ljava/lang/String;)V
+Ljava/awt/Color;
+f
+a
+ogg
+Evb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/gui/c
+com/amazon/ebook/framework/font/h

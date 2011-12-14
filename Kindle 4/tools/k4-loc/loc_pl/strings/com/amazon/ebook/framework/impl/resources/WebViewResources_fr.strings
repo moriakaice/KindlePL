@@ -1,0 +1,20 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/impl/resources/WebViewResources_fr;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+messages.error.too_many_engine_restarts
+Le navigateur Web ne peut pas afficher cette page Web.
+com/amazon/ebook/framework/impl/resources/WebViewResources_fr
+java/util/ListResourceBundle
+f
+a
+jkc

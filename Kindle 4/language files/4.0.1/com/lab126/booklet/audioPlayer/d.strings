@@ -1,0 +1,140 @@
+Z
+<init>
+Code
+()V
+onStart
+(Ljava/lang/String;)V
+(Z)V
+onPaused
+(I)V
+run
+resumeMusic
+()Z
+pauseMusic
+stopMusic
+skipCurrentSong
+<clinit>
+PlayingTask
+set player state to PLAYING
+set player state to PAUSE
+Start playing background music task...
+java/lang/StringBuffer
+The index of the current song is 
+Playing the background music starting at song 
+ at position 
+Cannot find the index of the current song 
+Playing the background music from the beginning of the list.
+Open song 
+file://
+com/amazon/ebook/framework/service/media/event/AudioException
+Failed to play song 
+java/lang/InterruptedException
+Failed to resume music
+Failed to pauseMusic()
+Failed to stop music
+Cannot skip to the next song because it is playing at the last one of the list
+getBookletContext
+java/lang/Object
+notifyAll
+()I
+()Ljava/util/List;
+java/util/List
+iterator
+()Ljava/util/Iterator;
+()Ljava/io/File;
+java/io/File
+getName
+()Ljava/lang/String;
+size
+get
+(I)Ljava/lang/Object;
+java/lang/String
+equals
+(Ljava/lang/Object;)Z
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(I)Ljava/lang/StringBuffer;
+toString
+java/util/Iterator
+next
+()Ljava/lang/Object;
+hasNext
+getAbsolutePath
+pause
+seek
+play
+(Ljava/lang/String;Ljava/lang/Throwable;)V
+wait
+ProcessingTask
+InnerClasses
+reset
+getCurrentPosition
+stop
+indexOf
+(Ljava/lang/Object;)I
+getInstance
+LocalVariableTable
+Ljava/lang/String;
+I
+f
+Lcom/amazon/ebook/framework/service/media/v;
+K
+Lcom/lab126/booklet/audioPlayer/o;
+l
+Lcom/lab126/booklet/audioPlayer/v;
+L
+m
+a
+Lcom/amazon/ebook/util/log/b;
+toA
+()Lcom/lab126/booklet/audioPlayer/v;
+Lcom/lab126/booklet/audioPlayer/d;
+voA
+oNA
+BNA
+ZMA
+Qf
+lF
+EG
+XF
+we
+Uf
+Tg
+NF
+Be
+DF
+Sf
+ZE
+(Lcom/lab126/booklet/audioPlayer/o;)V
+com/lab126/booklet/audioPlayer/d
+com/amazon/ebook/framework/service/media/event/d
+(Ljava/lang/String;)Lcom/amazon/ebook/util/log/b;
+dQA
+tc
+cI
+(Lcom/amazon/ebook/framework/service/media/event/d;)V
+F
+Lcom/lab126/booklet/audioPlayer/c;
+JYA
+yd
+lQA
+jf
+Bj
+bRA
+XyA
+frA
+YRA
+eYA
+clb
+uPA
+(Lcom/lab126/booklet/audioPlayer/v;)V
+LI
+()Lcom/amazon/ebook/framework/service/media/v;
+()Lcom/amazon/ebook/framework/a/h;
+com/lab126/booklet/audioPlayer/c
+com/amazon/ebook/framework/service/media/v
+com/amazon/ebook/util/log/b
+com/amazon/ebook/framework/a/h
+com/lab126/booklet/audioPlayer/o
+com/amazon/ebook/framework/kos/a/d
+com/lab126/booklet/audioPlayer/v

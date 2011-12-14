@@ -1,0 +1,112 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/oobe/resources/OOBEResources_en_GB;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+setup.draw.color
+setup.clear.color
+setup.gray.color
+setup.header.font
+setup.body.font
+setup.wifi.img
+01_LANGUAGE.png
+setup.registration.img
+02_WiFi.png
+setup.complete.img
+03_REGISTRATION.png
+setup.line.width
+java/lang/Integer
+setup.line.spacing
+setup.line.spacing.offset
+setup.line.left.margin
+setup.button.spacing
+setup.header.spacing
+setup.button.fixed.width
+setup.title
+Set Up Kindle
+setup.wifi.header
+Welcome to Kindle
+setup.wifi.body
+In order to buy books and use most features, you need to connect to a Wi-Fi network and register your Kindle.  You can do this in a few short steps.~~
+setup.wifi.button.connect
+connect to wi-fi
+setup.wifi.button.skip
+set up later
+setup.wifi.skipped.header
+Set up Later
+setup.wifi.skipped.skip.button
+setup.wifi.skipped.body
+You can complete setup later by selecting "Set Up Kindle" from Home.~~Are you sure you want to skip setup?
+setup.wifi.skipped.cancel
+cancel
+setup.wifi.complete.header
+Wi-Fi Connected
+setup.wifi.complete.body
+You have successfully set up your Wi-Fi connection and are now connected to {0}.~~~~ Click "register your kindle" to continue setting up your Kindle.
+setup.wifi.complete.button.next
+register your kindle
+setup.wifi.error.title
+Cannot connect to Amazon
+setup.wifi.error.body
+You can register your device later by selecting "Set Up Kindle" from Home, or through the Settings page.
+setup.complete.header
+Setup Complete
+setup.complete.body
+Congratulations, setup is complete.~~~~Get started by browsing the Kindle Store or learn more about how to use your Kindle by reading the Kindle User's Guide. Press the  button to go to the Home screen and access your Archived Items.
+setup.complete.button.viewguide
+learn more
+setup.complete.button.shop
+shop in kindle store
+setup.complete.already.body
+Setup is complete. You can change your Wi-Fi networks or Registration on the Settings page. To access Settings, press {0}, then {1} and select "Settings".
+setup.complete.already.button
+return to home
+setup.status.welcome
+Welcome
+setup.status.wifi
+Wi-Fi
+setup.status.registration
+Registration
+setup.userguide.error.title
+User Guide is not found
+setup.userguide.error.body
+The Kindle User's Guide could not be opened because it has been removed from your Kindle. To read it, please go to Archived Items to download it.
+setup.userguide.error.button
+go to home
+setup.wifi.off.title
+Wi-Fi connection required
+setup.wifi.off.message
+A Wi-Fi connection is required to complete this task. Connect to a Wi-Fi network or try again later.
+setup.wifi.off.cancel
+close
+setup.wifi.off.connect
+connect
+setup.loading.message
+Now opening Set Up Kindle, please wait...
+setup.loading.margin
+setup.loading.font
+com/amazon/ebook/booklet/oobe/resources/OOBEResources_en_GB
+java/util/ListResourceBundle
+Ljava/awt/Color;
+getInstance
+(IZZ)Ljava/awt/Font;
+(I)Ljava/awt/Font;
+(I)V
+f
+a
+wlf
+Evb
+Kwb
+()Lcom/amazon/ebook/framework/font/h;
+l
+K
+com/amazon/ebook/framework/font/h
+com/amazon/ebook/framework/gui/c

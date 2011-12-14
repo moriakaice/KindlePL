@@ -1,0 +1,52 @@
+Narrator: {0}	Narrator: {0}
+Date: {0}	Data: {0}
+Length: {0}	Długość: {0}
+Unknown	Nieznany
+Go to Last Page Read	Ostat. czytana strona
+Go to First Article	Do pierwszego artykułu
+Go to Beginning	Do początku
+Go to Location...	Do lokacji...
+Go to Page...	Do strony...
+Go to Index	Do indeksu
+Go to Front Page	Do strony tytułowej
+Go to Sections & Articles	Do rozdziałów i artykułów
+Go to Section...	Do rozdziału...
+Book Description	Opis książki
+Search This Book	Przeszukaj książkę
+Search This Document	Przeszukaj dokument
+My Notes & Marks	Moje notatki/zaznaczenia
+Notes & Marks	Notatki/zaznaczenia
+My Bookmarks	Moje zakładki
+Remove from Device	Usuń z urządzenia
+Delete This Book	Usuń tę książkę
+Delete This File	Usuń ten plik
+Delete This Document	Usuń ten dokument
+Buy This Book Now	Kup teraz tę książkę
+Search This Sample	Przeszukaj próbkę
+Delete This Sample	Usuń tę próbkę
+Search This Issue	Przeszukaj wydanie
+Search This Blog	Przeszukaj blog
+Keep This Issue	Zapisz to wydanie
+Do Not Keep This Issue	Nie zapisuj tego wydania
+Delete This Issue	Usuń to wydanie
+Delete This Blog	Usuń tego bloga
+Resume Playing	Wznów odtwarzanie
+Start from Beginning	Odtwórz od początku
+Open	Otwórz
+Description	Opis
+Get Latest Version	Pobierz ostatnie wydanie
+Delete	Usuń
+Support	Pomoc
+Using {0,number,integer} bytes	Wykorzystywane {0,number,integer} bajtów
+Version {0}	Wersja {0}
+Assigned Collections ({0})	Przypisane kolekcje ({0})
+Add to Collection...	Dodaj do kolekcji...
+Delete Item	Usuń element
+Delete Collection	Usuń kolekcję
+This item will be permanently deleted. Would you like to continue?	Ten element zostanie trwale usunięty. Kontynuować?
+This collection will be permanently deleted, but the contents will not be affected and will remain on your Kindle. Would you like to continue?	Kolekcja zostanie usunięta, ale jej zawartość pozostanie na urządzeniu. Kontynuować?
+This item and its settings will be permanently deleted.  Would you like to continue?	Ten element i jego ustawienia zostaną trwale usunięte. Kontynuować?
+0#0 Items|1#1 Item|2#{0,number,integer} Items	0#0 elementów|1#1 element|2#{0,number,integer} elementy
+Open Collection	Otwórz kolekcję
+Add/Remove Items	Dodaj/Usuń elementy
+Rename Collection	Zmień nazwę kolekcji

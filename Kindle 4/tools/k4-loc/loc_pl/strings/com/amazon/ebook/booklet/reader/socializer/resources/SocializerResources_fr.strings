@@ -1,0 +1,119 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/socializer/resources/SocializerResources_fr;
+getContents
+()[[Ljava/lang/Object;
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+share.note.success
+Message partagé
+share.note.processing
+
+share.highlight.success
+share.highlight.processing
+share.finished.reading.status.success
+share.finished.reading.status.processing
+first.time.sharing.title
+Réseaux sociaux non enregistrés
+first.time.sharing.message
+Vous n’êtes enregistré sur aucun réseau social. Sélectionnez « s’enregistrer » ci-dessous pour ouvrir la page Web « Gérer vos réseaux sociaux », qui vous permettra de saisir vos informations de compte. Une fois votre enregistrement terminé, sélectionnez « Continuer à lire » pour revenir à ce passage.
+no.external.accounts.title
+no.external.accounts.message
+Votre Kindle n’est enregistré sur aucun réseau social. Sélectionnez « s’enregistrer » ci-dessous pour ouvrir la page Web « Gérer vos réseaux sociaux », qui vous permettra de saisir vos informations de compte. Une fois votre enregistrement terminé, sélectionnez « Continuer à lire » pour revenir à cet élément.
+authentication.error.title
+Réseaux sociaux non valides
+authentication.error.message
+Un ou plusieurs réseaux sociaux enregistrés sur votre Kindle ne sont pas configurés correctement. Sélectionnez « s’enregistrer » ci-dessous pour ouvrir la page Web « Gérer vos réseaux sociaux », qui vous permettra de saisir vos informations de compte. Une fois vos modifications effectuées, sélectionnez « Continuer à lire » pour revenir à cet élément.
+server.unavailable.title
+Partage non disponible. Veuillez réessayer ultérieurement
+server.unavailable.message
+Le service de partage n’est pas disponible actuellement. Veuillez réessayer ultérieurement.
+sharing.not.supported.title
+Partage non pris en charge
+sharing.not.supported.message
+Ce contenu ne prend pas en charge le partage.
+sharing.limit.reached.title
+Limite maximale d’extraits atteinte
+sharing.limit.reached.message
+Partage impossible. Vous avez atteint la limite maximale d’extraits pour cet élément.
+sharing.pdf.password.protected.title
+Fichier PDF protégé
+sharing.pdf.password.protected.message
+Partage impossible. Ce fichier PDF est protégé par un mot de passe.
+sharing.limit.by.publisher.reached.message.no.publisher.name
+Partage impossible. Vous avez atteint la limite maximale d’extraits définie par l’éditeur pour cet élément.
+sharing.limit.by.publisher.reached.message
+Partage impossible. Vous avez atteint la limite maximale d’extraits définie par l’éditeur pour cet élément, {0}.
+unknown.error.title
+Erreur de communication. Veuillez réessayer ultérieurement
+unknown.error.message
+Le service de partage a détecté une erreur de communication. Veuillez réessayer ultérieurement.
+failure.title
+Échec du partage
+failure.message
+Le service de partage a détecté une erreur irréparable. Partage abandonné.
+empty.note.title
+Message vide
+empty.note.message
+Vous ne pouvez pas partager un message vide ou contenant uniquement des espaces.
+wireless.unavailable.title
+Réseau sans fil non disponible. Veuillez réessayer ultérieurement
+wireless.unavailable.message
+La connectivité sans fil n’est pas disponible actuellement. Veuillez réessayer ultérieurement.
+note.too.long
+java/text/MessageFormat
+{0,choice,1#Votre message est trop long pour être partagé. Supprimez un caractère.|2#Votre message est trop long pour être partagé. Supprimez {0} caractères.}
+browser.return.menu.button.text
+Continuer à lire
+register.button.text
+s’enregistrer
+manage.accounts.button.text
+gérer les comptes
+cancel.button.text
+annuler
+close.button.text
+fermer
+append.to.shortened.string
+...
+note.context.char.size
+java/lang/Integer
+note.context.word.size
+share.button.text
+partager
+social.message.button.width
+social.message.input.line.num
+social.message.title
+Saisissez votre message
+social.message.subtitle.book.type
+Un lien vers le livre sera ajouté à votre message.
+social.message.subtitle.highlight.type
+Un lien vers votre surlignement sera ajouté à votre message.
+social.message.counter.format
+{0,choice,-2#{1} caractères en plus |-1#{1} caractère en plus | 0#{1} caractère restant | 1#{1} caractère restant | 2#{1} caractères restants}
+title.subtitle.content.panel.default.font
+title.subtitle.content.panel.title.subtitle.spacing
+title.subtitle.content.panel.title.text.spacing
+title.subtitle.content.panel.input.bottom.margin
+left.corner.message.feature.panel.left.margin
+left.corner.message.feature.panel.color
+left.corner.message.feature.panel.font
+com/amazon/ebook/booklet/reader/socializer/resources/SocializerResources_fr
+java/util/ListResourceBundle
+(Ljava/lang/String;)V
+(I)V
+getInstance
+(I)Ljava/awt/Font;
+Ljava/awt/Color;
+f
+a
+sae
+l
+Evb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/gui/c
+com/amazon/ebook/framework/font/h

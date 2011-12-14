@@ -1,0 +1,58 @@
+Ljava/lang/String;
+ConstantValue
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+parse
+Ljava/util/Map;
+status
+I
+validFor
+Ljava/lang/Number;
+id
+Ljava/lang/ClassCastException;
+Exceptions
+(Ljava/lang/String;)I
+SourceFile
+java/util/Map
+java/text/ParseException
+File did not contain a JSON object.
+java/lang/String
+java/lang/Number
+Missing required field 'validFor'.
+java/lang/StringBuffer
+Field 'id' is required for status '
+'.
+java/lang/ClassCastException
+Invalid type found in JSON. Please double check format.
+active
+inactive
+unknown
+Could not invalid status string.
+java/lang/Object
+org/json/simple/JSONValue
+(Ljava/lang/String;)Ljava/lang/Object;
+(Ljava/lang/String;I)V
+get
+(Ljava/lang/Object;)Ljava/lang/Object;
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+toString
+()Ljava/lang/String;
+longValue
+()J
+(ILjava/lang/String;J)V
+equals
+(Ljava/lang/Object;)Z
+f
+K
+l
+EWA
+a
+Lcom/amazon/kindle/kindlet/internal/a/o;
+(Ljava/lang/String;)Lcom/amazon/kindle/kindlet/internal/a/y;
+com/amazon/kindle/kindlet/internal/a/o
+olb
+com/amazon/kindle/kindlet/internal/a/y

@@ -1,0 +1,19 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/view/tabularview/resources/AnnotationsListViewResources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+close.label
+Close Notes and Marks
+com/amazon/ebook/booklet/reader/gui/view/tabularview/resources/AnnotationsListViewResources
+java/util/ListResourceBundle
+a
+ruc

@@ -1,0 +1,15 @@
+<init>
+(Ljava/lang/String;)V
+Code
+LineNumberTable
+LocalVariableTable
+Ljava/lang/String;
+SourceFile
+(Ljava/lang/String;[Ljava/lang/String;[Ljava/lang/String;)V
+setLevel
+(I)V
+a
+Lcom/amazon/kindle/kindlet/internal/b/p;
+com/amazon/kindle/kindlet/internal/b/p
+isb
+com/amazon/kindle/kindlet/internal/b/v

@@ -1,0 +1,33 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/plugin/resources/TTSResources_it;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+tts.no.text.msg
+Non c’è altro testo da leggere in questo elemento. Chiusura di Text-to-Speech in corso.
+tts.unknown.error.msg
+Si è verificato un errore imprevisto di Text-to-Speech. Se il problema persiste, riavviare il dispositivo da Impostazioni.
+tts.player.decrease.speech.rate.text
+Più lento
+tts.player.increase.speech.rate.text
+Più veloce
+tts.player.window.offset.from.bottom
+java/lang/Integer
+tts.foreground.color
+com/amazon/ebook/booklet/reader/plugin/resources/TTSResources_it
+java/util/ListResourceBundle
+(I)V
+Ljava/awt/Color;
+f
+a
+izd
+l
+com/amazon/ebook/framework/gui/c

@@ -1,0 +1,10 @@
+isFrozen
+()Z
+freeze
+()Ljava/lang/Object;
+cloneAsThawed
+SourceFile
+Freezable.java
+com/ibm/icu/util/Freezable
+java/lang/Object
+java/lang/Cloneable

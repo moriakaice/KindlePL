@@ -1,0 +1,59 @@
+<init>
+Code
+LineNumberTable
+LocalVariableTable
+Ljava/awt/EventQueue;
+Exceptions
+SourceFile
+java/lang/IllegalArgumentException
+networkManager cannot be null
+networkAdapter cannot be null
+NetworkAccessRequesterFactory
+networkContext cannot be null
+kindletUIStateHelper cannot be null
+kindletEventQueue cannot be null
+frameworkEventQueue cannot be null
+Loading PrepareConnectionNetworkAccessRequester implementation
+Loading EnsureConnectionNetworkAccessRequester implementation
+java/lang/IllegalStateException
+java/lang/StringBuffer
+The device supports a network API Scheme (
+) for 
+which there is no NetworkAccessRequester implementation available.
+java/lang/Object
+()V
+(Ljava/lang/String;)V
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(Ljava/lang/Object;)Ljava/lang/StringBuffer;
+toString
+()Ljava/lang/String;
+f
+Lcom/amazon/kindle/kindlet/internal/portability/net/h;
+K
+Lcom/amazon/kindle/kindlet/internal/net/m;
+l
+Lcom/amazon/kindle/kindlet/internal/d/c;
+xab
+(Lcom/amazon/kindle/kindlet/internal/net/g;Lcom/amazon/kindle/kindlet/internal/w;Ljava/awt/EventQueue;Ljava/awt/EventQueue;)Lcom/amazon/kindle/kindlet/internal/net/l;
+a
+Lcom/amazon/kindle/kindlet/internal/net/z;
+Lcom/amazon/kindle/kindlet/internal/net/g;
+Lcom/amazon/kindle/kindlet/internal/w;
+Lcom/amazon/kindle/kindlet/internal/portability/net/y;
+(Lcom/amazon/kindle/kindlet/internal/net/m;Lcom/amazon/kindle/kindlet/internal/portability/net/h;)V
+com/amazon/kindle/kindlet/internal/net/z
+ttb
+(Lcom/amazon/kindle/kindlet/internal/net/m;Lcom/amazon/kindle/kindlet/internal/portability/net/h;Lcom/amazon/kindle/kindlet/internal/net/g;)V
+(Lcom/amazon/kindle/kindlet/internal/net/m;Lcom/amazon/kindle/kindlet/internal/portability/net/h;Lcom/amazon/kindle/kindlet/internal/net/g;Lcom/amazon/kindle/kindlet/internal/w;Ljava/awt/EventQueue;)V
+eYA
+Oe
+()Lcom/amazon/kindle/kindlet/internal/portability/net/y;
+me
+(Ljava/lang/String;)Lcom/amazon/kindle/kindlet/internal/d/c;
+com/amazon/kindle/kindlet/internal/d/c
+com/amazon/kindle/kindlet/internal/portability/net/y
+com/amazon/kindle/kindlet/internal/portability/net/h
+com/amazon/kindle/kindlet/internal/d/d
+com/amazon/kindle/kindlet/internal/net/jb
+com/amazon/kindle/kindlet/internal/net/r

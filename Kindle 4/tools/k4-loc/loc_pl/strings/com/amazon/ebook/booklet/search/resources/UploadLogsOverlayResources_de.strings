@@ -1,0 +1,60 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/search/resources/UploadLogsOverlayResources_de;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+settings.ul.height.portrait
+java/lang/Integer
+settings.ul.width.portrait
+settings.ul.left.margin
+settings.ul.right.margin
+settings.ul.y.margin
+settings.ul.main.title
+Protokolle hochladen
+settings.ul.main.description
+Laden Sie Protokolle auf den Server hoch, um Probleme zu melden.
+settings.error.communication
+Eine Verbindung ist derzeit nicht möglich. Bitte versuchen Sie es später erneut. Die Fehlerdetails wurden gespeichert und Sie müssen sie nicht erneut in der Nachricht eingeben.
+settings.error.wireless.off
+Wi-Fi ist deaktiviert. Die Fehlerdetails wurden gespeichert und Sie müssen sie nicht erneut eingeben.
+settings.error.cancelled
+Hochladen von Protokoll abgebrochen
+settings.error.unknown
+Unbekannter Ausnahmefehler, Geräteprotokolle können nicht hochgeladen werden. Sie können es erneut versuchen. Die Fehlerdetails wurden gespeichert und Sie müssen sie nicht erneut in der Nachricht eingeben.
+settings.error.title
+Hochladen von Protokollen fehlgeschlagen
+settings.error.overlay.button.retry
+Erneut versuchen
+settings.ul.details.title
+Fehlerdetails
+settings.ul.details.description
+Bitte erwähnen Sie alle Details, die hilfreich sein könnten, z. B. eine Beschreibung des Problems und der Schritte, die zu diesem Problem geführt haben.
+settings.ul.font.main.title
+settings.ul.font.section.title
+settings.ul.font.section.description
+settings.ul.font.section.input
+settings.ul.spacing.title.and.description
+settings.ul.spacing.description.and.input
+settings.ul.spacing.input.and.title
+settings.ul.spacing.type.gap
+settings.ul.margins.right
+settings.ul.margins.left
+com/amazon/ebook/booklet/search/resources/UploadLogsOverlayResources_de
+java/util/ListResourceBundle
+(I)V
+getInstance
+(I)Ljava/awt/Font;
+f
+a
+thd
+Evb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/font/h

@@ -1,0 +1,24 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+settings.footer.bar.date.format
+java/text/SimpleDateFormat
+EEE, MMM d, yyyy
+settings.reg.footer.date.format
+MMM d, yyyy
+com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en
+java/util/ListResourceBundle
+(Ljava/lang/String;)V
+f
+a
+cgg

@@ -1,0 +1,16 @@
+<init>
+Code
+LineNumberTable
+LocalVariableTable
+AutoSyncOverlay
+InnerClasses
+Lcom/amazon/ebook/booklet/reader/gui/SyncPositionOverlay$AutoSyncOverlay;
+Z
+SourceFile
+com/amazon/ebook/booklet/reader/gui/SyncPositionOverlay$AutoSyncOverlay
+com/amazon/ebook/framework/gui/overlays/FeatureDrivenOverlay
+(Lcom/amazon/ebook/framework/gui/overlays/p;ZZ)V
+a
+Lcom/amazon/ebook/framework/gui/overlays/p;
+wad
+com/amazon/ebook/booklet/reader/gui/k

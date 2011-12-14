@@ -1,0 +1,204 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/ViewInfoResources_pt;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+vi.widget.font
+vi.widget.default.width
+java/lang/Integer
+vi.widget.width
+vi.widget.textline.offset
+vi.title.font
+vi.title.collection.font
+vi.title.color
+vi.author.font
+vi.author.collection.font
+vi.author.color
+vi.icon.font
+vi.audio.font
+vi.cursor.height
+vi.x.margin
+vi.y.margin
+vi.x.colbuffer
+vi.title.offset
+vi.title.spacing
+vi.author.offset
+vi.author.masthead.offset
+vi.filename.offset
+vi.masthead.offset
+vi.icon.offset
+vi.audio.offset
+vi.audio.spacing
+vi.narrator.format
+Narrator: {0}
+vi.pubdate.format
+Date: {0}
+vi.length.format
+Length: {0}
+vi.narrator.message.format
+java/text/MessageFormat
+Narrador: {0}
+vi.pubdate.message.format
+Data: {0}
+vi.length.message.format
+Tamanho: {0}
+vi.y.offset
+vi.y.spacing
+vi.y.big.spacing
+vi.cover.x.offset
+vi.cover.y.offset
+vi.cover.x.margin
+vi.cover.y.margin
+vi.cover.max.width
+vi.cover.bottom.margin
+vi.cover.background.color
+vi.cover.buffer
+vi.cover.background.collection.fill.color
+vi.cover.background.collection.line.color
+vi.cover.collection.y.offset
+vi.cover.collection.x.offset
+vi.cover.collection.num.shadows
+vi.unknown.data
+Desconhecido
+vi.goto.lastpage
+Ir para a última página lida
+vi.goto.firstarticle
+Ir para o primeiro artigo
+vi.goto.beginning
+Ir para o início
+vi.goto.location
+Ir para a posição...
+vi.goto.page
+Ir para a página...
+vi.goto.index
+Ir para o índice
+vi.goto.frontpage
+Ir para primeira a página
+vi.goto.section
+Ir para seções e artigos
+vi.bookdesc
+Descrição do livro
+vi.searchbook
+Pesquisar neste livro
+vi.searchdoc
+Pesquisar neste documento
+vi.mynotes
+Notas e marcadores
+vi.mybookmarks
+Meus marcadores
+vi.remove.device
+Remover do dispositivo
+vi.delete.device
+Excluir este livro
+vi.delete.mp3
+Excluir este arquivo
+vi.delete.document
+Excluir este documento
+vi.buy.now
+Comprar este livro agora
+vi.search.sample
+Pesquisar nesta amostra
+vi.delete.sample
+Excluir esta amostra
+vi.search.issue
+Pesquisar nesta edição
+vi.search.blog
+Pesquisar neste blog
+vi.keep.issue
+Manter esta edição
+vi.dont.keep.issue
+Não manter esta edição
+vi.delete.issue
+Excluir esta edição
+vi.delete.blog
+Excluir este blog
+vi.resume.playing
+Reiniciar reprodução
+vi.start.beginning
+Começar do início
+vi.start.application
+Abrir
+vi.description.application
+Descrição
+vi.support.application
+Suporte
+vi.update.application
+Obter a última versão
+vi.delete.application
+Excluir
+vi.diskusage.offset
+vi.diskusage.format
+Usando {0,number,integer} bytes
+vi.diskusage.font
+vi.activecontent.version.format
+Versão {0}
+vi.activecontent.version.offset
+vi.activecontent.version.font
+vi.view.collections.template
+Coleções atribuídas ({0})
+vi.add.collections
+Adicionar à coleção...
+vi.disabled.color
+vi.enabled.color
+vi.delete.dialog.title
+Excluir item
+vi.delete.collection.dialog.title
+Excluir coleção
+vi.delete.dialog.text
+Este item será permanentemente excluído. Deseja continuar?
+vi.delete.dialog.text.collection
+Esta coleção será excluída permanentemente, mas o conteúdo não será afetado e permanecerá no seu Kindle. Deseja continuar?
+vi.delete.dialog.text.kindleapp
+Este item e suas configurações serão excluídos permanentemente. Deseja continuar?
+vi.collection.author.template
+0#0 Itens|1#1 Item|2#{0,number,integer} Itens
+vi.open.collection
+Abrir coleção
+vi.edit.collection
+Adicionar/remover itens
+vi.rename.collection
+Renomear coleção
+vi.delete.collection
+vi.goto.lastpage.sound
+vi.view.sound.template
+exibição de info
+vi.item.color.background
+vi.item.color.foreground
+vi.newspaper.magazine.widget.width
+vi.magazine.widget.width
+vi.newspaper.widget.width
+vi.delete.default.title.text
+
+vi.default.row.height
+vi.icon.receipt
+recibo
+vi.page.num.of.columns
+vi.periodical.type.max.width
+vi.periodical.type.max.height
+com/amazon/ebook/booklet/home/foundation/resources/ViewInfoResources_pt
+java/util/ListResourceBundle
+getInstance
+(IZZ)Ljava/awt/Font;
+(I)V
+Ljava/awt/Color;
+(I)Ljava/awt/Font;
+(Ljava/lang/String;)V
+f
+a
+hxf
+K
+L
+l
+Evb
+Kwb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/gui/c
+com/amazon/ebook/framework/font/h

@@ -1,0 +1,8 @@
+format
+(Lcom/ibm/icu/impl/duration/Period;)Ljava/lang/String;
+withLocale
+(Ljava/lang/String;)Lcom/ibm/icu/impl/duration/PeriodFormatter;
+SourceFile
+PeriodFormatter.java
+com/ibm/icu/impl/duration/PeriodFormatter
+java/lang/Object

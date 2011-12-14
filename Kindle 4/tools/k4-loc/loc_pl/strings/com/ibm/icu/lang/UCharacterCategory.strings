@@ -1,0 +1,49 @@
+toString
+(I)Ljava/lang/String;
+Code
+LineNumberTable
+LocalVariableTable
+category
+I
+<init>
+()V
+this
+Lcom/ibm/icu/lang/UCharacterCategory;
+SourceFile
+UCharacterCategory.java
+Letter, Uppercase
+Letter, Lowercase
+Letter, Titlecase
+Letter, Modifier
+Letter, Other
+Mark, Non-Spacing
+Mark, Enclosing
+Mark, Spacing Combining
+Number, Decimal Digit
+Number, Letter
+Number, Other
+Separator, Space
+Separator, Line
+Separator, Paragraph
+Other, Control
+Other, Format
+Other, Private Use
+Other, Surrogate
+Punctuation, Dash
+Punctuation, Open
+Punctuation, Close
+Punctuation, Connector
+Punctuation, Other
+Symbol, Math
+Symbol, Currency
+Symbol, Modifier
+Symbol, Other
+Punctuation, Initial quote
+Punctuation, Final quote
+Unassigned
+com/ibm/icu/lang/UCharacterCategory
+java/lang/Object
+com/ibm/icu/lang/UCharacterEnums$ECharacterCategory
+ECharacterCategory
+InnerClasses
+com/ibm/icu/lang/UCharacterEnums

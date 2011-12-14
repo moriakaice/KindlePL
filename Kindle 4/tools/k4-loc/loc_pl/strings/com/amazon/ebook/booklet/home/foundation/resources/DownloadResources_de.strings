@@ -1,0 +1,56 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/DownloadResources_de;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+download.view.header.text
+Inhalte werden heruntergeladen
+download.view.header.right.str
+
+download.view.footer.close.button.str
+Schließen
+download.progress.widget.text.2.complete
+Download abgeschlossen
+download.progress.widget.text.2.pending
+Ausstehend - {0}%
+download.progress.widget.text.2.downloading
+Wird heruntergeladen - {0}%
+download.progress.widget.text.2.wireless.required
+Wi-Fi-Verbindung erforderlich - {0}%
+download.progress.widget.text.2.insufficient.space
+Unzureichender Speicher - {0}%
+download.progress.widget.text.2.wifi.required
+Wi-Fi erforderlich - {0}%
+download.progress.widget.text.2.failed
+Fehler
+download.progress.widget.text.2.default
+download.progress.widget.text.2.font
+download.progress.widget.text.1.width.percentage
+java/lang/Integer
+download.view.name.sound
+download.progress.widget.height
+download.widget.height.default
+download.view.header.filter.items.format
+0#{0,number,integer} Inhalte|1#{0,number,integer} Inhalt|2#{0,number,integer} Inhalte
+download.view.cde.type.ebts
+EBTS
+download.view.transfer.comparator.collator.strength
+com/amazon/ebook/booklet/home/foundation/resources/DownloadResources_de
+java/util/ListResourceBundle
+getInstance
+(IZZ)Ljava/awt/Font;
+(I)V
+f
+a
+sgg
+Kwb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/font/h

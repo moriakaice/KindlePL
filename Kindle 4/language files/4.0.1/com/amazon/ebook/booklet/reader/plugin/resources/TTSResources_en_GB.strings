@@ -1,0 +1,33 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/plugin/resources/TTSResources_en_GB;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+tts.no.text.msg
+There is no more text to read in this item. Text-to-Speech is now exiting.
+tts.unknown.error.msg
+Text-to-Speech encountered an unexpected error. If the problem persists, please restart your device from Settings.
+tts.player.decrease.speech.rate.text
+Slower
+tts.player.increase.speech.rate.text
+Faster
+tts.player.window.offset.from.bottom
+java/lang/Integer
+tts.foreground.color
+com/amazon/ebook/booklet/reader/plugin/resources/TTSResources_en_GB
+java/util/ListResourceBundle
+(I)V
+Ljava/awt/Color;
+f
+a
+hvd
+l
+com/amazon/ebook/framework/gui/c

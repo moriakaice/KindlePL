@@ -1,0 +1,116 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/RegistrationResources_fr;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+registration.view.header.text
+Paramètres
+registration.view.header.text.setup
+Configurer votre Kindle
+registration.view.title.text
+Enregistrement
+registration.view.setup.title.text
+Enregistrer votre Kindle
+registration.view.title.font
+registration.view.subtitle.text
+Un compte Amazon est requis pour l’enregistrement de votre Kindle.
+registration.view.setup.subtitle.text
+Vous êtes connecté au Wi-Fi. Vous devez maintenant définir votre compte Amazon pour pouvoir acheter des livres et utiliser d’autres fonctionnalités de votre Kindle.
+registration.view.desc.text
+En vous enregistrant, vous acceptez le contrat de licence et les conditions d’utilisation du Kindle qui se trouvent à l’adresse www.kindle.com/support.
+registration.view.desc.font
+registration.view.draw.color
+registration.view.x.offset.dnt
+java/lang/Integer
+registration.view.footer.button.text
+terminer
+registration.view.registered.setup.subtitle.text
+Vous êtes maintenant connecté au Wi-Fi. ~~~~Votre Kindle est actuellement enregistré sous le nom :
+registration.view.user.name.font
+registration.button.spacing
+registration.button.width
+registration.line.spacing.dnt
+registration.bullet.format
+{0,number,#0}. 
+registration.bullet.line.spacing
+registration.instruction.view.title.text
+Créer un compte à partir d’un ordinateur
+registration.instruction.view.text.1
+Depuis votre navigateur, accédez à l’adresse : www.kindle.com/account
+registration.instruction.view.text.2
+Lorsque vous êtes invité à saisir votre numéro de série, fournissez le numéro suivant : {0}
+registration.instruction.view.text.3
+Suivez les instructions fournies pour créer votre compte. Votre Kindle sera automatiquement lié à ce compte. 
+registration.instruction.view.text.4
+Une fois que vous avez accompli ces étapes sur votre ordinateur, cliquez sur le bouton « terminer » ci-dessous.
+registration.instruction.view.cancel.text
+annuler
+registration.not.registered.title
+Aucun enregistrement trouvé
+registration.not.registered.message
+Vérifiez que vous avez effectué les étapes 1 à 3.
+registration.view.widget.title.font
+registration.view.widget.draw.color
+registration.view.widget.dotted.line.draw.color
+registration.view.widget.desc.font
+registration.view.widget.x.offset
+registration.view.widget.y.padding.dnt
+register.device.widget.title.text
+Si vous avez déjà un compte Amazon
+register.device.widget.setup.title.text
+Utiliser un compte Amazon existant
+register.device.widget.desc.text
+Si vous avez déjà un compte Amazon, saisissez l’adresse e-mail et le mot de passe associés à votre compte.
+register.device.widget.setup.desc.text
+
+register.device.widget.preregistered.title.text
+Utiliser ce compte
+create.account.widget.title.text
+Si vous n’avez pas de compte Amazon
+create.account.widget.setup.title.text
+Créer un compte à partir de votre Kindle
+create.account.widget.empty.text
+create.account.widget.desc.text
+Créez un compte et enregistrez votre Kindle.
+create.account.widget.setup.desc.text
+Vous pouvez également créer un compte directement à partir de votre Kindle, si vous n’avez pas accès à un ordinateur.
+computer.widget.title.text
+computer.widget.desc.text
+Si vous n’avez pas de compte Amazon, il est facile de créer un compte à partir d’un ordinateur.
+create.new.account.widget.title.text
+Créer un compte
+create.new.account.widget.desc.text
+Si vous n’avez pas de compte Amazon, vous pouvez en créer un ici.
+change.registration.widget.title.text
+S’enregistrer sur un compte différent
+setup.wifi.off.title
+Connexion Wi-Fi requise
+setup.wifi.off.message
+Connectez-vous à un réseau Wi-Fi ou réessayez ultérieurement.
+setup.wifi.off.cancel
+fermer
+setup.wifi.off.connect
+connecter
+com/amazon/ebook/booklet/home/foundation/resources/RegistrationResources_fr
+java/util/ListResourceBundle
+getInstance
+(I)Ljava/awt/Font;
+Ljava/awt/Color;
+(I)V
+(IZZ)Ljava/awt/Font;
+f
+a
+vhg
+Kwb
+Evb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/gui/c
+com/amazon/ebook/framework/font/h

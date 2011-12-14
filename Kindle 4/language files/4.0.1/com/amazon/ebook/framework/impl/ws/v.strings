@@ -1,0 +1,67 @@
+Synthetic
+<init>
+Code
+LineNumberTable
+LocalVariableTable
+UploadReadingJournalScheduleThread
+InnerClasses
+run
+()V
+Ljava/io/IOException;
+Lcom/amazon/ebook/framework/device/comm/CommunicationException;
+J
+Ljava/lang/InterruptedException;
+
+SourceFile
+java/io/IOException
+IO Error while uploading in schedule
+com/amazon/ebook/framework/device/comm/CommunicationException
+Communication Error while uploading in schedule
+Reading Experience Journal Upload ScheduleThread - Waiting...
+Reading Experience Journal Upload ScheduleThread - Waking up
+java/lang/StringBuffer
+Reading Experience Journal Upload ScheduleThread - Waiting for 
+ ms
+java/lang/InterruptedException
+java/lang/Object
+java/lang/Runnable
+java/lang/System
+currentTimeMillis
+()J
+(Z)V
+(Ljava/lang/String;)V
+wait
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(J)Ljava/lang/StringBuffer;
+toString
+()Ljava/lang/String;
+(J)V
+f
+Lcom/amazon/ebook/framework/impl/ws/y;
+(Lcom/amazon/ebook/framework/impl/ws/y;Lcom/amazon/ebook/framework/impl/ws/o;)V
+a
+Lcom/amazon/ebook/framework/impl/ws/v;
+Lcom/amazon/ebook/framework/impl/ws/o;
+(Lcom/amazon/ebook/framework/impl/ws/y;)V
+com/amazon/ebook/framework/impl/ws/v
+wkc
+YRb
+(Lcom/amazon/ebook/framework/impl/ws/y;Ljava/lang/Runnable;)Ljava/lang/Runnable;
+eYA
+CRb
+(Lcom/amazon/ebook/framework/impl/ws/y;J)J
+yLb
+(Lcom/amazon/ebook/util/log/w;[Ljava/lang/String;Ljava/lang/String;)V
+U
+Lcom/amazon/ebook/util/log/w;
+vHb
+()Lcom/amazon/ebook/util/log/b;
+HQb
+Urb
+(Lcom/amazon/ebook/framework/impl/ws/y;)J
+Zpb
+(Lcom/amazon/ebook/framework/impl/ws/y;)Ljava/lang/Runnable;
+com/amazon/ebook/util/log/b
+com/amazon/ebook/framework/impl/ws/y
+com/amazon/ebook/framework/impl/ws/o

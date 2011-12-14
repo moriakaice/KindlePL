@@ -1,0 +1,93 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/messages/resources/CursorHintsResources_en_GB;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+annotation.disable
+Annotating is disabled
+annotation.disable.sample
+Annotating is disabled for sample content
+annotation.disable.feed
+Annotating is disabled for blogs
+annotation.disable.low.disk.space
+Annotating is disabled - Memory is full
+add.note
+Begin typing to create a note
+add.note.nokeyboard
+Press {0} to create a note
+java/lang/String
+keyboard_icon.gif
+usual.cursor.interaction
+Begin typing to create a note or click to start a highlight
+usual.cursor.interaction.nokeyboard
+Press {0} for full definition, highlight, or note
+5way_icon.gif
+usual.cursor.interaction.nokeyboard.defonly
+Press {0} for full definition
+usual.cursor.interaction.nokeyboard.nodef
+Press {0} for highlight or note
+create.highlight
+Move cursor to create a highlight {0}
+blanck_trans.gif
+end.highlight.nokeyboard
+Press {0} to end highlight
+end.highlight.sharing.nokeyboard
+Press {0} to end highlight, share or create note
+end.highlight.sharing.disabled
+Click to end highlight or press Back to cancel
+end.highlight.sharing.enabled
+Click to end highlight, {0} to tweet/share, or Back to cancel
+Home_Icon_AltReturn.gif
+highlight.hover.sharing.disabled
+Begin typing to create a note or {0} to delete highlight
+Home_Icon_Delete.gif
+highlight.hover.sharing.disabled.nokeyboard
+Press {0} for note or delete highlight
+highlight.hover.sharing.enabled
+Type to create note, {0} to delete highlight, {1} to share
+highlight.hover.sharing.enabled.nokeyboard
+Press {0} for note, delete highlight, or share highlight
+highlight.hover.annotation.view.nokeyboard
+Press {0} to go to, share or delete highlight
+highlight.hover.annotation.view.nokeyboard.no.sharing
+Press {0} to go to or delete highlight
+bookmark.hover.annotation.view.nokeyboard
+Press {0} to go to or delete bookmark
+highlight.hover.annotation.view.sharing.enabled
+{0} delete   {1} share
+highlight.hover.annotation.view.sharing.disabled
+{0} delete
+link.hover
+Begin typing to create a note or click to follow the link
+link.hover.nokeyboard
+Press {0} to follow the link
+link.hover.nokeyboard.notes
+Press {0} to follow the link or create note
+link.hover.nokeyboard.notes.delete
+Press {0} to follow the link or delete note
+link.hover.nokeyboard.def
+Press {0} for full definition or follow the link
+link.hover.nokeyboard.def.notes
+Press {0} for full definition, follow the link or create note
+link.hover.nokeyboard.def.notes.delete
+Press {0} for full definition, follow the link or delete note
+link.hover.image
+Press {0} to zoom image
+subscribed.highlights.hint.widget.nokeyboard
+Press {0} to go to highlight
+com/amazon/ebook/booklet/reader/gui/messages/resources/CursorHintsResources_en_GB
+java/util/ListResourceBundle
+(Ljava/lang/String;I)V
+(Ljava/lang/String;[Ljava/lang/String;I)V
+f
+a
+xze
+com/amazon/ebook/booklet/reader/gui/infobox/y

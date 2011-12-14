@@ -1,0 +1,14 @@
+serialVersionUID
+J
+ConstantValue
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/device/audio/TTSLowBatteryException;
+SourceFile
+com/amazon/ebook/framework/device/audio/TTSLowBatteryException
+com/amazon/ebook/framework/device/audio/TTSException
+a
+auc

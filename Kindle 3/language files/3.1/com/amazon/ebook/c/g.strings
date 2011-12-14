@@ -1,0 +1,17 @@
+<init>
+Code
+LineNumberTable
+LocalVariableTable
+()Z
+SourceFile
+a
+Lcom/amazon/ebook/c/g;
+B
+A
+(Lcom/amazon/ebook/booklet/c;Lcom/amazon/ebook/c/h;)Lcom/amazon/ebook/c/g;
+Lcom/amazon/ebook/booklet/c;
+Lcom/amazon/ebook/c/h;
+(Lcom/amazon/ebook/booklet/c;Lcom/amazon/ebook/c/h;)V
+com/amazon/ebook/c/g
+tsd
+com/amazon/ebook/c/d

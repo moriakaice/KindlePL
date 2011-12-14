@@ -1,0 +1,57 @@
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+(ZLjava/lang/String;)V
+Lcom/amazon/ebook/framework/service/media/event/AudioException;
+AList
+InnerClasses
+Z
+Ljava/lang/String;
+<clinit>
+SourceFile
+OTAActivationFeatureDrivenOverlay.mController is null
+Activating successfully.
+com/amazon/ebook/framework/service/media/event/AudioException
+Fail to play after successfully activating the file
+Fail to activate
+OTAActivationHandler
+java/lang/Object
+AudibleOTAActivationHandler
+com/lab126/booklet/audiblePlayer/ota/OTAActivationOverlay
+mController
+(Ljava/lang/String;)V
+(Z)V
+(I)V
+()I
+a
+Lcom/amazon/ebook/util/b/e;
+Lcom/lab126/booklet/audiblePlayer/ota/o;
+Lcom/lab126/booklet/audiblePlayer/e;
+Lcom/lab126/booklet/audiblePlayer/ota/n;
+Lcom/lab126/booklet/audiblePlayer/a/b;
+com/lab126/booklet/audiblePlayer/ota/o
+sbb
+com/lab126/booklet/audiblePlayer/ota/b
+d
+(Ljava/lang/String;)Lcom/amazon/ebook/util/b/e;
+(Ljava/lang/String;Lcom/amazon/ebook/framework/gui/event/c;)V
+(Lcom/lab126/booklet/audiblePlayer/ota/o;)V
+A
+J
+b
+()Lcom/lab126/booklet/audiblePlayer/a/b;
+(Lcom/amazon/ebook/util/b/i;[Ljava/lang/String;Ljava/lang/String;Ljava/lang/Throwable;)V
+f
+()Lcom/amazon/ebook/framework/service/media/c;
+D
+()Lcom/lab126/booklet/audiblePlayer/e;
+Lcom/lab126/booklet/audiblePlayer/n;
+com/lab126/booklet/audiblePlayer/ota/f
+com/lab126/booklet/audiblePlayer/a/b
+com/amazon/ebook/framework/service/media/c
+com/lab126/booklet/audiblePlayer/e
+com/lab126/booklet/audiblePlayer/n
+com/amazon/ebook/util/b/e
+com/lab126/booklet/audiblePlayer/ota/n

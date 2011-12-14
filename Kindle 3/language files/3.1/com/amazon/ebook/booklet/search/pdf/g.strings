@@ -1,0 +1,69 @@
+DataSupplier
+InnerClasses
+Ljava/util/zip/Inflater;
+[B
+I
+<init>
+Code
+LineNumberTable
+LocalVariableTable
+(I)Ljava/lang/String;
+Ljava/lang/Exception;
+(I)I
+Exceptions
+(I)V
+()I
+()Ljava/util/zip/Inflater;
+()[B
+SourceFile
+
+java/lang/String
+UTF-8
+java/lang/Exception
+java/lang/StringBuffer
+Unable to map PDF position 
+java/lang/IndexOutOfBoundsException
+Position must be positive, not 
+Position (
+) not found
+Block number (
+) is not between 0 and 
+java/util/zip/Inflater
+java/lang/Object
+java/io/IOException
+()V
+(I[BII)I
+reset
+setInput
+([BII)V
+inflate
+([B)I
+([BII)I
+([BIILjava/lang/String;)V
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(I)Ljava/lang/StringBuffer;
+toString
+()Ljava/lang/String;
+(Ljava/lang/Object;Ljava/lang/Throwable;)V
+(Ljava/lang/String;)V
+a
+A
+b
+Lcom/amazon/ebook/booklet/search/pdf/a;
+B
+c
+C
+d
+D
+Lcom/amazon/ebook/booklet/search/pdf/g;
+(Lcom/amazon/ebook/booklet/search/pdf/a;)V
+(Lcom/amazon/ebook/booklet/search/sdk/bd;)V
+Lcom/amazon/ebook/booklet/search/sdk/bd;
+com/amazon/ebook/booklet/search/pdf/g
+fm
+(Lcom/amazon/ebook/booklet/search/pdf/g;Lcom/amazon/ebook/booklet/search/sdk/bd;)V
+com/amazon/ebook/booklet/search/sdk/wb
+com/amazon/ebook/booklet/search/sdk/bb
+com/amazon/ebook/booklet/search/pdf/a
+com/amazon/ebook/booklet/search/pdf/f

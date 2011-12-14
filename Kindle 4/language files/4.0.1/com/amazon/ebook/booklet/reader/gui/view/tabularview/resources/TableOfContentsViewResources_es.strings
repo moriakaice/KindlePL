@@ -1,0 +1,22 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/view/tabularview/resources/TableOfContentsViewResources_es;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+close.label
+Cerrar
+view.name
+Lista de artículos
+com/amazon/ebook/booklet/reader/gui/view/tabularview/resources/TableOfContentsViewResources_es
+java/util/ListResourceBundle
+f
+a
+ywd

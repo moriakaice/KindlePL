@@ -1,0 +1,11 @@
+UNICODE_CHAR_NAME
+I
+ConstantValue
+UNICODE_10_CHAR_NAME
+EXTENDED_CHAR_NAME
+CHAR_NAME_CHOICE_COUNT
+ISO_COMMENT_
+SourceFile
+UCharacterNameChoice.java
+com/ibm/icu/impl/UCharacterNameChoice
+java/lang/Object

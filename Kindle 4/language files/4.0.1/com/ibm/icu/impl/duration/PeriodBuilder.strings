@@ -1,0 +1,12 @@
+create
+(J)Lcom/ibm/icu/impl/duration/Period;
+createWithReferenceDate
+(JJ)Lcom/ibm/icu/impl/duration/Period;
+withLocale
+(Ljava/lang/String;)Lcom/ibm/icu/impl/duration/PeriodBuilder;
+withTimeZone
+(Ljava/util/TimeZone;)Lcom/ibm/icu/impl/duration/PeriodBuilder;
+SourceFile
+PeriodBuilder.java
+com/ibm/icu/impl/duration/PeriodBuilder
+java/lang/Object

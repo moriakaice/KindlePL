@@ -1,0 +1,90 @@
+Ljava/lang/String;
+ConstantValue
+Synthetic
+<init>
+Code
+LineNumberTable
+LocalVariableTable
+TransferListenerAdapter
+InnerClasses
+I
+SourceFile
+AZW2
+java/lang/StringBuffer
+A STATUS_INTERNAL_ERROR event was processed for item: 
+A STATUS_ENQUEUED event was processed for item: 
+A STATUS_WAITING event was processed for item: 
+A STATUS_STARTING event was processed for item: 
+A STATUS_STARTED event was processed for item: 
+A STATUS_IN_PROGRESS event was processed for item: 
+A STATUS_DEFERRED event was processed for item: 
+A STATUS_MODIFIED event was processed for item: 
+A STATUS_COMPLETED event was processed for item: 
+A STATUS_FAILED event was processed for item: 
+Unexpected transfer event status was encountered: 
+A STATUS_DEFERRED event was processed with an unknown deferred code:
+A STATUS_FAILED event was processed with an unknown error code:
+(Ljava/lang/String;)V
+()Z
+getStatus
+()I
+getResponseCode
+getErrorCode
+getMessage
+()Ljava/lang/String;
+java/lang/String
+trim
+length
+access$000
+()V
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+getCdeKey
+toString
+DownloadErrorCode
+(I)Ljava/lang/StringBuffer;
+f
+Lcom/amazon/kindle/kindlet/internal/portability/net/a/c;
+K
+wWA
+(Lcom/amazon/ebook/framework/device/comm/ws/u;I)V
+a
+Lcom/amazon/kindle/kindlet/internal/portability/net/a/v;
+Lcom/amazon/ebook/framework/device/comm/ws/u;
+pWA
+(Lcom/amazon/ebook/framework/device/comm/ws/u;IILjava/lang/String;)V
+uwA
+nf
+(Lcom/amazon/ebook/framework/device/comm/ws/u;)V
+Lcom/amazon/ebook/framework/device/comm/p;
+(Lcom/amazon/kindle/kindlet/internal/portability/net/a/c;)V
+com/amazon/kindle/kindlet/internal/portability/net/a/v
+kgb
+avA
+(Lcom/amazon/kindle/kindlet/internal/portability/net/a/c;Lcom/amazon/ebook/framework/device/comm/ws/u;)V
+(Lcom/amazon/kindle/kindlet/internal/portability/net/a/p;Ljava/lang/String;)V
+m
+Lcom/amazon/kindle/kindlet/internal/portability/net/a/p;
+L
+l
+oJb
+Lcom/amazon/kindle/kindlet/internal/portability/net/a/o;
+RxA
+(Lcom/amazon/kindle/kindlet/internal/portability/net/a/c;Lcom/amazon/ebook/framework/device/comm/ws/u;Lcom/amazon/kindle/kindlet/internal/portability/net/a/o;)V
+CwA
+fwA
+(Lcom/amazon/kindle/kindlet/internal/portability/net/a/c;Lcom/amazon/ebook/framework/device/comm/ws/u;Lcom/amazon/kindle/kindlet/internal/portability/net/a/b;)V
+(Lcom/amazon/kindle/kindlet/internal/portability/net/a/p;)V
+eYA
+()Lcom/amazon/ebook/util/log/b;
+eOb
+()Lcom/amazon/ebook/framework/device/comm/p;
+sD
+com/amazon/kindle/kindlet/internal/portability/net/a/o
+com/amazon/kindle/kindlet/internal/portability/net/a/p
+com/amazon/ebook/util/log/b
+com/amazon/kindle/kindlet/internal/portability/net/a/c
+com/amazon/ebook/framework/device/comm/p
+com/amazon/ebook/framework/device/comm/ws/u
+com/amazon/ebook/framework/device/comm/ws/o
+com/amazon/kindle/kindlet/internal/portability/net/a/b

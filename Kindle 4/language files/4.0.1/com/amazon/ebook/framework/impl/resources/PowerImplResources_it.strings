@@ -1,0 +1,32 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/impl/resources/PowerImplResources_it;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+pb.battery.low.msg
+La batteria è quasi scarica. Ricaricare il Kindle. Per aumentare il tempo di lettura, provare a disattivare la connessione wireless.
+pb.battery.low.wanoff.msg
+La batteria è quasi scarica. Ricaricare il Kindle.
+pb.battery.depleted.msg
+La batteria è quasi esaurita e il Kindle si spegnerà fra breve. Per continuare a utilizzare il Kindle, collegarlo a una fonte di alimentazione.
+pb.battery.error.msg.pattern
+Potrebbe essere che la batteria è esposta a temperature piu’ elevate di quant’era raccomandato o può anche essere necessario sostituirla. Se il problema persiste, contattare il servizio di assistenza clienti Kindle all’indirizzo www.kindle.com/support.
+pb.battery.temprange.msg.pattern
+È possibile che la batteria venga utilizzata al di fuori dell’intervallo di temperature consigliato oppure può essere necessario sostituirla. Se il problema persiste, contattare il servizio di assistenza clienti Kindle all’indirizzo www.kindle.com/support.
+pb.battery.default.cs.phone.array.dnt
+java/lang/String
+1-866-321-8851
+1-206-266-0927
+com/amazon/ebook/framework/impl/resources/PowerImplResources_it
+java/util/ListResourceBundle
+f
+a
+puc

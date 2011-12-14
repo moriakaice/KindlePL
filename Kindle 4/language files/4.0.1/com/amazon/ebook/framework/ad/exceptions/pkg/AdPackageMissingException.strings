@@ -1,0 +1,20 @@
+<init>
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/ad/exceptions/pkg/AdPackageMissingException;
+Ljava/lang/String;
+SourceFile
+java/lang/StringBuffer
+Ad package file does not exist: 
+com/amazon/ebook/framework/ad/exceptions/pkg/AdPackageMissingException
+com/amazon/ebook/framework/ad/exceptions/pkg/AdPackageHandlingException
+()V
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+toString
+()Ljava/lang/String;
+(Lcom/amazon/ebook/util/log/b;Ljava/lang/String;)V
+a
+Lcom/amazon/ebook/util/log/b;
+dod

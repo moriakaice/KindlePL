@@ -1,0 +1,207 @@
+GeneratePlaylists
+InnerClasses
+ProcessingTask
+Z
+ConstantValue
+I
+Ljava/lang/String;
+Ljava/util/List;
+Ljava/io/FilenameFilter;
+<init>
+()V
+Code
+initialize
+shutdown
+pause
+executeResumeEvent
+go
+getName
+()Ljava/lang/String;
+drawPage
+pressPlayPause
+executePauseEvent
+executePlayEvent
+executeStopEvent
+pressNext
+bookletEventHandler
+getBookletEventIDs
+()[I
+onUSBConnected
+(Z)Z
+updateMusicAndPlaylists
+(Ljava/io/File;)V
+getKeyListener
+()Ljava/util/List;
+(I)V
+()I
+<clinit>
+
+java/util/ArrayList
+device.policy.action.experimental.mp3player.disabled
+Cannot resume music because the player state is not PAUSE
+Cannot resume music because the playing task is not there. Reset the player state to STOP
+Audio Player
+PAUSE state, about to resume
+PLAYING state, about to pause
+STOP state, about to play
+java/lang/StringBuffer
+unknow state: 
+Cannot pause music because the player state is not PLAYING
+Cannot pause music because the playing task is not there. Reset the player state to STOP
+Cannot play music because the player state is not STOP.
+java/lang/Boolean
+Cannot play music because the audio device is in used.
+java/lang/Exception
+Failed to start the playing task
+Cannot stop music because the player is in STOP state already
+Cannot go to next song because either the playing task is not there, or the player state is not PLAYING
+AudioPlayer.bookletEventHandler 
+receive PLAY_BG_MUSIC event
+receive PAUSE_BG_MUSIC event
+receive DISABLE_AUDIO_SHORTCUT_KEYS event
+receive STOP_BG_MUSIC event
+receive REENABLE_AUDIO_SHORTCUT_KEYS event
+The song 
+ does not exist anymore.
+java/io/File
+com/amazon/ebook/framework/BookletException
+Failed to post the BG_MUSIC event
+AudioPlayer
+()Z
+(Ljava/lang/String;)V
+getBookletServices
+(Ljava/lang/Runnable;)V
+(Ljava/lang/String;)Z
+getInstance
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(I)Ljava/lang/StringBuffer;
+toString
+[Ljava/lang/String;
+(Ljava/lang/String;)Ljava/lang/Object;
+booleanValue
+(Ljava/lang/String;Ljava/lang/Throwable;)V
+getId
+()Ljava/io/File;
+exists
+getBookletContext
+()[Ljava/lang/String;
+java/util/List
+clear
+size
+(Z)V
+(Ljava/lang/String;Ljava/lang/Object;)V
+reset
+listFiles
+()[Ljava/io/File;
+isFile
+java/io/FilenameFilter
+accept
+(Ljava/io/File;Ljava/lang/String;)Z
+add
+(Ljava/lang/Object;)Z
+isDirectory
+LocalVariableTable
+Ljava/awt/Graphics;
+Ljava/io/File;
+f
+K
+Lcom/lab126/booklet/audioPlayer/d;
+l
+Lcom/lab126/booklet/audioPlayer/v;
+L
+Lcom/lab126/booklet/audioPlayer/h;
+m
+a
+Lcom/amazon/ebook/util/log/b;
+J
+F
+Lcom/lab126/booklet/audioPlayer/c;
+e
+g
+k
+h
+frA
+Lcom/lab126/booklet/audioPlayer/o;
+YRA
+gG
+uPA
+(Lcom/lab126/booklet/audioPlayer/v;)V
+toA
+()Lcom/lab126/booklet/audioPlayer/v;
+bRA
+()Lcom/amazon/ebook/framework/gui/event/d;
+mRA
+cRA
+pf
+(Lcom/amazon/ebook/framework/kos/event/b;)V
+Lcom/amazon/ebook/framework/kos/event/b;
+nrA
+FsA
+oNA
+KrA
+hRA
+nRA
+BNA
+QRA
+(Lcom/amazon/ebook/framework/gui/foundation/x;Ljava/awt/Graphics;)V
+Lcom/amazon/ebook/framework/gui/foundation/x;
+orA
+ZMA
+com/lab126/booklet/audioPlayer/o
+com/amazon/ebook/framework/kos/event/h
+com/amazon/ebook/framework/device/a/d
+(Ljava/lang/String;)Lcom/amazon/ebook/util/log/b;
+Ll
+rL
+(ILjava/lang/Object;Z)Lcom/amazon/ebook/framework/kos/event/b;
+smb
+ah
+()Lcom/amazon/ebook/framework/a/h;
+jf
+(Lcom/lab126/booklet/audioPlayer/o;Lcom/lab126/booklet/audioPlayer/b;)V
+kOA
+voA
+cI
+(Lcom/amazon/ebook/framework/service/media/event/d;)V
+LI
+()Lcom/amazon/ebook/framework/service/media/v;
+JYA
+(Lcom/lab126/booklet/audioPlayer/o;)V
+dOA
+XyA
+jRA
+FI
+(Lcom/amazon/ebook/framework/device/a/d;)V
+iwb
+(Lcom/amazon/ebook/framework/gui/event/h;)V
+()Lcom/amazon/ebook/framework/kos/event/e;
+Jj
+Yi
+()Lcom/amazon/ebook/framework/b/d;
+JpA
+yIb
+HH
+()Lcom/amazon/ebook/framework/kos/a/p;
+kK
+(Lcom/amazon/ebook/framework/kos/event/h;)V
+()Lcom/amazon/ebook/framework/service/b;
+Lcom/amazon/ebook/framework/a/h;
+eYA
+clb
+com/amazon/ebook/framework/kos/event/b
+com/amazon/ebook/framework/service/media/v
+com/amazon/ebook/framework/kos/util/b
+com/amazon/ebook/framework/kos/event/e
+com/amazon/ebook/framework/b/d
+com/amazon/ebook/framework/kos/a/p
+com/amazon/ebook/framework/service/b
+com/amazon/ebook/framework/a/h
+com/amazon/ebook/util/log/b
+com/amazon/ebook/framework/a/d
+com/lab126/booklet/audioPlayer/v
+com/lab126/booklet/audioPlayer/p
+com/lab126/booklet/audioPlayer/d
+com/lab126/booklet/audioPlayer/h
+com/lab126/booklet/audioPlayer/c
+com/lab126/booklet/audioPlayer/b

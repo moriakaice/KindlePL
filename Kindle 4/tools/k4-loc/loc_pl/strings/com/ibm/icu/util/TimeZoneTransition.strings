@@ -1,0 +1,35 @@
+from
+Lcom/ibm/icu/util/TimeZoneRule;
+to
+time
+J
+<init>
+(JLcom/ibm/icu/util/TimeZoneRule;Lcom/ibm/icu/util/TimeZoneRule;)V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lcom/ibm/icu/util/TimeZoneTransition;
+getTime
+()J
+getTo
+()Lcom/ibm/icu/util/TimeZoneRule;
+getFrom
+toString
+()Ljava/lang/String;
+buf
+Ljava/lang/StringBuffer;
+SourceFile
+TimeZoneTransition.java
+java/lang/StringBuffer
+time=
+, from={
+}
+, to={
+com/ibm/icu/util/TimeZoneTransition
+java/lang/Object
+()V
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(J)Ljava/lang/StringBuffer;
+(Ljava/lang/Object;)Ljava/lang/StringBuffer;

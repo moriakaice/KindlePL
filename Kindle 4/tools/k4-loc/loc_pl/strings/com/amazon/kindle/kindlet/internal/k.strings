@@ -1,0 +1,92 @@
+Ljava/lang/String;
+ConstantValue
+Ljava/io/File;
+<init>
+Code
+LineNumberTable
+LocalVariableTable
+Exceptions
+()Z
+()Ljava/io/File;
+()Ljava/security/PermissionCollection;
+Ljava/security/PermissionCollection;
+SourceFile
+java/lang/IllegalArgumentException
+storage service is null
+application or its metadata is null
+application filesystem name cannot be null.
+java/io/File
+java/io/IOException
+java/lang/StringBuffer
+Failed to create application data directory: 
+Could not create Kindlet's private workDir subdirectory.
+Could not create Kindlet's private metadata subdirectory.
+Could not create Kindlet's private temporary subdirectory.
+.metadata
+crash.log
+SUBSCRIPTION_STATUS
+java/security/Permissions
+java/io/FilePermission
+read
+-
+read, write, delete
+java/lang/Object
+()V
+(Ljava/lang/String;)V
+()Ljava/lang/String;
+getInstance
+(Ljava/io/File;Ljava/lang/String;)V
+exists
+mkdirs
+isDirectory
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(Ljava/lang/Object;)Ljava/lang/StringBuffer;
+toString
+(Ljava/io/File;ZZ)Z
+getAbsolutePath
+(Ljava/lang/String;Ljava/lang/String;)V
+java/security/PermissionCollection
+add
+(Ljava/security/Permission;)V
+separator
+f
+K
+l
+L
+I
+m
+a
+J
+F
+e
+kCb
+Lcom/amazon/kindle/kindlet/internal/k;
+fcb
+vbb
+DBb
+Rdb
+sBb
+SCb
+Gdb
+RAb
+(Lcom/amazon/ebook/framework/service/h;Lcom/amazon/kindle/kindlet/internal/install/p;)V
+Lcom/amazon/ebook/framework/service/h;
+Lcom/amazon/kindle/kindlet/internal/install/p;
+com/amazon/kindle/kindlet/internal/k
+kpb
+TtA
+Tdb
+bbb
+udb
+bcb
+(Lcom/amazon/ebook/framework/service/h;)Ljava/io/File;
+Hbb
+()Lcom/amazon/kindle/kindlet/internal/s;
+iyA
+VXA
+AAb
+()Lcom/amazon/kindle/kindlet/internal/install/d;
+com/amazon/kindle/kindlet/internal/util/e
+com/amazon/kindle/kindlet/internal/s
+com/amazon/kindle/kindlet/internal/install/p

@@ -1,0 +1,27 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/PurchaseResources_pt;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+pendingPurchasesOverlay.overlay.width
+java/lang/Integer
+pendingPurchasesOverlay.header.text
+Pedidos pendentes
+pendingPurchasesOverlay.body.text
+No momento, você possui 1 ou mais pedidos pendentes do AmazonLocal. Gostaria de revisar seus pedidos agora?
+pendingPurchasesOverlay.button.label.later
+mais tarde
+com/amazon/ebook/booklet/home/foundation/resources/PurchaseResources_pt
+java/util/ListResourceBundle
+(I)V
+f
+a
+oqc

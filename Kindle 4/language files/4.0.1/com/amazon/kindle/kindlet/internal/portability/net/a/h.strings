@@ -1,0 +1,14 @@
+()V
+Exceptions
+shutdown
+SourceFile
+java/lang/Object
+com/amazon/kindle/kindlet/internal/portability/net/NetworkCommunicationException
+GF
+(Lcom/amazon/kindle/kindlet/internal/portability/net/a/y;)V
+Pe
+qE
+(Lcom/amazon/kindle/kindlet/internal/portability/net/a/d;)V
+com/amazon/kindle/kindlet/internal/portability/net/a/h
+gp
+LocalVariableTable

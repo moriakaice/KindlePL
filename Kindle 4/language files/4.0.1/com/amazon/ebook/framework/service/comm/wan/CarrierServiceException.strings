@@ -1,0 +1,25 @@
+mCode
+I
+<init>
+(Ljava/lang/String;I)V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/service/comm/wan/CarrierServiceException;
+Ljava/lang/String;
+getErrorCode
+()I
+SourceFile
+java/lang/StringBuffer
+  errCode=
+com/amazon/ebook/framework/service/comm/wan/CarrierServiceException
+com/amazon/ebook/framework/device/comm/CommunicationException
+()V
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(I)Ljava/lang/StringBuffer;
+toString
+()Ljava/lang/String;
+(Ljava/lang/String;)V
+a
+jqc

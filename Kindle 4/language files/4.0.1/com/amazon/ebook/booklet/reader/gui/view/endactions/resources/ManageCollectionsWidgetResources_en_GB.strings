@@ -1,0 +1,24 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/view/endactions/resources/ManageCollectionsWidgetResources_en_GB;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+manage.collections.link
+Manage your collections for this book
+font.style
+java/lang/Integer
+steps.away.from.current.font.size
+com/amazon/ebook/booklet/reader/gui/view/endactions/resources/ManageCollectionsWidgetResources_en_GB
+java/util/ListResourceBundle
+(I)V
+f
+a
+ore

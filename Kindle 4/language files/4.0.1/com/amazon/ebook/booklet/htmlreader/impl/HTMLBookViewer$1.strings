@@ -1,0 +1,17 @@
+this$0
+Synthetic
+<init>
+Code
+LineNumberTable
+LocalVariableTable
+
+InnerClasses
+Lcom/amazon/ebook/booklet/htmlreader/impl/HTMLBookViewer$1;
+SourceFile
+com/amazon/ebook/booklet/htmlreader/impl/HTMLBookViewer$1
+java/awt/Component
+()V
+Lcom/amazon/ebook/booklet/htmlreader/impl/j;
+(Lcom/amazon/ebook/booklet/htmlreader/impl/j;)V
+a
+iqf

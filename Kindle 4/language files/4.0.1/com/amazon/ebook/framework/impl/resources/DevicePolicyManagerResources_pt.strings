@@ -1,0 +1,70 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/impl/resources/DevicePolicyManagerResources_pt;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+device.policy.will.reboot.message
+Este Kindle recebeu uma instrução de reinicialização. Este processo começará em breve. Aguarde a reinicialização completa do dispositivo e não o desligue durante o processo.
+device.policy.default.devicetype
+um dispositivo gerenciado
+device.policy.default.feature
+Este recurso
+device.policy.default.contact
+entre em contato com o administrador do sistema
+device.policy.password.required.template
+java/text/MessageFormat
+Este Kindle está {0} e exige uma senha. Para obter mais informações, {1}.
+device.policy.disabled.template
+Este Kindle está {0}. {1} foi bloqueado. Para obter mais informações, {2}.
+device.policy.factory.reset.template
+Este Kindle está {0}. Ele recebeu instruções para ser redefinido conforme os padrões de fábrica. Isso removerá todo o conteúdo baixado e transferido. Esse processo começará em breve. Não desligue ou use seu Kindle antes da conclusão total do processo. Para obter mais informações, {1}.
+device.policy.default.password.hint
+Senha padrão ativada
+device.policy.disabled.name.registration
+Registro
+device.policy.disabled.name.deregistration
+Remover
+device.policy.disabled.name.editdevicename
+Nome do dispositivo
+device.policy.disabled.name.wifisettings
+Configuração dos ajustesdo Wi-Fi
+device.policy.disabled.name.managesocialnetworks
+Configuração das redes sociais
+device.policy.disabled.name.togglepopularhighlights
+Configuração dos destaques populares
+device.policy.disabled.name.togglepublicnotes
+Configuração das notas públicas
+device.policy.disabled.name.toggleannotationsbackup
+Configuração do backup de anotações
+device.policy.disabled.name.editpersonalinfo
+Informação pessoal
+device.policy.disabled.name.changelanguage
+Configuração do idioma do dispositivo
+device.policy.disabled.name.changeprimarydictionary
+Configuração do dicionário
+device.policy.disabled.name.turnonpassword
+Configuração da senha
+device.policy.disabled.name.browser
+Navegador da web
+device.policy.disabled.name.kindlestore
+A loja Kindle
+device.policy.disabled.name.activecontent
+Active Content
+device.policy.disabled.name.mp3
+O MP3 Player
+device.policy.disabled.name.games
+Este jogo
+com/amazon/ebook/framework/impl/resources/DevicePolicyManagerResources_pt
+java/util/ListResourceBundle
+(Ljava/lang/String;)V
+f
+a
+ded

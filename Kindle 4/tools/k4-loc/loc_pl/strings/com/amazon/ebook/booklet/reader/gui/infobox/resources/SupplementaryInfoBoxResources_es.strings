@@ -1,0 +1,96 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/infobox/resources/SupplementaryInfoBoxResources_es;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+hint.table.begin.new
+Pulsa la tecla Flecha Derecha en {0} para empezar a~~desplazarte por la tabla, o pulsa el centro de {0} para situar~~el cursor dentro de la tabla.
+java/lang/String
+5way_icon.gif
+hint.table.began.new
+Pulsa {0} para situar el cursor dentro de la tabla
+emphasis.font
+font
+clear.footer.color
+bubble.horizontal.margin
+java/lang/Integer
+bubble.vertical.margin
+bubble.vertical.padding
+bubble.divider.height
+bubble.foreground.color
+bubble.background.color
+bubble.border.color
+bubble.top.margin
+bubble.bottom.margin
+bubble.background.width.adjustment
+bubble.background.single.line.height
+bubble.background.multi.line.height.adjustment
+bubble.background.single.line.rounded.corners.arc
+bubble.background.multi.line.rounded.corners.arc
+info.horizontal.margin
+quickdef.line.limit
+annotation.line.limit
+current.annotation.hint.widget.nokeyboard
+Pulsa {0} para acceder a una nota, modificarla,  ~~compartirla o eliminarla
+current.annotation.hint.widget.nokeyboard.no.sharing
+Pulsa {0} para acceder a una nota, modificarla o~~eliminarla
+current.annotation.hint.widget.nokeyboard.memory.full
+Pulsa {0} para acceder a una nota o eliminarla
+current.annotation.hint.widget.pcv.nokeyboard
+Pulsa {0} para modificar una nota, compartirla o eliminarla
+current.annotation.hint.widget.pcv.nokeyboard.no.sharing
+Pulsa {0} para modificar o eliminar la nota
+current.annotation.hint.widget.sharing.enabled
+{0} eliminar   {1} compartir   {2} modificar
+Home_Icon_Delete.gif
+Home_Icon_AltReturn.gif
+Home_Icon_ReturnArrow.gif
+current.annotation.hint.widget.sharing.disabled
+{0} eliminar   {1} modificar
+current.annotation.hint.widget.readonly
+{0} eliminar
+subscribed.highlights.hint.widget.nokeyboard
+Pulsa {0} para ir al subrayado
+subscribed.notes.hint.widget.nokeyboard
+Pulsa {0} para ir a la nota o visualizarla
+subscribed.notes.book.hint.nokeyboard
+Pulsa {0} para ver la nota
+subscribed.notes.hint.widget
+{0} ver más
+subscribed.notes.single.format
+java/text/MessageFormat
+{0}: {1}
+subscribed.notes.multiple.format
+Notas de {0}.
+definition.more.hint
+más {0}
+emphasize.first.word.only
+table_bound_y_adjustment
+textarea.line.justification
+extended.info.textarea.line.justification
+com/amazon/ebook/booklet/reader/gui/infobox/resources/SupplementaryInfoBoxResources_es
+java/util/ListResourceBundle
+(Ljava/lang/String;[Ljava/lang/String;I)V
+getInstance
+(IZ)Ljava/awt/Font;
+java/awt/Color
+WHITE
+Ljava/awt/Color;
+(I)V
+BLACK
+(Ljava/lang/String;)V
+f
+a
+wgf
+dwb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/font/h
+com/amazon/ebook/booklet/reader/gui/infobox/y

@@ -1,0 +1,28 @@
+I
+Ljava/lang/String;
+J
+<init>
+(ILjava/lang/String;J)V
+Code
+LineNumberTable
+LocalVariableTable
+getId
+()Ljava/lang/String;
+getStatus
+()I
+()J
+SourceFile
+java/lang/IllegalArgumentException
+Invalid value for status supplied.
+Subscription id may only be null when status is unknown.
+java/lang/Object
+()V
+(Ljava/lang/String;)V
+f
+K
+l
+VwA
+a
+Lcom/amazon/kindle/kindlet/internal/a/y;
+com/amazon/kindle/kindlet/internal/a/y
+ejb

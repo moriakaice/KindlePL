@@ -1,0 +1,61 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/ItemsToCollectionResources_pt;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+additemstocollection.header.pattern
+{0} ({1,number,integer})
+removeitemsfromcollection.header.pattern
+{0}
+itemstocollection.filter.addremove.format
+0#Adicionar/remover 0 itens|1#Adicionar/remover 1 item|2#Adicionar/remover {0,number,integer} itens
+itemstocollection.add.button.str
+adicionar a esta coleção
+itemstocollection.remove.button.str
+remover desta coleção
+itemstocollection.button.y.offset
+java/lang/Integer
+itemstocollection.button.foreground.color
+itemstocollection.button.background.color
+itemstocollection.add.button.border.width
+itemstocollection.remove.button.border.width
+itemstocollection.erase.cursor.color
+itemstocollection.clear.color
+itemstocollection.add.prompt.text.format
+{0}, adicionar a esta coleção
+itemstocollection.remove.prompt.text.format
+{0}, remover desta coleção
+itemstocollection.checkmark.img
+checkmark.gif
+itemstocollection.checkmark.x.buffer
+itemstocollection.checkmark.y.offset
+itemstocollection.done.button.text
+Concluído
+sound.pause
+, 
+add.itemstocollection.view.sound.template
+adicionar itens à coleção {0}
+itemstocollection.add.sound
+itemstocollection.remove.sound
+itemstocollection.addall.menuitem.label
+Adicionar todos os itens a esta página
+remove.itemscollection.view.sound
+remover itens da coleção
+itemstocollection.addall.menuitem.set.initial.focus
+com/amazon/ebook/booklet/home/foundation/resources/ItemsToCollectionResources_pt
+java/util/ListResourceBundle
+(I)V
+Ljava/awt/Color;
+f
+a
+kig
+K
+com/amazon/ebook/framework/gui/c

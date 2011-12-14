@@ -1,0 +1,10 @@
+replace
+(Lcom/ibm/icu/text/Replaceable;II[I)I
+toReplacerPattern
+(Z)Ljava/lang/String;
+addReplacementSetTo
+(Lcom/ibm/icu/text/UnicodeSet;)V
+SourceFile
+UnicodeReplacer.java
+com/ibm/icu/text/UnicodeReplacer
+java/lang/Object

@@ -1,0 +1,31 @@
+Ljava/lang/String;
+I
+<init>
+(ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+Code
+LineNumberTable
+LocalVariableTable
+getCdeKey
+()Ljava/lang/String;
+getCdeType
+getTitle
+getId
+()I
+SourceFile
+java/lang/IllegalArgumentException
+cdeKey cannot be null
+cdeType cannot be null
+url cannot be null
+title cannot be null
+java/lang/Object
+()V
+(Ljava/lang/String;)V
+f
+K
+l
+L
+a
+Lcom/amazon/kindle/kindlet/internal/portability/net/a/y;
+yb
+com/amazon/kindle/kindlet/internal/portability/net/a/y
+cib

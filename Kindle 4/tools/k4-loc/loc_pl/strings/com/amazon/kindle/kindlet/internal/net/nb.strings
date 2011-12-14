@@ -1,0 +1,34 @@
+Lcom/amazon/kindle/kindlet/net/NetworkDisabledReason;
+Ljava/util/Date;
+Ljava/lang/String;
+<init>
+(Lcom/amazon/kindle/kindlet/net/NetworkDisabledReason;Ljava/util/Date;Ljava/lang/String;)V
+Code
+LineNumberTable
+LocalVariableTable
+getExpiration
+()Ljava/util/Date;
+()Ljava/lang/String;
+()Lcom/amazon/kindle/kindlet/net/NetworkDisabledReason;
+(J)V
+J
+SourceFile
+java/lang/IllegalArgumentException
+networkDisabledReason cannot be null
+expiration cannot be null.
+java/util/Date
+java/lang/Object
+()V
+(Ljava/lang/String;)V
+getTime
+()J
+f
+K
+l
+RXA
+a
+Lcom/amazon/kindle/kindlet/internal/net/nb;
+gzA
+BF
+com/amazon/kindle/kindlet/internal/net/nb
+hpb

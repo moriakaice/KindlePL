@@ -1,0 +1,40 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/browser/resources/UIAppMenuResources_fr;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+open.history.view.label
+Historique
+open.bookmarks.view.label
+Signets
+open.settings.view.label
+Paramètres du navigateur
+bookmark.this.page.label
+Ajouter un signet
+enter.url.label
+Entrer une URL
+article_mode.set.label
+Mode Article
+article_mode.clear.label
+Mode Web
+zoom.in.label
+Zoom avant
+zoom.out.label
+Zoom arrière
+screen.rotation.label
+Rotation de l’écran
+font.size.label
+Modifier la taille de la police
+com/amazon/ebook/booklet/browser/resources/UIAppMenuResources_fr
+java/util/ListResourceBundle
+f
+a
+hqg

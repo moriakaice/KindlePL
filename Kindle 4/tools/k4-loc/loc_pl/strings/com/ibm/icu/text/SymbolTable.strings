@@ -1,0 +1,13 @@
+SYMBOL_REF
+C
+ConstantValue
+lookup
+(Ljava/lang/String;)[C
+lookupMatcher
+(I)Lcom/ibm/icu/text/UnicodeMatcher;
+parseReference
+(Ljava/lang/String;Ljava/text/ParsePosition;I)Ljava/lang/String;
+SourceFile
+SymbolTable.java
+com/ibm/icu/text/SymbolTable
+java/lang/Object

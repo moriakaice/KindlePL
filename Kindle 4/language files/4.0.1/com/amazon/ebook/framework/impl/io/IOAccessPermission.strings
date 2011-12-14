@@ -1,0 +1,12 @@
+<init>
+(Ljava/lang/String;)V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/impl/io/IOAccessPermission;
+Ljava/lang/String;
+SourceFile
+com/amazon/ebook/framework/impl/io/IOAccessPermission
+java/security/BasicPermission
+a
+ivc

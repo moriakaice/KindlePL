@@ -1,0 +1,35 @@
+Ljava/lang/String;
+<init>
+(Lcom/amazon/ebook/booklet/reader/sdk/Position;Lcom/amazon/ebook/booklet/reader/sdk/Position;Ljava/lang/String;Ljava/lang/String;)V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/sdk/Position;
+(Lcom/amazon/ebook/booklet/reader/sdk/Position;Lcom/amazon/ebook/booklet/reader/sdk/Position;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+Lcom/amazon/ebook/booklet/reader/sdk/AnnotationException;
+()Ljava/lang/String;
+equals
+(Ljava/lang/Object;)Z
+Ljava/lang/Object;
+toString
+SourceFile
+com/amazon/ebook/booklet/reader/sdk/AnnotationException
+java/lang/StringBuffer
+ publisherName: 
+ publisherCID: 
+(ILcom/amazon/ebook/booklet/reader/sdk/Position;Lcom/amazon/ebook/booklet/reader/sdk/Position;)V
+(Ljava/lang/String;)V
+java/lang/String
+()V
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+f
+K
+a
+Lcom/amazon/ebook/booklet/reader/sdk/a/d;
+IWB
+xvB
+com/amazon/ebook/booklet/reader/sdk/a/d
+kwd
+gn
+com/amazon/ebook/booklet/reader/sdk/a/h

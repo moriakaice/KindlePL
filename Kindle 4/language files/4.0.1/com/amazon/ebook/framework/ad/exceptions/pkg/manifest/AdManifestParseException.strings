@@ -1,0 +1,21 @@
+ERROR_MESSAGE
+Ljava/lang/String;
+<init>
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/ad/exceptions/pkg/manifest/AdManifestParseException;
+<clinit>
+()V
+SourceFile
+Ad package manifest parse failure
+com/amazon/ebook/framework/ad/exceptions/pkg/manifest/AdManifestParseException
+com/amazon/ebook/framework/ad/exceptions/pkg/manifest/AdManifestException
+(Lcom/amazon/ebook/util/log/b;)V
+a
+Lcom/amazon/ebook/util/log/b;
+aqd
+tKB
+(Ljava/lang/String;)Lcom/amazon/ebook/framework/ad/d/d;
+(Lcom/amazon/ebook/util/log/b;Ljava/lang/String;)V
+com/amazon/ebook/framework/ad/d/d

@@ -1,0 +1,78 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/lab126/booklet/audiblePlayer/resources/AudiblePlayerResources;
+getContents
+()[[Ljava/lang/Object;
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+error.could.not.open.file.caption
+This item could not be opened on your Kindle. 	Plik nie może zostać otwarty na Twoim Kindle'u
+audible.activation.filename
+/mnt/us/system/AudibleActivation.sys
+audible.player.cache.filename
+audiofilecache
+audible.player.play.button.seek.sec
+java/lang/Integer
+audible.player.play.minimum.kb.required.on.disk
+audible.player.position.file.extension
+.pos
+audible.player.booklet.name
+Audible Player
+audible.player.invalid.format.alert.caption
+This item is in an unsupported Audible format and cannot be read on your Kindle. Please use an Audible format 4 or AAX file. 	Ten format pliku Audible nie jest obsługiwany przez Twojego Kindle. Uzyj formatu Audible 4 lub AAX
+audible.player.file.does.not.exist.error.message
+The item you were listening to has been removed and is no longer available on your Kindle. 	Plik został usunięty i nie jest już dostępny.
+audible.player.low.disk.space.error.message
+The selected item could not be opened because you do not have enough Kindle memory available. Please make more Kindle memory available by removing content from Home.	Wybrany utwór nie może zostać otwarty, ponieważ dostępne jest za mało pamięci. Zwolnij miejsce na urządzeniu poprzez usunięcie niektórych książek z katalogu domowego.
+audible.player.control.text.stop
+Stop Zatrzymaj
+audible.player.control.text.play
+Play Odtwarzaj
+audible.player.control.text.default
+audible.content.handler.supported.file.extension.3
+mp3
+audible.content.handler.supported.file.extension.2
+aax
+audible.content.handler.home.progress.meter.max.length.sec
+audible.content.handler.supported.file.extension.1
+aa
+audible.view.sound.template
+audio view for {0}, current position is {1} out of {2} Widok audio dla {0}, obecna pozycja: {1} z {2}
+audible.view.pause.sound
+, 
+audible.view.seconds.sound.format
+java/text/ChoiceFormat
+0#{0} seconds|1#{0} second|2#{0} seconds	0#{0} sekund|1#{0} sekunda|2#{0} sekundy
+audible.view.minutes.sound.format
+0#{0} minutes|1#{0} minute|2#{0} minutes	0#{0} minut|1#{0} minuta|2#{0} minuty
+audible.view.hours.sound.format
+0#{0} hours|1#{0} hour|2#{0} hours	0#{0} godzin|1#{0} godzina|2#{0} godziny
+audible.button.reset.sound
+go back to beginning 	wróć do początku
+audible.button.prevsection.sound
+go to previous section 		wróć do poprzedniego rozdziału
+audible.button.goback30secs.sound
+go back 30 seconds 	cofnij o 30 sekund
+audible.button.play.sound
+play 		odtwórz
+audible.button.pause.sound
+pause 	pauza
+audible.button.goforward30secs.sound
+go forward 30 seconds	do przodu o 30 sekund
+audible.button.gotonextsection.sound
+go to next section	następny rozdział
+com/lab126/booklet/audiblePlayer/resources/AudiblePlayerResources
+java/util/ListResourceBundle
+(Ljava/lang/String;)Ljava/lang/String;
+(I)V
+(Ljava/lang/String;)V
+a
+gbb
+D
+()Lcom/amazon/ebook/framework/device/util/e;
+com/amazon/ebook/framework/device/util/e

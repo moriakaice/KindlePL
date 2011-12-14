@@ -1,0 +1,39 @@
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lcom/ibm/icu/lang/UCharacterDirection;
+toString
+(I)Ljava/lang/String;
+dir
+I
+SourceFile
+UCharacterDirection.java
+Left-to-Right
+Right-to-Left
+European Number
+European Number Separator
+European Number Terminator
+Arabic Number
+Common Number Separator
+Paragraph Separator
+Segment Separator
+Whitespace
+Other Neutrals
+Left-to-Right Embedding
+Left-to-Right Override
+Right-to-Left Arabic
+Right-to-Left Embedding
+Right-to-Left Override
+Pop Directional Format
+Non-Spacing Mark
+Boundary Neutral
+Unassigned
+com/ibm/icu/lang/UCharacterDirection
+java/lang/Object
+com/ibm/icu/lang/UCharacterEnums$ECharacterDirection
+ECharacterDirection
+InnerClasses
+com/ibm/icu/lang/UCharacterEnums

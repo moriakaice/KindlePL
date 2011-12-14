@@ -1,0 +1,86 @@
+EVENT_PLAY_MUSIC
+I
+ConstantValue
+EVENT_STOP_MUSIC
+EVENT_RESUME_MUSIC
+EVENT_PAUSE_MUSIC
+Ljava/util/List;
+Synthetic
+<init>
+Code
+run
+()V
+(I)I
+(I)V
+(I)Ljava/lang/String;
+reset
+ProcessingTask
+java/util/ArrayList
+The playing event list is empty. Waiting...
+java/lang/InterruptedException
+Receive EVENT_PLAY_MUSIC
+Receive EVENT_PAUSE_MUSIC
+Receive EVENT_RESUME_MUSIC
+Receive EVENT_STOP_MUSIC
+Receive an unexpected event!!!
+java/lang/Integer
+java/lang/StringBuffer
+Try to add 
+ to the processing queue...
+The new event 
+ is the same the last processed one. Skipping...
+ is the same the last one in the queue. Skipping...
+Cancel the last EVENT_PLAY_MUSIC
+Cancel the last EVENT_RESUME_MUSIC
+Successfully add event 
+Invalid event
+InnerClasses
+java/lang/Object
+java/lang/Runnable
+getInstance
+java/util/List
+isEmpty
+()Z
+(Ljava/lang/String;)V
+wait
+size
+()I
+remove
+(I)Ljava/lang/Object;
+intValue
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+toString
+()Ljava/lang/String;
+get
+add
+(Ljava/lang/Object;)Z
+notifyAll
+clear
+LocalVariableTable
+f
+Lcom/lab126/booklet/audioPlayer/o;
+K
+l
+L
+Lcom/amazon/ebook/util/log/b;
+m
+a
+J
+Lcom/lab126/booklet/audioPlayer/c;
+aqA
+jRA
+WPA
+(Lcom/lab126/booklet/audioPlayer/o;)V
+com/lab126/booklet/audioPlayer/c
+eYA
+clb
+KA
+FsA
+orA
+nRA
+KrA
+XyA
+(Ljava/lang/String;)Lcom/amazon/ebook/util/log/b;
+com/lab126/booklet/audioPlayer/o
+com/amazon/ebook/util/log/b

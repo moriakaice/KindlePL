@@ -1,0 +1,16 @@
+suppressed
+Z
+<init>
+(Z)V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/xyml/model/DivInstructions;
+()Z
+SourceFile
+com/amazon/ebook/xyml/model/DivInstructions
+java/util/ArrayList
+()V
+im
+a
+xmb

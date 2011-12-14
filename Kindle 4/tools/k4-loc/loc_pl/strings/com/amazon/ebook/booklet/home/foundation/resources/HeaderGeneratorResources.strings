@@ -1,0 +1,70 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/HeaderGeneratorResources;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+home.header.filter.sound
+filter by 
+home.header.filter.prompt.format
+{0}{1}
+home.header.filter.all
+All My Items
+home.header.filter.all.format
+0#Showing All {0,number,integer} Items|1#Showing All {0,number,integer} Item|2#Showing All {0,number,integer} Items
+home.header.filter.books
+Books
+home.header.filter.books.format
+0#Showing {0,number,integer} Books|1#Showing {0,number,integer} Book|2#Showing {0,number,integer} Books
+home.header.filter.collections
+Collections
+home.header.filter.collections.format
+0#Showing {0,number,integer} Collections|1#Showing {0,number,integer} Collection|2#Showing All {0,number,integer} Collections
+home.header.filter.pdocs
+Personal Docs
+home.header.filter.pdocs.format
+0#Showing {0,number,integer} Personal Docs|1#Showing {0,number,integer} Personal Doc|2#Showing {0,number,integer} Personal Docs
+home.header.filter.subs
+Subscriptions
+home.header.filter.subs.format
+0#Showing {0,number,integer} Subscriptions|1#Showing {0,number,integer} Subscription|2#Showing {0,number,integer} Subscriptions
+home.header.no.options
+
+home.header.sort.sound
+sort by 
+home.header.sort.prompt.format
+home.header.sort.author
+Author
+home.header.sort.author.label
+By Author
+home.header.sort.collections
+home.header.sort.collections.label
+By Collections
+home.header.sort.collectionsonly
+Collections Only
+home.header.sort.collectionsonly.label
+By Collections Only
+home.header.sort.recent
+Most Recent First
+home.header.sort.recent.label
+By Most Recent First
+home.header.sort.relevance
+Relevance
+home.header.sort.relevance.label
+By Relevance
+home.header.sort.title
+Title
+home.header.sort.title.label
+By Title
+com/amazon/ebook/booklet/home/foundation/resources/HeaderGeneratorResources
+java/util/ListResourceBundle
+f
+a
+jag

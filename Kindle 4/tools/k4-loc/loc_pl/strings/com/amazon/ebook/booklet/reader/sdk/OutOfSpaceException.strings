@@ -1,0 +1,17 @@
+serialVersionUID
+J
+ConstantValue
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/sdk/OutOfSpaceException;
+getMessage
+()Ljava/lang/String;
+SourceFile
+gui.alert.annotation.out_of_space
+com/amazon/ebook/booklet/reader/sdk/OutOfSpaceException
+com/amazon/ebook/booklet/reader/sdk/AnnotationException
+a
+kce

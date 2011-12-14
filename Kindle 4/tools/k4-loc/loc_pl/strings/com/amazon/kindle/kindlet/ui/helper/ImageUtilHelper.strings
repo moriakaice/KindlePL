@@ -1,0 +1,11 @@
+createCompatibleImage
+(III)Ljava/awt/image/BufferedImage;
+getRotateImageFilter
+(I)Ljava/awt/image/ImageFilter;
+getRotatedImage
+(Ljava/awt/Image;I)Ljava/awt/Image;
+SourceFile
+com/amazon/kindle/kindlet/ui/helper/ImageUtilHelper
+java/lang/Object
+rm
+LocalVariableTable

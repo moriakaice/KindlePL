@@ -1,0 +1,30 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+getContents
+()[[Ljava/lang/Object;
+[Ljava/lang/Object;
+java/lang/Object
+actual_size
+Actual Size
+enable
+Enable
+disable
+Disable
+rotate_to
+Rotate to
+landscape
+Landscape
+portrait
+Portrait
+dithering
+Dithering
+pan_to_next_page
+Pan to Next Page
+com/amazon/ebook/booklet/pictureviewer/resources/PictureViewerResources
+java/util/ListResourceBundle
+Lcom/amazon/ebook/booklet/pictureviewer/resources/PictureViewerResources;
+LocalVariableTable
+f
+a

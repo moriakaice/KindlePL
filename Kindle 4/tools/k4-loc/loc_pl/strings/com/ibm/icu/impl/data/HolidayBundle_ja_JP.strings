@@ -1,0 +1,25 @@
+fHolidays
+[Lcom/ibm/icu/util/Holiday;
+fContents
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lcom/ibm/icu/impl/data/HolidayBundle_ja_JP;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+HolidayBundle_ja_JP.java
+com/ibm/icu/util/Holiday
+com/ibm/icu/util/SimpleHoliday
+National Foundation Day
+[Ljava/lang/Object;
+java/lang/Object
+holidays
+com/ibm/icu/impl/data/HolidayBundle_ja_JP
+java/util/ListResourceBundle
+(IIILjava/lang/String;)V

@@ -1,0 +1,16 @@
+serialVersionUID
+J
+ConstantValue
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/service/media/event/TTSLowBatteryException;
+SourceFile
+Low Battery
+com/amazon/ebook/framework/service/media/event/TTSLowBatteryException
+com/amazon/ebook/framework/service/media/event/TTSException
+(Ljava/lang/String;)V
+a
+auc

@@ -1,0 +1,26 @@
+Synthetic
+<init>
+Code
+LineNumberTable
+LocalVariableTable
+
+InnerClasses
+run
+()V
+SourceFile
+Setting Reader.firstTimeDrawingAfterSwitchView = false
+java/lang/Object
+java/lang/Runnable
+()Z
+(Ljava/lang/String;)V
+(Z)Z
+a
+Lcom/amazon/ebook/booklet/reader/yb;
+Lcom/amazon/ebook/booklet/reader/hb;
+(Lcom/amazon/ebook/booklet/reader/yb;)V
+com/amazon/ebook/booklet/reader/hb
+qm
+h
+()Lcom/amazon/ebook/util/b/e;
+com/amazon/ebook/booklet/reader/yb
+com/amazon/ebook/util/b/e

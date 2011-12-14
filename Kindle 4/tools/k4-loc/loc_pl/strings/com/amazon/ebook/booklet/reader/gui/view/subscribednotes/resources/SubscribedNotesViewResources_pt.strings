@@ -1,0 +1,42 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/view/subscribednotes/resources/SubscribedNotesViewResources_pt;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+spacing.between.widgets
+java/lang/Integer
+text.area.note.format
+java/text/MessageFormat
+{0}: {1}
+system.status.bar.message
+Notas públicas em {0}
+font.style
+steps.away.from.current.font.size
+emphasis.font.style
+emphasis.steps.away.from.current.font.size
+footer.left.margin
+footer.font
+footer.page.message
+Página{0} de {1}
+footer.close.button.text
+Fechar notas públicas
+com/amazon/ebook/booklet/reader/gui/view/subscribednotes/resources/SubscribedNotesViewResources_pt
+java/util/ListResourceBundle
+(I)V
+(Ljava/lang/String;)V
+getInstance
+(IZ)Ljava/awt/Font;
+f
+a
+mke
+dwb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/font/h

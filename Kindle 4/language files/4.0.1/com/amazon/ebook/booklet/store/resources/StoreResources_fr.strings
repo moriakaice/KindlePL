@@ -1,0 +1,32 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/store/resources/StoreResources_fr;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+store.background.color
+searchbar.store.label
+ la boutique kindle
+battery.low.msg
+Votre batterie est faible. Rechargez votre Kindle. Pour prolonger votre lecture, essayez de désactiver le réseau sans fil.
+ad.details.error.msg
+Les détails concernant cette publicité ne sont plus disponibles. Activez le sans fil pour recevoir le dernier contenu à jour.
+ad.details.error.msg.connected
+Les détails concernant cette publicité ne sont plus disponibles.
+pendingPurchaseOverlay.msg.pattern
+{0,choice,0#Vous n’avez pas de commandes en attente pour cette offre spéciale.|1#Vous avez déjà une commande en attente pour cette offre spéciale.|2#Vous avez déjà {0,number,integer} commandes en attente pour cette offre spéciale.}
+com/amazon/ebook/booklet/store/resources/StoreResources_fr
+java/util/ListResourceBundle
+java/awt/Color
+WHITE
+Ljava/awt/Color;
+f
+a
+iod

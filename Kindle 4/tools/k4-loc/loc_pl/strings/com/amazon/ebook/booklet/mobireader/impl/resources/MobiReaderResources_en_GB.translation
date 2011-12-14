@@ -1,0 +1,5 @@
+Server inserted empty string as updated title	Serwer wprowadził pusty string jako zaktualizowany tytuł
+1#Zoom Image|2#Zoom Image {0,number,integer}	1#Przybliż Obrazek|2#Przybliż Obrazek {0,number,integer}
+1#Follow Link|2#Follow Link {0,number,integer}	1#Przejdź do odnośnika|2#Przejdź do odnośnika {0,number,integer}
+Unable to retrieve the definition from the default {0} dictionary, please go to Settings and choose a different dictionary.	Nie można było znaleźć definicji w domyślnym {0} słowniku, przejdź do ustawień i wybierz inny słownik.
+Unable to open the default dictionary, please go to Settings and choose a different dictionary.	Nie można otworzyć domyślnego słownika, przejdź do ustawień i wybierz inny słownik.

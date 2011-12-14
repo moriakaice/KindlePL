@@ -1,0 +1,63 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/view/resources/PrettyAnnotationWidgetResources_pt;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+margin.left
+java/lang/Integer
+margin.top
+location.margin
+length.dog.ear
+horizontal_gap
+label.bookmark
+Seu marcador de página
+label.note
+Sua nota
+label.highlight
+Seu destaque
+label.subscribed.note
+Nota
+label.subscribed.highlight
+Destaque
+format.subscribed_note
+Nota: {0}
+format.subscribed_highlight
+Destaque: {0}
+format.location
+Posição {0}
+format.popular.highlight.contributor
+{0,number,integer} marcadores
+format.page
+Página {0}
+format.page_range.limits
+format.page_range.limits.spoken
+font.main
+format.page_range.choices
+java/lang/String
+Página sem número (Posição {1})
+Página {1}
+Páginas {1}–{2}
+format.page_range.choices.spoken
+Unnumbered Page (Location {1})
+Page {1}
+Pages {1} to {2}
+font.captions
+com/amazon/ebook/booklet/reader/gui/view/resources/PrettyAnnotationWidgetResources_pt
+java/util/ListResourceBundle
+(I)V
+getInstance
+(I)Ljava/awt/Font;
+f
+a
+yne
+Evb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/font/h

@@ -1,0 +1,16 @@
+<init>
+(Ljava/lang/String;)V
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lcom/amazon/kindle/kindlet/security/CorruptSecureStorageException;
+msg
+Ljava/lang/String;
+(Ljava/lang/String;Ljava/lang/Throwable;)V
+ex
+Ljava/lang/Throwable;
+SourceFile
+com/amazon/kindle/kindlet/security/CorruptSecureStorageException
+java/lang/RuntimeException
+yib

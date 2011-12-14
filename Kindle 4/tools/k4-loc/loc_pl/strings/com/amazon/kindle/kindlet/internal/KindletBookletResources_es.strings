@@ -1,0 +1,39 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/kindle/kindlet/internal/KindletBookletResources_es;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+kindlet.crash.startup.message.pattern
+Se produjo un error al intentar cerrar este contenido. Si el problema persiste, ponte en contacto con Atención al cliente de Kindle: {0}.
+kindlet.crash.shutdown.message.pattern
+kindlet.crash.general.message.pattern
+Se produjo un error con este contenido. Si el problema persiste, ponte en contacto con Atención al cliente de Kindle: {0}.
+kindlet.remove.message
+El contenido que habías abierto ha dejado de estar disponible porque se ha eliminado del Kindle mientras este se encontraba en modo de unidad USB. Para acceder a ese contenido, vuelve a descargarlo desde Contenido archivado.
+kindlet.restart.framework.message
+El contenido no se cerró correctamente; debes reiniciar el Kindle. Si no cierras la ventana de este mensaje, el dispositivo se reiniciará en {0,number,integer} segundos.
+kindlet.restart.framework.button
+reiniciar
+kindlet.restartnow.framework.message
+Se ha producido un error con el contenido. El Kindle se reiniciará en {0,number,integer} segundos.
+kindlet.upgrade.required.pattern
+El contenido que has intentado abrir requiere una versión más reciente del software de Kindle. Actualiza el Kindle desde Configuración o desde la página web de asistencia para dispositivos Kindle. Si necesitas más ayuda, ponte en contacto con Atención al cliente de Kindle: {0}.
+kindlet.crash.lowmemory.message
+Se produjo un error con el contenido. Se cerrará el contenido y puede que se reinicie el Kindle.
+kindlet.crash.unknown
+Se produjo un error; el contenido va a cerrarse.
+kindlet.capability.fail.pattern
+El Kindle no cumple los requisitos mínimos para procesar este contenido. Ponte en contacto con el servicio de atención al cliente de Kindle: {0}.
+com/amazon/kindle/kindlet/internal/KindletBookletResources_es
+java/util/ListResourceBundle
+f
+a
+mwb

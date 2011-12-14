@@ -1,0 +1,84 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/view/periodicals/sectionlistview/resources/SectionListViewResources_pt;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+widget.masthead.height
+java/lang/Integer
+widget.masthead.image.height
+widget.masthead.image.width
+widget.masthead.font
+widget.footer.margin.top
+widget.footer.height
+widget.margin.table.footer
+widget.table.margin.top
+widget.table.section.margin.right
+widget.table.article.margin.left
+widget.sectionIndicator.margin.right
+widget.articleInfo.font
+widget.sectionInfo.font
+widget.articleInfo.height
+widget.sectionInfo.height
+widget.articleInfo.cursor.clearance
+widget.sectionInfo.cursor.clearance
+view.margin.right
+view.margin.left
+view.systemStatusBar.text
+java/text/MessageFormat
+Seções e artigos  •  {0}
+view.articleInfo.text
+{0,choice,0#Artigo|0<Artigos} {1} {0,choice,0#|0<- {2} }de {3}
+view.sectionInfo.text
+{0,choice,0#Seção|0<Seções} {1} {0,choice,0#|0<- {2} }de {3}
+view.accessibility.article.itemInfo.format
+Item {0} de {1}
+view.accessibility.article.countInfo.format
+Exibindo título do {0,choice,0#artigo|0<títulos} {1} {0,choice,0#|0<para {2} }de {3}
+view.accessibility.section.countInfo.format
+Exibindo {0,choice,0#seção|0<seções} {1} {0,choice,0#|0<para {2} }de {3}
+view.accessibility.section.titleInfo.format
+Item da {0} {1}seção {2} de{3}
+view.accessibility.viewOpen
+Exibir seções e artigos
+widget.sectionControl.height
+view.sectionControl.previous.title
+anterior
+view.sectionControl.next.title
+próximo
+view.sectionControl.accessibility.prev.title
+seções anteriores
+view.sectionControl.accessibility.next.title
+próximas seções
+view.articleControl.accessibility.prev.title
+artigos anteriores
+view.articleControl.accessibility.next.title
+próximos artigos
+view.color.background
+view.color.foreground
+footer.label
+Exibir lista de artigos
+max.nonflashing.article.pane.updates
+max.nonflashing.section.pane.updates
+com/amazon/ebook/booklet/reader/gui/view/periodicals/sectionlistview/resources/SectionListViewResources_pt
+java/util/ListResourceBundle
+(I)V
+getInstance
+(IZZ)Ljava/awt/Font;
+(Ljava/lang/String;)V
+Ljava/awt/Color;
+f
+a
+eje
+K
+Kwb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/gui/c
+com/amazon/ebook/framework/font/h

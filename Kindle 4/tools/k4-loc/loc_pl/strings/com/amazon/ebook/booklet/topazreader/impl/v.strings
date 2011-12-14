@@ -1,0 +1,16 @@
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+I
+SourceFile
+java/lang/Object
+com/amazon/ebook/booklet/topazreader/impl/TopazPosition
+MoB
+(ILcom/amazon/ebook/booklet/topazreader/impl/x;)Lcom/amazon/ebook/booklet/topazreader/impl/TopazPosition;
+a
+Lcom/amazon/ebook/booklet/topazreader/impl/x;
+Lcom/amazon/ebook/booklet/topazreader/impl/v;
+com/amazon/ebook/booklet/topazreader/impl/v
+fpd

@@ -1,0 +1,22 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/ItemsCollectionsResources_es;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+itemscollections.filter.format
+0#Mostrando {0,number,integer} colecciones|1#Mostrando {0,number,integer} colección|2#Mostrando {0,number,integer} colecciones
+itemscollections.view.sound
+Ver colecciones de un solo elemento
+com/amazon/ebook/booklet/home/foundation/resources/ItemsCollectionsResources_es
+java/util/ListResourceBundle
+f
+a
+sig

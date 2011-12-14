@@ -1,0 +1,50 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/UpdatingActiveContentResources_es;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+update.dialog.title.application
+Actualizar
+update.dialog.text.application
+¿Deseas actualizar a la versión más reciente?
+update.dialog.additionalheight
+java/lang/Integer
+update.dialog.releasenotes
+ver detalles
+update.dialog.releasenotes.highlight.height
+update.dialog.releasenotes.font
+update.dialog.releasenotes.margin.top
+update.dialog.releasenotes.margin.left
+update.connect.disallowed.dialog.title
+Se necesita conexión inalámbrica
+update.connect.disallowed.dialog.text
+No se puede actualizar Active Content sin una conexión inalámbrica. Activa la conexión y vuelve a intentarlo.
+update.connect.error.dialog.title
+No se puede establecer la conexión
+update.connect.error.dialog.text
+El Kindle no puede establecer la conexión en este momento. Vuelve a intentarlo más tarde.
+updating.message.header
+Actualizando...
+updating.message.full
+No podrás acceder a este contenido hasta que finalice la actualización. Puedes volver a Inicio o, si prefieres seguir en esta página, el objeto actualizado se abrirá automáticamente.
+updating.view.spoken
+Now updating the selected item. You will not be able to open this item from Home until the update is complete. You may return to Home, or, if you choose to stay on this page, the updated item will open automatically.
+com/amazon/ebook/booklet/home/foundation/resources/UpdatingActiveContentResources_es
+java/util/ListResourceBundle
+(I)V
+getInstance
+(IZZ)Ljava/awt/Font;
+f
+a
+pzf
+Kwb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/font/h

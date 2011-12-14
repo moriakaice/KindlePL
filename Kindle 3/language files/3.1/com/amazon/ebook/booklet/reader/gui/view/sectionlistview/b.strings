@@ -1,0 +1,17 @@
+<init>
+Code
+LineNumberTable
+LocalVariableTable
+SectionListViewSelectionManager
+InnerClasses
+SourceFile
+(Lcom/amazon/ebook/framework/gui/a/c;Lcom/amazon/ebook/framework/gui/a/d;Lcom/amazon/ebook/framework/gui/a/b;)V
+a
+Lcom/amazon/ebook/booklet/reader/gui/view/sectionlistview/b;
+Lcom/amazon/ebook/framework/gui/a/c;
+Lcom/amazon/ebook/framework/gui/a/d;
+Lcom/amazon/ebook/framework/gui/a/b;
+com/amazon/ebook/booklet/reader/gui/view/sectionlistview/b
+pvc
+com/amazon/ebook/booklet/reader/gui/view/sectionlistview/q
+com/amazon/ebook/framework/gui/a/i

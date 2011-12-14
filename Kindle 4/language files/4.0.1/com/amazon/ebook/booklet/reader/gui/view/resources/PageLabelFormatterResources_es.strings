@@ -1,0 +1,30 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/view/resources/PageLabelFormatterResources_es;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+format.location
+Posición {0}
+format.page
+Página {0}
+format.page_and_location
+Página {0} • Posición {1}
+format.page_and_location.spoken
+Página {0}, Posición {1}
+format.pages
+Páginas {0}–{1}
+page.unknown
+Página sin número (Posición {0})
+com/amazon/ebook/booklet/reader/gui/view/resources/PageLabelFormatterResources_es
+java/util/ListResourceBundle
+f
+a
+eke

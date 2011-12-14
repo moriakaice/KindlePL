@@ -1,0 +1,27 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/PurchaseResources_en_GB;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+pendingPurchasesOverlay.overlay.width
+java/lang/Integer
+pendingPurchasesOverlay.header.text
+Pending Orders
+pendingPurchasesOverlay.body.text
+You currently have 1 or more pending AmazonLocal orders. Do you wish to review your orders now?
+pendingPurchasesOverlay.button.label.later
+later
+com/amazon/ebook/booklet/home/foundation/resources/PurchaseResources_en_GB
+java/util/ListResourceBundle
+(I)V
+f
+a
+omc

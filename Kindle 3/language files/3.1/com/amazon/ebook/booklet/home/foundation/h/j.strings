@@ -1,0 +1,47 @@
+Ljava/lang/String;
+I
+Synthetic
+<init>
+Code
+LineNumberTable
+LocalVariableTable
+HistoryItem
+InnerClasses
+toString
+()Ljava/lang/String;
+(Ljava/lang/String;)V
+Ljava/lang/Exception;
+[Ljava/lang/String;
+SourceFile
+
+java/lang/StringBuffer
+viewName=
+; overallIndex=
+; pageIndex=
+; metadata=
+:::
+java/lang/Exception
+java/lang/Object
+()V
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(I)Ljava/lang/StringBuffer;
+java/lang/String
+length
+()I
+(Ljava/lang/String;Ljava/lang/String;I)[Ljava/lang/String;
+java/lang/Integer
+parseInt
+(Ljava/lang/String;)I
+a
+Lcom/amazon/ebook/booklet/home/foundation/h/k;
+A
+b
+B
+c
+Lcom/amazon/ebook/booklet/home/foundation/h/j;
+(Lcom/amazon/ebook/booklet/home/foundation/h/k;Ljava/lang/String;)V
+com/amazon/ebook/booklet/home/foundation/h/j
+dlc
+com/amazon/ebook/booklet/home/foundation/h/k
+com/amazon/ebook/util/text/f

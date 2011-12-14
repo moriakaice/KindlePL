@@ -1,0 +1,44 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/MainResources_en_GB;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+main.view.row.height.default
+java/lang/Integer
+main.menu.item.viewdownloaditem.label
+View Downloading Items
+main.menu.initial.focus.index
+main.list.item.action.delays
+main.list.item.screen.cursor.x
+main.list.item.screen.cursor.y
+main.list.item.screen.cursor.margin.x
+main.list.item.sound.pause
+, 
+main.list.item.sound.space
+ 
+main.list.item.position.sound.template
+item {0,number,integer} of {1,number,integer}
+main.list.item.cursor.height
+main.list.item.sound.collection
+collection
+main.list.item.sound.items
+0#items|1#item|2#items
+main.view.header.filter.all.format
+0#Showing {0,number,integer} Items|1#Showing {0,number,integer} Item|2#Showing {0,number,integer} Items
+main.view.sound
+Home
+main.view.settings.oobe.wifi.overlay.width
+com/amazon/ebook/booklet/home/foundation/resources/MainResources_en_GB
+java/util/ListResourceBundle
+(I)V
+f
+a
+fbg

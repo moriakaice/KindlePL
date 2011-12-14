@@ -1,0 +1,106 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/ExperimentalResources_fr;
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+exp.label
+Fonctions expérimentales
+exp.text
+We are working on these experimental prototypes. Do you find them useful? Should we continue working on them? We would love to hear what you think, so please send your comments to {0}
+exp.text.message.format
+java/text/MessageFormat
+Nous travaillons sur ces prototypes expérimentaux. Les trouvez-vous utiles ? Devons-nous continuer à travailler dessus ? Nous aimerions beaucoup connaître votre avis ; pour cela, rendez-vous à l’adresse www.kindle.com/support et partagez vos impressions.
+exp.font
+exp.text.x
+java/lang/Integer
+exp.text.margin
+exp.text.spacing
+exp.text.offset
+exp.widget.label.font
+exp.widget.desc.font
+exp.widget.link.font
+exp.widget.desc.y
+exp.widget.desc.spacing
+exp.widget.base.buffer
+exp.widget.left.margin
+exp.widget.right.margin
+exp.widget.offset
+exp.link.line.offset
+feedback.email
+kindle-feedback@amazon.com
+exp.cursor.disabled.color
+bw.widget.label
+Navigateur Web
+bw.widget.cursor.label
+Lancer le navigateur
+bw.widget.desc
+Select this item to launch Web Browser and browse, choose a bookmark, or enter a URL.
+bw.widget.desc.pattern
+Nous travaillons à l’élaboration d’un navigateur Web expérimental. Cela vous semble-t-il utile ? Devons-nous continuer à y travailler ? Nous aimerions beaucoup connaître votre avis ; pour cela, rendez-vous à l’adresse www.kindle.com/support et partagez vos impressions.
+mp3.widget.label
+Lire un fichier MP3
+mp3.widget.cursor.label.play
+lire de la musique
+mp3.widget.cursor.label.pause
+marquer une pause dans la musique
+mp3.widget.desc
+Sélectionnez cet élément pour écouter de la musique ou des podcasts pendant votre lecture. Maintenez la touche ’ALT’ enfoncée et appuyez sur la barre d’espacement pour arrêter ou démarrer la lecture, ou sur la touche ’F’ pour passer à la piste suivante. Vous devez copier les fichiers MP3 de votre ordinateur dans le dossier ’music’ de votre Kindle pour utiliser cette fonction.
+mp3.not.found.alert.text
+Aucun fichier MP3 détecté~~~~Pour lire des fichiers MP3, vous devez tout d’abord les copier de votre ordinateur vers le dossier « music » de votre Kindle.
+t2s.widget.label
+Livre-audio
+t2s.widget.cursor.label
+
+t2s.widget.desc
+Démarrez la fonction Livre-audio dans le menu Texte pendant votre lecture afin que votre Kindle commence à vous faire la lecture (si les droits nécessaires vous ont été accordés par l’administrateur des droits). Maintenez la touche ’Maj’ enfoncée et appuyez sur la touche ’SYM’ pour arrêter ou démarrer la lecture.
+exp.view.sound
+Éléments expérimentaux
+exp.pause.sound
+, 
+exp.menu.initial.focus
+exp.widget.height.default
+exp.widget.cursor.height
+exp.widget.cursor.draw.color
+exp.widget.cursor.erase.color
+experimental.list.item.prompt.format
+{0}, {1}
+kindledx-feedback@amazon.com
+kindle-feedback@amazon.com or kindle-feedback@amazon.co.uk
+com/amazon/ebook/booklet/home/foundation/resources/ExperimentalResources_fr
+com/amazon/ebook/framework/device/util/DeviceResourceBundle
+(Ljava/lang/String;)V
+getInstance
+(IZZ)Ljava/awt/Font;
+(I)V
+Ljava/awt/Color;
+f
+K
+l
+L
+I
+m
+a
+J
+F
+e
+GMb
+ANb
+inb
+aMb
+Dnb
+vOb
+TMb
+cob
+EMb
+tcg
+Kwb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/gui/c
+com/amazon/ebook/framework/font/h

@@ -1,0 +1,17 @@
+serialVersionUID
+J
+ConstantValue
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+AsyncSearchCancelledException
+InnerClasses
+Lcom/amazon/ebook/booklet/search/Model$AsyncSearchCancelledException;
+SourceFile
+com/amazon/ebook/booklet/search/Model$AsyncSearchCancelledException
+java/lang/Exception
+a
+rqc
+com/amazon/ebook/booklet/search/bc

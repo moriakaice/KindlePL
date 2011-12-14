@@ -1,0 +1,22 @@
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+<clinit>
+SourceFile
+java/lang/IllegalArgumentException
+parser cannot be null
+java/lang/Object
+(Ljava/lang/String;)V
+f
+Lcom/amazon/kindle/kindlet/internal/net/p;
+YwA
+(Lcom/amazon/kindle/kindlet/internal/net/p;)V
+a
+tWA
+()Lcom/amazon/kindle/kindlet/internal/net/p;
+Lcom/amazon/kindle/kindlet/internal/net/o;
+com/amazon/kindle/kindlet/internal/net/o
+atb
+com/amazon/kindle/kindlet/internal/net/kb

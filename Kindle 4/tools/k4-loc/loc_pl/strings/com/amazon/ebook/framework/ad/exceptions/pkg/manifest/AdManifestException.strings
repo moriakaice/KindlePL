@@ -1,0 +1,13 @@
+<init>
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/ad/exceptions/pkg/manifest/AdManifestException;
+Ljava/lang/String;
+SourceFile
+com/amazon/ebook/framework/ad/exceptions/pkg/manifest/AdManifestException
+com/amazon/ebook/framework/ad/exceptions/pkg/InvalidAdPackageException
+(Lcom/amazon/ebook/util/log/b;Ljava/lang/String;)V
+a
+Lcom/amazon/ebook/util/log/b;
+bkd

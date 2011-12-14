@@ -1,0 +1,186 @@
+I
+ConstantValue
+Ljava/util/List;
+Ljava/awt/Rectangle;
+Z
+J
+DriverMode
+InnerClasses
+Code
+LineNumberTable
+LocalVariableTable
+f
+getInstance
+<init>
+()V
+()Z
+(Ljava/awt/Rectangle;Z)V
+Ljava/lang/StringBuffer;
+([Ljava/awt/Rectangle;IZ)V
+i
+[Ljava/awt/Rectangle;
+()I
+(I)V
+t
+Ljava/lang/Throwable;
+(IZ)V
+clearScreen
+Synthetic
+access$100
+<clinit>
+SourceFile
+FrameBuffer is NULL.  Can not init.
+FrameBufferManager not initialized.
+java/util/ArrayList
+update() caching (yes flash) 
+FULL FLASH FB UPDATE
+partialUpdate() caching (no flash) 
+PARTIAL NON-FLASH FB UPDATE
+updateGL16() caching (yes flash) 
+java/lang/StringBuffer
+areaUpdate()caching: rect:
+NULL
+ flash:
+ total rect: 
+AREA CONVERTED TO FULL FLASH FB UPDATE RECT=
+AREA CONVERTED TO PARTIAL NON-FLASH FB UPDATE RECT=
+unknown driver mode!
+AREA FB UPDATE FLASH=
+,RECT=
+,RECT= NULL: No update took place
+Unknown driver mode!
+fxUpdate2()caching: rectCount:
+ effect:
+ total rects: 
+FX FB UPDATE FLASH=
+beginUpdate() 
+endUpdate() called during delayForceUpdate.  Aborting 
+endUpdate() called more times than beginUpdate() 
+endUpdate() Refcount is 
+endUpdate() collapsed 
+ screen updates into 1
+java/awt/Rectangle
+cancelUpdate() 
+forceUpdate()
+forceUpdate() called during delayForceUpdate.  Aborting 
+delayForceUpdate()
+delayForceUpdate() called during delayForceUpdate.  Aborting 
+java/lang/Thread
+
+java/lang/Throwable
+Calling forceUpdate() Delay for last set of calls  Time: 
+FrameBufferManagerImpl
+StackError
+Fatal
+java/lang/Object
+(Ljava/lang/String;)V
+getBounds
+()Ljava/awt/Rectangle;
+add
+(Ljava/awt/Rectangle;)V
+append
+(Ljava/lang/Object;)Ljava/lang/StringBuffer;
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(Z)Ljava/lang/StringBuffer;
+toString
+()Ljava/lang/String;
+width
+height
+intersection
+(Ljava/awt/Rectangle;)Ljava/awt/Rectangle;
+(Ljava/awt/Rectangle;I)V
+java/util/List
+(Ljava/lang/Object;)Z
+(I)Ljava/lang/StringBuffer;
+size
+clear
+toArray
+([Ljava/lang/Object;)[Ljava/lang/Object;
+java/lang/System
+currentTimeMillis
+()J
+(Ljava/lang/Runnable;)V
+start
+(J)Ljava/lang/StringBuffer;
+(Ljava/lang/String;[Ljava/lang/String;)V
+Lcom/amazon/ebook/framework/gui/foundation/ub;
+K
+Lcom/amazon/ebook/framework/impl/b/y;
+l
+Lcom/amazon/ebook/pl/service/i;
+L
+m
+a
+F
+e
+g
+k
+h
+j
+D
+b
+M
+A
+c
+C
+B
+d
+G
+E
+H
+Lcom/amazon/ebook/util/log/w;
+n
+Lcom/amazon/ebook/util/log/b;
+Rub
+(Lcom/amazon/ebook/framework/impl/b/y;Z)Z
+()Lcom/amazon/ebook/util/log/b;
+vTb
+(Lcom/amazon/ebook/framework/impl/b/y;)Z
+ETb
+tTb
+(Lcom/amazon/ebook/framework/gui/foundation/ub;)V
+Vsb
+Mtb
+utb
+wtb
+Ysb
+Dtb
+Htb
+oSb
+Tb
+Otb
+OD
+nd
+UB
+qsb
+ec
+(Lcom/amazon/ebook/pl/service/i;)V
+()Lcom/amazon/ebook/framework/impl/b/y;
+Dub
+com/amazon/ebook/framework/impl/b/y
+vfd
+(Ljava/lang/String;)Lcom/amazon/ebook/util/log/b;
+(Lcom/amazon/ebook/framework/impl/b/y;)V
+PKb
+(Lcom/amazon/ebook/util/log/w;[Ljava/lang/String;Ljava/lang/String;Ljava/lang/Throwable;)V
+oJb
+Ud
+alb
+Lcom/amazon/ebook/util/log/p;
+Utb
+()Lcom/amazon/ebook/util/kgt/h;
+YWb
+()Lcom/amazon/ebook/util/kgt/d;
+eYA
+clb
+hkb
+com/amazon/ebook/framework/gui/foundation/ob
+com/amazon/ebook/util/log/p
+com/amazon/ebook/framework/impl/o
+com/amazon/ebook/pl/service/i
+com/amazon/ebook/util/kgt/h
+com/amazon/ebook/util/kgt/d
+com/amazon/ebook/util/log/b
+com/amazon/ebook/framework/gui/foundation/ub
+com/amazon/ebook/util/log/w
+com/amazon/ebook/framework/impl/b/o

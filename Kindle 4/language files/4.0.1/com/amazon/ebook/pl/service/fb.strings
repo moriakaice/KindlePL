@@ -1,0 +1,15 @@
+()[B
+getDescription
+()Ljava/lang/String;
+getMimeType
+getType
+()I
+SourceFile
+ID3v2AttachedImage
+InnerClasses
+java/lang/Object
+LH
+com/amazon/ebook/pl/service/fb
+qd
+com/amazon/ebook/pl/service/z
+LocalVariableTable

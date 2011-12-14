@@ -1,0 +1,88 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/resources/GlobalMenuItems_es;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+wireless.switch.on
+Activar Wi-Fi
+wireless.switch.off
+Desactivar Wi-Fi
+store.body
+Visita la Tienda Kindle
+settings.body
+Configuración
+view.special.offers.body
+Ver ofertas especiales
+exp.body
+Experimental
+reset.body
+Restablecer
+factory.reset.body
+Predeterminados
+factory.reset.confirm.body
+Usted está a punto de restablecer los valores predeterminados de fábrica en su Kindle, lo que eliminará todos los diccionarios y el contenido descargado o transferido al dispositivo. Usted aún podrá descargar los elementos archivados. ¿Desea continuar?
+shipping.mode.failed.alert
+Error 2: faltan diccionarios. No se puede activar el modo de envío.
+command.line.public.symbol
+@
+command.line.semiprivate.symbol
+;
+command.line.private.symbol
+~
+search.body
+Buscar
+check.body
+Sincronizar y detectar contenido
+home.body
+Inicio
+sove.for.later.body
+Contenido "Guardar para más tarde"
+lock.rotation
+bloqueado
+unlock.rotation
+desbloqueado
+rotation.auto
+automático
+rotation.landscape
+horizontal
+rotation.portrait
+vertical
+rotation.landscape.imagename
+ScrnRotate_Icon_Landscpe1.gif
+rotation.portrait.imagename
+ScrnRotate_Icon_Portrait1.gif
+rotation.invlandscape.imagename
+ScrnRotate_Icon_Landscpe2.gif
+rotation.invportrait.imagename
+ScrnRotate_Icon_Portrait2.gif
+rotation.landscape.disabled.imagename
+ScrnRotate_Icon_Landscpe1b.gif
+rotation.portrait.disabled.imagename
+ScrnRotate_Icon_Portrait1b.gif
+rotation.invlandscape.disabled.imagename
+ScrnRotate_Icon_Landscpe2b.gif
+rotation.invportrait.disabled.imagename
+ScrnRotate_Icon_Portrait2b.gif
+rotation.landscape.spoken
+landscape
+rotation.portrait.spoken
+portrait
+rotation.invlandscape.spoken
+inverted landscape
+rotation.invportrait.spoken
+inverted portrait
+rotation.header
+Rotación
+com/amazon/ebook/framework/resources/GlobalMenuItems_es
+java/util/ListResourceBundle
+f
+a
+nuc

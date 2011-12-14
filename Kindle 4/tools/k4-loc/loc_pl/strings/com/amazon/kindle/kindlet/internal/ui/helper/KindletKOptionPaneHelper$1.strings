@@ -1,0 +1,17 @@
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+
+InnerClasses
+Lcom/amazon/kindle/kindlet/internal/ui/helper/KindletKOptionPaneHelper$1;
+SourceFile
+java/lang/Integer
+com/amazon/kindle/kindlet/internal/ui/helper/KindletKOptionPaneHelper$1
+java/util/HashSet
+(I)V
+add
+(Ljava/lang/Object;)Z
+a
+fcb

@@ -1,0 +1,208 @@
+options
+I
+isLogical
+Z
+LENGTH_GROW_SHRINK
+ConstantValue
+LENGTH_FIXED_SPACES_NEAR
+LENGTH_FIXED_SPACES_AT_END
+LENGTH_FIXED_SPACES_AT_BEGINNING
+LENGTH_MASK
+TEXT_DIRECTION_LOGICAL
+TEXT_DIRECTION_VISUAL_LTR
+TEXT_DIRECTION_MASK
+LETTERS_NOOP
+LETTERS_SHAPE
+LETTERS_UNSHAPE
+LETTERS_SHAPE_TASHKEEL_ISOLATED
+LETTERS_MASK
+DIGITS_NOOP
+DIGITS_EN2AN
+DIGITS_AN2EN
+DIGITS_EN2AN_INIT_LR
+DIGITS_EN2AN_INIT_AL
+DIGITS_MASK
+DIGIT_TYPE_AN
+DIGIT_TYPE_AN_EXTENDED
+DIGIT_TYPE_MASK
+IRRELEVANT
+LAMTYPE
+ALEFTYPE
+LINKR
+LINKL
+LINK_MASK
+irrelevantPos
+[I
+convertNormalizedLamAlef
+[C
+araLink
+presLink
+convertFEto06
+shapeTable
+[[[I
+class$com$ibm$icu$text$ArabicShaping
+Ljava/lang/Class;
+Synthetic
+shape
+([CII[CII)I
+Code
+LineNumberTable
+LocalVariableTable
+this
+Lcom/ibm/icu/text/ArabicShaping;
+source
+sourceStart
+sourceLength
+dest
+destStart
+destSize
+Exceptions
+([CII)V
+start
+length
+(Ljava/lang/String;)Ljava/lang/String;
+text
+Ljava/lang/String;
+src
+len
+<init>
+(I)V
+equals
+(Ljava/lang/Object;)Z
+rhs
+Ljava/lang/Object;
+hashCode
+()I
+toString
+()Ljava/lang/String;
+buf
+Ljava/lang/StringBuffer;
+shapeToArabicDigitsWithContext
+([CIICZ)V
+e
+Ljava/io/IOException;
+ch
+C
+i
+digitBase
+lastStrongWasAL
+bdp
+Lcom/ibm/icu/impl/UBiDiProps;
+invertBuffer
+temp
+j
+buffer
+changeLamAlef
+(C)C
+specialChar
+(C)I
+getLink
+countSpacesLeft
+([CII)I
+count
+countSpacesRight
+isTashkeelChar
+(C)Z
+isAlefChar
+isLamAlefChar
+isNormalizedLamAlefChar
+calculateSize
+removeLamAlefSpaces
+w
+r
+lenOptions
+expandLamAlef
+([CIII)I
+lacount
+normalize
+shapeUnicode
+([CIIII)I
+wLamalef
+flag
+tashkeelFlag
+lamalef_found
+currLink
+nextLink
+prevLink
+lastLink
+lastPos
+nx
+nw
+deShapeUnicode
+lamalef_count
+internalShape
+digitDelta
+digitTop
+outputSize
+class$
+(Ljava/lang/String;)Ljava/lang/Class;
+x1
+Ljava/lang/ClassNotFoundException;
+x0
+<clinit>
+()V
+SourceFile
+ArabicShaping.java
+java/lang/ClassNotFoundException
+java/lang/NoClassDefFoundError
+java/lang/IllegalArgumentException
+source can not be null
+java/lang/StringBuffer
+bad source start (
+) or length (
+) for buffer of length 
+null dest requires destSize == 0
+bad dest start (
+) or size (
+com/ibm/icu/text/ArabicShapingException
+Cannot shape in place with length option grow/shrink.
+java/lang/String
+bad DIGITS options
+com.ibm.icu.text.ArabicShaping
+com/ibm/icu/text/ArabicShaping
+grow/shrink
+spaces near
+spaces at end
+spaces at beginning
+, logical
+, visual
+, no letter shaping
+, shape letters
+, shape letters tashkeel isolated
+, unshape letters
+, no digit shaping
+, shape digits to AN
+, shape digits to EN
+, shape digits to AN contextually: default EN
+, shape digits to AN contextually: default AL
+, standard Arabic-Indic digits
+, extended Arabic-Indic digits
+]
+java/io/IOException
+java/util/MissingResourceException
+(BidiProps)
+
+no space for lamalef
+not enough room for result data
+[[I
+java/lang/Object
+java/lang/Class
+forName
+getMessage
+(Ljava/lang/String;)V
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(I)Ljava/lang/StringBuffer;
+toCharArray
+()[C
+getClass
+()Ljava/lang/Class;
+(C)Ljava/lang/StringBuffer;
+com/ibm/icu/impl/UBiDiProps
+getSingleton
+()Lcom/ibm/icu/impl/UBiDiProps;
+(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+(I)I
+java/lang/System
+arraycopy
+(Ljava/lang/Object;ILjava/lang/Object;II)V

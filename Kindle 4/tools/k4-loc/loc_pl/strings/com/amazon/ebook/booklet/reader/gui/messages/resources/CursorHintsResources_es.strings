@@ -1,0 +1,93 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/messages/resources/CursorHintsResources_es;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+annotation.disable
+Anotaciones desactivadas
+annotation.disable.sample
+Anotaciones desactivadas para el contenido de muestra
+annotation.disable.feed
+Anotaciones desactivadas para blogs
+annotation.disable.low.disk.space
+Notas desactivadas; memoria completa
+add.note
+Comienza a escribir para crear una nota
+add.note.nokeyboard
+Pulsa {0} para crear una nota
+java/lang/String
+keyboard_icon.gif
+usual.cursor.interaction
+Comienza a escribir para crear una nota o haz clic~~para empezar a subrayar
+usual.cursor.interaction.nokeyboard
+Pulsa {0} para una definición completa,~~un subrayado o una nota
+5way_icon.gif
+usual.cursor.interaction.nokeyboard.defonly
+Pulsa {0} para ver la definición completa
+usual.cursor.interaction.nokeyboard.nodef
+Pulsa {0} para un subrayado o una nota
+create.highlight
+Mueve el cursor para crear un subrayado {0}
+blanck_trans.gif
+end.highlight.nokeyboard
+Pulsa {0} para terminar de subrayar
+end.highlight.sharing.nokeyboard
+Pulsa {0} para terminar de subrayar, compartir o crear~~una nota
+end.highlight.sharing.disabled
+Haz clic para terminar de subrayar o pulsa Atrás~~para cancelar
+end.highlight.sharing.enabled
+Haz clic para terminar de subrayar, {0} para~~tweetear/compartir o pulsa Atrás para cancelar
+Home_Icon_AltReturn.gif
+highlight.hover.sharing.disabled
+Comienza a escribir para crear una nota o {0} para eliminar~~el subrayado
+highlight.hover.sharing.disabled.nokeyboard
+Pulsa {0} para crear una nota o eliminar el subrayado
+highlight.hover.sharing.enabled
+Escribe para crear una nota, {0} para eliminar el subrayado,~~{1} para compartir
+Home_Icon_Delete.gif
+highlight.hover.sharing.enabled.nokeyboard
+Pulsa {0} para crear una nota, eliminar el subrayado~~o compartirlo
+highlight.hover.annotation.view.nokeyboard
+Pulsa {0} para acceder a un subrayado, compartirlo~~o eliminarlo
+highlight.hover.annotation.view.nokeyboard.no.sharing
+Pulsa {0} para ir al subrayado o eliminarlo
+bookmark.hover.annotation.view.nokeyboard
+Pulsa {0} para ir al marcador o para eliminarlo.
+highlight.hover.annotation.view.sharing.enabled
+{0} eliminar   {1} compartir
+highlight.hover.annotation.view.sharing.disabled
+{0} eliminar
+link.hover
+Comienza a escribir para crear una nota o haz clic para~~seguir el enlace
+link.hover.nokeyboard
+Pulsa {0} para seguir el enlace
+link.hover.nokeyboard.notes
+Pulsa {0} para seguir el enlace o crear una nota
+link.hover.nokeyboard.notes.delete
+Pulsa {0} para seguir el enlace o eliminar la nota
+link.hover.nokeyboard.def
+Pulsa {0} para ver la definición completa o seguir el enlace
+link.hover.nokeyboard.def.notes
+Pulsa {0} para ver la definición completa, seguir el enlace~~o crear una nota
+link.hover.nokeyboard.def.notes.delete
+Pulsa {0} para ver la definición completa, seguir el enlace o~~eliminar la nota
+link.hover.image
+Pulsa {0} para ampliar la imagen
+subscribed.highlights.hint.widget.nokeyboard
+Pulsa {0} para ir al subrayado
+com/amazon/ebook/booklet/reader/gui/messages/resources/CursorHintsResources_es
+java/util/ListResourceBundle
+(Ljava/lang/String;I)V
+(Ljava/lang/String;[Ljava/lang/String;I)V
+f
+a
+bqe
+com/amazon/ebook/booklet/reader/gui/infobox/y

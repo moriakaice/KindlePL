@@ -1,0 +1,14 @@
+<init>
+Code
+LineNumberTable
+LocalVariableTable
+()Ljava/util/List;
+Ljava/util/List;
+SourceFile
+a
+Lcom/amazon/ebook/booklet/reader/gui/menu/q;
+(Lcom/amazon/ebook/booklet/reader/yb;)V
+Lcom/amazon/ebook/booklet/reader/yb;
+com/amazon/ebook/booklet/reader/gui/menu/q
+bad
+com/amazon/ebook/booklet/reader/gui/menu/p

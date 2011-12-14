@@ -1,0 +1,26 @@
+
+format.caption.show.all.none                   = Brak notatek/zaznaczeń
+format.caption.show.all.plural                 = Wyświetl notatki/zaznaczenia: {0}
+format.caption.show.all.singular               = Wyświetl notatkę/zaznaczenie: {0}
+format.caption.show.bookmark.none              = Brak zakładek
+format.caption.show.bookmark.plural            = Wyświetl zakładki: {0}
+format.caption.show.bookmark.singular          = Wyświetl zakładkę: {0}
+format.caption.show.highlight.none             = Brak zaznaczeń
+format.caption.show.highlight.plural           = Wyświetl zaznaczenia: {0}
+format.caption.show.highlight.singular         = Wyświetl zaznaczenie: {0}
+format.caption.show.note.none                  = Brak notatek
+format.caption.show.note.plural                = Wyświetl notatki: {0}
+format.caption.show.note.singular              = Wyświetl notatkę: {0}
+format.caption.show.popular.highlight.none     = Brak popularnych fragmentów
+format.caption.show.popular.highlight.plural   = Wyświetl popularne fragmenty: {0}
+format.caption.show.popular.highlight.singular = Wyświetl popularny fragment: {0}
+
+label.show.all             = Wszystkie notatki i zaznaczenia
+label.show.bookmarks       = Zakładki
+label.show.highlights      = Zaznaczenia
+label.show.notes           = Notatki
+label.sort.by.location     = wg lokacji
+label.sort.by.most.popular = wg popularności
+label.sort.option.location = Lokacje
+label.sort.option.popular  = Popularność
+label.speak.header         = {0,choice,0#Wyświetl|1#Sortuj wg} {1}

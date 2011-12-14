@@ -1,0 +1,95 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/CatalogResources_de;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+apps.citem.text.1
+Applications
+apps.citem.text.2
+
+apps.filter.format
+0#Showing {0,number,integer} Applications|1#Showing {0,number,integer} Application|2#Showing {0,number,integer} Applications
+archiveditems.citem.text.1
+Archiv
+archiveditems.citem.text.2
+collectionsitem.citem.text.1
+Sammlungen
+collectionsitem.citem.text.2
+backissues.citem.text.1
+Zeitschriften: Ältere Ausgaben
+backissues.citem.text.2
+backissues.filter.format
+0#{0,number,integer} ältere Ausgaben|1#{0,number,integer} ältere Ausgabe|2#{0,number,integer} ältere Ausgaben
+backissues.citem.date.string.none
+(keine)
+backissues.citem.date.long.pattern
+{0,date,medium} - {1,date,medium}
+backissues.citem.date.medium.pattern
+backissues.citem.date.short.pattern
+backissues.citem.date.long.message.format
+java/text/MessageFormat
+{0,date,d.M.yy} - {1,date,d.M.yy}
+backissues.citem.date.medium.message.format
+{0,date,d.M.} - {1,date,d.M.yy}
+blogs.citem.text.1
+Blogs
+blogs.citem.text.2
+blogs.filter.format
+0#Showing {0,number,integer} Blogs|1#Showing {0,number,integer} Blog|2#Showing {0,number,integer} Blogs
+books.citem.text.1
+Books
+books.citem.text.2
+books.filter.format
+0#Showing {0,number,integer} Books|1#Showing {0,number,integer} Book|2#Showing {0,number,integer} Books
+collections.hiw.font
+collections.citem.text.2
+collections.action.set.default.dictionary.path
+/opt/amazon/dict
+currentissues.citem.text.1
+Periodicals: Current Issues
+currentissues.citem.text.2
+currentissues.filter.format
+0#Showing {0,number,integer} Current Issues|1#Showing {0,number,integer} Current Issue|2#Showing {0,number,integer} Current Issues
+pdocs.citem.text.1
+Personal Docs
+pdocs.citem.text.2
+pdocs.filter.format
+0#Showing {0,number,integer} Personal Docs|1#Showing {0,number,integer} Personal Doc|2#Showing {0,number,integer} Personal Docs
+unassigneditems.citem.text.1
+Unassigned Items
+unassigneditems.citem.text.2
+backissues.monthdayyear.template
+backissues.default.timezone
+UTC
+group.catalog.item.file.path
+group.catalog.item.generation.number
+java/lang/Integer
+group.catalog.item.version.number
+archiveditems.device.unregistered.title
+Keine Inhalte im Archiv
+archiveditems.device.unregistered.message
+Sie müssen Ihren Kindle anmelden, um Ihr Archiv anzuzeigen und Inhalte herunterzuladen.
+archiveditems.device.unregistered.close
+Abbrechen
+archiveditems.device.unregistered.register
+Anmelden
+com/amazon/ebook/booklet/home/foundation/resources/CatalogResources_de
+java/util/ListResourceBundle
+(Ljava/lang/String;)V
+getInstance
+(IZZ)Ljava/awt/Font;
+(I)V
+f
+a
+ssc
+Kwb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/font/h

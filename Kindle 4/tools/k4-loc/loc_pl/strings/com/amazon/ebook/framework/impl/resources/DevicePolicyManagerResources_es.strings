@@ -1,0 +1,70 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/impl/resources/DevicePolicyManagerResources_es;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+device.policy.will.reboot.message
+Este Kindle ha recibido instrucciones de reiniciarse. El proceso comenzará en breve. Espera a que el dispositivo termine de reiniciarse y no lo apagues durante ese proceso.
+device.policy.default.devicetype
+un dispositivo gestionado
+device.policy.default.feature
+Esta función
+device.policy.default.contact
+ponte en contacto con el administrador del sistema
+device.policy.password.required.template
+java/text/MessageFormat
+Este Kindle está {0} y requiere el uso de una contraseña. Para más información, {1}.
+device.policy.disabled.template
+Este Kindle está {0}. {1} ha sido bloqueado. Para más información, {2}.
+device.policy.factory.reset.template
+Este Kindle está {0}. Se han recibido instrucciones de restablecer los valores predeterminados de fábrica, lo que eliminará todo el contenido descargado y transferido. El proceso comenzará en breve. No apagues ni uses el Kindle hasta que se complete el proceso. Para más información, {1}.
+device.policy.default.password.hint
+Contraseña predeterminada activada
+device.policy.disabled.name.registration
+Registro
+device.policy.disabled.name.deregistration
+Cancelación del registro
+device.policy.disabled.name.editdevicename
+Nombre del dispositivo
+device.policy.disabled.name.wifisettings
+Configuración Wi-Fi
+device.policy.disabled.name.managesocialnetworks
+Configuración de redes sociales
+device.policy.disabled.name.togglepopularhighlights
+Configuración de subrayados populares
+device.policy.disabled.name.togglepublicnotes
+Configuración de notas públicas
+device.policy.disabled.name.toggleannotationsbackup
+Configuración de copia de seguridad de anotaciones
+device.policy.disabled.name.editpersonalinfo
+Información personal
+device.policy.disabled.name.changelanguage
+Configuración de idioma del dispositivo
+device.policy.disabled.name.changeprimarydictionary
+Configuración del diccionario
+device.policy.disabled.name.turnonpassword
+Configuración de la contraseña
+device.policy.disabled.name.browser
+El navegador web
+device.policy.disabled.name.kindlestore
+La Tienda Kindle
+device.policy.disabled.name.activecontent
+Active Content
+device.policy.disabled.name.mp3
+El reproductor MP3
+device.policy.disabled.name.games
+Este juego
+com/amazon/ebook/framework/impl/resources/DevicePolicyManagerResources_es
+java/util/ListResourceBundle
+(Ljava/lang/String;)V
+f
+a
+led

@@ -1,0 +1,18 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/view/pageheader/resources/PageHeaderUIResources;
+getContents
+()[[Ljava/lang/Object;
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+masthead.time.out
+Unable to load image
+com/amazon/ebook/booklet/reader/gui/view/pageheader/resources/PageHeaderUIResources
+java/util/ListResourceBundle
+a
+yvc

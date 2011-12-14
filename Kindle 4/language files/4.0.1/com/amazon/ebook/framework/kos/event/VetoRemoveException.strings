@@ -1,0 +1,11 @@
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/framework/kos/event/VetoRemoveException;
+SourceFile
+com/amazon/ebook/framework/kos/event/VetoRemoveException
+java/lang/Exception
+a
+tpc

@@ -1,0 +1,37 @@
+<init>
+(Ljava/lang/String;Ljava/lang/Object;)V
+Code
+LineNumberTable
+LocalVariableTable
+Ljava/lang/String;
+Ljava/lang/Object;
+(ZLjava/lang/Object;)V
+Z
+toString
+()Ljava/lang/String;
+SourceFile
+Deprecated
+java/lang/StringBuffer
+[BookletStateMessageNotification = "
+"
+ erase = 
+ image = 
+ imageName = 
+ sender = 
+]
+()V
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(Z)Ljava/lang/StringBuffer;
+Ljava/awt/Image;
+(Ljava/lang/Object;)Ljava/lang/StringBuffer;
+a
+Lcom/amazon/ebook/framework/gui/foundation/nd;
+com/amazon/ebook/framework/gui/foundation/nd
+ipd
+K
+L
+l
+f
+I
+com/amazon/ebook/framework/gui/foundation/pc

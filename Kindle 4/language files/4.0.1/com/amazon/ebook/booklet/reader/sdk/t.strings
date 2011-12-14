@@ -1,0 +1,19 @@
+Ljava/lang/String;
+<init>
+(Ljava/lang/String;)V
+Code
+LineNumberTable
+LocalVariableTable
+<clinit>
+()V
+SourceFile
+table of contents
+start reading
+java/lang/Object
+f
+Lcom/amazon/ebook/booklet/reader/sdk/t;
+K
+l
+a
+com/amazon/ebook/booklet/reader/sdk/t
+gs

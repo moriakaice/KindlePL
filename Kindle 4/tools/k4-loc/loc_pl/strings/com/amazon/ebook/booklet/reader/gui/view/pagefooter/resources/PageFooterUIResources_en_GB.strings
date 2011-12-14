@@ -1,0 +1,95 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/gui/view/pagefooter/resources/PageFooterUIResources_en_GB;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+secondary.indicator.size
+java/lang/Integer
+reading.indicator.side
+reading.indicator.height
+button.article.label
+Close Articles List
+text.article.spacer
+section.list.button.label
+View Sections & Articles
+article.list.button.label
+View Articles List
+page.section.info.font
+button.section.label
+Close Sections & Articles
+close.search.result.label
+Close Search Results
+article.prev.label
+prev article
+article.next.label
+next article
+footer.label.font
+SansSerif-aa
+footer.label.font.size
+footer.label.centre.font
+prev.next.marker.font
+next.article.marker.text
+next article: 
+next.article.marker.font
+next.article.font
+next.prev.article.label.font
+footer.label.cursor.clearance
+color.foreground
+color.background
+color.progressbar
+next.article.marker.message
+java/text/MessageFormat
+next article: {0}
+rectangle.bounding.protrusion.length
+footer.ui.margin
+footer.y.offset
+progreebar.height
+label.y.offset
+right.arrow.x.offset
+nav.string.x.offset
+nav.string.y.offset
+arrow.y.offset
+button.x.offset
+button.y.offset
+bounding.rect.height
+bounding.rect.arc.width
+bounding.rect.arc.height
+tick.width
+tick.height
+progressmeter.side.margin
+footer.font
+percent.font
+location.font
+annotations.font
+article.height.adjust
+com/amazon/ebook/booklet/reader/gui/view/pagefooter/resources/PageFooterUIResources_en_GB
+java/util/ListResourceBundle
+(I)V
+getInstance
+(IZ)Ljava/awt/Font;
+(I)Ljava/awt/Font;
+java/awt/Font
+getSize
+()I
+(IZZ)Ljava/awt/Font;
+Ljava/awt/Color;
+(Ljava/lang/String;)V
+f
+a
+nne
+l
+K
+Kwb
+Evb
+dwb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/gui/c
+com/amazon/ebook/framework/font/h

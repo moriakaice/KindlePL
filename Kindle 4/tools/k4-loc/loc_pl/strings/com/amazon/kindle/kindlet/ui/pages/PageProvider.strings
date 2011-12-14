@@ -1,0 +1,12 @@
+setPageSize
+(Ljava/awt/Dimension;)V
+getPage
+(Lcom/amazon/kindle/kindlet/ui/pages/LocationIterator;)Ljava/awt/Component;
+getPageStartLocation
+()I
+getPageEndLocation
+SourceFile
+com/amazon/kindle/kindlet/ui/pages/PageProvider
+java/lang/Object
+xf
+LocalVariableTable

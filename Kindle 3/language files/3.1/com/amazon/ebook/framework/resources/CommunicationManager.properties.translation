@@ -1,0 +1,6 @@
+
+comm.message.connecting       = Trwa łączenie
+comm.message.items.deleted    = Elementy usunięte
+comm.message.items.downloaded = Elementy pobrane
+comm.message.no.new.items     = Brak nowych danych
+comm.message.radio.turned.off = Sieć wyłączona

@@ -1,0 +1,32 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/util/resources/SimpleTextListFormatResources_en;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+list.parse.word.delimiters
+java/lang/String
+,
+or
+and
+list.format.type_and.patterns
+
+{1}
+{1} and {2}
+{1}, 
+list.format.type_and.limits
+list.format.type_or.patterns
+{1} or {2}
+list.format.type_or.limits
+com/amazon/ebook/util/resources/SimpleTextListFormatResources_en
+java/util/ListResourceBundle
+f
+a
+idc

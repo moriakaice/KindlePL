@@ -1,0 +1,9 @@
+Press N to start a new game, S to swap positions,	Wciśnij: N - Nowa gra, S - zmiana pozycji
+M to go back to the Mine Sweeper.	M - powrót do Sapera
+The winner is the first player to get an unbroken	Wygrywa ten, kto pierwszy uzyska nieprzerwaną
+row of five crosses or zeros horizontally, vertically,	linię z pięciu krzyżyków lub zer poziomo
+or diagonally.	lub pionowo.
+YOU WON!	Wygrałeś!
+YOU LOST!	Przegrałeś!
+Score: You (	Wynik: Ty (
+, Kindle (	, Кindle (

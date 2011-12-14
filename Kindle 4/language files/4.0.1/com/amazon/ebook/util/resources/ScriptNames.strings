@@ -1,0 +1,108 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/util/resources/ScriptNames;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+Arabic
+Armenian
+Balinese
+Bengali
+Bopomofo
+Braille
+Buginese
+Buhid
+Canadian_Aboriginal
+Canadian Aboriginal
+Carian
+Cham
+Cherokee
+Common
+Common Symbols
+Coptic
+Cuneiform
+Cypriot
+Cyrillic
+Deseret
+Devanagari
+Ethiopic
+Georgian
+Glagolitic
+Gothic
+Greek
+Gujarati
+Gurmukhi
+Han
+Hangul
+Hanunoo
+Hebrew
+Hiragana
+Inherited
+Combining Accents
+Kannada
+Katakana
+Kayah_Li
+Kayah Li
+Kharoshthi
+Khmer
+Lao
+Latin
+Lepcha
+Limbu
+Linear_B
+Linear B
+Lycian
+Lydian
+Malayalam
+Mongolian
+Myanmar
+New_Tai_Lue
+New Tai Lue
+Nko
+N'ko
+Ogham
+Ol_Chiki
+Ol Chiki
+Old_Italic
+Old Italic
+Old_Persian
+Old Persian
+Oriya
+Osmanya
+Phags_Pa
+Phags Pa
+Phoenician
+Rejang
+Runic
+Saurashtra
+Shavian
+Sinhala
+Sundanese
+Syloti_Nagri
+Syloti Nagri
+Syriac
+Tagalog
+Tagbanwa
+Tai_Le
+Tai Le
+Tamil
+Telugu
+Thaana
+Thai
+Tibetan
+Tifinagh
+Ugaritic
+Vai
+Yi
+com/amazon/ebook/util/resources/ScriptNames
+java/util/ListResourceBundle
+f
+a
+szb

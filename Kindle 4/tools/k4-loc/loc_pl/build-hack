@@ -1,0 +1,46 @@
+#!/bin/bash
+
+HACKNAME=loc_pl
+LANG=pl
+VERSION=4.0.1r1
+
+cp ../../K3Translator.jar ./
+
+echo Pack img images
+tar cvzf img.tar.gz img/
+
+echo Pack low_level_screens images
+tar cvzf low_level_screens.tar.gz low_level_screens/
+
+echo Compile translation.jar
+java -cp K3Translator.jar:bcel-5.2.jar Translator mt ./strings translation.jar
+
+echo Create update files
+
+PKGNAME="${HACKNAME}"
+PKGVER="${VERSION}"
+
+KINDLE_MODELS="k4w"
+for model in ${KINDLE_MODELS} ; do
+	# Prepare our files for this specific kindle model...
+	ARCH=${PKGNAME}_${PKGVER}_${model}
+
+	# Build install update
+	../bin/kindle_update_tool.py m --sign --${model} ${ARCH}_install install.sh bcel-5.2.jar K3Translator.jar translation.jar pl.properties low_level_screens.tar.gz img.tar.gz
+
+	# Build uninstall update
+	#../bin/kindle_update_tool.py m --sign --${model} ${ARCH}_uninstall uninstall.sh
+done
+
+
+
+echo Create update archive
+zip update_${HACKNAME}_${PKGVER}.zip *.bin
+
+echo Clean up
+rm *.bin
+rm translation.jar
+rm low_level_screens.tar.gz 
+rm img.tar.gz
+
+exit 0

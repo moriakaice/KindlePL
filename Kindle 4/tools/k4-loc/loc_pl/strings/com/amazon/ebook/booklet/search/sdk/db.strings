@@ -1,0 +1,17 @@
+Ljava/lang/String;
+<init>
+(ILjava/lang/String;Ljava/lang/String;)V
+Code
+LineNumberTable
+LocalVariableTable
+I
+getPublisher
+()Ljava/lang/String;
+SourceFile
+(ILjava/lang/String;)V
+f
+a
+Lcom/amazon/ebook/booklet/search/sdk/db;
+com/amazon/ebook/booklet/search/sdk/db
+lhd
+com/amazon/ebook/booklet/search/sdk/pb

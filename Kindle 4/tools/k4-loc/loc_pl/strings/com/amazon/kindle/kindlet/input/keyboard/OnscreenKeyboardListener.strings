@@ -1,0 +1,10 @@
+keyboardShown
+(Lcom/amazon/kindle/kindlet/input/keyboard/OnscreenKeyboardEvent;)V
+keyboardHidden
+keyboardMoved
+keyboardResized
+SourceFile
+com/amazon/kindle/kindlet/input/keyboard/OnscreenKeyboardListener
+java/lang/Object
+je
+LocalVariableTable

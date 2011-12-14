@@ -1,0 +1,57 @@
+Ljava/lang/String;
+I
+Synthetic
+<init>
+Code
+LineNumberTable
+LocalVariableTable
+HistoryItem
+InnerClasses
+toString
+()Ljava/lang/String;
+(Ljava/lang/String;)V
+[Ljava/lang/Object;
+Ljava/text/ParseException;
+Ljava/lang/Exception;
+SourceFile
+
+java/lang/StringBuffer
+viewName=
+; overallIndex=
+; pageIndex=
+; metadata=
+java/lang/String
+java/lang/Long
+java/text/ParseException
+ParseException in HistoryController:parseStr:
+java/lang/Exception
+java/lang/Object
+()V
+append
+(Ljava/lang/String;)Ljava/lang/StringBuffer;
+(I)Ljava/lang/StringBuffer;
+length
+()I
+access$000
+()Ljava/text/MessageFormat;
+java/text/MessageFormat
+parse
+(Ljava/lang/String;)[Ljava/lang/Object;
+intValue
+access$100
+getMessage
+f
+Lcom/amazon/ebook/booklet/home/foundation/controller/x;
+K
+l
+L
+xlC
+a
+Lcom/amazon/ebook/booklet/home/foundation/controller/e;
+(Lcom/amazon/ebook/booklet/home/foundation/controller/x;Ljava/lang/String;)V
+com/amazon/ebook/booklet/home/foundation/controller/e
+yhd
+XyA
+()Lcom/amazon/ebook/util/log/b;
+com/amazon/ebook/util/log/b
+com/amazon/ebook/booklet/home/foundation/controller/x

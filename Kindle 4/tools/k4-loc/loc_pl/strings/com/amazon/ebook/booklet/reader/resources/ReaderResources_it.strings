@@ -1,0 +1,568 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/reader/resources/ReaderResources_it;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+reader.default.alert
+Impossibile aprire l’elemento selezionato. Se l’elemento è stato acquistato da Amazon, eliminarlo e scaricarlo da Elementi archiviati.
+reader.background.color
+font.families
+java/lang/String
+serif
+condensed
+sansserif
+mobireader.default.font.size.list
+topazreader.default.font.zoom.factors
+annotation.disk.space.low.limit
+java/lang/Integer
+gui.header.title.show
+gui.header.title.x
+gui.header.title.maxWidth
+gui.header.authors.show
+gui.header.authors.maxWidth
+gui.header.x
+gui.header.height
+gui.header.baseline
+gui.header.selection.label
+Selezionare l’intervallo di testo da evidenziare. Al termine, premere la rotellina di selezione.
+gui.header.table_scrolling_label
+Utilizzare Pagina successiva e Pagina precedente per scorrere la tabella
+gui.gutter.width
+gui.gutter.gap
+gui.prompt.height
+gui.footer.x
+gui.footer.y
+gui.footer.height
+gui.footer.page_number.show
+gui.footer.relative_position.show
+gui.footer.rightMargin
+gui.lookup.x
+gui.lookup.height
+gui.lookup.tabular.view.height
+gui.icon.bookmark.x
+gui.icon.bookmark.y
+gui.icon.bookmark.width
+gui.icon.bookmark.height
+gui.icon.zoom.limit
+gui.menu.context.toc
+Sommario
+gui.menu.context.first_page
+Vai alla prima pagina
+gui.menu.context.go_to_user_location
+Vai alla posizione...
+gui.menu.context.go_to_page
+Vai a pagina...
+gui.menu.context.product_details_page
+Descrizione libro
+gui.menu.context.search_this
+Cerca in questo libro
+gui.menu.context.search_this_document
+Cerca in questo documento
+gui.menu.context.search_this_issue
+Cerca in questa edizione
+gui.menu.context.search_this_blog
+Cerca in questo blog
+gui.menu.context.search_this_sample
+Cerca in questo campione
+gui.menu.context.clip_this_article
+Ritaglia questo articolo
+gui.menu.context.keep_this_issue
+Salva quest’edizione
+gui.menu.context.go_to_my_annotations
+Le mie note e segnalibri
+gui.menu.context.go_to_my_bookmarks
+I miei segnalibri
+gui.menu.context.place_cursor
+Aggiungi nota o evidenziazione
+gui.menu.context.place_cursor_in_page
+Posiziona cursore nella pagina
+gui.menu.context.add_bookmark
+Aggiungi segnalibro
+gui.menu.context.remove_bookmark
+Elimina segnalibro
+gui.menu.context.my_annotations
+gui.menu.context.show_annotations
+Mostra annotazioni
+gui.menu.context.hide_annotations
+Nascondi annotazioni
+gui.menu.context.save_page_as_clipping
+Salva pagina come ritaglio
+gui.menu.context.go_home
+Home page
+gui.menu.context.go_to_section
+Vai all’elenco sezioni
+gui.menu.context.go_to_cover
+Copertina
+gui.menu.context.go_to_start
+Vai all’inizio
+gui.menu.context.go_to_front_page
+Vai alla pagina iniziale
+gui.menu.context.go_to_articles_list
+Vai all’elenco articoli
+gui.menu.context.go_to_first_article
+Vai al primo articolo
+gui.menu.context.go_to_bookmark
+Vai al segnalibro...
+gui.menu.context.buy_now
+Acquista ora questo libro
+gui.menu.context.see_details
+Visualizza dettagli
+gui.menu.context.search_index_view
+Indice
+gui.menu.context.close_index_view
+Chiudi indice
+gui.menu.context.mark_as_favorite
+Salva questo elemento
+gui.menu.context.unmark_as_favorite
+Non salvare questo numero
+gui.menu.context.show_info
+Mostra informazioni
+gui.menu.context.delete_book
+Elimina questo elemento
+gui.menu.context.clip_article
+Ritaglia articolo
+gui.menu.context.document_orientation
+Verticale/Orizzontale
+gui.menu.context.document_reflow
+Ridimensiona testo/Nessun ridimensionamento
+gui.menu.bookmark.delete_bookmark
+gui.menu.bookmark.delete_note
+Elimina nota
+gui.menu.bookmark.add_description
+Aggiungi nota
+gui.menu.bookmark.edit_description
+Modifica nota
+gui.menu.selection.lookup
+Ricerca
+gui.menu.selection.add_highlight
+Aggiungi evidenziazione...
+gui.menu.selection.add_note
+gui.menu.selection.edit_note
+gui.menu.selection.delete_highlight
+Elimina evidenziazione
+gui.menu.selection.delete_note
+gui.menu.selection.save_clipping
+Salva ritaglio
+gui.overlay.my_bookmarks.title
+Vai al segnalibro
+gui.overlay.my_bookmarks.font.family
+SansSerif
+gui.overlay.my_bookmarks.font.size
+gui.overlay.my_bookmarks.x
+gui.overlay.my_bookmarks.y
+gui.overlay.my_bookmarks.width
+gui.overlay.my_bookmarks.height
+gui.overlay.lookup.x
+gui.overlay.lookup.y
+gui.overlay.lookup.width
+gui.overlay.lookup.height
+gui.overlay.lookup.defintion.height
+gui.overlay.lookup.scroll.x
+gui.overlay.lookup.scroll.width
+gui.overlay.my_bookmarks.table.x
+gui.overlay.my_bookmarks.table.y
+gui.overlay.my_bookmarks.table.width
+gui.overlay.my_bookmarks.table.height
+gui.overlay.my_bookmarks.col.0.width
+gui.overlay.my_bookmarks.col.0.rightMargin
+gui.overlay.my_bookmarks.col.1.width
+gui.overlay.my_bookmarks.col.2.width
+gui.overlay.my_bookmarks.page_number.font.size
+gui.overlay.my_annotations.title
+gui.overlay.my_annotations.vertical_gap
+gui.overlay.my_annotations.horizontal_gap
+gui.overlay.edit_description.x
+gui.overlay.edit_description.y
+gui.overlay.edit_description.width
+gui.overlay.edit_description.height
+gui.overlay.edit_description.entry.height
+gui.overlay.edit_description.done.label
+Fine
+gui.overlay.sections.title
+Elenco sezioni
+gui.overlay.sections.table.x
+gui.overlay.sections.table.y
+gui.overlay.sections.table.width
+gui.overlay.sections.table.height
+gui.overlay.sections.x
+gui.overlay.sections.y
+gui.overlay.sections.width
+gui.overlay.sections.height
+gui.overlay.book_info.x
+gui.overlay.book_info.y
+gui.overlay.book_info.width
+gui.overlay.book_info.height
+gui.overlay.book_info.title
+Informazioni sul libro
+gui.overlay.book_info.table.x
+gui.overlay.book_info.table.y
+gui.overlay.book_info.table.width
+gui.overlay.book_info.table.height
+gui.overlay.book_info.col.0.width
+gui.overlay.book_info.col.0.rightMargin
+gui.overlay.book_info.col.1.width
+gui.wrap.speed_bump
+gui.overlay.password.title
+Questo elemento è protetto da password.
+gui.overlay.password.example
+Immettere la password:
+gui.button.label.ok
+ok
+gui.button.label.go_home
+vai alla Homepage
+gui.alert.generic.title
+
+gui.alert.generic.x
+gui.alert.generic.y
+gui.alert.generic.width
+gui.alert.generic.height
+gui.alert.clipping.limit.warning
+Impossibile salvare il ritaglio. È stato raggiunto il limite di ritaglio per questo elemento.
+gui.alert.clipping.publisher_limit.warning
+java/text/MessageFormat
+Impossibile salvare il ritaglio. È stato raggiunto il limite di ritaglio impostato dall’editore{0,choice,0#|1#, {1}}.
+gui.alert.invalid_pid
+Impossibile aprire questo elemento perché è concesso in licenza a un altro utente. Eliminare l’elemento e scaricarlo da Elementi archiviati oppure acquistare una copia nel Negozio Kindle.
+gui.alert.invalid_password
+Password non valida per questo documento.
+gui.alert.annotation.out_of_space
+Memoria del Kindle insufficiente per aggiungere, modificare o condividere note o segnalibri in questo documento. Liberare spazio nella memoria del Kindle rimuovendo contenuto dalla Homepage.
+gui.alert.unexpected
+Impossibile aprire l’elemento selezionato. Se l’elemento è stato acquistato da Amazon, eliminarlo e scaricarlo nuovamente dagli Elementi archiviati disponibili nella Home page.
+gui.alert.unhandled_security
+gui.alert.book_is_gone
+L’elemento letto è stato rimosso e non è più disponibile in Kindle.
+gui.alert.font_size_change_unsupported_in_Section_List_View
+Impossibile modificare le dimensioni del testo nell’elenco delle sezioni.
+gui.overlay.password_prompt.msg
+Inserisci la password per questo documento.
+gui.alert.low_disk_space_for_annotation
+gui.alert.low_disk_space_for_annotation.sd
+Non sarà possibile aggiungere/condividere note o segnalibri per questo elemento perché non si dispone di spazio sufficiente nella scheda di memoria SD. Liberare spazio nella scheda di memoria SD rimuovendo alcuni elementi.
+gui.alert.low_disk_space_for_annotation.internal
+Memoria del Kindle insufficiente per aggiungere, modificare o condividere note o segnalibri in questo documento. Liberare spazio nella memoria del Kindle rimuovendo contenuto dalla Home page.
+gui.alert.invalid_book
+Impossibile aprire l’elemento selezionato. Se l’elemento è stato acquistato da Amazon, eliminarlo e scaricarlo nuovamente dagli Elementi archiviati disponibili nella Homepage.
+gui.alert.password_unsupported
+Impossibile aprire l’elemento selezionato perché è protetto da password.
+gui.alert.not_enough_memory
+Impossibile aprire l’elemento selezionato. Il titolo è troppo grande per la memoria disponibile. Per risolvere il problema, contattare il servizio di assistenza clienti Kindle all’indirizzo www.kindle.com/support.
+gui.alert.cannot_open_book
+Impossibile aprire l’elemento selezionato. Se l’elemento è stato acquistato da Amazon, è possibile tentare di eseguire nuovamente il download dagli elementi archiviati nella Homepage. Per ricevere ulteriore assistenza, contattare il servizio di assistenza clienti Kindle all’indirizzo www.kindle.com/support.
+gui.alert.book_not_indexed
+Impossibile completare la ricerca perché questo elemento non è stato ancora indicizzato. Riprovare più tardi.
+gui.alert.not_enough_space_for_search
+Memoria di Kindle insufficiente per completare la ricerca. Liberare spazio nella memoria rimuovendo contenuto dalla Homepage.
+gui.alert.no_more_matches_found
+Nessun’altra corrispondenza trovata per "{0}".
+gui.alert.no_match_found
+Nessuna corrispondenza trovata per "{0}".
+gui.alert.enter_valid_search
+Immettere una parole da cercare.
+gui.alert.enable_journaling
+Per eseguire la sincronizzazione con l’ultima pagina letta, Backup annotazioni deve essere attivato. Selezionare Impostazioni dal menu nella Home page e attivare Backup annotazioni, quindi riprovare.
+gui.alert.enable_journaling.spoken
+gui.inst.progress_bar
+Premere i tasti Pagina precedente/Pagina successiva per spostarsi da un segnalibro all’altro.
+gui.shortcut.allow.jump_location
+java/lang/Boolean
+gui.tocview.toc
+gui.tocview.sections
+Sezioni
+gui.tocview.articles
+java/text/ChoiceFormat
+1#{0,number,integer} Articolo|2#{0,number,integer} Articoli
+clipping.line_separtor
+----------------------------------------------------
+clipping.file
+I miei ritagli.txt
+clipping.sidecar.extension.dnt
+.mbp
+gui.pdf.spinner.delay
+java/lang/Long
+gui.pdf.spinner.period
+platform.screen.dpi
+topaz.stylesheet
+reflow.tss
+topaz.allow.manual.zoom
+topaz.max_mem_allowed
+booklet.saved_setting
+saved_settings
+booklet.font_size
+booklet.font_family
+booklet.line_spacing
+booklet.leftMargin
+booklet.rightMargin
+booklet.yMargin
+home.progress_meter.max_length
+link.prefix.xyml.buy
+https://www.amazon.com/gp/g7g/fws/anchor/buyEbook.xml
+link.prefix.xyml.detail
+https://www.amazon.com/gp/g7g/fws/anchor/detailPageEbook.xml
+link.prefix.xyml.book.asin.symbol
+asin=
+link.prefix.xyml.book.asin.dummy
+XXXXXX
+quick_lookup.disable
+quick_lookup.antialias.disable
+quick_lookup.activation_delay
+quick_lookup.always_clean_up_previous_def
+prompt.selection.begin
+Spostare il cursore su una posizione, quindi~~iniziare a digitare per creare una nota oppure~~cliccare per iniziare a evidenziare
+prompt.selection.begin.nokeyboard
+Premere {0} per la definizione completa, l’evidenziazione~~o la nota
+5way_icon.gif
+prompt.selection.begin.nokeyboard.nodef
+Premere {0} per la nota o l’evidenziazione
+prompt.selection.during
+Premere {0} per salvare l’evidenziazione
+booklet.sdk.0
+com.amazon.ebook.booklet.mobireader.impl.reader.ob
+booklet.sdk.1
+com.amazon.ebook.booklet.topazreader.impl.x
+booklet.sdk.2
+com.amazon.ebook.booklet.pdfreader.impl.fb
+booklet.sdk.3
+com.amazon.ebook.booklet.htmlreader.impl.j
+booklet.sdk.4
+pdf.auto.crop.max.wait.time
+gui.image.loading.x
+gui.image.loading.y
+gui.image.loading
+Zoom in corso...
+gui.image.font
+preview.download.title
+Download in corso
+preview.download.str1
+Download del libro in corso...
+preview.download.str2
+Verrà aperto automaticamente al termine del download.
+preview.download.font
+preview.download.side.margin
+preview.download.line.margin
+gui.button.label.go_to_last_page
+vai all’ultima pagina
+gui.alert.beyond.TSC
+Per continuare a leggere, attendere che il download del resto del libro viene completato.
+gui.reader.location.message
+Posizione {0}
+gui.reader.location
+Posizione 
+gui.reader.locations
+Posizioni 
+gui.reader.page
+Pagina 
+gui.reader.pages
+Pagine 
+gui.reader.currentpage
+Pagina corrente {0} di {1}
+gui.reader.opening
+Apertura in corso... 
+gui.reader.pdfsecurityhandler
+Questo PDF è protetto da DRM o crittografia e non può essere letto nel Kindle.
+gui.reader.pdfpasswordprotected
+Questo PDF è protetto da password e non può essere letto nel Kindle.
+gui.reader.pdfunabletopen
+Impossibile aprire questo PDF a causa di funzioni integrate non ancora supportate dal Kindle.
+gui.reader.unsupported_pdf_feature
+gui.reader.pdf.error.elements.missing
+Impossibile visualizzare alcuni elementi in questa pagina.
+gui.menu.context.sync_last_location
+Sinc. con l’ultima pagina letta
+gui.menu.context.sync_last_location.spoken
+Sync to Furthest Page Red
+gui.overlay.sync_position.title
+Sincronizzazione
+gui.overlay.sync_position.title.spoken
+gui.overlay.sync_position.default.body.pattern
+Si è attualmente alla posizione {0}. L’ultima posizione di lettura in tutti i dispositivi è {1}. Passare a tale posizione?
+gui.overlay.sync_position.default.body.pattern.spoken
+You are currently at location {0}, the furthest red location across all your devices is {1}. Go to that location?
+gui.overlay.sync_position.body.pattern.location
+Si è attualmente alla posizione {0}. L’ultima posizione di lettura è {2}, da "{4}" in data {5} {6}. Passare a tale posizione?
+gui.overlay.sync_position.body.pattern.location.spoken
+You are currently at location {0}. The furthest red location is {2}, from "{4}" at {5} {6}. Go to that location?
+gui.overlay.sync_position.body.pattern.page.page
+Si è attualmente a pagina {0}. L’ultima pagina letta è {2}, da "{4}" in data {5} {6}. Passare a tale pagina?
+gui.overlay.sync_position.body.pattern.page.page.spoken
+You are currently on page {0}. The furthest red page is {2}, from "{4}" at {5} {6}. Go to that page?
+gui.overlay.sync_position.body.pattern.percent.percent
+Si è attualmente a una pagina non numerata, {1,number,percent} del libro. L’ultima pagina letta è una pagina non numerata, {3,number,percent} del libro, da "{4}" in data {5} {6}. Passare a tale pagina?
+gui.overlay.sync_position.body.pattern.percent.percent.spoken
+You are currently on an unnumbered page, {1,number,integer} percent into the book. The furthest red page is an unnumbered page, {3,number,integer} percent into the book, from "{4}" at {5} {6}. Go to that page?
+gui.overlay.sync_position.body.pattern.page.page.minor
+Si è attualmente a pagina {0}. L’ultimo punto di lettura è successivo a questa pagina, da "{4}" in data {5} {6}. Passare all’ultimo punto di lettura?
+gui.overlay.sync_position.body.pattern.page.page.minor.spoken
+You are currently on page {0}. You have red further on this page, from "{4}" at {5} {6}. Go to the furthest place red?
+gui.overlay.sync_position.body.pattern.percent.percent.minor
+Si è attualmente a una pagina non numerata, {1,number,percent} del libro. L’ultimo punto di lettura del libro è successivo a questa paagina, da "{4}" in data {5} {6}. Passare all’ultimo punto di lettura?
+gui.overlay.sync_position.body.pattern.percent.percent.minor.spoken
+You are currently on an unnumbered page, {1,number,integer} percent into the book. You have red further into this book, from "{4}" at {5} {6}. Go to the furthest place red?
+gui.overlay.sync_position.body.pattern.percent.page
+Si è attualmente a una pagina non numerata, {1,number,percent} del libro. L’ultima pagina letta è {2}, {3,number,percent} del libro, da "{4}" in data {5} {6}. Passare a tale pagina?
+gui.overlay.sync_position.body.pattern.percent.page.spoken
+You are currently on an unnumbered page, {1,number,integer} percent into the book. The furthest red page is {2}, {3,number,integer} percent into the book, from "{4}" at {5} {6}. Go to that page?
+gui.overlay.sync_position.body.pattern.page.percent
+Si è attualmente a pagina {0}, {1,number,percent} del libro. L’ultima pagina letta è una pagina non numerata, {3,number,percent} del libro, da "{4}" in data {5} {6}. Passare a tale pagina?
+gui.overlay.sync_position.body.pattern.page.percent.spoken
+You are currently on page {0}, {1,number,integer} percent into the book. The furthest red page is an unnumbered page, {3,number,integer} percent into the book, from "{4}" at {5} {6}. Go to that page?
+gui.overlay.sync_position.body.date.choice.limits
+gui.overlay.sync_position.body.date.choice.formats
+il {7}
+ieri
+oggi
+gui.overlay.sync_position.body.time.formatter
+gui.overlay.sync_position.body.date.formatter
+gui.overlay.sync_position.min_location_change
+gui.overlay.sync_last_location.title
+Sincronizzazione...
+gui.overlay.sync_last_location.title.spoken
+Syncing to Furthest Page Red...
+gui.overlay.sync_last_location.message
+Recupero dell’ultima pagina letta...
+gui.overlay.sync_last_location.message.spoken
+Retrieving furthest page red...
+gui.alert.sync_last_location.error
+Impossibile recuperare l’ultima posizione di lettura. Se questa è la prima volta che il libro viene aperto, il dispositivo aggiornerà la posizione alla chiusura del libro o alla disattivazione del dispositivo.
+gui.alert.sync_last_location.error.spoken
+Unable to retrieve the furthest location red. If this is the first time you opened this book, your device will update your location when you close the book or your device goes to sleep.
+gui.alert.sync_last_location.same_location
+Già all’ultima posizione di lettura.
+gui.alert.sync_last_location.same_location.spoken
+Already at furthest red location.
+gui.reader_position
+Pos. {0} 
+gui.reader_pdf_position
+Pagina {0} 
+gui.reader_pdf_position_range
+Pagina {0}-{1}
+gui.reader_clipping_note
+Nota
+gui.reader_clipping_highlight
+Evidenzia
+gui.reader_clipping_bookmark
+Segnalibro
+gui.reader_clipping_clipping
+Ritaglio
+gui.reader_clipping_clipping_reach_limit
+<È stato raggiunto il limite di ritaglio per questo elemento>
+gui.reader_clipping_clipping_password_protected
+<Questo elemento è protetto da password>
+gui.reader_clipping_clipping_copy_protected
+<Questo elemento è protetto da copia>
+gui.reader_clipping_clipping_reach_limit_no_publisher
+<È stato raggiunto il limite di ritaglio impostato dall’editore>
+gui.reader_clipping_clipping_reach_limit_publisher
+<È stato raggiunto il limite di ritaglio impostato dall’editore {0}>
+gui.reader_clipping_labeled_page_range.limits
+gui.reader_clipping_labeled_page_range.choices
+alla pagina non numerata
+a pagina {1}
+alle pagine {1}-{2}
+gui.reader_clipping_pdf_location
+{0}
+gui.reader_clipping_.annotation.seperator
+==========
+gui.reader_clippings.date.format
+gui.reader_clippings.book.highlight.format
+{0} ({1})$$~~- Evidenziazione {2} | Aggiunta il {3}$$~~$$~~{4}$$~~==========$$~~
+gui.reader_clippings.book.highlight.format.no.author
+{0}$$~~- Evidenziazione {1} | Aggiunta il {2}$$~~$$~~{3}$$~~==========$$~~
+gui.reader_clippings.book.note.format
+{0} ({1})$$~~- Nota {2} | Aggiunta il {3}$$~~$$~~{4}$$~~==========$$~~
+gui.reader_clippings.book.note.format.no.author
+{0}$$~~- Nota {1} | Aggiunta il {2}$$~~$$~~{3}$$~~==========$$~~
+gui.reader_clippings.book.bookmark.format
+{0} ({1})$$~~- Segnalibro {2} | Aggiunto il {3}$$~~$$~~{4}$$~~==========$$~~
+gui.reader_clippings.book.bookmark.format.no.author
+{0}$$~~- Segnalibro {1} | Aggiunto il {2}$$~~$$~~{3}$$~~==========$$~~
+gui.reader_clippings.book.clipping.format
+{0} ({1})$$~~- Ritaglio {2} | Aggiunto il {3}$$~~$$~~{4}$$~~==========$$~~
+gui.reader_clippings.book.clipping.format.no.author
+{0}$$~~- Ritaglio {1} | Aggiunto il {2}$$~~$$~~{3}$$~~==========$$~~
+gui.reader_clippings.book.highlight.format.pdf
+{0} ({1})$$~~- Evidenziazione di {2} | Aggiunta il {3}$$~~$$~~{4}$$~~==========$$~~
+gui.reader_clippings.book.highlight.format.pdf.no.author
+{0}$$~~- Evidenziazione di {1} | Aggiunta il {2}$$~~$$~~{3}$$~~==========$$~~
+gui.reader_clippings.book.note.format.pdf
+{0} ({1})$$~~- Nota di {2} | Aggiunta il {3}$$~~$$~~{4}$$~~==========$$~~
+gui.reader_clippings.book.note.format.pdf.no.author
+{0}$$~~- Nota di {1} | Aggiunta il {2}$$~~$$~~{3}$$~~==========$$~~
+gui.reader_clippings.book.bookmark.format.pdf
+{0} ({1})$$~~- Segnalibro il {2} | Aggiunto il {3}$$~~$$~~{4}$$~~==========$$~~
+gui.reader_clippings.book.bookmark.format.pdf.no.author
+{0}$$~~- Segnalibro il {1} | Aggiunto il {2}$$~~$$~~{3}$$~~==========$$~~
+gui.reader_clippings.book.clipping.format.pdf
+{0} ({1})$$~~- Ritaglio il {2} | Aggiunto il {3}$$~~$$~~{4}$$~~==========$$~~
+gui.reader_clippings.book.clipping.format.pdf.no.author
+{0}$$~~- Ritaglio il {1} | Aggiunto il {2}$$~~$$~~{3}$$~~==========$$~~
+gui.reader_clipping_labeled_page
+a pagina {0}
+gui.reader_clipping_unlabeled_page
+on Unnumbered Page
+accessibility.delay1
+newspaper.issue.pattern
+{0} edizione
+book.sample.pattern
+Campione {0}
+mashhead.max.width
+mashhead.height
+reader.book.no.asin
+Non sono presenti metadati ASIN nel libro. La funzione non è disponibile.
+reader.book.no.ota.store
+Negozio OTA attualmente non disponibile. Riprovare più tardi
+annotations.unavailable.alert
+Funzione annotazioni attualmente non disponibile. Riprovare più tardi
+topazreader.background.color
+topazreader.author.first_and_lastname.separator
+, 
+topazreader.authors.separator
+;
+mobireader.author.first_and_lastname.separator
+mobireader.authors.separator
+gui.reader_clipping.page_label_location
+0#{1}|0<{0}' | '{1}
+dictionary.in.archive.description
+Nessun dizionario trovato: per visualizzare le definizioni, scaricare il dizionario per questa lingua. Premere  , cliccare su Elementi archiviati e selezionare un dizionario.
+dictionary.in.archive.description.number.words.bold
+no.dictionary.found.overlay.title
+Nessun dizionario trovato
+no.dictionary.found.overlay.message.pattern
+Nel Kindle non sono presenti dizionari per: {0}. Per scaricare un dizionario, premere  , cliccare su Elementi archiviati e selezionare un dizionario.
+com/amazon/ebook/booklet/reader/resources/ReaderResources_it
+java/util/ListResourceBundle
+Ljava/awt/Color;
+(I)V
+TRUE
+Ljava/lang/Boolean;
+(Ljava/lang/String;)V
+(Z)V
+(J)V
+FALSE
+(Ljava/lang/String;I)V
+(Ljava/lang/String;[Ljava/lang/String;I)V
+getInstance
+(IZ)Ljava/awt/Font;
+java/text/DateFormat
+getTimeInstance
+(I)Ljava/text/DateFormat;
+getDateInstance
+getDateTimeInstance
+(II)Ljava/text/DateFormat;
+f
+a
+ssd
+dwb
+()Lcom/amazon/ebook/framework/font/h;
+C
+com/amazon/ebook/framework/font/h
+com/amazon/ebook/framework/gui/c
+com/amazon/ebook/booklet/reader/gui/infobox/y

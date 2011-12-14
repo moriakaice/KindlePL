@@ -1,0 +1,48 @@
+[[Ljava/lang/Object;
+<init>
+()V
+Code
+LineNumberTable
+LocalVariableTable
+Lcom/amazon/ebook/booklet/home/foundation/resources/SelectDictionaryResources_fr;
+getContents
+()[[Ljava/lang/Object;
+<clinit>
+SourceFile
+[Ljava/lang/Object;
+java/lang/Object
+selectdict.view.sound
+sélectionner un dictionnaire
+selectdict.view.header.text
+Paramètres
+selectdict.view.title.text.pattern
+Dictionnaires {0}
+selectdict.view.title.font
+selectdict.view.draw.color
+selectdict.view.x.offset
+java/lang/Integer
+selectdict.view.desc.font
+selectdict.view.desc.text.pattern
+Sélectionnez un dictionnaire par défaut pour {0}.
+selectdict.view.content.y.offset
+selectdict.view.footer.button.text
+terminer
+selectdict.widget.default.item.text
+Par défaut
+selectdict.widget.title.draw.color
+selectdict.widget.dotted.line.draw.color
+com/amazon/ebook/booklet/home/foundation/resources/SelectDictionaryResources_fr
+java/util/ListResourceBundle
+getInstance
+(IZZ)Ljava/awt/Font;
+Ljava/awt/Color;
+(I)V
+(I)Ljava/awt/Font;
+f
+a
+dhg
+Evb
+Kwb
+()Lcom/amazon/ebook/framework/font/h;
+com/amazon/ebook/framework/gui/c
+com/amazon/ebook/framework/font/h
