@@ -79,4 +79,11 @@ cp -rf low_level_screens /opt/amazon >> /mnt/us/localization/install.log 2>&1
 logmsg "I" "update" "done"
 update_progressbar 100
 
+logmsg "I" "update" "show initial screen"
+tar -xvzf initial.tar.gz >> /mnt/us/localization/install.log 2>&1
+eips -c
+eips -g initial.png
+sleep 10
+eips -c
+
 return 0

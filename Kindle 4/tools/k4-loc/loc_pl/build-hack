@@ -1,16 +1,18 @@
 #!/bin/bash
 
-HACKNAME=loc_pl
+HACKNAME=KindlePL
 LANG=pl
 VERSION=4.0.1r1
-
-cp ../../K3Translator.jar ./
 
 echo Pack img images
 tar cvzf img.tar.gz img/
 
 echo Pack low_level_screens images
 tar cvzf low_level_screens.tar.gz low_level_screens/
+
+echo Pack initial.png
+tar cvzf initial.tar.gz initial.png
+
 
 echo Compile translation.jar
 java -cp K3Translator.jar:bcel-5.2.jar Translator mt ./strings translation.jar
@@ -26,10 +28,10 @@ for model in ${KINDLE_MODELS} ; do
 	ARCH=${PKGNAME}_${PKGVER}_${model}
 
 	# Build install update
-	../bin/kindle_update_tool.py m --sign --${model} ${ARCH}_install install.sh bcel-5.2.jar K3Translator.jar translation.jar pl.properties low_level_screens.tar.gz img.tar.gz
+	../bin/kindle_update_tool.py m --sign --${model} ${ARCH}_install install.sh bcel-5.2.jar K3Translator.jar translation.jar pl.properties low_level_screens.tar.gz img.tar.gz initial.tar.gz
 
 	# Build uninstall update
-	#../bin/kindle_update_tool.py m --sign --${model} ${ARCH}_uninstall uninstall.sh
+	../bin/kindle_update_tool.py m --sign --${model} ${ARCH}_uninstall uninstall.sh
 done
 
 
@@ -42,5 +44,6 @@ rm *.bin
 rm translation.jar
 rm low_level_screens.tar.gz 
 rm img.tar.gz
+rm initial.tar.gz
 
 exit 0
